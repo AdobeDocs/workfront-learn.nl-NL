@@ -1,0 +1,43 @@
+---
+title: Onvolledige uitvoeringen begrijpen
+description: Leer welke onvolledige uitvoeringen zijn en hoe u een fout kunt verwerken die leidt tot een onvolledige uitvoering in [!DNL Adobe Workfront Fusion].
+activity: use
+doc-type: feature video
+team: Technical Marketing
+kt: Jira ticket
+exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
+source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+workflow-type: tm+mt
+source-wordcount: '270'
+ht-degree: 0%
+
+---
+
+# Onvolledige uitvoeringen begrijpen
+
+Onvolledige uitvoeringen kunnen worden opgeslagen in Workfront Fusion, waar ze later kunnen worden gecontroleerd en opgelost. Leer hoe u deze geweldige functie kunt gebruiken.
+
+In deze video leert u:
+
+* Wat onvolledige executies zijn
+* Hoe te om een fout te behandelen die in een onvolledige uitvoering resulteert
+
+>[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12)
+
+## Fouten die leiden tot onvolledige uitvoeringen
+
+Er zijn verschillende categorieën fouten die ertoe leiden dat onvolledige uitvoeringen worden opgeslagen.
+
+Verschillende ontvangen fouttypen zijn afhankelijk van de API&#39;s waarmee u verbinding maakt. De fout kan een validatiefout zijn die het gevolg is van onvolledige of onjuiste gegevens, meestal als gevolg van een ontbrekend item dat wordt verwacht om alle gegevens in een module te kunnen verwerken. Of de fouten kunnen optreden als de eindbestemming niet beschikbaar is vanwege een tijdelijke of langdurige verbindingsfout (bijvoorbeeld tijdens verbinding met e-mail of externe FTP-server).
+
+Als een fout op de eerste module in het scenario voorkomt, houdt de uitvoering onmiddellijk tegen en geen onvolledige uitvoering wordt opgeslagen.
+
+Als een fout op een andere module voorkomt en er geen route van de foutenmanager in bijlage is, dan:
+
+* Als het fouttype ConnectionError, RateLimitError, OutOfSpaceError of ModuleTimeoutError is, wordt een onvolledige uitvoeringsrecord met auto-retry opgeslagen.
+* Als het fouttype DataError, InvalidConfigurationError, InvalidAccessTokenError, UnexpectedError, MaxFileSizeExceededError of MaxResultsExceededError is, wordt een onvolledige uitvoeringsrecord zonder auto-retry opgeslagen.
+* Als het fouttype iets anders is dan hierboven, mislukt de uitvoering.
+
+## Meer informatie? We raden het volgende aan:
+
+[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

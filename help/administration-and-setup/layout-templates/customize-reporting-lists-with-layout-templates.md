@@ -1,0 +1,55 @@
+---
+title: Rapportagelijsten aanpassen via lay-outsjablonen
+description: Leer hoe u lay-outsjablonen gebruikt om filters, weergaven en groepen toe te voegen en te verwijderen uit de rapportlijsten.
+feature: System Setup and Administration
+activity: deploy
+team: Technical Marketing
+role: Admin
+level: Intermediate
+type: Tutorial
+thumbnail: 335079.png
+kt: 8765
+exl-id: 00653fc8-0d12-49de-995a-6068d3fb7a2d
+source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+workflow-type: tm+mt
+source-wordcount: '205'
+ht-degree: 0%
+
+---
+
+# Rapportlijsten aanpassen met lay-outsjablonen
+
+In deze video leert u hoe u:
+
+* Navigeer naar de instellingen van de rapportlijst in een lay-outsjabloon
+* Filters, weergaven en groepen verwijderen
+* Filters, weergaven en groepen toevoegen
+
+>[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12)
+
+## Standaardwaarden lijst instellen
+
+Door standaardfilters, -weergaven en/of -groepen voor gebruikers in te stellen, krijgen deze gebruikers sneller toegang tot essentiële informatie die werk sneller en sneller kan verwerken.
+
+Als systeem of groepsbeheerder, kunt u bepalen wat de gebruikers aanvankelijk zien wanneer het bekijken van een lijst van projecten, taken, kwesties, enz., door een standaardfilter, een mening, en/of groepering door een lay-outmalplaatje te plaatsen.
+
+![Lay-outsjabloon [!UICONTROL Lists] venster](assets/admin-fund-layout-template-default-lists-1-1.JPG)
+
+>[!NOTE]
+>
+>Hoewel een standaardfilter, weergave en/of groepering kan worden ingesteld, blijft het systeem vast en worden alle filters, weergaven en/of groeperingen weergegeven die de gebruiker het laatst heeft gebruikt.
+
+
+Als u een standaardlijst wilt instellen, kunt u:
+
+* Houd de muis boven een reeds vermelde optie en klik op [!UICONTROL Set as default].
+
+![Lay-outsjabloon [!UICONTROL Lists] venster met [!UICONTROL Set as default] visible](assets/admin-fund-layout-template-default-lists-1-2.JPG)
+
+* U kunt ook een aangepast filter, aangepaste weergave of groep toevoegen en het selectievakje naast [!UICONTROL Set default].
+
+![[!UICONTROL Add an existing View] venster](assets/admin-fund-layout-template-default-lists-1-3.JPG)
+
+Als u klaar bent, ziet u de [!UICONTROL Default] tag.
+
+![[!UICONTROL Default] tag naast lijstoptie](assets/admin-fund-layout-template-default-lists-1-4.JPG)

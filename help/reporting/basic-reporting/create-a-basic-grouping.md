@@ -1,0 +1,52 @@
+---
+title: Een basisgroep maken
+description: In deze video leert u wat een groep is, hoe u een groep maakt en hoe u een groep deelt met andere gebruikers in [!DNL  Workfront].
+activity: use
+feature: Reports and Dashboards
+thumbnail: 335147.jpeg
+type: Tutorial
+role: User
+level: Beginner
+team: Technical Marketing
+kt: 8853
+exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
+source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+workflow-type: tm+mt
+source-wordcount: '205'
+ht-degree: 1%
+
+---
+
+# Een basisgroep maken
+
+In deze video leert u:
+
+* Wat een groep in Workfront is
+* Een groep maken
+* En hoe u een groep deelt met andere Workfront-gebruikers
+
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12)
+
+## Activiteit: Een basisgroep maken
+
+Creeer een kwestie groeperen die in een rapport zal worden gebruikt om verzoeken te volgen die door een verzoekrij komen. Deze groepering zal het gemakkelijk maken om gelijkaardige types van kwesties/verzoeken te zien die door hun prioriteit worden gegroepeerd. Noem de groepering &quot;de Rij van het Verzoek, het Onderwerp van de Rij, Prioriteit.&quot;
+
+Groepeer het probleemrapport op basis van:
+
+1. De naam van de verzoekrij (dit zal de projectnaam zijn)
+1. Het rijonderwerp
+1. De prioriteit van het verzoek
+
+## Antwoord
+
+![Een afbeelding van het scherm om een nieuwe groep te maken](assets/grouping-exercise.png)
+
+1. Ga in een uitgiftenlijstrapport naar de **[!UICONTROL Grouping]** en selecteert u **[!UICONTROL New Grouping]**.
+1. Geef uw groepering de naam &quot;Request Queue, Queue Topic, Priority.&quot;
+1. Klik op **[!UICONTROL Add Grouping]**.
+1. In de [!UICONTROL First By] veld. type &quot;projectnaam&quot; en selecteer vervolgens **[!UICONTROL Name]** onder het veld Project.
+1. Klik op **[!UICONTROL Add another Grouping]**.
+1. In de [!UICONTROL And then by] veld, typ &quot;wachtrij&quot; en selecteer **[!UICONTROL Name]** onder de [!UICONTROL Queue Topic] veldbron.
+1. Klik op **[!UICONTROL Add another Grouping]**.
+1. In de [!UICONTROL And then by] veld, typ &quot;prioriteit&quot; en selecteer vervolgens **[!UICONTROL Priority]** onder de [!UICONTROL Issue] veldbron.
+1. Klik op **[!UICONTROL Save Grouping]**

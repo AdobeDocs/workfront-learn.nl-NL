@@ -1,0 +1,40 @@
+---
+title: Ingebouwde projectfilters begrijpen
+description: Leer hoe u ingebouwde projectfilters kunt bekijken om te zien hoe ze zijn gemaakt en uw eigen projectfilter kunt maken in [!DNL  Workfront].
+activity: use
+feature: Reports and Dashboards
+thumbnail: 336817.png
+type: Tutorial
+role: User
+level: Intermediate
+team: Technical Marketing
+kt: 9083
+exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
+source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 0%
+
+---
+
+# Ingebouwde projectfilters begrijpen
+
+In deze video leert u hoe u:
+
+* Ingebouwde projectfilters controleren om te zien hoe ze zijn gebouwd
+* Maak uw eigen projectfilter met wat u hebt geleerd
+
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12)
+
+
+## Activiteit: Een projectfilter maken
+
+U wilt alle actieve projecten zien u bezit, waar &quot;actief&quot;betekent de projectstatus met Planning of Huidige vergelijkt. In het gebied van Projecten, creeer een projectfilter genoemd &quot;Actieve Projecten I Bezit.&quot;
+
+## Antwoord
+
+Het filter moet er als volgt uitzien:
+
+![Een beeld van het scherm om een projectfilter tot stand te brengen](assets/opening-built-in-project-filters-1.png)
+
+U kunt extra filterregels opnemen, zoals het zoeken naar projecten in een bepaald programma of portfolio. Wanneer u dat doet, raadt Workfront u aan het filter aan te hernoemen in iets geschikt beschrijvend, zoals &quot;Actieve Projecten I Bezit in de Portfolio van de Marketing.&quot;
