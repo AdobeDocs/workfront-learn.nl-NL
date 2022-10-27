@@ -3,9 +3,9 @@ user-guide-description: Workfront-zelfstudies
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5caa6c2ae6e6791fdcb621bf13f46164ead1277c
+source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
 workflow-type: tm+mt
-source-wordcount: '2154'
+source-wordcount: '2160'
 ht-degree: 0%
 
 ---
@@ -573,6 +573,7 @@ ht-degree: 0%
       + [Teamleden toevoegen en beheren voor een board](boards/add-and-manage-team-members-for-a-board.md)
       + [Kaarten aan een bord toevoegen](boards/add-cards-to-a-board.md)
       + [Een basisbord zoeken en maken](boards/find-and-create-a-basic-board.md)
+      + [Zoeken in een board](boards/find-and-search-in-a-board.md)
       + [Bordkolommen beheren](boards/manage-board-columns.md)
       + [Kaarten op de kaart beheren](boards/manage-cards-on-a-board.md)
 
