@@ -3,9 +3,9 @@ user-guide-description: Workfront-zelfstudies
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
+source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2166'
 ht-degree: 0%
 
 ---
@@ -92,39 +92,39 @@ ht-degree: 0%
 
 + Werk beheren {#manage-work}
    + Projecten {#projects}
-      + [Basisproject maken](manage-work/projects/understand-basic-project-creation.md)
-      + [Andere manieren begrijpen om projecten te maken](manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [Projecten zoeken](manage-work/projects/find-projects.md)
-      + [Een project delen](manage-work/projects/share-a-project.md)
-      + [Navigeren door de projectpagina](manage-work/projects/navigate-the-project-page.md)
-      + [Aan de slag met het plannen van een project](manage-work/projects/getting-started-plan-a-project.md)
+      + [De projectstatus wijzigen](manage-work/projects/change-the-project-status.md)
       + [De projectdetails invullen](manage-work/projects/fill-in-the-project-details.md)
-      + [Een project live uitvoeren](manage-work/projects/take-a-project-live.md)
+      + [Projecten zoeken](manage-work/projects/find-projects.md)
       + [Beginnen met het beheren van een project](manage-work/projects/getting-started-manage-a-project.md)
+      + [Aan de slag met het plannen van een project](manage-work/projects/getting-started-plan-a-project.md)
+      + [Navigeren door de projectpagina](manage-work/projects/navigate-the-project-page.md)
+      + [Een project delen](manage-work/projects/share-a-project.md)
+      + [Een project live uitvoeren](manage-work/projects/take-a-project-live.md)
       + [De voortgang van het project bijhouden](manage-work/projects/track-overall-project-progress.md)
       + [Voortgang van het werk bijhouden met projectmetriek](manage-work/projects/track-work-progress-with-project-metrics.md)
+      + [Basisproject maken](manage-work/projects/understand-basic-project-creation.md)
+      + [Andere manieren begrijpen om projecten te maken](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [Projectcommunicatie begrijpen](manage-work/projects/understand-project-communication.md)
       + [Begrijp het [!UICONTROL Gantt] weergave](manage-work/projects/understand-the-gantt-view.md)
       + [Projectinformatie weergeven](manage-work/projects/view-project-information.md)
-      + [De projectstatus wijzigen](manage-work/projects/change-the-project-status.md)
    + Taken {#tasks}
+      + [Taken toewijzen vanuit het projectplan](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [Hoe te om taken tot stand te brengen](manage-work/tasks/how-to-create-tasks.md)
       + [Leren om taken uit te voeren](manage-work/tasks/learn-to-sequence-tasks.md)
       + [Begrijpen [!UICONTROL Work Effort]](manage-work/tasks/understand-work-effort.md)
       + [Bovenliggende taken begrijpen](manage-work/tasks/understand-parent-child-tasks.md)
       + [Begrijp geplande uren](manage-work/tasks/understand-planned-hours.md)
       + [Begrijp taakduur](manage-work/tasks/understand-task-durations.md)
-      + [Taken toewijzen vanuit het projectplan](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [Werken met taken](manage-work/tasks/work-with-tasks.md)
    + Problemen/verzoeken {#issues-requests}
+      + [Uitgaven converteren naar andere werkitems](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Een project maken op basis van een aanvraag](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Zoeken naar aanvragen](manage-work/issues-requests/find-requests.md)
       + [Niet-gepland werk verwerken](manage-work/issues-requests/handle-unplanned-work.md)
       + [Een aanvraag indienen](manage-work/issues-requests/make-a-request.md)
-      + [Zoeken naar aanvragen](manage-work/issues-requests/find-requests.md)
       + [Aanvragen beheren](manage-work/issues-requests/manage-incoming-requests.md)
-      + [Een verzoek bijwerken](manage-work/issues-requests/update-a-request.md)
-      + [Een project maken op basis van een aanvraag](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Uitgaven converteren naar andere werkitems](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Digitaal werk bekijken](manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [Een verzoek bijwerken](manage-work/issues-requests/update-a-request.md)
       + [Uitgave-toewijzingen beheren](manage-work/issues-requests/manage-issue-assignments.md)
       + [Verslag over kwesties](manage-work/issues-requests/report-on-issues.md)
    + Portfolio {#portfolios}
@@ -153,22 +153,22 @@ ht-degree: 0%
       + [Datatypen en voortgangsstatus begrijpen](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [Projecttijdlijnen begrijpen](manage-work/project-timelines/understand-project-timelines.md)
    + Een project sluiten {#close-a-project}
+      + [Een project sluiten](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Taken en problemen sluiten](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Goedkeuring voltooien](manage-work/close-a-project/complete-approvals.md)
       + [Opgenomen lessen vastleggen](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Logboek- en controleuren](manage-work/close-a-project/log-and-review-hours.md)
       + [Elementen uploaden](manage-work/close-a-project/upload-assets.md)
-      + [Een project sluiten](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Een projectactiviteit sluiten](manage-work/close-a-project/close-a-project-activity.md)
    + Projectfinanciën {#project-finances}
-      + [Prestatiewaarden begrijpen](manage-work/project-finances/understand-performance-metrics.md)
-      + [Taakontvangsten en standaardinstellingen voor kosten instellen](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [Zoeken naar financiële informatie](manage-work/project-finances/find-financial-information.md)
       + [Wisselkoersen instellen](manage-work/project-finances/set-up-exchange-rates.md)
       + [uitgaventypen instellen](manage-work/project-finances/set-up-expense-types.md)
+      + [Taakontvangsten en standaardinstellingen voor kosten instellen](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Begrijp financiële toegang](manage-work/project-finances/understand-financial-access.md)
-      + [Financiën bijwerken en herzien](manage-work/project-finances/update-and-review-finances.md)
-      + [Zoeken naar financiële informatie](manage-work/project-finances/find-financial-information.md)
       + [Meerdere factureringssnelheden begrijpen](manage-work/project-finances/multiple-billing-rates.md)
+      + [Prestatiewaarden begrijpen](manage-work/project-finances/understand-performance-metrics.md)
+      + [Financiën bijwerken en herzien](manage-work/project-finances/update-and-review-finances.md)
 
 
 
@@ -210,6 +210,8 @@ ht-degree: 0%
       + [Ingebouwde taakfilters begrijpen](reporting/intermediate-reporting/open-built-in-task-filters.md)
       + [Ingebouwde uitgiftefilters begrijpen](reporting/intermediate-reporting/open-built-in-issue-filters.md)
       + [Basismodus voor filters begrijpen](reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [De standaardtekstmodus voor weergaven begrijpen](reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [Basistekstmodus voor groepen begrijpen](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [Aangepaste vragen maken](reporting/intermediate-reporting/custom-prompts.md)
    + Geavanceerde rapportage {#advanced-reporting}
       + [Welkom bij geavanceerde rapportage](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -573,7 +575,6 @@ ht-degree: 0%
       + [Teamleden toevoegen en beheren voor een board](boards/add-and-manage-team-members-for-a-board.md)
       + [Kaarten aan een bord toevoegen](boards/add-cards-to-a-board.md)
       + [Een basisbord zoeken en maken](boards/find-and-create-a-basic-board.md)
-      + [Zoeken in een board](boards/find-and-search-in-a-board.md)
       + [Bordkolommen beheren](boards/manage-board-columns.md)
       + [Kaarten op de kaart beheren](boards/manage-cards-on-a-board.md)
 
