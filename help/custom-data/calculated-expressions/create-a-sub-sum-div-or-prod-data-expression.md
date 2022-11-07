@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335177.png
 kt: 8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 527af78f92f2b85a30de69f31fce7b4b06491bdd
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,11 @@ Meestal wordt de ROUND-gegevensexpressie gebruikt in combinatie met een andere g
 
 Laten we een berekend veld maken om het verschil te bepalen tussen het aantal uren dat is gepland en dat daadwerkelijk is aangemeld voor een taak. Hiervoor is de SUB-expressie vereist en ziet deze eruit:
 
-**SUB(Geplande uren, Werkelijke uren)**
+**SUB({workRequired},{actualWorkRequired})**
 
 En aangezien de tijd in notulen wordt gevolgd en het aangewezen formaat is om de informatie in uren te tonen, moet de uitdrukking ook door 60 worden gedeeld en als dit kijken:
 
-**DIV(SUB(Geplande uren, Werkelijke uren),60)**
+**DIV(SUB({workRequired},{actualWorkRequired}),60)**
 
 Als de notatie wordt gewijzigd in Number bij het maken van het berekende veld in het aangepaste formulier, kunt u de getalnotatie wijzigen wanneer u het veld toevoegt in een weergave.
 
@@ -50,12 +50,14 @@ Als de veldindeling bij het maken van een aangepast veld echter als tekst blijft
 
 ![Werklastverdelingsmechanisme met gebruiksrapport](assets/round02.png)
 
-Gebruik de ROUND gegevensuitdrukking in een berekend gebied De uitdrukking ROUND omvat de naam van de uitdrukking (ROUND) en, typisch, twee gegevenspunten. Deze gegevenspunten kunnen een expressie of een veld zijn in [!DNL Workfront], gevolgd door een getal om aan te geven hoeveel decimalen u wilt gebruiken.
+<b>De ROUND-gegevensexpressie gebruiken in een berekend veld</b>
+
+De expressie ROUND bevat de naam van de expressie (ROUND) en doorgaans twee gegevenspunten. Deze gegevenspunten kunnen een expressie of een veld in Workfront zijn, gevolgd door een getal dat aangeeft hoeveel decimalen u wilt gebruiken.
 
 Een expressie zou als volgt zijn gestructureerd: ROUND(gegevenspunt, #)
 
-In de uitdrukking die het verschil tussen geplande en daadwerkelijke uren berekent, gebruik deze uitdrukking - DIV (SUB (Geplande Uren, Ware Uren), 60)-als eerste gegevenspunt. Controleer vervolgens of het getal dat uit die expressie komt, niet meer dan 2 cijfers achter het decimaalteken bevat.
+In de uitdrukking die het verschil tussen geplande en daadwerkelijke uren berekent, gebruik deze uitdrukking - DIV (SUB ({workRequired},{actualWorkRequired}), 60) - als eerste gegevenspunt. Controleer vervolgens of het getal dat uit die expressie komt, niet meer dan 2 cijfers achter het decimaalteken bevat.
 
 ![Werklastverdelingsmechanisme met gebruiksrapport](assets/round03.png)
 
-De expressie kan als volgt worden geschreven: ROUND(DIV(SUB(Geplande uren, Werkelijke uren),60),2).
+De expressie kan als volgt worden geschreven: ROUND(DIV(SUB({workRequired},{actualWorkRequired}),60),2).
