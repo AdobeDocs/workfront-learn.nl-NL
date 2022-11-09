@@ -7,7 +7,7 @@ role: Admin
 level: Intermediate
 kt: 10088
 exl-id: 3869db93-9fbc-4689-b838-0f4400a436c3
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 2e0555a45d753a56628cf748537a6007ed548206
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -31,7 +31,7 @@ U moet een [!DNL Workfront] beheerder en [!UICONTROL Workfront DAM] beheerder om
 1. Klik op Volgende **[!UICONTROL Yes]** geven [!DNL Workfront] toegang tot de [!UICONTROL DAM] account.
 1. Vernieuw indien nodig de pagina om de toegang tot [!UICONTROL Workfront DAM].
 
-Als deze verbinding tot stand is gebracht, kunt u nu metagegevens toewijzen tussen de twee systemen. Zorg ervoor dat u de vereiste metagegevensvelden al hebt gemaakt in [!UICONTROL Workfront DAM] voordat u begint met toewijzen.
+Als deze verbinding tot stand is gebracht, kunt u nu metagegevens toewijzen tussen de twee systemen. Controleer of u de vereiste metagegevensvelden al hebt gemaakt in [!UICONTROL Workfront DAM] voordat u begint met toewijzen.
 
 ## Toewijzing instellen
 
