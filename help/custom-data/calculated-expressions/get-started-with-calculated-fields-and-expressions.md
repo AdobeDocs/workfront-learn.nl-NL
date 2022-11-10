@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: gs-calc-fields-expressions.png
 exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: f81d156b4058bec70bc3256efda6f85746f0f625
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 <!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
 
-[!DNL Workfront] biedt een verscheidenheid aan gebieden die op meerdere bedrijfsgebieden gemeenschappelijk zijn en regelmatig voor werkbeheer worden gebruikt. Velden zoals geplande afsluitdatum, projectbudget, naam van de taakontvanger, enz.
+Workfront biedt een verscheidenheid aan gebieden die op meerdere bedrijfsgebieden gemeenschappelijk zijn en die regelmatig voor werkbeheer worden gebruikt. Velden zoals geplande afsluitdatum, projectbudget, naam van de taakontvanger, enz.
 
 Toch heeft elke organisatie specifieke gegevens voor zijn industrie en bedrijf die moeten worden verzameld om te begrijpen of de bedrijfsdoelstellingen worden verwezenlijkt. Uw organisatie wil bijvoorbeeld het volgende bijhouden:
 
@@ -33,10 +33,6 @@ Hoewel deze velden niet van nature zijn ingebouwd [!DNL Workfront]kunt u aangepa
 Dit leerpad richt zich op het berekende veld. U zult leren wat een berekend gebied is, de verschillende soorten informatie u in het berekende gebied door gegevensuitdrukkingen kunt trekken, en hoe te om die berekende gebieden te bouwen om uw gegevensinzameling en rapportering te verbeteren.
 
 ![Resourcebeheerinstellingen één pager](assets/GS01.png)
-
-**Aangepaste formulierherinnering**
-
-Velden zijn objectspecifiek. Als u bijvoorbeeld een berekend veld op een aangepaste taakformulier maakt, kunt u dat veld in een taakrapport gebruiken.
 
 ## Wat is een berekend veld?
 
@@ -55,7 +51,7 @@ Met expressies in een berekend veld kunt u alle informatie nemen die al is opges
 
 ![Werklastverdelingsmechanisme met gebruiksrapport](assets/GS03.png)
 
-Afhankelijk van de specifieke gegevens die nodig zijn, kunnen berekende velden eenvoudig zijn, waarbij een of twee expressies worden gebruikt of gecompliceerd, waarbij verschillende ingesloten expressies worden gebruikt. Houd er rekening mee dat [!DNL Workfront] kan alleen gegevens gebruiken die al zijn opgeslagen of in het systeem zijn opgenomen voor berekende velden.
+Afhankelijk van de specifieke gegevens die nodig zijn, kunnen berekende velden eenvoudig zijn, waarbij een of twee expressies worden gebruikt of gecompliceerd, waarbij verschillende ingesloten expressies worden gebruikt. Houd er rekening mee dat Workfront alleen gegevens kan gebruiken die al zijn opgeslagen of die in het systeem zijn opgehaald voor berekende velden.
 
 ## Tekstexpressies
 
@@ -69,8 +65,9 @@ Tekstexpressies kunnen bijvoorbeeld worden gebruikt om:
 
 * Bouw een rapport dat van elk project een lijst maakt dat niet aan een portefeuille en/of programma wordt toegewezen zodat kunt u dit in uw managervergaderingen gebruiken.
 
-Tekstexpressies kunnen in een aangepast veld worden gebruikt voor het uitvoeren van deze typen zoekopdrachten en combinaties in [!DNL Workfront].
-TE Als u de mogelijke tekstexpressies bekijkt, hebt u verschillende opties.
+Tekstexpressies kunnen in een aangepast veld worden gebruikt voor deze typen zoekopdrachten en combinaties in Workfront.
+
+Wanneer u de mogelijke tekstexpressies bekijkt, ziet u verschillende opties.
 
 ![Resourcebeheerinstellingen één pager](assets/TE01.png)
 
