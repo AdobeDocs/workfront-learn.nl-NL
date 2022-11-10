@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
-
 
 # Geavanceerde samenvoeging
 
@@ -32,7 +32,7 @@ Bel een webservice om details over meerdere landen te retourneren en de totale b
 
 1. Creeer een nieuw scenario en noem het &quot;Geavanceerde samenvoeging.&quot;
 1. Stel de triggermodule in op HTTP - Een aanvraagmodule maken.
-1. Gebruik deze URL, https://restcountries.com/v2/lang/es, die u een lijst van alle landen geeft waar Spaans wordt gesproken.
+1. Gebruik deze URL, `https://restcountries.com/v2/lang/es`, die u een lijst geeft van alle landen waar Spaans wordt gesproken.
 1. Laat de methode staan als Ophalen.
 1. Klik op het selectievakje Reactie pareren.
 1. Wijzig de naam van deze module &#39;Landen ophalen&#39;.
@@ -44,7 +44,7 @@ Bel een webservice om details over meerdere landen te retourneren en de totale b
 
    **U moet subregio informatie voor elk van de landen verzamelen, zodat zult u een extra HTTP- verzoek moeten doen.**
 
-1. Voeg een ander verzoek toe om subregioinformatie te krijgen. Het zal alleen het eerste land terugsturen, maar dat is nu OK. Voeg nog een HTTP Make een request module toe en gebruik de URL https://restcountries.com/v2/name/.
+1. Voeg een ander verzoek toe om subregioinformatie te krijgen. Het zal alleen het eerste land terugsturen, maar dat is nu OK. Voeg nog een HTTP Make een request module toe en gebruik de URL `https://restcountries.com/v2/name/{country name}`.
 1. Als u de naam van het eerste land wilt ophalen, gaat u naar het deelvenster Toewijzing en klikt u op Gegevens. Vervolgens geeft u een naam op in de array. De [1] in het gegevensveld betekent dit dat het eerste item in de array wordt geretourneerd.
 
    + Klik op het nummer en wijzig de index indien nodig, maar in dit geval wilt u alleen het eerste item.
