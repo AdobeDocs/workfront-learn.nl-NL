@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -87,14 +87,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Dit zal u alle taken tonen waar de het programma geopende gebruiker minstens één van de huidige toegewezen. Als de toegewezen personen door meerdere personen zijn toegewezen, wordt alleen de naam van de eerste persoon die iemand heeft toegewezen, weergegeven als &quot;Gevraagd door&quot; op de bestemmingspagina.
 
-## Activiteit: Vragen over de tekstmodus
+### Taak - toon me alle taken die - in afwachting van Goedkeuring volledig zijn
 
-1. Hoe zou u de camelcase voor het gebied met de naam &quot;ingegaan door identiteitskaart&quot;schrijven?
-1. Maak in een Issue-rapport een filter om problemen weer te geven die zijn gemarkeerd als gesloten maar die nog moeten worden goedgekeurd.
+```
+status=CPL:A
+status_Mod=in
+```
 
-### Antwoorden
 
-1. Het hoofdlettergebruik voor de kameel voor het veld &quot;Door id ingevoerd&quot; moet als volgt worden geschreven:
-1. De tekstwijze zou als dit in de filter van het voorwaardenrapport moeten kijken:
+### Uitgeven - Geef me alle voltooide problemen weer - in afwachting van goedkeuring
 
-   ![Een afbeelding van het scherm om een nieuw filter in de tekstmodus te maken](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Project - Toon me alle projecten die volledig zijn - in afwachting van Goedkeuring
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Opmerking - Alle opmerkingen weergeven waarin ik ben gelabeld
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### Rapport Parameter/aangepast veld - Aangepaste velden weergeven die niet zijn gekoppeld aan een aangepast formulier (zeer nuttig bij opschonen)
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```

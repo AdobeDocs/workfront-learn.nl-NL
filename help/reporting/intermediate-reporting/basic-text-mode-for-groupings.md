@@ -9,13 +9,13 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11369
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '193'
+ht-degree: 1%
 
 ---
-
 
 # Basistekstmodus voor groepen begrijpen
 
@@ -36,7 +36,7 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## 4 oudergroepen
+## Taak - 4 ouders groeperen
 
 In de volgende tekstmodus worden taken gegroepeerd op maximaal vier niveaus van bovenliggende items en blijven bovenliggende items die niet bestaan leeg.
 
@@ -53,7 +53,7 @@ group.0.valueformat=string
 ![Een het schermbeeld dat projecttaken toont die door 4 ouders worden gegroepeerd](assets/4-parents-grouping.png)
 
 
-## Percentage volledige groepering
+## Taak - Percentage volledige groepering
 
 In de volgende tekstmodus worden taken gegroepeerd op basis van het percentage dat is voltooid. Taken worden gegroepeerd in een van de volgende categorieën:
 
@@ -74,7 +74,7 @@ textmode=true
 
 ![Een het schermbeeld die projecttaken tonen die door percent volledig worden gegroepeerd](assets/percent-complete-grouping.png)
 
-## statusEquatesWith, dan status
+## Taak - statusEquatesWith, dan status
 
 In de volgende tekstmodus worden taken gegroepeerd op statusEquatesWith en vervolgens op status.
 
@@ -98,4 +98,14 @@ textmode=true
 
 ![Een het schermbeeld die projecttaken tonen die door statusEquatesWith worden gegroepeerd](assets/status-equates-with.png)
 
+
+## Goedkeuring proef - groep per projectnaam
+
+```
+group.0.valueformat=HTML
+group.0.valuefield=documentVersion:document:project:name
+group.0.displayname=Project Name
+```
+
+![Een schermafbeelding met proefdrukgoedkeuringen gegroepeerd op projectnaam](assets/proof-approvals-grouped-by-project-name.png)
 
