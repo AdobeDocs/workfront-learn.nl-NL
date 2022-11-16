@@ -1,6 +1,6 @@
 ---
 title: Rapporten maken met grafieken
-description: In deze video leert u hoe grafieken de visualisatie van gegevens kunnen verbeteren en hoe u grafiekgereedschappen kunt gebruiken in [!DNL  Workfront].
+description: Leer hoe grafieken de visualisatie van gegevens kunnen verbeteren en hoe u grafiekgereedschappen kunt gebruiken in Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335153.png
 kt: 8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---

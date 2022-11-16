@@ -1,6 +1,8 @@
 ---
 title: Werken en personentabellen begrijpen
-description: De grafieken van het werk tonen u activiteit vanuit het project en taakperspectief, terwijl de grafieken van Mensen u activiteit vanuit het perspectief van een huisteam tonen.
+description: In [!UICONTROL Enhanced Analytics], werkdiagrammen laten u activiteit vanuit het project- en taakperspectief zien, terwijl Personengrafieken u activiteit vanuit het perspectief van een huisteam tonen.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-work-and-people-charts.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
-# Werken en personentabellen begrijpen
+# Werken en personenteksten begrijpen in [!UICONTROL Enhanced Analytics]
 
 De grafieken van het werk tonen u activiteit vanuit het project en taakperspectief, terwijl de grafieken van Mensen u activiteit vanuit het perspectief van een huisteam tonen.
 

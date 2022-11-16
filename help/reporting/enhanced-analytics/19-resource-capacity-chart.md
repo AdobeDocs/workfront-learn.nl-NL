@@ -1,6 +1,8 @@
 ---
-title: Begrijp de grafiek van de middelcapaciteit
-description: Het capaciteitsplan van het Middel toont het aantal geplande uren die aan een huisteam binnen de gefilterde tijdspanne in vergelijking met het totale beschikbare uren van het team worden toegewezen.
+title: Begrijp de grafiek van de middelcapaciteit in [!UICONTROL Enhanced Analytics]
+description: Leer hoe de grafiek van de capaciteit van het Middel het aantal geplande uren toont die aan een huisteam binnen de gefiltreerde tijdspanne in vergelijking met de totale beschikbare uren van het team worden toegewezen.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-resource-capacity-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-# Begrijp de grafiek van de middelcapaciteit
+# Begrijp de grafiek van de middelcapaciteit in [!UICONTROL Enhanced Analytics]
 
 Het capaciteitsplan van het Middel toont het aantal geplande uren die aan een huisteam binnen de gefilterde tijdspanne in vergelijking met het totale beschikbare uren van het team worden toegewezen.
 

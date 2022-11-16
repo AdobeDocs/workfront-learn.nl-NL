@@ -1,6 +1,6 @@
 ---
 title: Dashboards maken
-description: In deze video leert u alles over het dashboard in [!DNL  Workfront].
+description: Leer hoe u een verscheidenheid aan lijstrapporten, grafieken, kalenders en externe Web-pagina's in een dashboard in Workfront combineert.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335157.png
 kt: 8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '417'
 ht-degree: 1%
 
 ---

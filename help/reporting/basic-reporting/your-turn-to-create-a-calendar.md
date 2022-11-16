@@ -1,6 +1,8 @@
 ---
 title: Uw beurt om een kalender te maken
-description: Leer hoe u een klantkalender maakt in deze praktische activiteit.
+description: Leer hoe u een agenda voor klanten maakt waarin uw onvolledige taken en problemen worden weergegeven.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
 kt: 10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---

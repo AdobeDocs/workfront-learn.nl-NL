@@ -1,6 +1,8 @@
 ---
 title: OR-instructies maken in filters
-description: Met de instructie OR vertelt u het filter dat u deze OR wilt zien.
+description: Leer hoe u een OF verklaring gebruikt om Workfront te vertellen dat u of dit OF dat in uw rapport wilt zien.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: create-or-statements-in-filters.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '901'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
-title: Actie nemen door updates uit te voeren
-description: In deze video leert u hoe u updates kunt maken vanuit de takenlijst in het vliegdiagram in [!DNL  Workfront].
+title: Voer actie uit door updates uit te voeren in [!UICONTROL Enhanced Analytics]
+description: Leer hoe u updates kunt maken vanuit de takenlijst in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8736
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '45'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Actie nemen door updates uit te voeren
+# Voer actie uit door updates uit te voeren in [!UICONTROL Enhanced Analytics]
 
 In deze video leert u:
 

@@ -1,6 +1,6 @@
 ---
 title: Rapportonderdelen begrijpen
-description: In deze video leert u de belangrijkste componenten achter Workfront-rapportage en hoe deze worden gebruikt in een rapportelement in [!DNL  Workfront].
+description: Leer de belangrijkste componenten achter het melden en hoe deze in een rapporteringselement in Workfront worden gebruikt.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg
@@ -10,9 +10,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---

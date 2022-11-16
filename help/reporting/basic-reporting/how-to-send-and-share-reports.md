@@ -1,6 +1,6 @@
 ---
 title: Rapporten verzenden en delen
-description: In deze video leert u hoe u rapporten kunt verzenden naar gebruikers, teams of een willekeurig e-mailadres, en hoe u rapporten kunt delen met iedereen in [!DNL  Workfront].
+description: Leer hoe u rapporten naar gebruikers, teams of elk ander e-mailadres verzendt en hoe u rapporten met iedereen in Workfront kunt delen.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335158.png
 kt: 8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---

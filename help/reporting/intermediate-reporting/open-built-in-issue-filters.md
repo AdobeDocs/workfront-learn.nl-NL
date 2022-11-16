@@ -1,6 +1,6 @@
 ---
 title: Ingebouwde uitgiftefilters begrijpen
-description: Leer hoe u ingebouwde uitgave-filters kunt bekijken om te zien hoe deze zijn gemaakt en uw eigen uitgave-filter kunt maken in [!DNL  Workfront].
+description: Leer hoe u ingebouwde uitgave-filters kunt bekijken om te zien hoe deze zijn gemaakt en uw eigen uitgave-filter kunt maken in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336819.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---

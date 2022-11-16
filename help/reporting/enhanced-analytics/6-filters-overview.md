@@ -1,6 +1,6 @@
 ---
 title: Filters begrijpen
-description: Leer hoe u een filter kunt toevoegen op basis van algemene projectvelden en hoe u een filter kunt toevoegen met een aangepast formulier, allemaal in [!DNL  Workfront].
+description: Leer hoe u een filter kunt toevoegen op basis van algemene projectvelden en hoe u een filter kunt toevoegen met een aangepast formulier, allemaal in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-# Filters begrijpen
+# Filters begrijpen in [!UICONTROL Enhanced Analytics]
 
 In deze video leert u:
 

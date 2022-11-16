@@ -1,6 +1,6 @@
 ---
-title: Begrijp de toegang tot van en het herzien van de burndown
-description: Leer hoe te om tot de burndown grafiek toegang te hebben en het verband tussen resterende uren, projectvoorwaarde, en projectsnelheid binnen te begrijpen [!DNL  Workfront].
+title: Begrijp de toegang tot van en het herzien van de burndown grafiek in [!UICONTROL Enhanced Analytics]
+description: Leer hoe te om tot de burndown grafiek toegang te hebben en het verband tussen resterende uren, projectvoorwaarde, en projectsnelheid in Workfront te begrijpen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8734
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-# Begrijp de toegang tot van en het herzien van de burndown
+# Begrijp de toegang tot van en het herzien van de last in [!UICONTROL Enhanced Analytics]
 
 In deze video leert u:
 

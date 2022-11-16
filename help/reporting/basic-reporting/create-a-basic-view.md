@@ -1,6 +1,6 @@
 ---
 title: Een basisweergave maken
-description: In deze video leert u wat een weergave is, hoe u een weergave kunt maken en hoe u een weergave kunt delen met andere gebruikers in [!DNL  Workfront].
+description: Leer wat een mening is, hoe te om een mening tot stand te brengen, en hoe te om een mening met andere gebruikers in Workfront te delen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,9 +10,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---

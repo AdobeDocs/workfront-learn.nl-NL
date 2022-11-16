@@ -1,6 +1,6 @@
 ---
 title: Een taakrapport maken
-description: In deze video leert u hoe u een taakrapport maakt met een complex filter en de rapporten vindt die u maakt in [!DNL  Workfront].
+description: Leer hoe u een taakrapport maakt met een complex filter en de rapporten vindt die u maakt in Workfront. Activiteit - maak een notitierapport met aanwijzingen.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335154.png
 kt: 8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---

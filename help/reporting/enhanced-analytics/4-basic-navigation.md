@@ -1,6 +1,6 @@
 ---
-title: Basisnavigatie begrijpen
-description: In deze video leert u hoe u naar de [!UICONTROL Analytics] en bekijk een overzicht van de werkkaarten en de personenteksten in [!DNL  Workfront].
+title: Basisnavigatie begrijpen in [!UICONTROL Enhanced Analytics]
+description: Leer hoe u naar de [!UICONTROL Analytics] en zie een overzicht van de werkkaarten en de personenteksten in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335057.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Basisnavigatie begrijpen
+# Basisnavigatie begrijpen in [!UICONTROL Enhanced Analytics]
 
 Navigeren naar [!UICONTROL Analytics] in de nieuwe Workfront-ervaring [!UICONTROL Main Menu] knop.
 

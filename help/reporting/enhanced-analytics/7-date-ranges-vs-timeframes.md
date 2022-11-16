@@ -1,6 +1,8 @@
 ---
 title: Datumbereiken en tijdframes begrijpen
-description: Datumbereiken worden opgegeven met de kalenderwidget. Tijdframes worden gemaakt in een grafiek.
+description: In [!UICONTROL Enhanced Analytics]datumbereiken worden opgegeven met de kalenderwidget. Tijdframes worden gemaakt in een grafiek.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
 
-# Datumbereiken en tijdframes begrijpen
+# Begrijp datumbereiken en tijdframes in [!UICONTROL Enhanced Analytics]
 
 Wanneer u de [!DNL Enhanced analytics] grafieken, datumbereiken worden opgegeven met de kalenderwidget. Tijdframes worden gemaakt in een grafiek wanneer u klikt en sleept om een bepaald gebied te definiëren, zodat u kunt inzoomen en de informatie tijdens dat tijdframe gedetailleerder kunt bekijken.
 

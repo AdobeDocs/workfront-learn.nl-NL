@@ -1,6 +1,6 @@
 ---
 title: Filters maken met jokertekens op basis van gebruiker
-description: Leer hoe te om vervangingen te gebruiken en een filter met een op gebruiker-gebaseerde vervanging te bouwen binnen [!DNL  Workfront].
+description: Leer hoe te om op gebruiker-gebaseerde vervangingen te gebruiken en hoe te om een filter te bouwen dat op de het programma geopende gebruiker wordt gebaseerd.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336810.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---

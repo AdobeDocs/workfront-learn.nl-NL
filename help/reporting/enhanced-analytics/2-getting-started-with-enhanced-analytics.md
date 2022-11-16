@@ -1,6 +1,8 @@
 ---
 title: Aan de slag met [!UICONTROL Enhanced Analytics]
-description: Leer de belangrijkste velden die u wilt bijwerken om optimaal gebruik te maken van de uitgebreide analyse.
+description: Leer de belangrijkste velden die in Workfront moeten worden bijgewerkt, zodat de uitgebreide analyse u laat zien hoe uw teams en projecten vorderen in Workfront.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: analytics-prerequisites.png
 type: Tutorial
@@ -8,14 +10,16 @@ role: User
 level: Beginner
 kt: 10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
 
-# Aan de slag met [!UICONTROL Enhanced Analytics]
+# Aan de slag met Adobe Workfront [!UICONTROL Enhanced Analytics]
+
+De uitgebreide analyses kunnen u tonen hoe uw teams en projecten in Workfront vorderen, en wat in vroegere projecten gebeurde die u van zou kunnen leren om toekomstige projecten te helpen plannen.
 
 ## Voorwaarden voor analyse
 

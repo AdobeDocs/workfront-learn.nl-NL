@@ -1,6 +1,6 @@
 ---
-title: Begrijp een KPI-vergelijkingscase
-description: Leer hoe te om KPIs van de huidige datumwaaier aan een voorafgaande datumwaaier te vergelijken, en hoe te om KPIs met twee verschillende filters in te vergelijken [!DNL  Workfront].
+title: Begrijp een KPI vergelijkingsgebruiksgeval in [!UICONTROL Enhanced Analytics]
+description: Leer hoe te om KPIs van de huidige datumwaaier aan een vroegere datumwaaier te vergelijken, en hoe te om KPIs met twee verschillende filters te vergelijken.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8739
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# Begrijp een KPI-vergelijkingscase
+# Begrijp een KPI vergelijkingsgebruiksgeval in [!UICONTROL Enhanced Analytics]
 
 In deze video leert u:
 

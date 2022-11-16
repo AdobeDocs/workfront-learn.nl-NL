@@ -1,6 +1,8 @@
 ---
-title: Inzicht in teamcapaciteit
-description: De de capaciteitgrafiek van het Team toont wanneer een huisteam over-toegewezen of onderverdeeld was.
+title: Begrijp teamcapaciteit in [!UICONTROL Enhanced Analytics]
+description: Leer hoe de de capaciteitsgrafiek van het Team toont wanneer een huisteam over-toegewezen of onderverdeeld was.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-team-capacity.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
 
-# Inzicht in teamcapaciteit
+# Begrijp teamcapaciteit in [!UICONTROL Enhanced Analytics]
 
 De de capaciteitgrafiek van het Team toont wanneer een huisteam over-toegewezen of onderverdeeld was. De grafiek toont het volume van het werk dat aan het huisteam op een bepaalde dag wordt toegewezen en wijst een donkerdere blauwe kleur toe wanneer zij zich in brand steken of niet worden uitgedaagd. Een lichtere, transparantere kleur geeft aan dat de werkbelasting evenwichtiger is.
 

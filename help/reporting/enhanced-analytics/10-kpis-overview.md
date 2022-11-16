@@ -1,6 +1,6 @@
 ---
-title: KPI's begrijpen
-description: In deze video leert u hoe u waarde kunt ophalen uit de PKI-gegevens in [!DNL  Workfront].
+title: KPI's begrijpen in [!UICONTROL Enhanced Analytics]
+description: Leer hoe te om waarde van de KPI gegevens over te krijgen wat in het heden evenals tendensen van het verleden gebeurt.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335046.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-# KPI&#39;s begrijpen
+# KPI&#39;s begrijpen in [!UICONTROL Enhanced Analytics]
 
 In deze video leert u:
 

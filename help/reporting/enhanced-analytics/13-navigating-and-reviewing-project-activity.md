@@ -1,6 +1,6 @@
 ---
-title: Navigeren en projectactiviteit evalueren
-description: In deze video leert u hoe u projecten kunt vergelijken op basis van gebruikers die zijn aangemeld, wijzigingen in de taakstatus en taken die zijn voltooid in [!DNL  Workfront].
+title: Begrijp navigeren en het herzien projectactiviteit in [!UICONTROL Enhanced Analytics]
+description: Leer hoe u projecten kunt vergelijken op basis van gebruikers die zijn aangemeld, wijzigingen in de taakstatus en taken die zijn voltooid in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-# Navigeren en projectactiviteit evalueren
+# Begrijp navigeren en het herzien projectactiviteit in [!UICONTROL Enhanced Analytics]
 
 In deze video leert u:
 

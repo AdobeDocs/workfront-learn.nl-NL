@@ -1,6 +1,6 @@
 ---
 title: Standaardvoorwaardelijke opmaak toevoegen
-description: In deze video leert u welke voorwaardelijke opmaak in een weergave staat en hoe u voorwaardelijke opmaak kunt maken en wijzigen in [!DNL  Workfront].
+description: Leer hoe u met kolomregels de tekstkleur, opmaak en achtergrondkleuren in een rapport of weergave kunt wijzigen op basis van criteria die u instelt.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -10,14 +10,16 @@ level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
 
 # Standaardvoorwaardelijke opmaak toevoegen aan een weergave
+
+Voorwaardelijke opmaak gebeurt door kolomregels te maken. Met kolomregels kunt u een kolom op een specifieke manier opmaken op basis van criteria die u instelt.
 
 In deze video leert u:
 

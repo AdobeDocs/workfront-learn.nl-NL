@@ -1,6 +1,6 @@
 ---
-title: De taken tijdens de vlucht controleren
-description: Leer hoe u toegang krijgt tot de taken in het vluchtdiagram en hoe u snel kunt zien welke taken niet zijn voltooid in een project, allemaal in [!DNL  Workfront].
+title: De taken tijdens de vlucht controleren [!UICONTROL Enhanced Analytics]
+description: Leer hoe u toegang krijgt tot de taken in het vluchtdiagram en hoe u snel kunt zien welke taken niet zijn voltooid in een project, allemaal in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# De taken tijdens de vlucht controleren
+# De taken tijdens de vlucht controleren [!UICONTROL Enhanced Analytics]
 
 In deze video leert u:
 

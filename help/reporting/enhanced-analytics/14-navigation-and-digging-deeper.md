@@ -1,6 +1,6 @@
 ---
-title: Dieper naar de navigatie
-description: In deze video leert u hoe u snel kunt zien hoeveel tijd de workers besteden aan elk project in [!DNL  Workfront].
+title: Dieper naar navigatie leiden [!UICONTROL Enhanced Analytics]
+description: Leer hoe u snel kunt zien hoeveel tijd werknemers besteden aan elk project in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8733
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# Dieper naar de navigatie
+# Dieper naar navigatie leiden [!UICONTROL Enhanced Analytics]
 
 In deze video leert u:
 

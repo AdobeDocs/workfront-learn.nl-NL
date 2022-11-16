@@ -1,6 +1,6 @@
 ---
 title: Rapporteringselementen begrijpen
-description: In deze video leert u hoe u bestaande rapporteringselementen (filters, weergaven en groepen) kunt gebruiken voor toegang tot informatie die wordt bijgehouden [!DNL  Workfront].
+description: Leer hoe u bestaande rapportelementen (filters, weergaven en groepen) gebruikt voor toegang tot informatie die wordt bijgehouden in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335145.jpeg
@@ -10,9 +10,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---

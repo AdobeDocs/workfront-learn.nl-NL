@@ -1,6 +1,6 @@
 ---
 title: Filters maken met jokertekens op basis van datum
-description: Leer hoe en wanneer om op datum-gebaseerde vervangingen te gebruiken en een filter met op datum-gebaseerde vervanging binnen te bouwen [!DNL  Workfront].
+description: Leer hoe en wanneer om op datum-gebaseerde vervangingen te gebruiken en hoe te om een filter te bouwen dat op de huidige datum wordt gebaseerd.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336812.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
