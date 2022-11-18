@@ -1,18 +1,21 @@
 ---
 title: Eerste scenario
 description: Leer enkele basistips voor navigatie voor wanneer u zich voor het eerst aanmeldt bij Workfront Fusion en voor het maken van uw eerste scenario.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11038
 thumbnail: KT11038.png
-source-git-commit: c348222464180e994e7b414d1b84e07f58b6b2ae
+exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 0%
 
 ---
-
 
 # Eerste scenario
 

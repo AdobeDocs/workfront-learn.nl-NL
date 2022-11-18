@@ -1,6 +1,8 @@
 ---
 title: Voortgang van project bijhouden
 description: Leer hoe u de voortgang van het werk kunt bijhouden vanaf de projecttijdlijn in [!DNL  Workfront] het gebruiken van percent volledig, status, taken, of beperkingen.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: track-work-progress-from-the-project-timeline.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%

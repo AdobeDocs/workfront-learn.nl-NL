@@ -1,5 +1,5 @@
 ---
-title: Doelen in Workfront maken
+title: Doelen maken in [!DNL Workfront Goals]
 description: Leer hoe u doelen kunt maken in [!DNL Workfront Goals] met behulp van drie verschillende opties.
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 10122
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '898'
 ht-degree: 0%
 
 ---
 
-# Doelen in Workfront maken
+# Doelen maken in [!DNL Workfront Goals]
 
 In [!DNL Workfront Goals]leidinggevenden en leidinggevende teams van bedrijven kunnen de voortgang van de hele organisatie op elk niveau zien, tot aan het individu. [!DNL Workfront Goals] biedt de zichtbaarheid om belangrijke inzichten in handelingen te krijgen die u kunt gebruiken om de hoogste prioriteiten te bereiken, doelstellingen te identificeren die een risico vormen, problemen in real time te diagnosticeren en de cursus proactief te corrigeren.
 

@@ -1,6 +1,8 @@
 ---
 title: Een project delen
 description: Leer hoe u een project kunt delen, zodat belanghebbenden en anderen die in het project geïnteresseerd zijn, inzicht kunnen krijgen in het werk dat wordt uitgevoerd met [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: share-a-project.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

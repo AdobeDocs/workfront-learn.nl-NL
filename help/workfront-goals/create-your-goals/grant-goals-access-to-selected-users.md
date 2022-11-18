@@ -1,5 +1,5 @@
 ---
-title: Toegangsniveaus bewerken voor [!DNL Workfront Goals]
+title: Bewerken [!UICONTROL Access Levels] for [!DNL Workfront Goals]
 description: Leer hoe u toegangsniveaus kunt bewerken op basis van het type licentie voor uw gebruikers in [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '90'
 ht-degree: 1%
 
 ---
 
-# Toegangsniveaus bewerken
+# Toegangsniveaus bewerken voor [!DNL Workfront Goals]
 
 In deze video leert u hoe u:
 

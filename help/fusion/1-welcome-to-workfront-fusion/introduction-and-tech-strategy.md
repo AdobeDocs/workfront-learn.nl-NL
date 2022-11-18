@@ -1,14 +1,17 @@
 ---
-title: Inleiding en technische strategie
-description: In deze video ziet u de kracht en flexibiliteit van [!DNL Adobe Workfront Fusion], de Fusion core en de ontwerpermogelijkheden, en een het voorbeeldscenario van de Fusie.
+title: Inleiding en technologiestrategie
+description: Meer informatie over de kracht en flexibiliteit van [!DNL Adobe Workfront Fusion], de Fusion core en de ontwerpermogelijkheden, en een het voorbeeldscenario van de Fusie.
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---

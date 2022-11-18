@@ -1,5 +1,5 @@
 ---
-title: Hoe te om het gebruiken van Geautomatiseerde Werkschema's te uploaden
+title: Een proefdruk uploaden met een geautomatiseerde workflow
 description: Leer wanneer u een geautomatiseerde proefdrukworkflow gebruikt, hoe u een workflow toepast met een proefdruksjabloon en hoe u een geautomatiseerde workflow helemaal zelf instelt.
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335133.png
 kt: 8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---

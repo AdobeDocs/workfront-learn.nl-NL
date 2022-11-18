@@ -1,20 +1,22 @@
 ---
-title: Integratie in Workfront configureren
+title: Configureer de [!UICONTROL Workfront DAM] integratie in Workfront
 description: Leer hoe u de [!UICONTROL Workfront DAM] integratie op het toegangsniveau van de systeembeheerder.
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
 kt: 10087
 exl-id: ee9489a5-abe9-4a81-96bd-625c82189d3d
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Integratie in Workfront configureren
+# Configureer de [!UICONTROL Workfront DAM] integratie in Workfront
 
 De optie [!UICONTROL Workfront DAM] integratie van Workfront&#39;s **[!UICONTROL Setup]** gebied. U hebt een [!UICONTROL Workfront] toegangsniveau van de systeembeheerder.
 

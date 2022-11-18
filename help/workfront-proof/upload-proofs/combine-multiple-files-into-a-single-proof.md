@@ -1,6 +1,8 @@
 ---
 title: Meerdere bestanden combineren tot één proefdruk
 description: Leer hoe u het proefdrukproces kunt stroomlijnen door meerdere bestanden te combineren tot één proefdruk in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,7 +10,7 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 kt: 10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 0%

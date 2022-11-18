@@ -1,13 +1,15 @@
 ---
 title: Een project plannen - revisie
-description: Herzie de vijf gebieden van een project om zich bij te concentreren wanneer het plannen van project-taken, duur, geplande uren, predecessors, en taken.
+description: Herzie de vijf gebieden van een project om zich bij te concentreren wanneer planning een project-taken, duur, geplande uren, predecessors, en taken.
+activity: use
+team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
 kt: 10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%

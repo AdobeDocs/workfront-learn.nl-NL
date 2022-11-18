@@ -1,5 +1,5 @@
 ---
-title: Navigeren door de Brand Portal in [!UICONTROL DAM]
+title: Navigeren naar de Brand Portal in [!UICONTROL Workfront DAM]
 description: Leer hoe u toegang krijgt tot de Brand Portal in [!UICONTROL Workfront DAM], maakt u mappen, stelt u vervaldatums in voor afzonderlijke elementen en bewerkt u de instellingen van de elementen.
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---

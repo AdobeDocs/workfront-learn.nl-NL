@@ -1,14 +1,17 @@
 ---
-title: Buiten de analyse van de Basistoewijzing
-description: In deze video wijzigt u enkele projectvelden in het scenario dat u eerder hebt gemaakt met de formules van het deelvenster Toewijzing in [!DNL Adobe Workfront Fusion].
+title: Buiten basisanalyse van toewijzingen
+description: Wijzig enkele projectvelden in het scenario dat u eerder hebt gemaakt met de formules in het deelvenster Toewijzing in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -32,6 +35,10 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 >Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Buiten basisanalyse van toewijzingen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) oefening.
 
 ## Uw beurt
+
+>[!NOTE]
+>
+>Praktijkoefeningen zijn optioneel en zijn niet nodig om Fusion-training te voltooien.
 
 Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet verstrekt.
 

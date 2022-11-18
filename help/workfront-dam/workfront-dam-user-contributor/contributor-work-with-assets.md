@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8995
 exl-id: ae0f3a7f-ca79-451f-851c-6792f44d218f
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '44'
 ht-degree: 0%
 
 ---

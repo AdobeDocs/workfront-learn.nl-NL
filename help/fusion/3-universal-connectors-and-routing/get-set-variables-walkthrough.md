@@ -1,14 +1,17 @@
 ---
-title: Doorloop voor variabelen instellen/ophalen
-description: In deze video leert u hoe u informatie over een project in Workfront opzoekt en een e-mail met verwante informatie verzendt in [!DNL Adobe Workfront Fusion].
+title: Analyse van variabelen instellen/ophalen
+description: Meer informatie over een project in Workfront en een e-mail met verwante informatie in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -32,6 +35,10 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 >Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Analyse van variabelen instellen/ophalen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) oefening.
 
 ## Uw beurt
+
+>[!NOTE]
+>
+>Praktijkoefeningen zijn optioneel en zijn niet nodig om Fusion-training te voltooien.
 
 Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet verstrekt.
 

@@ -3,9 +3,9 @@ user-guide-description: Workfront-zelfstudies
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '2166'
+source-wordcount: '2167'
 ht-degree: 0%
 
 ---
@@ -342,7 +342,7 @@ ht-degree: 0%
       + [Goedkeuringen maken via [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
       + [Zoeken in Workfront via [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [Workfront begrijpen voor [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-      + [Recent werk weergeven via [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+      + [Recente werk weergeven via [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
 
 
 
@@ -460,7 +460,7 @@ ht-degree: 0%
    + Beheer en installatie {#administration-and-setup-for-proof}
       + [Handelingen voor opmerkingen bij een proefdruk aanpassen](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [Opties voor proefdrukbeslissingen aanpassen](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [E-mailwaarschuwing vs. proefdrukmelding](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [E-mailwaarschuwingen en proefdrukberichten begrijpen](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
       + [Rollen en e-mailwaarschuwingen controleren](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [Proefverslagen](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [Standaard instellen op instellingen voor risicoproefdrukken](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)

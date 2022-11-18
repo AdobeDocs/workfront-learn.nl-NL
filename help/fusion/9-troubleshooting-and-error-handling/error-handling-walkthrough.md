@@ -1,12 +1,15 @@
 ---
-title: Fout bij afhandeling doorlopen
+title: Fout bij afhandeling van analyse
 description: Leer om te begrijpen hoe de standaardfout behandeling voorkomt en hoe te om specifieke module toe te voegen fout behandeling gebruikend richtlijnen in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: ce7c810d-e62b-4561-9b94-a7d4075ce654
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%

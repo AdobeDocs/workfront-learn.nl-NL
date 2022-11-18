@@ -6,15 +6,15 @@ type: Tutorial
 role: User
 level: Beginner
 kt: 10160
-source-git-commit: a64b29632b502af42d366ce543e5a71e9901e99c
+exl-id: 07575429-3d34-4cbf-8a35-d75dc912245a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
 
-
-# Twee opties voor de proefdrukviewers
+# Verklarende revisoren controleren
 
 [!DNL Workfront] staat u toe om twee belangrijkste categorieën van proef-statisch en interactief te herzien.
 

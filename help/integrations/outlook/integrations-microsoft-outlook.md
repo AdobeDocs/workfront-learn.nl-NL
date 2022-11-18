@@ -1,6 +1,6 @@
 ---
-title: Integraties voor Microsoft Outlook
-description: Leer hoe u de Microsoft Outlook Add-in installeert
+title: Installeer de [!UICONTROL Microsoft Outlook Add-in]
+description: Leer hoe u de [!UICONTROL Microsoft Outlook Add-in]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-# Integraties voor [!DNL Microsoft Outlook]
+# De invoegtoepassing Microsoft Outlook installeren
 
 In deze video leert u hoe u:
 

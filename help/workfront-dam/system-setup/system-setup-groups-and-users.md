@@ -1,5 +1,5 @@
 ---
-title: Groepen en gebruikers in [!UICONTROL Workfront DAM]
+title: Groepen en gebruikers begrijpen in [!UICONTROL Workfront DAM]
 description: Leer hoe u mappen, groepen en gebruikers maakt in [!UICONTROL Workfront DAM]. Begrijp de types van gebruikersrol en verlenen toestemmingen aan omslagen.
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---

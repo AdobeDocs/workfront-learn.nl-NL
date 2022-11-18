@@ -1,14 +1,17 @@
 ---
-title: Routers Walkthrough
+title: Routers doorlopen
 description: Leer hoe te om een router te gebruiken om de bundels van Pokemon vs superheroes onderaan de correcte weg binnen over te gaan [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -29,9 +32,9 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## URL&#39;s uitvoeren
 
-* Superhero-API-website: https://www.superheroapi.com/
-* Eerste URL voor oefening: https://www.superheroapi.com/api/{access-token}/{character-id}/appearance
-* Tweede URL voor oefening: https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* Superhero-API-website: `https://www.superheroapi.com/`
+* Eerste URL voor oefening: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Tweede URL voor oefening: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 Als u moeite hebt om uw eigen superheldtoken te openen, kunt u dit gedeelde token gebruiken: 10110256647253588. Houd rekening met het aantal keren dat u de superheld-API aanroept, zodat dit gedeelde token voor iedereen blijft werken.
 
@@ -86,6 +89,10 @@ Meer informatie over Workfront Fusion Universal Connectors en hoe u deze kunt in
 U kunt de volledige lijst van onze vooraf gebouwde app schakelaars in Experience League controleren. Als u een nieuwe app-aansluiting wilt voorstellen aan het Workfront Fusion-productteam, dient u uw idee in bij Innovation Lab. Meer informatie over het innovatielaboratorium, en hoe u op ideeën kunt stemmen en kunt deelnemen aan de prioritering van het Leaderboard, als u dat nog niet eerder hebt gedaan. Als u reeds toegang tot het laboratorium van Innovatie hebt, login en leg uw ideeën voor.
 
 ## Uw beurt
+
+>[!NOTE]
+>
+>Praktijkoefeningen zijn optioneel en zijn niet nodig om Fusion-training te voltooien.
 
 Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet verstrekt.
 

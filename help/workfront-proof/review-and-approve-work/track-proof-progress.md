@@ -1,6 +1,8 @@
 ---
-title: Voortgang proefdrukken bijhouden
+title: Voortgang proefdruk bijhouden
 description: Leren gebruiken [!UICONTROL SOCD] indicatoren, de vooruitgang van het bewijs en verslagen om de vooruitgang van een bewijs in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: track-proof-progress.png
 kt: 10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '639'
 ht-degree: 0%
 
 ---

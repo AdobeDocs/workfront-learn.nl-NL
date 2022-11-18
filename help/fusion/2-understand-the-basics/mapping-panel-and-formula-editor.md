@@ -1,14 +1,17 @@
 ---
-title: Deelvenster Toewijzing en Formule-editor
-description: In deze video leert u meer over het gebruik van het deelvenster Toewijzing, de formulereditor en algemene voorbeelden van formules in [!DNL Adobe Workfront Fusion].
+title: Deelvenster Toewijzing en formule-editor
+description: Meer informatie over het gebruik van het toewijzingsvenster, de formule-editor en voorbeelden van algemene formules vindt u in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9002
 exl-id: 48ebc6ee-6853-42a3-b68b-34c5854ff69c
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---

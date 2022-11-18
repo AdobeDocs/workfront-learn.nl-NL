@@ -1,15 +1,17 @@
 ---
-title: Activeren door een doel op een andere uit te lijnen
+title: Een doel activeren door het uit te lijnen met een ander doel
 description: Leer hoe u een doel activeert in [!DNL Workfront Goals] door het op een ander doel uit te lijnen.
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---

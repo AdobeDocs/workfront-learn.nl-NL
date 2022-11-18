@@ -1,6 +1,6 @@
 ---
-title: Hoe te om een Resultaat aan een Doel toe te voegen
-description: Leer hoe u een doel activeert door een resultaat toe te voegen in [!DNL-doelen].
+title: Een resultaat toevoegen aan een doel
+description: Leer hoe u een doel activeert door een resultaat toe te voegen in [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8922
 exl-id: e54aa547-97d1-4603-bb63-503e605be408
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---

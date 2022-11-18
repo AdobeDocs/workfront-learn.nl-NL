@@ -1,12 +1,15 @@
 ---
-title: Overzicht van de oefening van Universal Connectors
+title: Overzicht van oefeningen voor Universal-connectors
 description: Leer hoe u de kracht van universele connectors kunt benutten, verbinding kunt maken met een externe API en informatie kunt extraheren uit een array, allemaal in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9010
 exl-id: a44d93cb-6572-497e-b24c-5cacc9d79391
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%

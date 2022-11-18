@@ -1,5 +1,5 @@
 ---
-title: E-mailwaarschuwingen en proofingmeldingen toegelicht
+title: E-mailwaarschuwingen en proefdrukberichten begrijpen
 description: Begrijp het verschil tussen e-mailwaarschuwingen en proefdrukberichten in [!DNL  Workfront].
 feature: Workfront Proof
 type: Tutorial
@@ -8,14 +8,14 @@ level: Beginner
 thumbnail: email-alert-vs-proof-notifications.png
 kt: 10174
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# E-mailwaarschuwing vs. proefdrukmelding
+# E-mailwaarschuwingen en proefdrukberichten begrijpen
 
 E-mailwaarschuwingen zijn anders dan e-mails met een proefdrukbericht. U ontvangt een e-mail met een proefdrukmelding wanneer u een nieuwe proefdruk hebt toegewezen om te controleren, wanneer een proefdruk te laat is of wanneer er een nieuwe versie van de proefdruk beschikbaar is.
 

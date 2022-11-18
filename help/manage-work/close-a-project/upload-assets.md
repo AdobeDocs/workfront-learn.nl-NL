@@ -1,6 +1,8 @@
 ---
 title: Elementen uploaden
 description: Upload documenten, proefdrukken en andere elementen naar het project voordat u het sluit om ervoor te zorgen dat alle relevante gegevens aan het project zijn gekoppeld.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: upload-assets.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%

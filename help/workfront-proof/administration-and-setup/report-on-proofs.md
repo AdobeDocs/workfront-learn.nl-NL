@@ -1,6 +1,8 @@
 ---
-title: Proofing
-description: Leer hoe u de rapportmogelijkheden van de gebruiker kunt gebruiken om de voortgang van de proefdrukken te beheren.
+title: Proefverslagen
+description: Leer hoe u rapportmogelijkheden kunt gebruiken om de voortgang van proefdrukken te beheren.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,9 +10,9 @@ level: Intermediate
 thumbnail: report-on-proofs.png
 kt: 10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---

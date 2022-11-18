@@ -1,6 +1,8 @@
 ---
 title: Zoeken naar aanvragen
 description: Leer hoe u dashboards kunt gebruiken, [!UICONTROL Home]de [!UICONTROL Requests] en de [!UICONTROL Teams] pagina om inkomende verzoeken te vinden die door een verzoekrij worden gemaakt.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: find-requests.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%

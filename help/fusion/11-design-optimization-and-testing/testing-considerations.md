@@ -2,11 +2,14 @@
 title: Testen en starten
 description: Leer hoe u consistent kunt doorlopen in ontwerp en testen en hoe u gedetailleerde en deelbare documentatie kunt maken wanneer u [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%

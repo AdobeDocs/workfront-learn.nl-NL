@@ -1,19 +1,22 @@
 ---
-title: Stappen, cycli en de Doorloop van pakketten
+title: De looppas, cycli, en bundels loopt door
 description: Leer hoe te om verschillende scenario configuraties te gebruiken om het gebruiken van looppas en cycli in te onderzoeken [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 820f35af-a068-4a15-9322-98462964de61
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Bezig met verkennen van looppas, cycli en doorloop van bundels
+# De looppas, cycli, en bundels loopt door
 
 ## Overzicht
 

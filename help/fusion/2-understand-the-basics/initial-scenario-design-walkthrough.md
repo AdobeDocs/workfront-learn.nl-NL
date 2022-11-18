@@ -1,14 +1,17 @@
 ---
-title: Aanvankelijke Analyse van het Scenario-ontwerp
-description: In deze video leert u hoe u mappen en nieuwe scenario's kunt maken, de scenario-ontwerper kunt gebruiken en een basisscenario kunt maken in [!DNL Adobe Workfront Fusion].
+title: Eerste analyse van het scenario ontwerp
+description: Leer hoe te om omslagen en nieuwe scenario's tot stand te brengen, de scenarioontwerper te gebruiken en een basisscenario in te creëren [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---

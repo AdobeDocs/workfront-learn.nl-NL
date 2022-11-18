@@ -1,5 +1,5 @@
 ---
-title: Een proef beoordelen en goedkeuren
+title: Een bewijs controleren en goedkeuren
 description: Leer hoe u toegang kunt krijgen tot een bewijs en opmerkingen kunt plaatsen, markeringen kunt gebruiken om de noodzakelijke wijzigingen aan te geven, opmerkingen kunt beantwoorden en een beslissing kunt nemen over een bewijs in [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: review-approve-digital-work.png
 kt: 8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
 
-# Een digitale proefdruk controleren en goedkeuren
+# Een bewijs controleren en goedkeuren
 
 Voordat u begint met het controleren van een proefdruk, moet u weten wat van u wordt verwacht. Wat is uw rol in het testwerkschema? De proefdruk controleren, goedkeuren of beide?
 

@@ -1,13 +1,15 @@
 ---
 title: Begrijp de projectpagina
 description: Meer informatie over de belangrijkste functies van de projectpagina vindt u in [!DNL  Workfront] om u te helpen uw projecten plannen en beheren.
+activity: use
+team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
 kt: 10142
 exl-id: b56c49a5-bd3b-43b0-8e14-7443f5c7e4b1
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%

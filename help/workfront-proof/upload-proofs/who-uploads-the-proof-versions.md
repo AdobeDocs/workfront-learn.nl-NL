@@ -1,6 +1,8 @@
 ---
 title: Wie uploadt de proefversies?
 description: De persoon die verantwoordelijk is voor het uploaden van proefversies in [!DNL  Workfront] kan variëren. Leer van gemeenschappelijke gebruiksgevallen om de ideale opstelling bij uw organisatie te identificeren.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User
@@ -8,7 +10,7 @@ level: Beginner
 thumbnail: who-uploads-proofs.png
 kt: 10162
 exl-id: e49ce586-ff9e-459c-967f-f974791612cb
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%

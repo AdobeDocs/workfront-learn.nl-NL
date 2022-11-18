@@ -2,13 +2,16 @@
 title: Geavanceerde samenvoegingsanalyse
 description: Leer hoe u een webservice kunt aanroepen om details over meerdere landen te retourneren en om de populatie, gegroepeerd per subregio, te identificeren in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -45,6 +48,10 @@ Om dit te verhinderen, voeg een aggregator na een module toe die potentieel veel
 U zult een schaduw rond om het even welk segment in uw scenario van een zien **beginiterator** aan de **end-aggregator**. Zo kunt u deze segmenten gemakkelijk herkennen in uw Workfront Fusion-scenario.
 
 ## Uw beurt
+
+>[!NOTE]
+>
+>Praktijkoefeningen zijn optioneel en zijn niet nodig om Fusion-training te voltooien.
 
 Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet verstrekt.
 

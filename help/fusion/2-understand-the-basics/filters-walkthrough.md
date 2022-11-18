@@ -1,14 +1,17 @@
 ---
 title: Filters doorlopen
-description: In deze video leert u hoe u een filter kunt toevoegen tussen de twee modules in de modules in [!DNL Adobe Workfront Fusion].
+description: Leer hoe u een filter toevoegt tussen de twee modules in de modules in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -36,6 +39,10 @@ In deze video leert u hoe u:
 >Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Filters doorlopen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) oefening.
 
 ## Uw beurt
+
+>[!NOTE]
+>
+>Praktijkoefeningen zijn optioneel en zijn niet nodig om Fusion-training te voltooien.
 
 Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet verstrekt.
 

@@ -1,6 +1,8 @@
 ---
-title: Details van proefdrukken toegelicht
+title: Details van proefdrukken begrijpen
 description: Dig dieper in op de details achter een bewijs in [!DNL  Workfront] via het overzichtsvenster en [!UICONTROL Document Details] pagina.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,14 +10,14 @@ level: Beginner
 thumbnail: understand-proof-details.png
 kt: 10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 0%
 
 ---
 
-# Overzicht van proefdrukken
+# Details van proefdrukken begrijpen
 
 ## Details van proefdrukken weergeven
 

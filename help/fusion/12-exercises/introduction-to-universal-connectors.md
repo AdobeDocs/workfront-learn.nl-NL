@@ -1,18 +1,21 @@
 ---
 title: Inleiding tot universele aansluitingen
 description: Vergroot uw begrip van het werken met REST universele schakelaars en het werken met de teruggekeerde gegevens.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11042
 thumbnail: KT11042.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
-
 
 # Inleiding tot universele aansluitingen
 
@@ -50,7 +53,7 @@ Gebruikend een karakter Pokemon in een spreadsheet, roep de Pijn API door een sc
    **Haal de Pokemon-gegevens op met de universele aansluiting.**
 
 1. Voeg een HTTP Make een Request module toe.
-1. Gebruik https://pokeapi.co/api/v2/pokemon/ in het veld URL[Teken], waarbij [Teken] wordt in kaart gebracht aan Kolom 3 van de Parse CSV module.
+1. Gebruik in het veld URL `https://pokeapi.co/api/v2/pokemon/[Character]`, waarbij [Teken] wordt in kaart gebracht aan Kolom 3 van de Parse CSV module.
 1. Schakel het selectievakje Reactie pareren in.
 1. Selecteer Geavanceerde instellingen tonen en schakel het selectievakje naast &quot;Alle frames als fouten evalueren&quot; in.
 1. Klik op OK en wijzig de naam van de module &quot;Info over pokemon ophalen&quot;.
