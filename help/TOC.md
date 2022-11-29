@@ -3,7 +3,7 @@ user-guide-description: Workfront-zelfstudies
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1ab337568afd314d461ddea5952c9b4c900b9c26
 workflow-type: tm+mt
 source-wordcount: '2167'
 ht-degree: 0%
@@ -428,7 +428,7 @@ ht-degree: 0%
       + [Routers](fusion/12-exercises/routers.md)
       + [Routeringspatronen](fusion/12-exercises/routing-patterns.md)
       + [Variabelen instellen/ophalen](fusion/12-exercises/set-get-variables.md)
-      + [Inleiding tot iterators](fusion/12-exercises/introduction-to-iterators.md)
+      + [Inleiding tot iterators](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [Samenvoeging](fusion/12-exercises/aggregation.md)
       + [Geavanceerde samenvoeging](fusion/12-exercises/advanced-aggregation.md)
       + [Uitvoeringshistorie](fusion/12-exercises/execution-history.md)
