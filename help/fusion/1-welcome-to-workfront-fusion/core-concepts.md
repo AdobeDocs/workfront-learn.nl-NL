@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ In deze video leert u:
 
 Veel Workfront Fusion-gebruikers bereiken een punt waar ze denken aan alle systemen die ze gebruiken en vragen uiteindelijk: &quot;Heeft Workfront Fusion connectors naar ___ software?&quot; (Vul de blanco in voor de systemen die u gebruikt.)
 
-De eenvoudigste manier om te bepalen of Workfront Fusion een vooraf gebouwde connector heeft, is om de functie App toevoegen te gebruiken en een app op naam te zoeken. U kunt ook de **Apps en modules daarvan** artikel over Experience League voor een lijst met toepassingen waarmee Workfront Fusion verbinding kan maken.
+De eenvoudigste manier om te bepalen of Workfront Fusion een vooraf gebouwde connector heeft, is om de functie App toevoegen te gebruiken en een app op naam te zoeken. U kunt ook de [Apps en modules daarvan](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) artikel over Experience League voor een lijst met toepassingen waarmee Workfront Fusion verbinding kan maken.
 
 Connectors zijn niet beperkt tot de apps in dit artikel. Als de app waarmee u wilt werken geen vooraf gebouwde aansluiting heeft, kunt u deze modules gebruiken om rechtstreeks verbinding te maken met de webservice:
 
