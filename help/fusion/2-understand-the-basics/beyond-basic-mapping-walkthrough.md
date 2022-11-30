@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 >[!NOTE]
 >
->Praktijkoefeningen zijn optioneel en zijn niet nodig om Fusion-training te voltooien.
+>Praktische oefeningen en uitdagingen zijn optioneel en zijn niet nodig om Fusion-training te voltooien.
 
 Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet verstrekt.
 

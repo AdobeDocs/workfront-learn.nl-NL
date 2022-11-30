@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -44,3 +44,18 @@ Workfront biedt geen Workfront Fusion-teststations. Als u de zelfstudies wilt ui
 
 Er zijn geleidelijke instructies bij de voltooiing van de walkthrough oefeningen. U kunt tot deze van de linkernavigatiebar onder Fusie > Oefeningen toegang hebben, of de verbinding gebruiken die bij de bodem van een analyseleerprogramma wordt verstrekt.
 
+### Optionele praktijkoefeningen
+
+De oefeningen en de uitdagingen van de praktijk worden verstrekt na sommige walkthrough oefeningen.
+
+Er zijn verschillende manieren om de oefeningen op het gebied van praktijken op te lossen. De bedoeling is om u uit te dagen om een scenario te proberen te verwezenlijken doelstelling zonder het hebben van stappen te volgen of het &quot;juiste antwoord&quot;omdat dit is wat u wanneer het bouwen van een scenario bij uw bedrijf zult moeten doen.
+
+De oefening van de praktijk houdt verband met de doorloopactiviteit.
+
+De uitdagingen zijn voor degenen die iets willen proberen dat andere concepten impliceert die zij hebben geleerd.
+
+### Hoe krijg je hulp?
+
+De geleidelijke instructies worden verstrekt om u door de walkthrough oefeningen te helpen krijgen.
+
+Er is ook een [Workfront Fusion 2.0-community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) waar je vragen kunt plaatsen.

@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '879'
 ht-degree: 0%
 
 ---
@@ -92,7 +92,7 @@ U kunt de volledige lijst van onze vooraf gebouwde app schakelaars in Experience
 
 >[!NOTE]
 >
->Praktijkoefeningen zijn optioneel en zijn niet nodig om Fusion-training te voltooien.
+>Praktische oefeningen en uitdagingen zijn optioneel en zijn niet nodig om Fusion-training te voltooien.
 
 Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet verstrekt.
 
