@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0c7a19edf43baae69ab78edf7b344641de97912b
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ Op die manier, als u van plan bent om het even welke [!DNL Workfront’s] de hul
 need hyperlink below
 --->
 
-Voor meer informatie over [!UICONTROL Work Effort], zie het het overzichtsartikel van de Werkinspanning.
+Voor meer informatie over [!UICONTROL Work Effort], zie de [Overzicht van werkprestaties](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
