@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
-source-git-commit: 2ee758f7cb3e8d08cc4ec953486be187a59850e7
+source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,3 @@ Voordat u naar proefinstellingen gaat in [!DNL  Workfront], vertrouwd te raken m
 * **E-mailwaarschuwing —** Melding wanneer er activiteit is op het bewijs.
 * **Proefgebruiker —** Iemand met een [!DNL Workfront] Een abonnement- of werklicentie die digitale proefdrukken kan uploaden, reviseren, goedkeuren, beheren, enz.
 
-<!--
-For a complete list of [!DNL Workfront] proof terms, download this guide.
--->
