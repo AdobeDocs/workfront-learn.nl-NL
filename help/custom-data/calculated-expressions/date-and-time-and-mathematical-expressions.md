@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Met datum- en tijdexpressies kunt u belangrijke datums in de rapporten opnemen, 
 
 Wanneer u de beschikbare datum- en tijdexpressies bekijkt, zult u verschillende opties beschikbaar hebben.
 
-![Resourcebeheerinstellingen één pager](assets/DTM01.png)
+![Voorbeeld van datum- en tijdexpressies](assets/datetimeexpressions01.png)
 
 Er zijn twee datum- en tijdexpressiesets die het vaakst worden gebruikt door [!DNL Workfront] klanten:
 
@@ -37,9 +37,11 @@ Wiskundige expressies toestaan [!DNL Workfront] om automatisch berekeningen uit 
 
 Wanneer u de beschikbare datum- en tijdexpressies bekijkt, zult u zien dat er verschillende opties beschikbaar zijn.
 
-![Resourcebeheerinstellingen één pager](assets/math01.png)
+![Voorbeeld van wiskundige expressies](assets/datetimeexpressions02.png)
 
-[!DNL Workfront] klanten gebruiken doorgaans deze twee wiskundige expressiesets:
+Workfront-klanten gebruiken doorgaans deze twee wiskundige expressiesets:
 
 * SUB, SUM, DIV, PROD
 * ROND
+
+<b>OPMERKING</b>: Zie de documentatiepagina &quot;Calculated data expressions&quot; voor een volledige lijst van expressies en meer informatie over elke expressie.

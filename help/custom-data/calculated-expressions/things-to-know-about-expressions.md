@@ -9,58 +9,69 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
 # Informatie over berekende velduitdrukkingen
 
-Hier volgt een lijst met concepten die u goed kunt kennen wanneer u werkt met aangepaste berekende velden in [!DNL Workfront].
+Hier volgt een lijst met concepten die u goed kunt kennen wanneer u werkt met aangepaste berekende velden in Workfront.
 
-## Trappen is niet van belang in expressienamen
+## Hoofdlettergebruik in expressienamen
 
-Als het om de uitdrukkingsnamen gaat, maakt het omhulsel niet uit. U kunt hoofdletters, kleine letters of beide gebruiken. Met de uitdrukking ISBLANK(Beschrijving), kan &quot;ISBLANK&quot;worden geschreven als:
+Als het gaat om expressienamen, is het belangrijk om te trainen. Bij het schrijven van een expressienaam kunt u hoofdletters, kleine letters of een combinatie van beide gebruiken.
 
-* ISBLANK
-* Isblank
-* IsBlank
-* isBLANK
+![Foutbericht zonder hoofdlettergebruik in expressienaam](assets/ttk-casingmatters01.png)
 
-Ze zullen allemaal werken.
+De expressie moet echter als hoofdletters worden geschreven, anders herkent het systeem de expressie en slaat het veld op.
+
+
 
 ## Uren worden in minuten opgeslagen
 
-Uren in [!DNL Workfront’s] de database wordt in minuten opgeslagen. Als u verwijst naar velden zoals Geplande uren of Werkelijke uren, verdeelt u deze door 60 om de tijd in uren en niet minuten weer te geven.
+Uren in de database van Workfront worden in minuten opgeslagen. Als u verwijst naar velden zoals Geplande uren of Werkelijke uren, verdeelt u deze door 60 om de tijd in uren en niet minuten weer te geven.
 
 ## Afstand heeft geen invloed op expressies
 
 De aanbevolen manier om expressies te schrijven is met weinig tot geen spatiëring tussen elke expressie.
 
-* IF(ISBLANK(Description), &quot;No Description&quot;,&quot;Has Description&quot;)
+* IF(ISBLANK({description}), &quot;Geen beschrijving&quot;, &quot;Heeft beschrijving&quot;)
+
+![Expressies zonder tussenruimte tussen velden](assets/spacing01.png)
 
 Als u echter met spatiëring kunt zien wat er gebeurt, kunt u wat afstand aan de expressies toevoegen. De extra spaties mogen niet verhinderen dat de expressie een waarde in [!DNL Workfront].
 
-* INDIEN (ISBLANK (Beschrijving), &quot;Geen beschrijving&quot;,&quot;Heeft beschrijving&quot;)
+* IF (ISBLANK ({description}), &quot;No Description&quot; , &quot;Has Description&quot;)
+
+![Expressies met tussenruimte tussen velden](assets/spacing02.png)
+
+De enige dingen die geen spaties tussen hen kunnen hebben zijn de gebieden en de krullende steunen. Anders ontvangt u een foutbericht en kunt u het veld of het aangepaste formulier niet opslaan.
+
+![Fout bij spatiëring tussen veldnaam en accolade](assets/spacing03.png)
 
 ## Aanhalingstekens moeten recht zijn
 
 Wanneer u aanhalingstekens gebruikt in een expressie, moet u ervoor zorgen dat de aanhalingstekens recht (&quot;) zijn. Wanneer de aanhalingstekens gebogen zijn (&quot;), wordt de [!DNL Workfront] Het systeem zal een &quot;Ongeldig&quot;bericht van de Uitdrukking van de Douane blijven tonen.
 
+![Fout met gekromde aanhalingstekens](assets/curvedquotes01.png)
+
 ## Berekeningen worden bijgewerkt bij het opslaan en bewerken van formulieren
 
 Dit is een belangrijk aspect van berekende velden dat u moet begrijpen.
 
-De informatie die in een berekend veld wordt weergegeven, blijft ongewijzigd en wordt verouderd, tenzij het aangepaste formulier opnieuw wordt berekend. Expressies kunnen worden vernieuwd met de optie Expressies opnieuw berekenen in het menu Meer van een object.
+De informatie die in een berekend veld wordt weergegeven, blijft ongewijzigd en wordt verouderd, tenzij het aangepaste formulier opnieuw wordt berekend.
+
+Expressies kunnen worden vernieuwd met de optie Expressies opnieuw berekenen in het menu Meer van een object.
 
 Je wilt het aantal dagen zien dat een uitgave geopend is. Maak een berekend veld met de expressie DATEDIFF, genaamd &#39;Open dagen&#39;.
 
 * Veldnaam = open dagen
-* expression = DATEDIFF(ingangsdatum,$$TODAY)
+* expression = DATEDIFF({entryDate},$$TODAY)
 
-Nadat u de uitgave hebt opgeslagen, kunt u het aantal dagen tussen het tijdstip waarop de uitgave voor het eerst is gemaakt of waarop u de uitgave hebt ingevoerd, opgeven [!DNL Workfront]en de datum van vandaag kan worden getoond op de detailspagina van een voorwerp of in een rapportmening.
+Als de uitgave eenmaal is opgeslagen, kunt u het aantal dagen tussen het tijdstip waarop de uitgave is gemaakt of in Workfront is ingevoerd en de datum van vandaag weergeven op de detailpagina van een object of in een rapportweergave.
 
 Wanneer u dezelfde detailpagina of rapportweergave de volgende dag weergeeft, verwacht u dat getal met één te verhogen. Als het getal vandaag 5 is, moet het morgen 6 zijn. De volgende dag moet 7 zijn, dan 8, enzovoort.
 
@@ -72,6 +83,8 @@ Een veld bijwerken met de optie Expressies opnieuw berekenen:
 * Klik op het menu Meer.
 * Selecteer Expressies opnieuw berekenen in de lijst.
 
+![Expressieoptie in object opnieuw berekenen](assets/recalculate01.png)
+
 U kunt ook meerdere expressies tegelijkertijd opnieuw berekenen met de functie &quot;bulkbewerking&quot; in een lijst of rapport. Stel dat u een rapport hebt gemaakt met een lijst met problemen in een kolom met de berekening Openen van dagen. Als u alle problemen in één keer opnieuw wilt berekenen:
 
 * Selecteer alle problemen in het rapport.
@@ -79,6 +92,8 @@ U kunt ook meerdere expressies tegelijkertijd opnieuw berekenen met de functie &
 * Klik op het label Aangepaste Forms aan de linkerkant om naar de sectie Aangepaste formulieren te schuiven.
 * Schakel het vak Aangepaste expressies opnieuw berekenen onder aan de sectie Aangepaste Forms in.
 * Klik op Wijzigingen opslaan.
+
+![Expressieoptie voor meerdere objecten opnieuw berekenen](assets/recalculate02.png)
 
 Het scherm wordt vernieuwd om bijgewerkte informatie in het berekende veld weer te geven.
 
@@ -94,7 +109,7 @@ Wanneer een berekend aangepast veld wordt geselecteerd in de veldbibliotheek en 
 
 U hebt bijvoorbeeld een berekend veld met de naam &quot;Aantal dagen om te voltooien&quot; gemaakt om te bepalen hoe lang het duurde om een taak in een project uit te voeren.
 
-* WEEKDAYDIFF (werkelijke begindatum, werkelijke einddatum)
+* WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
 
 Je wilt hetzelfde doen voor een herhaling. U kunt dezelfde expressie gebruiken; de velden die beschikbaar zijn voor een taakobject zijn echter niet altijd beschikbaar voor een herhalingsobject. Dus [!DNL Workfront] kunt u de berekening maken met de juiste objectvelden.
 
