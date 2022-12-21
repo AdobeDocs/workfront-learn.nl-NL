@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -32,31 +32,31 @@ Als u wilt zoeken naar een specifieke waarde in de beschrijving, bijvoorbeeld &q
 
 De ISBLANK-tekstexpressie bevat de naam van de expressie en één gegevenspunt.
 
-**ISBLANK(gegevenspunt)**
+**ISBLANK({data point})**
 
 ![Werklastverdelingsmechanisme met gebruiksrapport](assets/isblank03.png)
 
 In het voorbeeld hierboven—waar u wilt weten of het project een beschrijving heeft—zou de expressie zijn:
 
-ISBLANK(beschrijving)
+ISBLANK({description})
 
 ## BEVATTEN
 
 De tekstexpressie CONTAINS bevat de naam van de expressie, het woord of de woordgroep waarin u zoekt en het veld waarin u wilt zoeken.
 
-**CONTAINS(&quot;frase&quot;,veld)**
+**CONTAINS(&quot;uitdrukking&quot;,{velden})**
 
 Zorg ervoor dat u aanhalingstekens plaatst rond het woord of de woordgroep waarnaar u zoekt, anders is de uitdrukking niet geldig.
 
 In het bovenstaande voorbeeld (waarin wordt gezocht naar &quot;liefdadigheidsgebeurtenis&quot; in de projectomschrijving) zou de expressie als volgt zijn:
 
-**CONTAINS(&quot;charity event&quot;,Description)**
+**CONTAINS(&quot;charity event&quot;,{description})**
 
 ![Werklastverdelingsmechanisme met gebruiksrapport](assets/isblank04.png)
 
 **Opmerking**: De expressie CONTAINS is hoofdlettergevoelig. Als &#39;Charity Event&#39; bijvoorbeeld een hoofdletter is in het beschrijvingsveld, maakt u die zin in de expressie met een hoofdletter.
 
-**CONTAINS(&quot;Charity Event&quot;,description)**
+**CONTAINS(&quot;Charity Event&quot;,{description})**
 
 Zowel de expressies ISBLANK als CONTAINS zijn goed te gebruiken als u wilt zien of een waarde aanwezig is. Het kan echter nuttiger zijn om te weten wat de waarde is, om deze te zien of om een of andere vorm van descriptor te hebben om een beter inzicht te verschaffen.
 
