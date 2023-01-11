@@ -3,9 +3,9 @@ user-guide-description: Workfront-zelfstudies
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
+source-git-commit: 24d3d910949169043c51066f4a48bdaaa63f0dee
 workflow-type: tm+mt
-source-wordcount: '2317'
+source-wordcount: '2315'
 ht-degree: 0%
 
 ---
@@ -16,50 +16,50 @@ ht-degree: 0%
 + [Workfront Tutorials](home.md)
 + Beheer en installatie {#administration-and-setup}
    + Organisatorische instellingen {#organizational-setup}
-      + [Bedrijven maken](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [Groepen en subgroepen maken](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [Teams maken](administration-and-setup/organizational-setup/user-organization-teams.md)
-      + [Aanmelden als een andere gebruiker](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
-      + [Gebruikers instellen met licenties, toegangsniveaus en functies](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Groepen en subgroepen maken](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [Begrijp de behoefte aan groepsbeleid](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
+      + [Bedrijven maken](administration-and-setup/organizational-setup/user-organization-companies.md)
+      + [Gebruikers instellen met licenties, toegangsniveaus en functies](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Aanmelden als een andere gebruiker](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + Verwijderde items beheren {#manage-deleted-items}
       + [Objecten uit de prullenbak herstellen](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
    + Standaardwaarden systeem configureren {#configure-system-defaults}
-      + [Algemene voorkeuren voor standaardproblemen configureren](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [Algemene standaardprojectinstellingen configureren](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
-      + [Een uitgiftestatus maken](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
-      + [Uitgiftesegmenten maken en beheren](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
-      + [Status van systeembrede uitgaven instellen](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
-      + [Typen problemen en terminologie aanpassen](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Standaardinstellingen begrijpen](administration-and-setup/configure-system-defaults/default-issue-types.md)
+      + [Een uitgiftestatus maken](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
+      + [Status van systeembrede uitgaven instellen](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+      + [Uitgiftesegmenten maken en beheren](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
+      + [Typen problemen en terminologie aanpassen](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
+      + [Algemene voorkeuren voor standaardproblemen configureren](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
    + Lay-outsjablonen {#layout-templates}
+      + [Wat zijn lay-outsjablonen?](administration-and-setup/layout-templates/what-are-layout-templates.md)
+      + [Lay-outsjablonen zoeken](administration-and-setup/layout-templates/find-layout-templates.md)
+      + [terminologie aanpassen met lay-outsjablonen](administration-and-setup/layout-templates/customize-workfront-terminology.md)
+      + [De [!UICONTROL Main Menu] met lay-outsjablonen](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [Home aanpassen met lay-outsjablonen](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [Toegang tot lay-outsjablonen toewijzen en beheren](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Objectgebieden aanpassen met een lay-outsjabloon](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [Projectdetails aanpassen met lay-outsjablonen](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
       + [Rapportlijsten aanpassen met lay-outsjablonen](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
-      + [De [!UICONTROL Main Menu] met lay-outsjablonen](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
-      + [Home aanpassen met lay-outsjablonen](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
-      + [terminologie aanpassen met lay-outsjablonen](administration-and-setup/layout-templates/customize-workfront-terminology.md)
-      + [Lay-outsjablonen zoeken](administration-and-setup/layout-templates/find-layout-templates.md)
-      + [Wat zijn lay-outsjablonen?](administration-and-setup/layout-templates/what-are-layout-templates.md)
    + Meldingen via e-mail en in apps {#email-and-in-app-notifications}
-      + [Herinneringsmeldingen toevoegen aan werkitems](administration-and-setup/email-and-in-app-notifications/user-attach-reminder-notifications.md)
-      + [Herinneringsmeldingen instellen](administration-and-setup/email-and-in-app-notifications/admin-create-reminder-notifications.md)
       + [In-app- en e-mailmeldingen beheren](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
-      + [Automatische herinneringen instellen](administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
       + [Gebeurtenismeldingen instellen](administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-      + [Abonneren op tijdelijke objecten](administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
       + [Verzenden [!UICONTROL Announcement Center] berichten](administration-and-setup/email-and-in-app-notifications/admin-use-the-announcement-center.md)
+      + [Herinneringsmeldingen instellen](administration-and-setup/email-and-in-app-notifications/admin-create-reminder-notifications.md)
+      + [Herinneringsmeldingen toevoegen aan werkitems](administration-and-setup/email-and-in-app-notifications/user-attach-reminder-notifications.md)
+      + [Automatische herinneringen instellen](administration-and-setup/email-and-in-app-notifications/admin-set-up-automatic-reminders.md)
+      + [Abonneren op tijdelijke objecten](administration-and-setup/email-and-in-app-notifications/user-subscribe-to-work-items.md)
    + Gebruikers maken en beheren {#create-and-manage-users}
-      + [Gebruikers bulksgewijs toevoegen](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
       + [Gebruikers toevoegen](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
       + [Een individuele gebruiker maken](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
+      + [Gebruikers bulksgewijs toevoegen](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
       + [Gebruikersgegevens wijzigen](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [Wanneer en hoe gebruikers te deactiveren of te schrappen](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [Begrijp het logboek van de systeemcontrole](administration-and-setup/create-and-manage-users/system-audit-log.md)
    + Goedkeuringsprocessen en mijlpaden {#approval-processes-and-milestone-paths}
-      + [Mijlpalen maken](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
       + [Groepsspecifieke goedkeuringsprocedures begrijpen](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
+      + [Mijlpalen maken](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
 
 
@@ -70,106 +70,104 @@ ht-degree: 0%
 
 + Aangepaste gegevens {#custom-data}
    + Aangepaste Forms {#custom-forms}
-      + [Een aangepast formulier aan een object koppelen](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Een aangepast formulier maken en delen](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
-      + [Een aangepast formulier bewerken](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
-      + [Een aangepast formulier exporteren als een PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
       + [Aangepaste velden delen](custom-data/custom-forms/share-custom-fields.md)
+      + [Een aangepast formulier bewerken](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
+      + [Een aangepast formulier aan een object koppelen](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [Een aangepast formulier exporteren als een PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
    + Berekende expressies {#calculated-expressions}
-      + [Een SUB-, SUM-, DIV- of PROD-gegevensexpressie maken](custom-data/calculated-expressions/create-a-sub-sum-div-or-prod-data-expression.md)
-      + [ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS-expressies maken](custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.md)
-      + [Een IF-tekstexpressie maken](custom-data/calculated-expressions/create-an-if-text-expression.md)
-      + [DATEDIFF- en WEEKDAYDIFF-expressies maken](custom-data/calculated-expressions/create-datediff-and-weekdaydiff-expressions.md)
-      + [LEFT/RIGHT-expressies maken](custom-data/calculated-expressions/create-left-right-expressions.md)
       + [Aan de slag met berekende velden en expressies](custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
       + [De structuur van de gegevensexpressie leren](custom-data/calculated-expressions/data-expression-structure.md)
-      + [Informatie over berekende velduitdrukkingen](custom-data/calculated-expressions/things-to-know-about-expressions.md)
       + [Datum- en tijdnotaties en wiskundige expressies begrijpen](custom-data/calculated-expressions/date-and-time-and-mathematical-expressions.md)
-      + [De expressies ISBLANK en CONTAINS gebruiken](custom-data/calculated-expressions/isblank-and-contains.md)
+      + [ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS-expressies maken](custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.md)
       + [De berekeningseditor gebruiken](custom-data/calculated-expressions/use-the-calculation-editor.md)
+      + [DATEDIFF- en WEEKDAYDIFF-expressies maken](custom-data/calculated-expressions/create-datediff-and-weekdaydiff-expressions.md)
+      + [Een SUB-, SUM-, DIV- of PROD-gegevensexpressie maken](custom-data/calculated-expressions/create-a-sub-sum-div-or-prod-data-expression.md)
       + [De expressie CONCAT gebruiken in een berekend veld](custom-data/calculated-expressions/use-the-concat-expression-in-a-calculated-field.md)
+      + [LEFT/RIGHT-expressies maken](custom-data/calculated-expressions/create-left-right-expressions.md)
+      + [De expressies ISBLANK en CONTAINS gebruiken](custom-data/calculated-expressions/isblank-and-contains.md)
+      + [Een IF-tekstexpressie maken](custom-data/calculated-expressions/create-an-if-text-expression.md)
+      + [Informatie over berekende velduitdrukkingen](custom-data/calculated-expressions/things-to-know-about-expressions.md)
 
 
 + Werk beheren {#manage-work}
    + Projecten {#projects}
-      + [De projectstatus wijzigen](manage-work/projects/change-the-project-status.md)
-      + [De projectdetails invullen](manage-work/projects/fill-in-the-project-details.md)
-      + [Projecten zoeken](manage-work/projects/find-projects.md)
-      + [Beginnen met het beheren van een project](manage-work/projects/getting-started-manage-a-project.md)
-      + [Aan de slag met het plannen van een project](manage-work/projects/getting-started-plan-a-project.md)
-      + [Navigeren door de projectpagina](manage-work/projects/navigate-the-project-page.md)
-      + [Een project delen](manage-work/projects/share-a-project.md)
-      + [Een project live uitvoeren](manage-work/projects/take-a-project-live.md)
-      + [De voortgang van het project bijhouden](manage-work/projects/track-overall-project-progress.md)
-      + [Voortgang van het werk bijhouden met projectmetriek](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Basisproject maken](manage-work/projects/understand-basic-project-creation.md)
       + [Andere manieren begrijpen om projecten te maken](manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [De projectdetails invullen](manage-work/projects/fill-in-the-project-details.md)
+      + [Navigeren door de projectpagina](manage-work/projects/navigate-the-project-page.md)
+      + [Aan de slag met het plannen van een project](manage-work/projects/getting-started-plan-a-project.md)
+      + [Een project live uitvoeren](manage-work/projects/take-a-project-live.md)
+      + [Beginnen met het beheren van een project](manage-work/projects/getting-started-manage-a-project.md)
+      + [Projecten zoeken](manage-work/projects/find-projects.md)
+      + [Een project delen](manage-work/projects/share-a-project.md)
       + [Projectcommunicatie begrijpen](manage-work/projects/understand-project-communication.md)
-      + [Begrijp het [!UICONTROL Gantt] weergave](manage-work/projects/understand-the-gantt-view.md)
       + [Projectinformatie weergeven](manage-work/projects/view-project-information.md)
+      + [De voortgang van het project bijhouden](manage-work/projects/track-overall-project-progress.md)
+      + [Voortgang van het werk bijhouden met projectmetriek](manage-work/projects/track-work-progress-with-project-metrics.md)
+      + [Begrijp het [!UICONTROL Gantt] weergave](manage-work/projects/understand-the-gantt-view.md)
+      + [De projectstatus wijzigen](manage-work/projects/change-the-project-status.md)
    + Taken {#tasks}
-      + [Taken toewijzen vanuit het projectplan](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [Hoe te om taken tot stand te brengen](manage-work/tasks/how-to-create-tasks.md)
-      + [Leren om taken uit te voeren](manage-work/tasks/learn-to-sequence-tasks.md)
-      + [Begrijpen [!UICONTROL Work Effort]](manage-work/tasks/understand-work-effort.md)
       + [Bovenliggende taken begrijpen](manage-work/tasks/understand-parent-child-tasks.md)
-      + [Begrijp geplande uren](manage-work/tasks/understand-planned-hours.md)
-      + [Begrijp taakduur](manage-work/tasks/understand-task-durations.md)
       + [Werken met taken](manage-work/tasks/work-with-tasks.md)
+      + [Taken toewijzen vanuit het projectplan](manage-work/tasks/assign-tasks-from-the-project-plan.md)
+      + [Begrijp taakduur](manage-work/tasks/understand-task-durations.md)
+      + [Leren om taken uit te voeren](manage-work/tasks/learn-to-sequence-tasks.md)
+      + [Begrijp geplande uren](manage-work/tasks/understand-planned-hours.md)
+      + [Begrijpen [!UICONTROL Work Effort]](manage-work/tasks/understand-work-effort.md)
    + Problemen/verzoeken {#issues-requests}
-      + [Uitgaven converteren naar andere werkitems](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [Een project maken op basis van een aanvraag](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Zoeken naar aanvragen](manage-work/issues-requests/find-requests.md)
       + [Niet-gepland werk verwerken](manage-work/issues-requests/handle-unplanned-work.md)
       + [Een aanvraag indienen](manage-work/issues-requests/make-a-request.md)
+      + [Zoeken naar aanvragen](manage-work/issues-requests/find-requests.md)
       + [Aanvragen beheren](manage-work/issues-requests/manage-incoming-requests.md)
-      + [Digitaal werk bekijken](manage-work/issues-requests/review-and-approve-digital-work.md)
-      + [Een verzoek bijwerken](manage-work/issues-requests/update-a-request.md)
       + [Uitgave-toewijzingen beheren](manage-work/issues-requests/manage-issue-assignments.md)
+      + [Een verzoek bijwerken](manage-work/issues-requests/update-a-request.md)
+      + [Een project maken op basis van een aanvraag](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Uitgaven converteren naar andere werkitems](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Digitaal werk bekijken](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Verslag over kwesties](manage-work/issues-requests/report-on-issues.md)
    + Portfolio {#portfolios}
       + [Overzicht van portefeuilles](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Inleiding tot de Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
       + [Prioriteit geven aan en werk beheren met portfolio&#39;s](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
    + Wachtrijen aanvragen {#request-queues}
-      + [Een aanvraagstroom maken](manage-work/request-queues/create-a-request-flow.md)
-      + [Een aanvraagwachtrij maken](manage-work/request-queues/create-a-request-queue.md)
       + [Inzicht in aanvraagwachtrijen](manage-work/request-queues/understand-request-queues.md)
       + [Instellingen voor een stroomaanvraag begrijpen](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Een aanvraagwachtrij maken](manage-work/request-queues/create-a-request-queue.md)
+      + [Een aanvraagstroom maken](manage-work/request-queues/create-a-request-flow.md)
    + Goedkeuringsprocessen en mijlpaden {#approval-processes-and-milestone-paths}
-      + [Mijlpalen toepassen](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-      + [Bestaande goedkeuringsprocessen bijvoegen en bewerken](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Een goedkeuringsproces voor eenmalig gebruik maken](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Bestaande goedkeuringsprocessen bijvoegen en bewerken](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Taken, problemen en goedkeuringen delegeren](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Mijlpalen weergeven](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+      + [Mijlpalen toepassen](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
    + Projectsjablonen maken en beheren {#create-and-manage-project-templates}
       + [Een projectsjabloon maken](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Een project rechtstreeks vanuit een sjabloon maken](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Een projectsjabloon delen](manage-work/create-and-manage-project-templates/share-a-project-template.md)
-   + Projecten beheren {#manage-projects}
       + [Een bestaand project kopiëren](manage-work/manage-projects/copy-an-existing-project.md)
    + Projecttijdlijnen {#project-timelines}
-      + [Voortgang van project bijhouden](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
-      + [Datatypen en voortgangsstatus begrijpen](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [Projecttijdlijnen begrijpen](manage-work/project-timelines/understand-project-timelines.md)
+      + [Datatypen en voortgangsstatus begrijpen](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+      + [Voortgang van project bijhouden](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
    + Een project sluiten {#close-a-project}
       + [Een project sluiten](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [Taken en problemen sluiten](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Goedkeuring voltooien](manage-work/close-a-project/complete-approvals.md)
+      + [Elementen uploaden](manage-work/close-a-project/upload-assets.md)
       + [Opgenomen lessen vastleggen](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Logboek- en controleuren](manage-work/close-a-project/log-and-review-hours.md)
-      + [Elementen uploaden](manage-work/close-a-project/upload-assets.md)
       + [Een projectactiviteit sluiten](manage-work/close-a-project/close-a-project-activity.md)
    + Projectfinanciën {#project-finances}
-      + [Zoeken naar financiële informatie](manage-work/project-finances/find-financial-information.md)
+      + [Prestatiewaarden begrijpen](manage-work/project-finances/understand-performance-metrics.md)
+      + [Taakontvangsten en standaardinstellingen voor kosten instellen](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Wisselkoersen instellen](manage-work/project-finances/set-up-exchange-rates.md)
       + [uitgaventypen instellen](manage-work/project-finances/set-up-expense-types.md)
-      + [Taakontvangsten en standaardinstellingen voor kosten instellen](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [Begrijp financiële toegang](manage-work/project-finances/understand-financial-access.md)
-      + [Meerdere factureringssnelheden begrijpen](manage-work/project-finances/multiple-billing-rates.md)
-      + [Prestatiewaarden begrijpen](manage-work/project-finances/understand-performance-metrics.md)
       + [Financiën bijwerken en herzien](manage-work/project-finances/update-and-review-finances.md)
-
+      + [Zoeken naar financiële informatie](manage-work/project-finances/find-financial-information.md)
+      + [Meerdere factureringssnelheden begrijpen](manage-work/project-finances/multiple-billing-rates.md)
 
 
 
@@ -252,33 +250,33 @@ ht-degree: 0%
       + [Bronbeheerinstellingen voor gebruikers](manage-resources/resource-management/settings-for-users.md)
       + [Instellingen voor beheer van bronnen, werklastbalans en gebruiksrapport](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
    + Werklastverdeling {#workload-balancer}
-      + [De dagelijkse toewijzingen in de werklastbalans aanpassen](manage-resources/workload-balancer/adjust-daily-allocations.md)
-      + [Werk toewijzen in Workload Balancer](manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
-      + [De werklastbalans filteren](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [De werklastbalans zoeken](manage-resources/workload-balancer/find-the-workload-balancer.md)
-      + [In overweging te nemen instellingen voor werklastverdeling](manage-resources/workload-balancer/settings-to-consider-for-the-workload-balancer.md)
+      + [De werklastbalans filteren](manage-resources/workload-balancer/filter-unassigned-and-assigned-work-areas.md)
       + [Toewijzingen van gebruikers weergeven in Workload Balancer](manage-resources/workload-balancer/view-user-allocations.md)
+      + [De dagelijkse toewijzingen in de werklastbalans aanpassen](manage-resources/workload-balancer/adjust-daily-allocations.md)
+      + [In overweging te nemen instellingen voor werklastverdeling](manage-resources/workload-balancer/settings-to-consider-for-the-workload-balancer.md)
+      + [Werk toewijzen in Workload Balancer](manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
    + Bronplanning {#resource-planning}
+      + [Wat is de Resource Planner?](manage-resources/resource-planning/what-is-the-resource-planner.md)
+      + [Gebruik weergeven](manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
+      + [Weergeven op gebruikers](manage-resources/resource-planning/view-by-users/view-by-users.md)
       + [Weergeven op taakrol](manage-resources/resource-planning/view-by-job-role/view-by-job-role.md)
       + [Weergeven op project](manage-resources/resource-planning/view-by-project/view-by-project.md)
-      + [Weergeven op gebruikers](manage-resources/resource-planning/view-by-users/view-by-users.md)
-      + [Gebruik weergeven](manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
-      + [Wat is de Resource Planner?](manage-resources/resource-planning/what-is-the-resource-planner.md)
    + Persoonlijke tijd uit kalender {#personal-time-off-calendar}
+      + [Waarom de tijd van de kalender gebruiken?](manage-resources/pto/why-use-time-off-calendar.md)
       + [Hoe tijd van invloed is op projecttijdlijnen](manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [Andere gebruikers tijd uit beheren](manage-resources/pto/manage-other-users-time-off.md)
       + [Ontdek de tijd bij het toewijzen van taken](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Zichtbaarheid in hulpmiddelen voor middelenbeheer](manage-resources/pto/visibility-in-resource-management-tools.md)
-      + [Waarom de tijd van de kalender gebruiken?](manage-resources/pto/why-use-time-off-calendar.md)
    + Scenario Planner {#scenario-planner}
       + [Een moment met product over de Planner van het Scenario](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+      + [Wat is de Scenario Planner?](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [Een abonnement openen in Scenario Planner](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
-      + [De rol, het budget en de kosteninformatie van de baan in de Planner van het Scenario aanpassen](manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
-      + [Initiatieven maken met een abonnement](manage-resources/scenario-planner/creating-initiatives-within-a-plan.md)
       + [Abonnementen maken in het deelvenster Scenario](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
-      + [Een scenario publiceren](manage-resources/scenario-planner/publish-a-scenario.md)
+      + [Initiatieven maken met een abonnement](manage-resources/scenario-planner/creating-initiatives-within-a-plan.md)
+      + [De rol, het budget en de kosteninformatie van de baan in de Planner van het Scenario aanpassen](manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
       + [Plannen bijwerken en kopiëren](manage-resources/scenario-planner/update-and-copy-plans.md)
-      + [Wat is de functie Scenario Planner?](manage-resources/scenario-planner/what-is-scenario-planner.md)
+      + [Een scenario publiceren](manage-resources/scenario-planner/publish-a-scenario.md)
 
 
 
@@ -286,40 +284,40 @@ ht-degree: 0%
 
 + Workfront-doelen {#workfront-goals}
    + Een visie voor uw org opbouwen {#establish-a-vision-and-strategy}
-      + [Begrijp hoe Workfront Goals werkt](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
-      + [Groepen en teams op uw strategie afstemmen](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
-      + [Samenwerken rond bedrijfs- en organisatorische doelstellingen](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-      + [Een duidelijke objectieve verklaring maken](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
-      + [Stel een visie en strategie voor uw org vast](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
-      + [Begrijp hoe Workfront-doelen in uw werkcyclus passen](workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [Begrijp de visie achter Workfront-doelen](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
+      + [Begrijp hoe Workfront Goals werkt](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
+      + [Begrijp hoe Workfront-doelen in uw werkcyclus passen](workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
+      + [Stel een visie en strategie voor uw org vast](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
+      + [Een duidelijke objectieve verklaring maken](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
+      + [Samenwerken rond bedrijfs- en organisatorische doelstellingen](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
+      + [Groepen en teams op uw strategie afstemmen](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
    + Uw doelen maken {#create-goals}
       + [Begrijpen hoe te gebruiken [!UICONTROL Workfront Goals]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
-      + [Een bestaand doel kopiëren](workfront-goals/create-your-goals/copy-an-existing-goal.md)
+      + [Instellen [!UICONTROL Workfront Goals] voor uw organisatie](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
+      + [Toegang tot geselecteerde gebruikers verlenen aan doelen](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [Een lay-outsjabloon maken voor [!UICONTROL Workfront Goals] gebruikers](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
       + [Doelen maken](workfront-goals/create-your-goals/create-goals-in-workfront.md)
-      + [Toegang tot geselecteerde gebruikers verlenen aan doelen](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
-      + [Instellen [!UICONTROL Workfront Goals] voor uw organisatie](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
+      + [Een bestaand doel kopiëren](workfront-goals/create-your-goals/copy-an-existing-goal.md)
    + Uw doelen activeren {#activate-goals}
-      + [Activeren door een doel op een andere uit te lijnen](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [Doelstellingen activeren](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
+      + [Activeren door een doel op een andere uit te lijnen](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [Een resultaat toevoegen aan een doel](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
       + [Een activiteit toevoegen aan een doel](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
    + Uw doelstellingen beheren {#manage-goals}
       + [Lijn uw doelstellingen uit](workfront-goals/manage-your-goals/align-your-goals.md)
-      + [Een doel sluiten zodra dit is voltooid](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
+      + [Doeluitlijning verwijderen](workfront-goals/manage-your-goals/remove-goal-alignment.md)
       + [Een activiteit omzetten in een uitgelijnd doel](workfront-goals/manage-your-goals/convert-an-activity-to-an-aligned-goal.md)
       + [Een kwalitatieve update uitvoeren](workfront-goals/manage-your-goals/make-a-qualitative-update.md)
       + [Een kwantitatieve update uitvoeren](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
       + [Verbind manueel doelstellingen met elkaar](workfront-goals/manage-your-goals/manually-connect-goals-to-one-another.md)
-      + [Doeluitlijning verwijderen](workfront-goals/manage-your-goals/remove-goal-alignment.md)
       + [Doelstellingen bijhouden en bijwerken met [!UICONTROL Check-ins]](workfront-goals/manage-your-goals/track-and-update-goals-using-check-ins.md)
+      + [Een doel sluiten zodra dit is voltooid](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + Uw doelen bewaken {#monitor-goals}
+      + [De sectie Grafieken begrijpen](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
+      + [Individuele doelupdates weergeven](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)
       + [Voortgang van doel berekenen](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [Doelstatus communiceren](workfront-goals/monitor-your-goals/communicate-goal-status.md)
       + [Navigeren door de [!UICONTROL Pulse] updatestroom](workfront-goals/monitor-your-goals/navigate-the-pulse-update-stream.md)
-      + [De sectie Grafieken begrijpen](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
-      + [Individuele doelupdates weergeven](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)
 
 
 
@@ -328,8 +326,8 @@ ht-degree: 0%
 
 + Integraties {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Proefbestanden uploaden met Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
       + [Workfront gebruiken voor Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
+      + [Proefbestanden uploaden met Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [Configureren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Metagegevens toewijzen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
@@ -350,12 +348,12 @@ ht-degree: 0%
       + [Adobe Workfront-verzoeken vanuit Microsoft Teams verzenden](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
       + [Adobe Workfront-meldingen beheren in Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
    + Slack {#slack}
+      + [Workfront begrijpen voor [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
+      + [Recente werk weergeven via [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
       + [Heb toegang tot uw aan-doe lijst door [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
       + [Taken toewijzen via [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
       + [Goedkeuringen maken via [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
       + [Zoeken in Workfront via [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
-      + [Workfront begrijpen voor [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-      + [Recente werk weergeven via [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
 
 
 
@@ -471,8 +469,8 @@ ht-degree: 0%
    + [Begrijp het verschil tussen een document en een proef](workfront-proof/document-vs-proof.md)
    + [Verklarende revisoren controleren](workfront-proof/two-options-for-the-proofing-viewers.md)
 
-
    + Beheer en installatie {#administration-and-setup-for-proof}
+      + [Wat is een geautomatiseerde werkstroomsjabloon](workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
       + [Handelingen voor opmerkingen bij een proefdruk aanpassen](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [Opties voor proefdrukbeslissingen aanpassen](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
       + [E-mailwaarschuwingen en proefdrukberichten begrijpen](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
@@ -483,45 +481,47 @@ ht-degree: 0%
       + [Standaardinstellingen proefdrukaccount instellen](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [Instellingen voor proefdrukgebruikers](workfront-proof/administration-and-setup/settings-for-proof-users.md)
       + [Algemene instellingen voor proefdrukken instellen](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
-      + [Wat is een geautomatiseerde werkstroomsjabloon](workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
    + Proefdrukken uploaden {#upload-proofs}
-      + [Meerdere bestanden combineren tot één proefdruk](workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
+      + [Wat is een proefversie?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [Wie uploadt de proefversies?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Een document converteren naar een proefdruk](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
+      + [Proefversies weergeven en vergelijken](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
+      + [Een proefdrukversie uploaden](workfront-proof/upload-proofs/upload-a-proof-version.md)
       + [Proefversies beheren](workfront-proof/upload-proofs/manage-proof-versions.md)
       + [Een proefdruk van een video uploaden](workfront-proof/upload-proofs/other-types-of-digital-assets.md)
       + [Een proefdruk van een website uploaden](workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
-      + [Een proefdrukversie uploaden](workfront-proof/upload-proofs/upload-a-proof-version.md)
       + [Een proefdruk uploaden met een standaardworkflow](workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
       + [Een proefdruk uploaden met een geautomatiseerde workflow](workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
       + [Uploaden met slepen en neerzetten](workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
-      + [Proefversies weergeven en vergelijken](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
-      + [Wat is een proefversie?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [Wie uploadt de proefversies?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [Meerdere bestanden combineren tot één proefdruk](workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
    + Workflows proefdrukken {#proof-workflows}
       + [Workflows voor proefdrukken begrijpen als onderdeel van projecttijdlijnen](workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
       + [Een proefdrukworkflow bewerken](workfront-proof/proof-workflows/edit-a-proof-workflow.md)
-      + [Een sjabloon voor een geautomatiseerde workflow maken](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
       + [Sjabloongroepen maken om automatische workflowsjablonen te organiseren](workfront-proof/administration-and-setup/create-template-groups.md)
+      + [Een sjabloon voor een geautomatiseerde workflow maken](workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
       + [Een sjabloon voor een geautomatiseerde workflow bewerken](workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
    + Werk beoordelen en goedkeuren {#review-and-approve-work-for-proof}
-      + [Proefdrukopmerkingen beheren](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [Navigeren door de proefdrukviewer](workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
-      + [Details van proefdrukken begrijpen](workfront-proof/review-and-approve-work/proof-details-overview.md)
-      + [Een video met proefafdruk bekijken](workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
-      + [Een website controleren met een proefdruk](workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
       + [Een bewijs controleren en goedkeuren](workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
       + [Opmerkingen bij proefdrukken bekijken en hierop reageren](workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
+      + [Een video met proefafdruk bekijken](workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
+      + [Een website controleren met een proefdruk](workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
+      + [Details van proefdrukken begrijpen](workfront-proof/review-and-approve-work/proof-details-overview.md)
+      + [Proefdrukopmerkingen beheren](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [Voortgang proefdruk bijhouden](workfront-proof/review-and-approve-work/track-proof-progress.md)
+
+
+
 
 + Workfront DAM {#workfront-dam-program}
    + Systeeminstellingen {#system-setup}
       + [Begrijpen [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
+      + [Systeeminstellingen begrijpen](workfront-dam/system-setup/system-setup-system-settings.md)
+      + [Begrijpen [!UICONTROL Brand Portal]](workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
       + [Analyseer en plant een [!DNL Workfront DAM] strategie](workfront-dam/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.md)
+      + [Groepen en gebruikers instellen](workfront-dam/system-setup/system-setup-groups-and-users.md)
       + [Integratie in Workfront configureren](workfront-dam/system-setup/configure-the-integration-in-workfront.md)
       + [Aanpassen [!DNL Workfront DAM]](workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
-      + [Groepen en gebruikers instellen](workfront-dam/system-setup/system-setup-groups-and-users.md)
-      + [Begrijpen [!UICONTROL Brand Portal]](workfront-dam/system-setup/brand-connect-brand-portal-introduction.md)
-      + [Systeeminstellingen begrijpen](workfront-dam/system-setup/system-setup-system-settings.md)
    + Metagegevens en trefwoorden {#metadata-and-keywords}
       + [Metagegevens begrijpen](workfront-dam/metadata-and-keywords/metadata-introduction.md)
       + [Trefwoordtaxonomie inschakelen en afdwingen](workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
@@ -532,22 +532,22 @@ ht-degree: 0%
       + [Trefwoorden voor metagegevens instellen](workfront-dam/metadata-and-keywords/keyword-setup.md)
       + [De metagegevens instellen](workfront-dam/metadata-and-keywords/metadata-setup.md)
    + Merk Connect aanpassen {#brand-connect-customization}
+      + [Wat is [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+      + [Systeeminstellingen vaststellen in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [Aangepaste pagina&#39;s toevoegen in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
       + [Richtlijnen voor merken maken in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)
       + [De weergave aanpassen van [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/customize-the-appearance-of-brand-connect.md)
       + [De vormgeving aanpassen van [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/customize-the-look-of-brand-connect.md)
-      + [Systeeminstellingen vaststellen in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
-      + [Wat is [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
    + Workfront DAM-gebruiker: Medewerker {#workfront-dam-contributor}
-      + [Voeg een [!UICONTROL Workfront DAM] link](workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
-      + [Elementen publiceren als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
-      + [Een bestand verzenden als contribuant](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [Begrijpen [!UICONTROL Workfront DAM] als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-getting-started.md)
       + [Beheer van bedrijfsmiddelen als contribuant begrijpen](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Begrijp het vinden van activa als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [Lichtbakken begrijpen als auteur](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
       + [De beste werkwijzen voor metagegevens en trefwoorden als medewerker begrijpen](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Werken met elementen als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
+      + [Een bestand verzenden als contribuant](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
+      + [Elementen publiceren als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
+      + [Voeg een [!UICONTROL Workfront DAM] link](workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
    + Merk Connect-gebruiker {#brand-connect}
       + [Begrijpen [!UICONTROL Brand Connect] als gebruiker](workfront-dam/brand-connect-user/brand-connect-introduction.md)
       + [Begrijpen [!UICONTROL Brand Connect] meldingen](workfront-dam/brand-connect-user/brand-connect-notifications.md)
@@ -561,15 +561,15 @@ ht-degree: 0%
 
 
 + Home {#home}
-   + [Werk goedkeuren in [!UICONTROL Home]](workfront-home/approve-work-in-workfront-home.md)
-   + [Samenwerken aan het werk met [!UICONTROL My Updates]](workfront-home/collaborate-on-work-with-my-updates.md)
-   + [Communiceren over werk](workfront-home/communicate-about-work-in-workfront-home.md)
    + [Uw werk zoeken](workfront-home/find-your-work-in-workfront-home.md)
-   + [Werkstatus aangeven](workfront-home/indicate-work-status-in-workfront-home.md)
-   + [Aantal arbeidsuren](workfront-home/log-hours-on-work-in-workfront-home.md)
-   + [Toegewezen werk als voltooid markeren](workfront-home/mark-assigned-work-as-complete.md)
    + [Uw lijst met taken ordenen](workfront-home/organize-your-to-do-list-in-workfront-home.md)
    + [Prioriteit geven aan uw werk](workfront-home/prioritize-your-work-in-workfront-home.md)
+   + [Werkstatus aangeven](workfront-home/indicate-work-status-in-workfront-home.md)
+   + [Communiceren over werk](workfront-home/communicate-about-work-in-workfront-home.md)
+   + [Aantal arbeidsuren](workfront-home/log-hours-on-work-in-workfront-home.md)
+   + [Toegewezen werk als voltooid markeren](workfront-home/mark-assigned-work-as-complete.md)
+   + [Werk goedkeuren in [!UICONTROL Home]](workfront-home/approve-work-in-workfront-home.md)
+   + [Samenwerken aan het werk met [!UICONTROL My Updates]](workfront-home/collaborate-on-work-with-my-updates.md)
    + [Werk controleren in [!UICONTROL My Updates] of [!UICONTROL Home]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
    + [Updates en meldingen begrijpen](manage-work/issues-requests/understand-updates-and-notifications.md)
 
@@ -585,13 +585,13 @@ ht-degree: 0%
       + [Een Kanban-team maken](agile/create-a-kanban-team.md)
       + [Werk beheren als Kanban-team](agile/manage-work-kanban-team.md)
    + Borden  {#boards}
-      + [Kolominstellingen toevoegen en bewerken op een board](boards/add-and-edit-column-settings-on-a-board.md)
-      + [Codes voor kaarten toevoegen en beheren](boards/add-and-manage-tags-for-cards.md)
-      + [Teamleden toevoegen en beheren voor een board](boards/add-and-manage-team-members-for-a-board.md)
-      + [Kaarten aan een bord toevoegen](boards/add-cards-to-a-board.md)
       + [Een basisbord zoeken en maken](boards/find-and-create-a-basic-board.md)
       + [Bordkolommen beheren](boards/manage-board-columns.md)
+      + [Kaarten aan een bord toevoegen](boards/add-cards-to-a-board.md)
       + [Kaarten op de kaart beheren](boards/manage-cards-on-a-board.md)
+      + [Teamleden toevoegen en beheren voor een board](boards/add-and-manage-team-members-for-a-board.md)
+      + [Kolominstellingen toevoegen en bewerken op een board](boards/add-and-edit-column-settings-on-a-board.md)
+      + [Codes voor kaarten toevoegen en beheren](boards/add-and-manage-tags-for-cards.md)
 
 
 
