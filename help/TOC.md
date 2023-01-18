@@ -3,9 +3,9 @@ user-guide-description: Workfront-zelfstudies
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 24d3d910949169043c51066f4a48bdaaa63f0dee
+source-git-commit: dbc68ed71e366a49a85a2941730338e34ffc5e4d
 workflow-type: tm+mt
-source-wordcount: '2315'
+source-wordcount: '2327'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,9 @@ ht-degree: 0%
    + Goedkeuringsprocessen en mijlpaden {#approval-processes-and-milestone-paths}
       + [Groepsspecifieke goedkeuringsprocedures begrijpen](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
       + [Mijlpalen maken](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+   + Systeemprestaties en -onderhoud {#system-perfomance-and-maintenance}
+      + [Een bestaande Adobe Workfront-instantie beheren](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
