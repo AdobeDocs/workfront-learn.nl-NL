@@ -3,9 +3,9 @@ user-guide-description: Workfront-zelfstudies
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: dbc68ed71e366a49a85a2941730338e34ffc5e4d
+source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
 workflow-type: tm+mt
-source-wordcount: '2327'
+source-wordcount: '2333'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 0%
       + [Toegang tot lay-outsjablonen toewijzen en beheren](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Objectgebieden aanpassen met een lay-outsjabloon](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [Projectdetails aanpassen met lay-outsjablonen](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
+      + [Projectkoppen aanpassen met lay-outsjablonen](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
       + [Rapportlijsten aanpassen met lay-outsjablonen](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
    + Meldingen via e-mail en in apps {#email-and-in-app-notifications}
       + [In-app- en e-mailmeldingen beheren](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
