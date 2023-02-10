@@ -1,17 +1,17 @@
 ---
-user-guide-description: Workfront-zelfstudies
+user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
+source-git-commit: 5665cdab87bf09dc9fde94137481fba4d9764cf4
 workflow-type: tm+mt
-source-wordcount: '2333'
+source-wordcount: '2326'
 ht-degree: 0%
 
 ---
 
 
-# Workfront-zelfstudies {#tutorials-workfront}
+# Workfront-tutorials {#tutorials-workfront}
 
 + [Workfront Tutorials](home.md)
 + Beheer en installatie {#administration-and-setup}
@@ -330,8 +330,7 @@ ht-degree: 0%
 
 + Integraties {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Workfront gebruiken voor Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
-      + [Proefbestanden uploaden met Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
+      + [Adobe Workfront-extensies gebruiken voor Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [Configureren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Metagegevens toewijzen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
