@@ -8,16 +8,23 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: null
-source-git-commit: 2676209549c4805d372eacaf62daef2cd2481c11
+source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Adobe Workfront-extensies gebruiken voor Creative Cloud
 
-U kunt het werk dat u in Adobe Workfront hebt toegewezen, zoeken en bijwerken zonder de volgende Adobe Creative Cloud-toepassingen te verlaten: Photoshop, XD, InDesign, Illustrator, Premiere Pro en After Effects.
+U kunt het werk dat in Adobe Workfront aan u is toegewezen, zoeken en bijwerken zonder de volgende Adobe Creative Cloud-toepassingen te verlaten:
+
+* Photoshop
+* XD
+* InDesign
+* Illustrator
+* Premiere Pro
+* After Effects
 
 U moet de juiste insteekmodule installeren voor de Adobe Creative Cloud-toepassing die u gebruikt:
 
@@ -27,7 +34,7 @@ U moet de juiste insteekmodule installeren voor de Adobe Creative Cloud-toepassi
 
 >[!NOTE]
 >
->Houd er rekening mee dat voor **Premiere Pro** en **After Effects** uploaden naar video&#39;s en revisie en goedkeuring in Workfront zijn momenteel niet beschikbaar via de plug-in.
+>**Premiere Pro** en **After Effects** uploaden van video&#39;s en revisie en goedkeuring in Workfront zijn momenteel niet beschikbaar via de plug-in.
 
 
 In deze video leert u het volgende doen vanuit uw Creative Cloud-app:
