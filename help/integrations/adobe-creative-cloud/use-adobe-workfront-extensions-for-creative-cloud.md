@@ -1,5 +1,5 @@
 ---
-title: Adobe Workfront-extensies gebruiken voor Creative Cloud
+title: Adobe Workfront-plug-ins gebruiken voor Creative Cloud
 description: Zoek en werk dat aan u is toegewezen in Adobe Workfront zonder de volgende Adobe Creative Cloud-toepassingen te verlaten - Photoshop, XD, InDesign, Illustrator, Premiere Pro en After Effects
 activity: use
 feature: Workfront Integrations and Apps
@@ -7,15 +7,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
+kt: 8811
+source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Adobe Workfront-extensies gebruiken voor Creative Cloud
+# Adobe Workfront-plug-ins gebruiken voor Creative Cloud
 
 U kunt het werk dat in Adobe Workfront aan u is toegewezen, zoeken en bijwerken zonder de volgende Adobe Creative Cloud-toepassingen te verlaten:
 
@@ -30,7 +30,7 @@ U moet de juiste insteekmodule installeren voor de Adobe Creative Cloud-toepassi
 
 * Voor Photoshop, zie [Adobe Workfront voor Photoshop installeren en openen](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
 * Zie voor XD [Adobe Workfront voor XD installeren en openen](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* Ga voor InDesign, Illustrator, Premiere Pro en After Effects naar [Adobe Workfront voor ontwerp en video installeren en openen](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* Voor InDesign, Illustrator, Premiere Pro en After Effects raadpleegt u [Adobe Workfront voor ontwerp en video installeren en openen](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
 
 >[!NOTE]
 >
@@ -41,8 +41,10 @@ In deze video leert u het volgende doen vanuit uw Creative Cloud-app:
 
 * Workfront-toewijzingen zoeken
 * Bestanden uploaden naar Workfront
+* Opmerkingen en teamleden toevoegen
 * Documentgoedkeuring aanvragen
 * Proefbestanden uploaden en een proefdrukworkflow toewijzen
+* Logtijd
 * Uw werk markeren voltooid
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12)
