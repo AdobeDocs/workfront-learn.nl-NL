@@ -1,6 +1,6 @@
 ---
 title: Dashboards maken
-description: Leer hoe u een verscheidenheid aan lijstrapporten, grafieken, kalenders en externe Web-pagina's in een dashboard in Workfront combineert.
+description: Leer hoe u verschillende lijstrapporten, grafieken, agenda's en externe webpagina's kunt combineren in een dashboard in Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '417'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 

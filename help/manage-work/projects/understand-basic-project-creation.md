@@ -1,6 +1,6 @@
 ---
 title: Basisproject maken
-description: Leer de vier stappen om een project aan de slag te krijgen, de definitie van een project, en de drie gemeenschappelijkste manieren om een project tot stand te brengen.
+description: Leer de vier stappen om een project te beginnen, de definitie van een project en de drie meest gebruikelijke manieren om een project te maken.
 activity: use
 feature: Work Management
 thumbnail: 335082.jpeg
@@ -13,7 +13,7 @@ exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
