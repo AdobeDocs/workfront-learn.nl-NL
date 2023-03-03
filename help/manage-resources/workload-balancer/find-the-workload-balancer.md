@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: find-wlb.png
 kt: 10188
 exl-id: 788a7810-a8dd-4f36-81ac-119d6204a909
-source-git-commit: 8e07cde38ca939542a03dda2b520c90d1e3b5394
+source-git-commit: 5be1b743256cbabbf7e44bea0437e96b6094d170
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,13 @@ Het is voor iedereen een uitdaging om te weten welke bronnen beschikbaar zijn en
 
 Het doel is om u meer inzicht te geven in en beheer van de dagelijkse en wekelijkse werklasten van de mensen die u beheert. Dit helpt u betere taken maken, die op rol en beschikbaarheid, over veelvoudige projecten worden gebaseerd.
 
-![hoofdmenuoptie](assets/Find_01.png)
+![middelen in het hoofdmenu](assets/Find_01.png)
 
 * Klikken [!UICONTROL Resourcing] in de [!UICONTROL Main Menu].
 * Ga naar de [!UICONTROL Scheduling] in het gebied Bronbeheer.
-* Klik op de knop [!UICONTROL “Switch to Workload Balancer”] koppeling.
+* Klik op de knop [!UICONTROL “Workload Balancer”] die wordt weergegeven.
 
-![schakelen naar werklastverdelingsmechanisme](assets/Find_02.png)
-
-De [!DNL Workload Balancer] is de standaardoptie wanneer u naar het gebied Bronbeheer van het Workfront-hulpprogramma gaat.
+![werklastverdelingssectie](assets/Find_02.png)
 
 ## Gebieden binnen de werklastbalans
 
