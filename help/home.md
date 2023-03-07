@@ -2,9 +2,9 @@
 title: Workfront Tutorials
 description: Een bibliotheek met trainingsvideo's en artikelen die zijn ontworpen om u te helpen de functies en instellingen van Workfront beter te begrijpen.  Hieronder vindt u een verzameling van best practices, gekrulde oefeningen en andere bronnen die u en uw organisatie helpen om met Workfront succesvol te zijn.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: f31f45b9f020e761a09fdd9adbb407f440505538
+source-git-commit: 59074bd3a448ad6d564f59599b8f57efc28982d1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Bekijk de nieuwste updates van de zelfstudies voor elke Workfront-productrelease
 
 ## Personeelsselectie
 
-<table>
+<table style="margin-top: 0 !important">
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
@@ -53,11 +53,9 @@ Bekijk de nieuwste updates van de zelfstudies voor elke Workfront-productrelease
       </a>
       <div>
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Lay-outsjablonen zoeken en maken</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Leer hoe u een standaardlay-outsjabloon maakt.
+         <em>Leer hoe u een standaardlay-outsjabloon maakt.</em>
       </p>
     </td>
    <td>
@@ -66,11 +64,9 @@ Bekijk de nieuwste updates van de zelfstudies voor elke Workfront-productrelease
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Een aanvraag indienen</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-      <br/>
-         Leer hoe u aanvragen maakt, weergeeft en bewerkt.
+         <em>Leer hoe u aanvragen maakt, weergeeft en bewerkt.</em>
       </p>
 
 <td>
@@ -79,11 +75,9 @@ Bekijk de nieuwste updates van de zelfstudies voor elke Workfront-productrelease
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Een eenvoudig rapport maken</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Leer hoe u een eenvoudig aangepast rapport maakt.
+         <em>Leer hoe u een eenvoudig aangepast rapport maakt.</em>
       </p>
     </td>
   </tr>
