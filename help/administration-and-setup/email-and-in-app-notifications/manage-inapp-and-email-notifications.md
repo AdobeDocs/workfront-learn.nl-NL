@@ -1,6 +1,7 @@
 ---
 title: Gebeurtenismeldingen in de app en e-mail beheren
 description: Leer hoe gebruikers kunnen bepalen welke in-app en e-mailmeldingen ze ontvangen zodat ze relevante, nuttige e-mails over hun werk ontvangen.
+short-description: Learn how users can control which in-app and email notifications they receive.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,10 +11,10 @@ level: Beginner
 thumbnail: 10095.jpeg
 kt: 10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
-source-wordcount: '509'
-ht-degree: 4%
+source-wordcount: '508'
+ht-degree: 0%
 
 ---
 
@@ -51,7 +52,7 @@ Standaard zijn e-mails zo ingesteld dat ze direct worden verzonden. U kunt echte
 
 ![[!UICONTROL Notification] deel van [!UICONTROL Edit Person] venster](assets/admin-fund-user-notifications-05.png)
 
-De dagelijkse optie verzendt een samenvatting van de gebeurtenissen van de dag in één e-mail. Gebruikers ontvangen één e-mail voor elke groep die ze in het dialoogvenster [!UICONTROL Notifications] sectie.
+Met de dagelijkse optie verzendt u een overzicht van de gebeurtenissen van de dag in één e-mail. Gebruikers ontvangen één e-mail voor elke groep die ze in het dialoogvenster [!UICONTROL Notifications] sectie.
 
 De [!UICONTROL Information about Projects I Own] de sectie zal één dagelijkse e-mail produceren, [!UICONTROL Action Needed] e-mail, enz.
 
@@ -69,11 +70,11 @@ De laatste optie is om de e-mailmeldingen volledig uit te schakelen.
 
 ![Geselecteerde melding uitgeschakeld [!UICONTROL Edit Person] venster](assets/admin-fund-user-notifications-09.png)
 
-Als u dit besluit, moet u weten dat uw werk, hoewel u geen e-mailberichten ontvangt, nog steeds wordt toegewezen, opmerkingen worden toegevoegd en binnen [!DNL Workfront]. Als u alle meldingen uitschakelt, ontbreekt het wellicht aan belangrijke informatie die u moet weten.
+Als u dit besluit, weet u dat hoewel u geen e-mail ontvangt, het werk nog wordt toegewezen, op, en binnen bijgewerkt [!DNL Workfront]. Als u alle meldingen uitschakelt, ontbreekt het wellicht aan belangrijke informatie die u moet weten.
 
 Er zijn enkele gevallen waarin [!DNL Workfront] heeft gezien dat gebruikers e-mailberichten uitschakelen. Als u bijvoorbeeld het grootste deel van uw werk via de [!DNL Workfront] mobiele app, kunt u uw e-mailmeldingen uitschakelen en alleen via de app meldingen ontvangen.
 
-Ongeacht de [!UICONTROL Event Notifications] Als u besluit te ontvangen, zijn meldingen belangrijk voor het succes van het werk dat wordt uitgevoerd voor de doelstellingen van uw organisatie.
+Ongeacht de [!UICONTROL Event Notifications] u besluit te ontvangen, zijn de berichten belangrijk voor het succes van het werk dat voor de doelstellingen van uw organisatie wordt gedaan.
 
 
 ## Recommendations
@@ -85,12 +86,12 @@ Voor de meeste gebruikers:
 * [!UICONTROL A predecessor of one of my tasks is completed]
 * [!UICONTROL Someone includes me on a directed update]
 * [!UICONTROL Someone comments on my work item]
-* [!UICONTROL The due date changes on a task I’m assigned to]
+* [!UICONTROL The due date changes on a task I'm assigned to]
 
 
 Specifiek voor projectmanagers:
 
-* [!UICONTROL A project I’m on becomes active]
+* [!UICONTROL A project I'm on becomes active]
 * [!UICONTROL A project I own gets behind]
 * [!UICONTROL An issue is added to a project I own]
 * [!UICONTROL Milestone task is completed on a project I own]
