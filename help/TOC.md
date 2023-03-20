@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5665cdab87bf09dc9fde94137481fba4d9764cf4
+source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
 workflow-type: tm+mt
-source-wordcount: '2326'
+source-wordcount: '2328'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 0%
       + [Groepen en subgroepen maken](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [Begrijp de behoefte aan groepsbeleid](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
       + [Bedrijven maken](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [Gebruikers instellen met licenties, toegangsniveaus en functies](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Gebruikers licenties en toegangsniveaus instellen](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [Taakrollen maken en beheren](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [Aanmelden als een andere gebruiker](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + Verwijderde items beheren {#manage-deleted-items}
       + [Objecten uit de prullenbak herstellen](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
@@ -330,7 +331,7 @@ ht-degree: 0%
 
 + Integraties {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [Adobe Workfront-extensies gebruiken voor Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
+      + [Adobe Workfront-plug-ins gebruiken voor Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [Configureren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Metagegevens toewijzen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
