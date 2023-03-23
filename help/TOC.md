@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
+source-git-commit: 8c00be25fc5ce3d7d8a25476e6f52cb40c758673
 workflow-type: tm+mt
-source-wordcount: '2328'
+source-wordcount: '2295'
 ht-degree: 0%
 
 ---
@@ -297,7 +297,7 @@ ht-degree: 0%
       + [Samenwerken rond bedrijfs- en organisatorische doelstellingen](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [Groepen en teams op uw strategie afstemmen](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
    + Uw doelen maken {#create-goals}
-      + [Begrijpen hoe te gebruiken [!UICONTROL Workfront Goals]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
+      + [[!UICONTROL Workfront Goals] Overzicht](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [Instellen [!UICONTROL Workfront Goals] voor uw organisatie](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [Toegang tot geselecteerde gebruikers verlenen aan doelen](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
       + [Een lay-outsjabloon maken voor [!UICONTROL Workfront Goals] gebruikers](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
@@ -311,18 +311,12 @@ ht-degree: 0%
    + Uw doelstellingen beheren {#manage-goals}
       + [Lijn uw doelstellingen uit](workfront-goals/manage-your-goals/align-your-goals.md)
       + [Doeluitlijning verwijderen](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-      + [Een activiteit omzetten in een uitgelijnd doel](workfront-goals/manage-your-goals/convert-an-activity-to-an-aligned-goal.md)
-      + [Een kwalitatieve update uitvoeren](workfront-goals/manage-your-goals/make-a-qualitative-update.md)
       + [Een kwantitatieve update uitvoeren](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
-      + [Verbind manueel doelstellingen met elkaar](workfront-goals/manage-your-goals/manually-connect-goals-to-one-another.md)
-      + [Doelstellingen bijhouden en bijwerken met [!UICONTROL Check-ins]](workfront-goals/manage-your-goals/track-and-update-goals-using-check-ins.md)
       + [Een doel sluiten zodra dit is voltooid](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
    + Uw doelen bewaken {#monitor-goals}
       + [De sectie Grafieken begrijpen](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
-      + [Individuele doelupdates weergeven](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)
       + [Voortgang van doel berekenen](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [Doelstatus communiceren](workfront-goals/monitor-your-goals/communicate-goal-status.md)
-      + [Navigeren door de [!UICONTROL Pulse] updatestroom](workfront-goals/monitor-your-goals/navigate-the-pulse-update-stream.md)
 
 
 

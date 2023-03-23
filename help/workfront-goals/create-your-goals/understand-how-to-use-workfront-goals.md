@@ -1,6 +1,6 @@
 ---
-title: Begrijpen [!DNL Workfront Goals]
-description: De systeembeheerder zal leren over wie tot toegang heeft [!DNL Workfront Goals], what permissions a system administrator has in [!DNL Workfront Goals], and how to enable [!DNL Workfront Goals] via een lay-outsjabloon.
+title: Overzicht van Workfront-doelen
+description: Leer hoe u door de lijst met doelen, grafieken en uitlijning van doelen kunt navigeren.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,20 +9,19 @@ level: Beginner
 team: Technical Marketing
 kt: 8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
-doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 683b3291033ff87dacae8b670e5a54a203cc2743
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# [!DNL Workfront Goals] overzicht
+# [!DNL Workfront Goals] Overzicht
 
-In deze video leert u:
+In deze video leert u hoe u:
 
-* Wie toegang heeft [!DNL Workfront Goals]
-* Welke machtigingen heeft een systeembeheerder in [!DNL Workfront Goals]
-* Hoe te om toe te laten [!DNL Workfront Goals] via een lay-outsjabloon
+* Navigeren door de lijst Doel
+* Navigeren door grafieken
+* Navigeren door uitlijning van doelen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12)
