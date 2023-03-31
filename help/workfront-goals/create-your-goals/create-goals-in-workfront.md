@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: cc1c18f700dc688351dbf3ba3ede9faf5bfc45bb
+source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
 workflow-type: tm+mt
-source-wordcount: '863'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Hieronder volgen enkele zaken die u in overweging kunt nemen voordat u doelstell
 
    ![Een afbeelding van de [!UICONTROL Goal Details] in [!DNL Workfront Goals] met de [!UICONTROL Copy] option](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Klikken **[!UICONTROL Activate]**, die de doelstatus in Actief bijwerkt. Het doel moet een bijbehorende activiteit hebben of resulteren in &quot;activeren.&quot;
+1. Klik op het pictogram met drie punten en selecteer vervolgens  **[!UICONTROL Activate]**, die de doelstatus in Actief bijwerkt. Het doel moet een bijbehorende activiteit hebben of resulteren in &quot;activeren.&quot;
 
 Als u een doel kopieerde dat niet in een vorige tijdspanne werd voltooid en aan het in de volgende tijdspanne wilt blijven werken, doe het volgende:
 
