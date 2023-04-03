@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,10 @@ Wanneer u twee doelstellingen richt zal één het ouderdoel en andere een kinddo
 1. Klik op [!UICONTROL Save Changes].
 
 Als u een doel uitlijnt op een ander doel, wordt een onderliggende doelstelling gemaakt. Denk aan kinddoelstellingen als individuele doelstellingen die tot de vooruitgang van de ouderdoelstellingen van de organisatie of van het team bijdragen. De doelstellingen van het kind kunnen de vooruitgang van het ouderdoel activeren en beïnvloeden.
+
+## Nu het bovenliggende doel activeren
+
+Nu u een kinddoel hebt gecreeerd wordt het een vooruitgangsindicator op uw ouderdoel. De optie Activeren wordt weergegeven wanneer u op het drie-puntenmenu naast de naam van het bovenliggende doel klikt.
+
+![Een schermafbeelding die laat zien hoe het hoofddoel kan worden geactiveerd.](assets/activate-the-parent-goal.png)
+

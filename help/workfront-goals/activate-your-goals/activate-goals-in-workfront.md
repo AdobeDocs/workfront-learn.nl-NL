@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Nu u doelstellingen hebt gecreeerd, laten wij hen activeren! Wanneer u een doel 
 
 ![Een screenshot van een doel in Workfront Goals in een conceptstatus](assets/04-workfront-goals-activate-goals.png)
 
-## Voortgangsindicatoren activeren doelstellingen
+## Voortgangsindicatoren zijn vereist om doelstellingen te activeren
 
 Voordat u verdergaat, is het belangrijk dat u de voortgangsindicatoren begrijpt die worden gebruikt in [!DNL Workfront Goals]. Voortgangsindicatoren zijn de objecten in [!DNL Goals] gebruikt om de voortgang van een doel te berekenen. De voortgangsindicatoren zijn gerichte doelstellingen, resultaten, activiteiten, en projecten. Hierover zult u later meer in detail leren. Vooralsnog is het belangrijk te begrijpen dat gerichte doelstellingen, resultaten, activiteiten en projecten aan een doel moeten worden toegevoegd om het te activeren.
 
@@ -32,3 +32,8 @@ Als u een voortgangsindicator wilt toevoegen, opent u het doel en selecteert u h
 
 In vergelijking met andere voortgangsindicatoren zijn projecten een beetje uniek, omdat ze als een soort activiteit worden beschouwd. De activiteiten kunnen in twee types-handvooruitgangsbar en Projecten worden onderscheiden. Dit heeft tot gevolg dat projecten ook de voortgang stimuleren. Hoewel alle soorten vooruitgangsindicatoren met een ouderdoel kunnen worden verbonden, is het belangrijk om in mening te zijn dat er verschillen in de manier zijn u hen beheert.
 
+## Activeer nu het doel
+
+Als u minstens één voortgangsindicator op uw doel hebt, ziet u de optie Activeren wanneer u op het drie puntmenu naast de doelnaam klikt.
+
+![Een schermafbeelding die laat zien hoe u een doel activeert.](assets/activate-a-goal-with-a-result.png)
