@@ -1,6 +1,6 @@
 ---
 title: Gebeurtenismeldingen in de app en e-mail beheren
-description: Leer hoe gebruikers kunnen bepalen welke in-app en e-mailmeldingen ze ontvangen zodat ze relevante, nuttige e-mails over hun werk ontvangen.
+description: Leer hoe gebruikers kunnen bepalen welke in-app- en e-mailmeldingen ze ontvangen zodat ze relevante, nuttige e-mails over hun werk ontvangen.
 short-description: Learn how users can control which in-app and email notifications they receive.
 feature: System Setup and Administration
 activity: deploy
@@ -14,7 +14,7 @@ exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
 source-wordcount: '508'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
