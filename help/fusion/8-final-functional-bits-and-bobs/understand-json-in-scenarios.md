@@ -10,7 +10,7 @@ level: Beginner
 kt: 9059
 exl-id: 8f16d7e1-2eb1-400f-bdad-5d05745a0ba7
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -27,4 +27,4 @@ In deze video leert u:
 * Hoe te om JSON te lezen en hoe het in gegevens zal worden vertaald die in uw scenario&#39;s moeten worden gebruikt
 * De JSON-modules gebruiken bij het maken, wijzigen en werken met JSON
 
->[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on)

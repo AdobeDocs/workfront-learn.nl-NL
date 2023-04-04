@@ -11,7 +11,7 @@ thumbnail: 335131.png
 kt: 8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Elke fase van een geautomatiseerde workflow heeft een eigen sectie waarin u dead
 
 In deze video worden kort enkele wijzigingen getoond die u kunt aanbrengen in het dialoogvenster [!UICONTROL Workflow] gebied. Raadpleeg de lijst met opsommingstekens in deze video, waarin deze instellingen worden bekeken. Deze video bevat geen audio.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
 
 Ter controle zijn hier de wijzigingen in de proefdruksjabloon die u kunt aanbrengen in het dialoogvenster [!UICONTROL Workflow] sectie:
 

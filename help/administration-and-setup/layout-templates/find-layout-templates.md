@@ -11,7 +11,7 @@ thumbnail: 335072.jpeg
 kt: 8759
 exl-id: eee9988f-2e60-4e1f-b1bf-c6e82a9ba19c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In deze video leert u:
 * Lay-outsjablonen zoeken in het dialoogvenster [!UICONTROL Setup] gebied
 * Beginnen met het maken van lay-outsjablonen in Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on)

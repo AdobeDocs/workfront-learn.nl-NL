@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8716,8717,8718,8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -45,24 +45,24 @@ U kunt een recent project-en andere voorwerpen-snel vinden door te klikken [!UIC
 
 Wanneer u aan een project werkt, kunt u het gemakkelijk vinden door het vast te zetten op de menubalk, zodat u het met één klik kunt openen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 
 ## Een project favorieten
 
 Als u meerdere projecten beheert, kunt u deze &#39;favorieten&#39; maken door op het sterpictogram te klikken. Dan kunt u uw lijst onder [!UICONTROL Favorites] in de hoofdmenubalk.
 
->[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12&learn=on)
 
 
 ## Een project openen vanuit een dashboard
 
 Veel [!DNL Workfront] klanten gebruiken rapporten die op een dashboard worden gecompileerd om hun werk in uitvoering te vinden.
 
->[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335041/?quality=12&learn=on)
 
 
 ## Een project openen vanaf de pagina Projecten
 
 En natuurlijk zijn uw projecten altijd beschikbaar in de belangrijkste [!UICONTROL Projects] gebied. Klik op de projectnaam om het te openen.
 
->[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335040/?quality=12&learn=on)

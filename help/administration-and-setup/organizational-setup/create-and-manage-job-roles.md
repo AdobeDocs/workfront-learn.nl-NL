@@ -10,7 +10,7 @@ level: Beginner
 kt: 12448
 doc-type: video
 last-substantial-update: 2023-03-27T00:00:00Z
-source-git-commit: 739505e8a3ae547749586e3ad906b4aeb781be96
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -25,5 +25,5 @@ In deze video leert u:
 * Hoe te om baanrollen tot stand te brengen.
 * Hoe te om baanrollen op gebruikers toe te passen zodat kunnen zij aan het correcte werk worden toegewezen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on)
 

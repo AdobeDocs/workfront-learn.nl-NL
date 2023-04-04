@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 doc-type: video
 kt: 8870
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Bekijk deze video met Workfront Joel Pettigrew, productmanager voor [!DNL Enhanced analytics], om te leren hoe analyses tot stand zijn gekomen en welke spannende mogelijkheden het mogelijk maakt.
 
->[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on)

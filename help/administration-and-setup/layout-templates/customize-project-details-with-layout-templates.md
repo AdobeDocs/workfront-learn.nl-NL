@@ -11,7 +11,7 @@ thumbnail: 335076.png
 kt: 8764
 exl-id: af6ff5c1-a2c4-4440-b31d-c33726a7fee1
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In deze video leert u hoe u:
 * Ga naar het gebied met projectdetails
 * De velden met projectdetails aanpassen met een lay-outsjabloon
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on)

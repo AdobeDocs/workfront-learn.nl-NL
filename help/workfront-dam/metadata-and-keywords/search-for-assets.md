@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8976
 exl-id: fffb4ab8-acec-4d7b-a786-f6be538bc7ee
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In deze video leert u hoe u:
 * Plan voor het handhaven van meta-gegevens en sleutelwoorden
 * Vaststellen [!UICONTROL Workfront DAM] best practices
 
->[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on)

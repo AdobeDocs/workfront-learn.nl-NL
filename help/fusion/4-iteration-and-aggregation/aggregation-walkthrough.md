@@ -10,7 +10,7 @@ level: Beginner
 kt: 9020
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Gebruikend het &quot;Inleiding aan herhaling&quot;scenario u in de laatste analy
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
->[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on)
 
 >[!TIP]
 >

@@ -2,9 +2,9 @@
 title: Workfront Tutorials
 description: Een bibliotheek met trainingsvideo's en artikelen die zijn ontworpen om u te helpen de functies en instellingen van Workfront beter te begrijpen.  Hieronder vindt u een verzameling van best practices, gekrulde oefeningen en andere bronnen die u en uw organisatie helpen om met Workfront succesvol te zijn.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 59074bd3a448ad6d564f59599b8f57efc28982d1
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Een bibliotheek met trainingsvideo&#39;s en artikelen die zijn ontworpen om u te helpen de functies en instellingen van Workfront beter te begrijpen.  Hieronder vindt u een verzameling van best practices, gekrulde oefeningen en andere bronnen die u en uw organisatie helpen om met Workfront succesvol te zijn.
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on)
 
 <!-- 
 

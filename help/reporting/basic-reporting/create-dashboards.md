@@ -11,7 +11,7 @@ thumbnail: 335157.png
 kt: 8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 6%
@@ -28,7 +28,7 @@ In deze video leert u:
 * Een dashboard delen met andere Workfront-gebruikers
 * Een dashboard afdrukken
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## Activiteit: Een dashboard maken
 

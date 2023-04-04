@@ -10,7 +10,7 @@ level: Beginner
 kt: 9056
 exl-id: 12e5ff29-2efe-4ce3-b4a7-0778bdf5e427
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -23,7 +23,7 @@ In deze video leert u meer over:
 
 * Verschillende nuttige trigger-, actie- en zoekmodules in de Workfront-app
 
->[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12&learn=on)
 
 
 ## Meer informatie? We raden het volgende aan:

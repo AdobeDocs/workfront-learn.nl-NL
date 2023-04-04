@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In deze video leert u hoe u:
 * Wijzigen [!DNL Goals] terminologie voor uw organisatie
 * Toevoegen [!DNL Goals] aan de [!DNL Workfront] [!UICONTROL Main Menu]
 
->[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on)
 
 <!--
 Learn more graphic

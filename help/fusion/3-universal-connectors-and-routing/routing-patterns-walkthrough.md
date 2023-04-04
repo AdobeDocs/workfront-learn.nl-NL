@@ -10,7 +10,7 @@ level: Beginner
 kt: 9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Gebruik de Vastgestelde module van de Variabele om een aantal door veelvoudige w
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
->[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on)
 
 >[!TIP]
 >

@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 0%
@@ -30,7 +30,7 @@ In deze video leert u hoe u:
 * Een sjabloon voor metagegevens toepassen op een map
 * Mapmachtigingen instellen
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on)
 
 ## Hoe werken elementversies?
 

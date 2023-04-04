@@ -11,7 +11,7 @@ thumbnail: 335129.png
 kt: 8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u:
 * Hoe proefgebruikers kunnen profiteren van workflowsjablonen
 * Hoe te beginnen plannend welke malplaatjes om te creëren
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on)
 
 <!---
 Learn More Icon

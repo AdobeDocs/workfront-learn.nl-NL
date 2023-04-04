@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -26,4 +26,4 @@ In deze video leert u hoe u:
 * Begrijpen wanneer [!UICONTROL Workfront DAM] gebruikers kunnen hun eigen trefwoorden invoeren
 * Zoekfacetten instellen
 
->[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on)

@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8929
 exl-id: 670d1cb7-b66b-4786-8fd8-f396892a4845
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -28,4 +28,4 @@ In deze video leert u hoe u:
 * Lees en interpreteer het Goal Health-diagram
 * Het Goal Progress-diagram lezen en interpreteren
 
->[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on)

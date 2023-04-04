@@ -11,7 +11,7 @@ thumbnail: 335139.png
 kt: 8839
 exl-id: be205a02-2f77-4598-ae15-31463d1ce8e1
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -26,4 +26,4 @@ In deze video leert u hoe u:
 * Proefopmerkingen weergeven in het dialoogvenster [!UICONTROL Updates] sectie
 * Reageren op een proefdrukopmerking van de [!UICONTROL Updates] sectie
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on)

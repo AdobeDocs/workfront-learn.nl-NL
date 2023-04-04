@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 1%
@@ -23,7 +23,7 @@ In deze video leert u hoe u:
 
 * Toegangsniveaus bewerken volgens licentietype
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 
 Systeembeheerders kunnen bijhouden hoeveel [!DNL Workfront Goals] de vergunningen zijn gebruikt via **[!UICONTROL Setup]** gebied Workfront.
 

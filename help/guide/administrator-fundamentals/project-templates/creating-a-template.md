@@ -7,7 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: Admin
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 13%
@@ -21,4 +21,4 @@ In deze video leert u hoe u:
 * Een geheel nieuwe projectsjabloon maken
 * Een projectsjabloon maken op basis van een bestaand project
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)

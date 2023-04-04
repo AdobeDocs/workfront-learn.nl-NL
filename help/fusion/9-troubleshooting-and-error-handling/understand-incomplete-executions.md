@@ -10,7 +10,7 @@ level: Beginner
 kt: 9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u:
 * Wat onvolledige executies zijn
 * Hoe te om een fout te behandelen die in een onvolledige uitvoering resulteert
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on)
 
 ## Fouten die leiden tot onvolledige uitvoeringen
 

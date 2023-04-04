@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8926
 exl-id: 6d31d231-5b59-4924-907e-200800ba0f44
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -23,4 +23,4 @@ In deze video leert u hoe u:
 
 * Sluit een doel om aan te geven wanneer het doel is bereikt of wanneer u er niet meer aan werkt of dat u van plan bent dit in de nabije toekomst te doen
 
->[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on)

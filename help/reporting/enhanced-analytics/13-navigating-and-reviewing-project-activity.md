@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -24,7 +24,7 @@ In deze video leert u:
 
 * Hoe te om projecten te vergelijken die op gebruikers worden gebaseerd het programma werden geopend, veranderingen van de taakstatus, en voltooide taken
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on)
 
 ## Projectwerk vergelijken
 

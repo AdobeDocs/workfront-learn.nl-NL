@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8975
 exl-id: 6455e20f-9c5c-4727-84cb-1f8bb825bd2a
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In deze video leert u hoe u:
 * Een sjabloon voor metagegevens instellen
 * Een sjabloon toepassen op een map
 
->[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on)

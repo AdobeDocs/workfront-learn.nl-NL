@@ -11,7 +11,7 @@ thumbnail: 335103.png
 kt: 8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In deze video leert u:
 * De waarde van logboektijd
 * Hoe te tijd op werktaken registreren
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on)
 
 ## Tips voor het aanmelden van uren op werk in [!DNL Home]
 

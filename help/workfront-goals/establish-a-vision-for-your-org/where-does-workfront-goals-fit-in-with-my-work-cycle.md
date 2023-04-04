@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -24,7 +24,7 @@ In deze video leert u meer over:
 * De 6 stappen in een standaard levenscyclus
 * Kernbouwstenen in de &quot;strategische fase&quot; in de levenscyclus van het werk
 
->[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on)
 
 <!--
 Your turn graphic

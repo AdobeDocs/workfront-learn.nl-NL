@@ -6,7 +6,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 2ac96361d0cc90b62dfd5378b5a487f889d07199
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,4 +22,4 @@ In deze video leert u:
 * Hoe een Mening u kan helpen de informatie zien u wenst
 * De begin- of einddatum instellen
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)

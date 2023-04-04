@@ -11,7 +11,7 @@ thumbnail: 335158.png
 kt: 8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u:
 * Hoe te om rapporten met iedereen te delen
 * Wat de ontvangers kunnen zien en doen met een Workfront-rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
 ## Activiteit: Een rapport verzenden
 

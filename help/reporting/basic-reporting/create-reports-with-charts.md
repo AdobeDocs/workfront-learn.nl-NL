@@ -11,7 +11,7 @@ thumbnail: 335153.png
 kt: 8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In deze video leert u:
 * Hoe grafieken de visualisatie van gegevens kunnen verbeteren
 * Workfront-grafiekgereedschappen gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
 ## Activiteit: Een diagram toevoegen aan een rapport
 

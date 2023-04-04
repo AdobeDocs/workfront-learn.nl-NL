@@ -11,7 +11,7 @@ thumbnail: 335138.png
 kt: 8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Gebruikers toevoegen aan een bestaande workflow
 * Overschakelen van een bestaande workflow naar een geautomatiseerde workflow
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on)
 
 ## Uw beurt
 

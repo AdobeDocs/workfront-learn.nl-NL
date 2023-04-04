@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -24,7 +24,7 @@ In deze video leert u hoe u:
 * De navigatiebalk en voettekst aanpassen
 * De startpagina en aanmeldingspagina aanpassen
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on)
 
 ## Extra [!UICONTROL Appearance] instellen
 

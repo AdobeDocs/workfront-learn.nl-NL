@@ -11,7 +11,7 @@ thumbnail: 335065.png
 kt: 8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -30,7 +30,7 @@ In deze video leert u hoe u:
 * Algemene projectvoorkeuren instellen
 * Planningen maken en gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on)
 
 ## Globale en groepsproject-, taak- en uitgaven-instellingen
 

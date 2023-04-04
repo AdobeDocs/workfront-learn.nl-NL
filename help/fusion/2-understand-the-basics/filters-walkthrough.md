@@ -10,7 +10,7 @@ level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -33,7 +33,7 @@ In deze video leert u hoe u:
 
 * Voeg een filter tussen de twee modules in de modules toe
 
->[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on)
 
 >[!TIP]
 >
