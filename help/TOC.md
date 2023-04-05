@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: a756a30923ce863c953300fd89ea8ad6db9e91d1
 workflow-type: tm+mt
-source-wordcount: '2291'
+source-wordcount: '2294'
 ht-degree: 0%
 
 ---
@@ -306,7 +306,7 @@ ht-degree: 0%
       + [Doelstellingen activeren](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
       + [Activeren door een doel op een andere uit te lijnen](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
       + [Een resultaat toevoegen aan een doel](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
-      + [Een activiteit toevoegen aan een doel](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
+      + [Voeg een activiteit en een project aan een doel toe](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
    + Uw doelstellingen beheren {#manage-goals}
       + [Lijn uw doelstellingen uit](workfront-goals/manage-your-goals/align-your-goals.md)
       + [Doeluitlijning verwijderen](workfront-goals/manage-your-goals/remove-goal-alignment.md)
