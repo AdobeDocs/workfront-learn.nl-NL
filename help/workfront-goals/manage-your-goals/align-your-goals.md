@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Nu u uw doelstellingen hebt gemaakt en geactiveerd in [!DNL Workfront Goals], la
 
 <!--Insert link to LP 1, above -->
 
-Doeluitlijning gebruiken voor:
+Met de sectie Uitlijning van doel kunt u:
 
 * De doelstellingen van de mening die tot u of uw organisatie behoren.
 * Geef de objecthiërarchie weer en bekijk uitgelijnde onderliggende doelen.
-* Open het deelvenster Goal Details en werk het doel, de resultaten of de activiteiten van het veld bij.
+* Open het doel om zijn voortgangsindicatoren te zien.
 
 Als we ervoor zorgen dat de doelstellingen op één lijn worden gebracht, zal iedereen van boven naar beneden werk uitvoeren dat dezelfde initiatieven vooruit drijft. Visualisatie is een belangrijk onderdeel van de manier waarop elke hoofddoelstelling van het bedrijf direct wordt afgestemd op het afdelings-, team- en individuele niveau. Silo&#39;s worden verkleind door teams uit te lijnen die functioneel zijn. Met uitlijning krijgt u duidelijkheid over het doel van iedereen en verbindt u de organisatie met wat er echt toe doet.
 
@@ -49,6 +49,7 @@ Hieronder volgen enkele zaken die u in overweging moet nemen voordat u de doelst
 
 In deze video leert u hoe u:
 
-* Navigeren door de [!UICONTROL Goal Alignment] page
+* Richt doelstellingen gebruikend zowel een bottom-up als een top-down benadering
+* Navigeren door de [!UICONTROL Goal Alignment] sectie
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)

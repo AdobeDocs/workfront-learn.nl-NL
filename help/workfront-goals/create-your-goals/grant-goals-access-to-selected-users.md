@@ -1,5 +1,5 @@
 ---
-title: Bewerken [!UICONTROL Access Levels] for [!DNL Workfront Goals]
+title: Toegang tot geselecteerde gebruikers verlenen aan doelen
 description: Leer hoe u toegangsniveaus kunt bewerken op basis van het type licentie voor uw gebruikers in [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
@@ -10,18 +10,18 @@ team: Technical Marketing
 kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Toegangsniveaus bewerken voor [!DNL Workfront Goals]
+# Toegang tot geselecteerde gebruikers verlenen aan doelen
 
 In deze video leert u hoe u:
 
-* Toegangsniveaus bewerken volgens licentietype
+* Toegang tot geselecteerde gebruikers verlenen aan doelen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 
