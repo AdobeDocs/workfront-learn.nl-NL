@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -34,11 +34,8 @@ De vooruitgang van uw doel is een goede manier om een idee te krijgen van waar u
 
 ![Een afbeelding die de verschillende voortgangslabels bedekt in [!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
 
-![Een schermafbeelding van de percentagekolom voor de doelvoortgang in het dialoogvenster [!UICONTROL Check-in] deel van [!DNL Workfront Goals]](assets/16-workfront-goals-progress-status-bar.png)
 
-<!-- Learn more graphic -->
+>[!TIP]
+>
+>Lees dit artikel voor meer informatie over de formules die worden gebruikt om de voortgang van het doel te berekenen: [Overzicht van de voortgang en conditie van het doel in de Adobe Workfront-doelstellingen](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
 
-* Voor meer informatie over de formules die worden gebruikt om doelvooruitgang te berekenen, verkent het artikel de vooruitgang van het doel berekenen in [!DNL   Goals].
-
-
-<!-- need link to documentation article, above -->

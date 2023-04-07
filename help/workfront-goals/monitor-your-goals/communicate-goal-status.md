@@ -9,21 +9,20 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
 
 # Doelstatus communiceren
 
-Nu u uw doelstellingen gebruikend hebt bijgewerkt [!UICONTROL Check-ins]Neem even de tijd om terug te gaan en een vogelperspectief te krijgen van de doelen waaraan u werkt en hoe ze zich verhouden tot de teamdoelen, de groep en de bedrijfsdoelen. Communiceren met anderen over de voortgang en status van uw doelen is een belangrijk onderdeel van het op één lijn houden.
+Nu u uw doelstellingen gebruikend hebt bijgewerkt, neem een ogenblik om terug te stappen en een vogelperspectief van de doelstellingen te krijgen u werkt aan en hoe zij met het team, de groep, en de bedrijfsdoelstellingen betrekking hebben. Communiceren met anderen over de voortgang en status van uw doelen is een belangrijk onderdeel van het op één lijn houden.
 
 Er zijn verschillende manieren om de juiste mensen op de hoogte te houden van uw doelstellingen. Je kunt beginnen met:
 
 * Uw doelen delen en rapporteren
-* De weergave instellen van het dialoogvenster [!UICONTROL Pulse] stream om afzonderlijke objectupdates te maken en weer te geven
 * De [!UICONTROL Graphs] voor een uitgebreide momentopname van de voortgang van uw doelen
 
 ## Een doel delen
