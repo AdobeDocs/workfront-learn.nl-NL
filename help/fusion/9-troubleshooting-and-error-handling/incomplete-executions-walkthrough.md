@@ -10,16 +10,14 @@ level: Beginner
 kt: 9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # Doorloop onvolledige executies
-
-## Overzicht
 
 Leer de handige gewoonte om onvolledige uitvoeringen op te slaan en begrijp de waarde die wordt geboden wanneer bundels opnieuw worden uitgevoerd na het evalueren en corrigeren van fouten.
 

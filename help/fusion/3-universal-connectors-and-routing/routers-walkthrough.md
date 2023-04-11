@@ -10,16 +10,14 @@ level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
 
 # Routers doorlopen
-
-## Overzicht
 
 Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de correcte weg over te gaan, dan creeer een taak voor elk karakter.
 
@@ -60,7 +58,7 @@ Tot dit punt, hebt u met zeer eenvoudige API (de Interface van de Programmering 
 
 Workfront en veel softwaresystemen zijn gebouwd met behulp van de REST-API (Representational State Transfer), het eenvoudigste en meest standaard type API dat momenteel wordt gebruikt. Er zijn echter een paar andere, zoals:
 
-* SOAP (Simple Object Access Protocol) (Workfront&#39;s Proof API is gebaseerd op SOAP)
+* SOAP (Simple Object Access Protocol) (Workfront Proof API is gebaseerd op SOAP)
 * FTP (File Transfer Protocol)
 * SFTP (Secure File Transfer Protocol)
 * Zoek op internet naar API-typen en trefwoorden voor meer informatie.
@@ -81,13 +79,13 @@ Meer informatie over de verschillende verificatietypen die Workfront biedt in he
 
 Wanneer een API met een ander systeem in wisselwerking staat, worden de aanraakpunten van deze mededeling beschouwd als eindpunten. Een eindpunt is de plaats waar APIs verzoeken verzenden en waar het middel leeft.
 
-Wanneer u met een API werkt via een universele aansluiting, moet u begrijpen welke eindpunten door de API worden ondersteund en welke gegevens voor elke aanvraag zijn vereist. API-documentatie moet de eindpunten van een API beschrijven en aangeven hoe algemene bewerkingen zoals maken, lezen, bijwerken of verwijderen moeten worden uitgevoerd. Het uitvoeren van deze aanroepen vereist enige oefening, met name als u nog nooit API-aanroepen hebt gemaakt of als u nog niet eerder met een nieuwe API hebt gewerkt.
+Wanneer u met een API werkt via een universele aansluiting, moet u begrijpen welke eindpunten door de API worden ondersteund en welke gegevens voor elke aanvraag zijn vereist. API-documentatie moet de eindpunten van een API beschrijven en aangeven hoe algemene bewerkingen zoals maken, lezen, bijwerken of verwijderen moeten worden uitgevoerd. Het uitvoeren van deze vraag vereist één of andere praktijk, vooral als u aan het maken van API vraag of aan het werken met nieuwe API nieuw bent.
 
 Meer informatie over Workfront Fusion Universal Connectors en hoe u deze kunt instellen voor verbinding met de API&#39;s die u op het Experience League nodig hebt.
 
 ## Slotopmerking
 
-U kunt de volledige lijst van onze vooraf gebouwde app schakelaars in Experience League controleren. Als u een nieuwe app-aansluiting wilt voorstellen aan het Workfront Fusion-productteam, dient u uw idee in bij Innovation Lab. Meer informatie over het innovatielaboratorium, en hoe u op ideeën kunt stemmen en kunt deelnemen aan de prioritering van het Leaderboard, als u dat nog niet eerder hebt gedaan. Als u reeds toegang tot het laboratorium van Innovatie hebt, login en leg uw ideeën voor.
+U kunt de volledige lijst van onze vooraf gebouwde app schakelaars in Experience League controleren. Als u een nieuwe app-aansluiting wilt voorstellen aan het Workfront Fusion-productteam, dient u uw idee in bij Innovation Lab. Als u nog niet eerder hebt ingediend, leert u meer over het Innovatielaboratorium, plus hoe u op ideeën kunt stemmen en kunt deelnemen aan de tweemaandelijkse prioriteit van het Leaderboard. Als u reeds toegang tot het laboratorium van Innovatie hebt, login en leg uw ideeën voor.
 
 ## Uw beurt
 
@@ -103,7 +101,7 @@ Maak in de module Meerdere variabelen instellen voor Pokemon-tekens een variabel
 
 ![Een afbeelding van statistische gegevens](assets/universal-connectors-and-routing-5.png)
 
-**Uitdaging:** Zie of u de arrayformules kunt gebruiken om de Abilities ertoe te brengen om de zelfde manier te tonen zoals hierboven als verschillende rijen eerder dan een koord van waarden die door een komma worden gescheiden. De onderstaande schermafbeelding bevat een tip.
+**Uitdaging:** Zie of u de arrayformules kunt gebruiken om de Abilities ertoe te brengen om de zelfde manier te tonen zoals hierboven als verschillende rijen eerder dan een koord van waarden die door een komma worden gescheiden. Er staat een tip in de schermafbeelding hieronder.
 
 ![Een afbeelding van een arraynaam](assets/universal-connectors-and-routing-6.png)
 

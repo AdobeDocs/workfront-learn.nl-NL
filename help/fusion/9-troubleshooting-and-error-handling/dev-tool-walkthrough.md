@@ -10,16 +10,14 @@ level: Beginner
 kt: 9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Doorloop van gereedschap Dev
-
-## Overzicht
 
 Installeer en gebruik de verschillende gebieden in Workfront Dev Tool om een diepere duik in gemaakte verzoeken/reacties en geavanceerde de ontwerptrucs van het scenario te nemen.
 

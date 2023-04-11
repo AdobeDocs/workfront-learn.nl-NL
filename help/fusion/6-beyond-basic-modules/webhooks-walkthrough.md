@@ -10,18 +10,16 @@ level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
 # Webhooks wandelen
 
-## Overzicht
-
-Dit scenario leidt tot een gemakwinkel app zodat kunnen zij gemakkelijk bepalen al dan niet een klant oud genoeg is om alcohol te kopen. De kassier hoeft alleen de naam en geboortedatum van de klant EN een geverifieerde clienttoken te posten naar een opgegeven URL. Zodra ingegaan, zal dat ons scenario teweegbrengen om de aangewezen reactie te berekenen en het aan de aanvrager terug te keren.
+Dit scenario leidt tot een gemakwinkel app zodat kunnen zij gemakkelijk bepalen al dan niet een klant oud genoeg is om alcohol te kopen. De kassier hoeft alleen de naam en geboortedatum van de klant EN een geverifieerde clienttoken te plaatsen in een URL die is opgegeven. Zodra ingegaan, zal dat ons scenario teweegbrengen om de aangewezen reactie te berekenen en het aan de aanvrager terug te keren.
 
 ![Een beeld gebruikend de schakelaarmodule](assets/beyond-basic-modules-5.png)
 

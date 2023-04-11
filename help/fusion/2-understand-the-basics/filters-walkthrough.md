@@ -10,16 +10,14 @@ level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
 # De doorloopprocedure voor het filter Rechthoek gebruiken
-
-## Overzicht
 
 Gebruikend de &quot;Voorbij basisafbeelding&quot;analyse oefening u vroeger creeerde, voeg een filter tussen de twee modules in de modules toe om projecten slechts tot stand te brengen die een &quot;Rode&quot;projectkleur in de Lijst van het Project hebben.
 

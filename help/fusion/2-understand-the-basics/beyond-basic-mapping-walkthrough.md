@@ -10,16 +10,14 @@ level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # Buiten basisanalyse van toewijzingen
-
-## Overzicht
 
 Verander de projectnaam, de geplande begindatum, en de prioriteit van het &quot;Aanvankelijke scenario ontwerp&quot;u in de eerste analyse gebruikend de formules van het kaartpaneel creeerde.
 
@@ -43,7 +41,7 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet verstrekt.
 
-Creeer een kloon van de &quot;voorbij basisafbeelding&quot;analyse u net voltooide. U zult dat scenario in de volgende analyse blijven gebruiken, zodat wilt u het niet met deze oefening wijzigen.
+Creeer een kloon van de &quot;voorbij basisafbeelding&quot;analyse u net voltooide. U zult dat scenario in de volgende analyse blijven gebruiken, zodat wilt u niet het wijzigen met deze oefening.
 
 Creeer een taak in elk project u als deel van de vorige analyse creeerde.
 

@@ -10,18 +10,16 @@ level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # Inleiding aan iteratoranalyse
 
-## Overzicht
-
-Kijk naar een specifiek project in Workfront en bekijk dan alle taken binnen dat project. Vervolgens gebruikt u de module Verhogen om het aantal taken in het project te tellen. Tot slot gebruikt u de module Variabele instellen om het Aantal onderliggende items af te trekken van het Aantal open problemen om een numerieke waarde voor elk van de taakbundels te produceren.
+Kijk naar een specifiek project in Workfront en bekijk dan alle taken binnen dat project. Dan zult u de module van het verhogingshulpmiddel gebruiken om het aantal taken binnen het project te tellen, tot slot zult u de Vastgestelde veranderlijke module gebruiken om het Aantal Kinderen van het Aantal Open Kwesties af te trekken om een numerieke waarde voor elk van de taakbundels te produceren.
 
 ![Een afbeelding van het Fusion-scenario](assets/iteration-and-aggregation-1.png)
 

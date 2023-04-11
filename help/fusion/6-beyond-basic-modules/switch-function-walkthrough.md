@@ -10,16 +10,14 @@ level: Beginner
 kt: 9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # Schakelen tussen functieanalyses
-
-## Overzicht
 
 Voor eenvoudige gegevensveranderingen, gebruik de functie van de Schakelaar om één waarde in een modulegebied om te zetten in een andere. In deze oefening, verander de twee-letterige sleutel in de daadwerkelijke naam voor de Status van de Voortgang van het project die in een e-mail wordt verzonden.
 
