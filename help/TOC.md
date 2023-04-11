@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
+source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
 workflow-type: tm+mt
-source-wordcount: '2301'
+source-wordcount: '2308'
 ht-degree: 0%
 
 ---
@@ -141,6 +141,7 @@ ht-degree: 0%
       + [Instellingen voor een stroomaanvraag begrijpen](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Een aanvraagwachtrij maken](manage-work/request-queues/create-a-request-queue.md)
       + [Een aanvraagstroom maken](manage-work/request-queues/create-a-request-flow.md)
+      + [Antwoorden op veelgestelde vragen over aanvraagwachtrijen](manage-work/request-queues/request-queue-faq.md)
    + Goedkeuringsprocessen en mijlpaden {#approval-processes-and-milestone-paths}
       + [Een goedkeuringsproces voor eenmalig gebruik maken](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Bestaande goedkeuringsprocessen bijvoegen en bewerken](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
