@@ -1,5 +1,5 @@
 ---
-title: Naar Workftont Analytics
+title: Een moment met product - Inleiding tot Workftont Analytics
 description: Ontdek hoe analyses tot stand zijn gekomen en de spannende mogelijkheden die dit mogelijk maakt met Joel Pettigrew, productmanager voor [!DNL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 doc-type: video
 kt: 8870
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---

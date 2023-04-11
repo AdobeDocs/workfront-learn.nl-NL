@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '2301'
 ht-degree: 0%
 
 ---
@@ -222,6 +222,7 @@ ht-degree: 0%
       + [Geavanceerd rapportagedeel 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Geavanceerd rapporteringsdeel 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
    + Verbeterde analysemogelijkheden {#enhanced-analytics}
+      + [Een ogenblik met Product over [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Aan de slag met [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [Toevoegen [!UICONTROL analytics] naar lay-outsjablonen](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Basisnavigatie begrijpen](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -274,7 +275,7 @@ ht-degree: 0%
       + [Ontdek de tijd bij het toewijzen van taken](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [Zichtbaarheid in hulpmiddelen voor middelenbeheer](manage-resources/pto/visibility-in-resource-management-tools.md)
    + Scenario Planner {#scenario-planner}
-      + [Een moment met product over de Planner van het Scenario](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+      + [Een ogenblik met Product over de Planner van het Scenario](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [Wat is de Scenario Planner?](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [Een abonnement openen in Scenario Planner](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
       + [Abonnementen maken in het deelvenster Scenario](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)

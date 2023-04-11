@@ -9,16 +9,16 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
 
 # Doelstatus communiceren
 
-Nu u uw doelstellingen gebruikend hebt bijgewerkt, neem een ogenblik om terug te stappen en een vogelperspectief van de doelstellingen te krijgen u werkt aan en hoe zij met het team, de groep, en de bedrijfsdoelstellingen betrekking hebben. Communiceren met anderen over de voortgang en status van uw doelen is een belangrijk onderdeel van het op één lijn houden.
+Nu u uw doelstellingen hebt bijgewerkt, neem een ogenblik om terug te stappen en een vogelperspectief van de doelstellingen te krijgen u aan werkt en hoe zij met het team, de groep, en de bedrijfsdoelstellingen betrekking hebben. Communiceren met anderen over de voortgang en status van uw doelen is een belangrijk onderdeel van het op één lijn houden.
 
 Er zijn verschillende manieren om de juiste mensen op de hoogte te houden van uw doelstellingen. Je kunt beginnen met:
 
@@ -33,7 +33,7 @@ U kunt een doel delen u creeerde of een doel dat door iemand anders wordt gecree
 
 1. Klik op het pictogram met drie punten naast de doelnaam en klik vervolgens op [!UICONTROL **Delen**]. De [!UICONTROL Goal Access] wordt weergegeven.
 
-   ![Waarden](assets/17-workfront-goals-share-a-goal.png)
+   ![Screenshot van het delen van een doel](assets/17-workfront-goals-share-a-goal.png)
 
 1. Voer een van de volgende handelingen uit:
 
