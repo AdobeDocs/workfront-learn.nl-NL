@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
+source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
 workflow-type: tm+mt
-source-wordcount: '2308'
+source-wordcount: '2316'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 0%
       + [Lay-outsjablonen zoeken](administration-and-setup/layout-templates/find-layout-templates.md)
       + [terminologie aanpassen met lay-outsjablonen](administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [De [!UICONTROL Main Menu] met lay-outsjablonen](administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
+      + [Punten via een lay-outsjabloon toevoegen en beheren](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
       + [Home aanpassen met lay-outsjablonen](administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [Toegang tot lay-outsjablonen toewijzen en beheren](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [Objectgebieden aanpassen met een lay-outsjabloon](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
@@ -64,6 +65,7 @@ ht-degree: 0%
       + [Mijlpalen maken](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
    + Systeemprestaties en -onderhoud {#system-perfomance-and-maintenance}
       + [Een bestaande Adobe Workfront-instantie beheren](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
