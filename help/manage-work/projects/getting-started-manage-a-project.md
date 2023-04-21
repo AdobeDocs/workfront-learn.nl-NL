@@ -11,16 +11,16 @@ team: Technical Marketing
 kt: 8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 # Beginnen met het beheren van een project
 
-In deze video leert u hoe u:
+In deze video leert u:
 
 * Wat te bekijken wanneer het controleren van projectwerk
 * Wat uw rol als projectmanager is
@@ -29,11 +29,11 @@ In deze video leert u hoe u:
 
 ## Een project beheren - revisie
 
-Bij elk project dat u beheert, bepaalt u wanneer en wat u telkens opnieuw wilt bekijken. Als projectmanager bovenop uw projecten blijft staan en hen naar succes drijft, dan is dat precies waar het om gaat.
+Bij elk project dat u beheert, gaat u een routine aan van wanneer te herzien projecten en wat u elke keer wilt herzien. Als projectmanager bovenop uw projecten blijft staan en hen naar succes drijft, dan is dat precies waar het om gaat.
 
 Elke projectmanager behandelt hun projecten een beetje verschillend. En elk team, elke afdeling, of elke organisatie kunnen verschillende projectvereisten en behoeften hebben.
 
-Maar hoe u een project ook beheert, u wilt:
+Maar hoe u ook een project beheert, u wilt:
 
 * Zorg ervoor dat het werk op tijd wordt voltooid.
 * Voorzie problemen en risico&#39;s.

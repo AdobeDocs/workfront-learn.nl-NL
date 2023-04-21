@@ -10,20 +10,21 @@ role: User
 level: Intermediate
 kt: 10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1219'
 ht-degree: 0%
 
 ---
 
 # De projectdetails invullen
 
-U hoeft niet elk veld en selectievakje in de projectdetails in te vullen bij elk project waarin u maakt [!DNL  Workfront]. Gebruik sjablonen om informatie vooraf in te vullen en wijs vervolgens uw aandacht op de twaalf belangrijkste hieronder vermelde gebieden met projectdetails.
+Maak u geen zorgen... u moet niet elk gebied en checkbox in de projectdetails met elk project invullen u binnen creeert [!DNL  Workfront]. Gebruik sjablonen om informatie vooraf in te vullen en wijs vervolgens uw aandacht op de twaalf belangrijkste hieronder vermelde gebieden met projectdetails.
 
 1. **Naam**
 
    Een beschrijvende projectnaam helpt iedereen het doel van het project identificeren. Zorg ervoor dat u de naamgevingsconventie voor projecten van uw organisatie volgt. Hiervoor moet mogelijk bepaalde informatie worden opgenomen in de projectnaam (zoals een referentienummer, afdelingsnaam of categorielocatie).
+
 
 1. **Beschrijving**
 
@@ -37,23 +38,23 @@ U hoeft niet elk veld en selectievakje in de projectdetails in te vullen bij elk
 
    De status wordt gebruikt in Workfront om aan te geven waar of in welk stadium van de workflow een project is. In veel Workfront-rapporten wordt de status gebruikt om te volgen hoe de voortgang van het werk vordert.
 
-   Workfront raadt u aan de status in te stellen op Planning terwijl u het projectplan verder ontwikkelt en afwerkt. Het belangrijkste met de planningsstatus is dat Workfront-berichten niet naar de taaktoewijzing van het project gaan terwijl het deze status heeft.
+   Workfront raadt u aan de status in te stellen op Planning terwijl u het projectplan verder ontwikkelt en afwerkt. Het belangrijkste met de status van de Planning is dat de berichten van Workfront niet uit gaan om taken toe te wijzen over het project terwijl het in deze status is.
 
-   Als het project klaar is om live te gaan, wijzigt u de status in Huidig. Op deze manier stuurt Workfront berichten naar de juiste personen over de taken die aan hen zijn toegewezen.
+   Als het project klaar is om live te gaan, wijzigt u de status in Huidig. Dit staat Workfront toe om berichten naar mensen over nieuwe taken te verzenden zij aan worden toegewezen, maar het zal geen berichten naar gebruikers voor de taken verzenden zij werden toegewezen terwijl het project in een status van de Planning was.
 
    >[!TIP]
    >
    >  Wanneer het aanbrengen van veranderingen in project-zulke zoals veranderend op datum-u de status terug naar Planning kunt rollen of de eigenschap onbruikbaar maken AutoSave om berichten te verhinderen uit te gaan tot de veranderingen volledig zijn.
 
-   De status van de Planning kan als globaal Workfront gebrek door uw systeembeheerder worden geplaatst.
+   De status van de Planning kan als globaal Workfront gebrek voor nieuwe projecten door uw systeembeheerder worden geplaatst.
 
 1. **Planningsmodus**
 
    Workfront-projecten kunnen worden gepland vanaf een startdatum of een einddatum. Die belangrijke selectie bepaalt hoe de geplande data van elke taak worden berekend.
 
-   De optie van de Datum van het Begin neemt de begindatum voor project-ingegaan door u-en de duur en predecessors van elke taak om te berekenen wanneer het project zal beëindigen. Workfront raadt u aan deze optie te gebruiken, omdat deze de meest gebruikte optie is en de datums van planningsprojecten eenvoudiger worden.
+   De optie van de Datum van het Begin neemt de begindatum voor project-ingegaan door u-en de duur en predecessors van elke taak om te berekenen wanneer het project zal beëindigen. Workfront raadt u aan deze optie te gebruiken, omdat dit de meest gebruikte optie is en de planning van projectdatums eenvoudiger wordt.
 
-   U kunt echter wel een voltooiingsdatum gebruiken. Workfront bekijkt de einddatum (ingegaan door u) en het te doen werk (gebaseerd op duur en predecessors), dan werk achterwaarts om de de begindatum van het project te berekenen. Workfront raadt aan te wachten met het gebruik van de einddatum nadat een bepaald bekwaamheidsniveau in Workfront is vastgesteld.
+   U kunt echter wel een voltooiingsdatum gebruiken. Workfront bekijkt de einddatum (ingegaan door u) en het te doen werk (gebaseerd op duur en predecessors), dan werkt achteruit om de begindatum van het project te berekenen. Workfront raadt aan te wachten met het gebruik van de einddatum nadat een bepaald bekwaamheidsniveau in Workfront is vastgesteld.
 
    Vergeet niet een datum te selecteren in de pop-upkalender, ongeacht de optie die u kiest.
 
@@ -61,9 +62,9 @@ U hoeft niet elk veld en selectievakje in de projectdetails in te vullen bij elk
 
 1. **Groep**
 
-   Een groep is een organisatie-eenheid van Workfront die zich vaak op een afdeling richt. Dit gebied kan op het projectmalplaatje worden geplaatst. Als dit niet het geval is, wordt het veld automatisch ingesteld op de thuisgroep van de persoon die het project maakt. U kunt de groep desgewenst wijzigen.
+   Een groep is een organisatie-eenheid van Workfront die zich vaak op een afdeling richt. Dit gebied kan op het projectmalplaatje worden geplaatst. Als het niet is, wordt het gebied automatisch geplaatst aan de Groep van het Huis van de persoon die het project creeert. U kunt de groep desgewenst wijzigen.
 
-   Over het algemeen komen de meeste mensen die aan het project werken uit deze groep. Dit beperkt echter niet dat mensen uit andere groepen aan het project werken toegewezen krijgen.
+   Over het algemeen komen de meeste mensen die aan het project werken uit deze groep. Maar dit beperkt niet dat mensen uit andere groepen werk krijgen toegewezen in het project.
 
    De Groep op het project bepaalt ook welk project, taak, en uitgeven voorkeur het project zal gebruiken. Deze voorkeuren, zoals een aangepaste status voor een specifieke groep, worden ingesteld door de systeembeheerder of een groepsbeheerder.
 
@@ -71,15 +72,15 @@ U hoeft niet elk veld en selectievakje in de projectdetails in te vullen bij elk
 
 1. **Projecteigenaar**
 
-   De eigenaar van het project is de termijn van Workfront voor projectmanager. Dit is de persoon die verantwoordelijk is voor de planning en/of het beheer van het project.
+   De eigenaar van het project is een Workfront-term voor projectmanager. Dit is de persoon die verantwoordelijk is voor de planning en/of het beheer van het project.
 
-   De eigenaar van het project heeft volledige beheermachtigingen voor het project, dus ze moeten een licentie voor het abonnement hebben.
+   De eigenaar van het project kan alleen volledige beheermachtigingen voor het project hebben als hij over een licentie voor het abonnement beschikt.
 
    Dit veld blijft normaal gesproken leeg in de sjabloon en wordt automatisch ingevuld met de naam van de persoon die het project maakt. Als een naam in het malplaatje is ingegaan, is dat de standaardeigenaar van het project.
 
 1. **Projectsponsor**
 
-   De projectsponsor is doorgaans de persoon die om het project heeft verzocht. Dit is vaak een interne belanghebbende, zoals een manager of een uitvoerend orgaan, met algemene verantwoordelijkheid voor het project.
+   De projectsponsor is niet verplicht, maar wanneer deze wordt gebruikt, is dit doorgaans de persoon die het project heeft aangevraagd. Dit is vaak een interne belanghebbende, zoals een manager of een uitvoerend orgaan, met algemene verantwoordelijkheid voor het project.
 
    De sponsor krijgt automatisch weergavemachtigingen voor het project en moet een gebruiker met Workfront-licentie zijn.
 
@@ -87,13 +88,13 @@ U hoeft niet elk veld en selectievakje in de projectdetails in te vullen bij elk
 
 1. **Resource Manager**
 
-   De Workfront-gebruikers die in dit veld worden vermeld, kunnen de tools voor het plannen en beheren van bronnen in Workfront gebruiken voor het specifieke project of de specifieke projecten waaraan zij zijn gekoppeld. Tot 30 namen kunnen op het gebied van de Manager van het Middel worden vermeld, en elk moet een vergunning van het Plan hebben.
+   De Workfront-gebruikers die in dit veld worden vermeld, kunnen de tools voor resourceplanning en -beheer in Workfront gebruiken voor het specifieke project of de specifieke projecten waaraan zij zijn gekoppeld. Tot 30 namen kunnen op het gebied van de Manager van het Middel worden vermeld, en elk moet een vergunning van het Plan hebben.
 
    Het gebied van de Manager van het Middel kan in het malplaatje worden geplaatst.
 
 1. **Aangepaste Forms**
 
-   Workfront biedt native velden voor zaken als projectnaam en begindatum. Maar er is extra informatie u als projectmanager nodig hebt, of dat het projectteam zal vereisen. Uw unieke gegevens zijn even belangrijk en kunnen gemakkelijk in deze formulieren worden opgeslagen. Details zoals publicatiedatums, formaten van afdrukmiddelen, leveringskanalen en meer.
+   Workfront biedt native velden voor zaken als projectnaam en begindatum. Maar er is extra informatie u als projectmanager nodig hebt, of dat het projectteam zal vereisen. Uw unieke gegevens zijn even belangrijk en kunnen gemakkelijk in deze formulieren worden opgeslagen. Details zoals publicatiedatums, formaten van gedrukte elementen, leveringskanalen, enz.
 
    Met aangepaste formulieren kunt u deze informatie vastleggen en opnemen in lijsten en rapporten in Workfront, zodat de informatie gemakkelijk kan worden weergegeven en bewerkt.
 
@@ -103,9 +104,9 @@ U hoeft niet elk veld en selectievakje in de projectdetails in te vullen bij elk
 
    Het werk gebeurt rond de klok, aangezien vele bedrijven werknemers over de hele wereld hebben.
 
-   Met Workfront kunt u een gemeenschappelijk schema toepassen op projecten. Deze worden gecreeerd door uw systeembeheerder. Planningen weerspiegelen de werkdagen en uren van uw teams, plus de dagen waarop werknemers niet werken (zoals feestdagen).
+   Met Workfront kunt u een gemeenschappelijk schema toepassen op projecten. Deze worden gecreeerd door uw systeembeheerder. Planningen weerspiegelen de werkdagen en uren van uw teams, plus de dagen waarop werknemers niet werken (zoals vakanties).
 
-   Zorg er als planner voor dat u het juiste schema toepast op het juiste project. De planningsinstellingen zijn van invloed op tijdlijnberekeningen, waarbij u rekening houdt met time-off en tijdzones.
+   Als planner, zorg ervoor u het juiste programma op het juiste project toepast. De planningsinstellingen zijn van invloed op tijdlijnberekeningen, waarbij u rekening houdt met time-off en tijdzones.
 
    Het schema dat aan het project wordt toegewezen, moet het schema zijn dat op het grootste deel van de taaktoewijzing van toepassing is. Als er geen programma voor het project wordt gespecificeerd, zal het programma duidelijk als Gebrek worden gebruikt.
 
@@ -121,10 +122,8 @@ U hoeft niet elk veld en selectievakje in de projectdetails in te vullen bij elk
 
 1. **Toegang tot het project voor Viewers en Medewerkers**
 
-   Wanneer iemand toegang krijgt tot een project, kunnen deze op drie niveaus rechten worden verleend wanneer een project live gaat: weergave, Contribute en Beheren. Elk toestemmingsniveau staat de gebruiker toe om bepaalde dingen met het project te zien en te doen.
+   Wanneer iemand toegang krijgt tot een project via Delen, kunnen er drie machtigingsniveaus worden ingesteld: Weergave, Contribute en Beheren. Elk toestemmingsniveau staat de gebruiker toe om bepaalde dingen met het project te zien en te doen.
 
-   Er zijn bijvoorbeeld mensen die toegang hebben tot het project, maar de financiële informatie niet moeten zien. Zo kunt u de optie Financiën weergeven uitschakelen voor Viewers en Medewerkers.
-
-   U kunt deze toestemmingsmontages op individuele projecten op elk ogenblik verfijnen. Nochtans, zodra een project zich van Planning aan Huidige status heeft bewogen, moeten op toestemming-gebaseerde aanpassingen door het project worden gedaan dat deelt.
+   Bijvoorbeeld, zijn er mensen die toegang tot het project zouden kunnen hebben maar niet de financiële informatie zouden moeten zien. U kunt de optie View Finance dus uitschakelen.
 
    De toegangsinstellingen kunnen in de sjabloon worden ingesteld.
