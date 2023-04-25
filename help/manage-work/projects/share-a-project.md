@@ -10,27 +10,21 @@ role: User
 level: Intermediate
 kt: 10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 518ede1e0a57a3075d8db122d48666c45dae8a4b
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # Een project delen
 
-Het bieden van de zichtbaarheid van belanghebbenden en deelnemers aan het project is een belangrijk onderdeel van het beheer van een project.
+In deze video leert u:
 
-Zorg ervoor dat iedereen de benodigde informatie kan zien door het project te delen. In Workfront gebeurt dit met de [!UICONTROL Share] optie. U kunt dit doen vanuit het individuele project, vanuit het [!UICONTROL More] in de koptekst.
+* Hoe automatisch delen werkt in Workfront
+* Een project delen met een persoon
+* Hoe te om een project met een team te delen
+* Een project delen door het in een portfolio te plaatsen
+* Wat is de beste manier om een project te delen
 
-![Het venster Projecttoegang](assets/planner-fund-share-project-smaller.png)
-
-Of u kunt meerdere projecten tegelijk delen vanuit de lijst met projecten in het dialoogvenster [!UICONTROL Projects] pagina door de projecten te selecteren en op de [!UICONTROL Share] knop.
-
-Door het project te delen, kunnen alle betrokkenen projectinformatie zien wanneer ze die nodig hebben.
-
-<!---
-Learn More Icon
-Share permissions on objects
-Share a project
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
