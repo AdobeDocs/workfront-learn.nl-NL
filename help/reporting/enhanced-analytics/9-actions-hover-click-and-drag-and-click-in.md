@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -37,3 +37,19 @@ Wanneer u in bepaalde delen van een diagram klikt, worden extra grafieken of een
 * **Projectreemap**—Klik op een projectvak om de inlay-out en taken in vluchtgrafieken op te halen.
 * **Activiteit per team**—Klik de teamnaam om de grafiek uit te breiden zodat kunt u activiteit door gebruiker zien.
 * **Broncapaciteit**—Klik de teamnaam om de grafiek van de capaciteit van het Team te zien.
+
+## Wat betekent een donkerdere en lichtere schaduw als het gaat om teamactiviteiten?
+
+**Gebruikers die zich hebben aangemeld:** Paarse dozen laten zien dat mensen in het huisteam zich op die dag hebben aangemeld. Een donkerdere tint geeft een groter aantal personen aan die zich aanmelden.
+
+![Een afbeelding van paarse gearceerde vakken](assets/purple-shaded-boxes.png)
+
+**Wijziging taakstatus:** Roze dozen tonen dat de mensen op het huisteam de status van een taak op die dag veranderden. Een donkerdere schaduw geeft aan dat er een groter aantal taakstatussen wordt gewijzigd.
+
+![Een afbeelding van roze gearceerde vakken](assets/pink-shaded-boxes.png)
+
+**Voltooide taken:** Blauwe dozen laten zien dat mensen in het team van huis die dag een taak hebben voltooid. Een donkerdere schaduw geeft een hoger aantal taken aan die worden voltooid.
+
+![Een afbeelding van blauw gearceerde vakken](assets/blue-shaded-boxes.png)
+
+Zie voor meer informatie [Begrijp de Activiteit door teamvisualisatie](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).

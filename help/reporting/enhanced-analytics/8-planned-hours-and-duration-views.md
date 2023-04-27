@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,10 @@ In de grafieken van de Verbranding en van de Verspreiding van het Project, kunt 
 
 ![Een afbeelding van het selecteren van een gepland uur in plaats van een duur](assets/section-1-5.png)
 
+
+
 Geplande uren is de standaardinstelling. Als u naar de duur overschakelt, blijft deze wel behouden wanneer u weg navigeert [!DNL Analytics] en kom terug en tussen Workfront logins.
+
+## Wat betekent de grootte van het vak en de kleurschaduw?
+
+Kleinere, lichtere blauwe vakken geven minder uren aan, terwijl grotere vakken en donkere tinten blauw meer uren aangeven in vergelijking. Zie voor meer informatie [Begrijp de het treemap visualisatie van het Project](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
