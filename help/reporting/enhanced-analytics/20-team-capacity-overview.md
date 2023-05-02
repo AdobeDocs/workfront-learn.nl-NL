@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Op het diagram kunt u zien:
 ## Hoe te aan de grafiek te navigeren
 
 1. Klik op de knop [!UICONTROL People] in het linkerdeelvenster.
-1. Gebruik de [!UICONTROL Filter] om een team van het Huis te kiezen om te onderzoeken.
+1. Gebruik de [!UICONTROL Filter] om een of meer Home-teams te kiezen die moeten worden onderzocht.
 1. U ziet de tabel met de teamcapaciteit onder het tabblad [!UICONTROL Resource capacity] grafiek.
 
 ## Hoe te om de grafiek te gebruiken
