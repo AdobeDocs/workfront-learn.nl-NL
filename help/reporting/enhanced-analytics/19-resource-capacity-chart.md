@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ In het diagram ziet u de volgende belangrijke details:
 1. De uren staan aan de onderkant. Dit is de x-as van de grafiek en berekent naar het bereik van uren dat in de bovenstaande teams wordt weergegeven.
 1. De cirkel toont het aantal geplande uren die aan het huisteam worden toegewezen.
 1. De verticale lijn toont het totale aantal uren beschikbaar voor het huisteam.
+
+## Hoe te aan de grafiek te navigeren
+
+1. Klik op de knop [!UICONTROL People] in het linkerdeelvenster.
+1. Gebruik de [!UICONTROL Filter] om een team van het Huis te kiezen om te onderzoeken.
+1. U ziet de [!UICONTROL Resource capacity] de grafiek verschijnt onder de grafiek van de teamactiviteit.
 
 ## Hoe te om de grafiek te gebruiken
 

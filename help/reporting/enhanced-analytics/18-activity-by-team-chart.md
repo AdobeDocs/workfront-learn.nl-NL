@@ -1,6 +1,6 @@
 ---
 title: Begrijp de activiteit door teamgrafiek in [!UICONTROL Enhanced Analytics]
-description: De Activiteit door teamgrafiek staat u toe om te begrijpen hoe de huisteams van uw organisatie hun tijd in Workfront doorbrengen.
+description: Met het overzicht Activiteit per team kunt u begrijpen hoe de teams thuis van uw organisatie hun tijd in Workfront doorbrengen.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,16 +10,16 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 # Begrijp de activiteit door teamgrafiek in [!UICONTROL Enhanced Analytics]
 
-De Activiteit door teamgrafiek staat u toe om te begrijpen hoe de huisteams van uw organisatie hun tijd in Workfront doorbrengen. Workfront-gebruikers kunnen in meerdere teams werken, maar ze kunnen slechts in één team thuis werken. De teams die in de grafieken van Mensen worden gebruikt worden samengesteld uit slechts die gebruikers die dat team hebben dat als hun huisteam wordt aangewezen.
+Met het overzicht Activiteit per team kunt u begrijpen hoe de teams thuis van uw organisatie hun tijd in Workfront doorbrengen. Workfront-gebruikers kunnen in meerdere teams werken, maar ze kunnen slechts in één team thuis werken. De teams die in de grafieken van Mensen worden gebruikt worden samengesteld uit slechts die gebruikers die dat team hebben dat als hun huisteam wordt aangewezen.
 
 Activiteiten—gebruikers die zijn aangemeld, wijzigingen in de taakstatus en voltooide taken—worden in verschillende kleuren weergegeven om een overzicht te geven van deze gebeurtenissen tijdens de gefilterde tijdsperiode.
 
@@ -38,3 +38,9 @@ Op het diagram kunt u zien:
 1. De paarse dozen tonen dat de gebruikers aan het project dat op die dag worden aangemeld, met een donkerdere schaduw die op een hoger aantal gebruikers het programma openen wijzen.
 1. De roze vakjes tonen dat de gebruikers de status van een taak voor het project op die dag veranderden, met een donkerdere schaduw die op een hoger aantal taakstatussen wijzen die veranderen.
 1. De blauwe vakjes tonen aan dat de gebruikers een taak voor het project voltooiden, met een donkerdere schaduw die op een hoger aantal taken wijzen die worden voltooid.
+
+## Hoe te aan de grafiek te navigeren
+
+1. Klik op de knop [!UICONTROL People] in het linkerdeelvenster.
+1. Gebruik de [!UICONTROL Filter] om een team van het Huis te kiezen om te onderzoeken.
+1. U zult de activiteit door teamgrafiek bij de personengrafieken zien verschijnen.
