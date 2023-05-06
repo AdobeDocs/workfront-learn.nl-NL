@@ -1,6 +1,6 @@
 ---
 title: Projectcommunicatie begrijpen
-description: Leer hoe te over projectwerk te communiceren gebruikend updates op projecten, taken, kwesties, of documenten. Beoordeel de bestaande updates in [!DNL  Workfront].
+description: Leer hoe te om over projectwerk te communiceren gebruikend goede projectplanning, updates, taakstatus, volledig percentage, kwesties, en rapporten.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,32 +8,30 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-05T00:00:00Z
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 96e0a94ad39354765c171f762003c58feec5a4c8
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Projectcommunicatie begrijpen
 
-Zoals het gezegde luidt, is 90 procent van het beheer van een project communicatie. Communicatie met het projectteam, uw managers, en projectbelanghebbenden.
+In deze video leert u hoe u kunt communiceren met alle betrokkenen bij het project door:
 
-Maar wanneer de projectteams e-mail, onmiddellijk overseinen, vergaderingen, en kleverige nota&#39;s voor projectmededeling gebruiken, wordt de informatie verspreid... of erger, vergeten. Houd de communicatie over het projectwerk in het project zelf [!DNL Workfront] updates gebruiken.
+* Goede projectplanning
+* Updates
+* Taakstatus en percentage voltooid
+* Problemen
+* Rapporten
 
-Aangezien de leden van het projectteam aan taken werken, kunnen zij updates van maken [!DNL Workfront] [!UICONTROL Home] over de hun toegewezen taken.
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on)
 
-![De sectie van updates in een project](assets/planner-fund-project-communication.png)
-
-De updates van taken, kwesties, en documenten rollen tot het project-niveau [!UICONTROL Updates] , zodat informatie snel en gemakkelijk te bekijken is.
-
-Vervolgens kunt u op updates reageren door gewoon op de knop te klikken. Dit houdt al gesprek op één plaats, die u toestaat om naar het later terug te verwijzen.
-
-<!---
-learn more urls
-Communicate about work in Home
-Subscribe to items in Workfront
-Update work
---->
+>[!TIP]
+>
+>Als u het rapport Notitie zoeken wilt maken dat in de video wordt weergegeven, raadpleegt u de activiteit in het dialoogvenster [Een taakrapport maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) zelfstudie.
+>
+>Zie de activiteit in het deelvenster [Dashboards maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) zelfstudie.
