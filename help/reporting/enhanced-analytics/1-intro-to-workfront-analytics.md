@@ -9,14 +9,15 @@ level: Beginner
 team: Technical Marketing
 doc-type: video
 kt: 8870
-source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
+exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
+source-git-commit: 5caff49cf901fa6b1005a9c4100ae89fa56249c4
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# Naar Workftont Analytics
+# Introductie tot Workftont Analytics
 
 Bekijk deze video met Workfront Joel Pettigrew, productmanager voor [!DNL Enhanced analytics], om te leren hoe analyses tot stand zijn gekomen en welke spannende mogelijkheden het mogelijk maakt.
 
