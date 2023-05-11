@@ -1,6 +1,6 @@
 ---
 title: Begrijp het [!UICONTROL Gantt] weergave
-description: Leer hoe u een project kunt weergeven met de [!UICONTROL Gantt] diagram in [!DNL  Workfront].
+description: Leer hoe u het Gantt-diagram kunt gebruiken om uw taken en projecten snel op hoog niveau te bekijken met een verrassende hoeveelheid details.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,32 +8,23 @@ thumbnail: understand-the-gantt-view.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-11T00:00:00Z
 kt: 10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: e9bd9ad214189ff7077fa72fde00f9fbe8d632a9
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # Begrijp het [!UICONTROL Gantt] weergave
 
-Soms geeft alleen het bekijken van de taak u geen goed idee hoe alles aan elkaar is gekoppeld. Sommige projectmanagers moeten de informatie in grafiekformaat zien. Als dat uw voorkeur is, [!DNL Workfront] beveelt de [!UICONTROL Gantt] grafiek om u een visueel gevoel van de volledige chronologie van uw project te geven.
+In deze video leert u hoe u kunt werken:
 
-De [!UICONTROL Gantt] zet zeer belangrijke informatie in eenvoudig visueel om uw plan bij een blik te zien. Maak snel predecessors, mijlpalen en voortgangsstatus beschikbaar. Experimenteer met het uitschakelen en inschakelen van verschillende opties.
+* Gantt-projectdiagram
+* Het Gantt-taakdiagram
 
-![[!UICONTROL Gantt] diagram](assets/planner-fund-gantt.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on)
 
-Dan kunt u zien of bent vergeten een voorganger op een nieuwe taak te zetten. U controleert ook de duur en de begin- en vervaldatum om te controleren of er niets in de juiste volgorde staat. Geef het percentage weer dat is voltooid, zodat u taken kunt vinden die in de problemen zijn. En de [!UICONTROL Gantt] U kunt uw mijlpalettaken benadrukken, latend u of het project zijn doelstellingen bereikt.
-
-<!---
-this paragraph needs an article URL
---->
-
-De [!UICONTROL Gantt] is gemakkelijk te onderzoeken en nuttig op diverse tijden tijdens de levensduur van het project. Probeer het uit en zie hoe het voor u werkt. U kunt meer online leren met het artikel, Aan de slag met het Gantt-diagram.
-
-<!---
-Getting started with the Gantt chart
-Overview of the project critical path
---->
+U kunt meer online leren met het artikel, [Aan de slag met de Gantt-grafiek](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
