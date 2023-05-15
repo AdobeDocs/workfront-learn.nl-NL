@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
+source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
 workflow-type: tm+mt
-source-wordcount: '2317'
+source-wordcount: '2314'
 ht-degree: 0%
 
 ---
@@ -113,9 +113,9 @@ ht-degree: 0%
       + [De voortgang van het project bijhouden](manage-work/projects/track-overall-project-progress.md)
       + [Voortgang van het werk bijhouden met projectmetriek](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Begrijp het [!UICONTROL Gantt] weergave](manage-work/projects/understand-the-gantt-view.md)
-      + [De projectstatus wijzigen](manage-work/projects/change-the-project-status.md)
+      + [Sluit het project](manage-work/projects/change-the-project-status.md)
    + Taken {#tasks}
-      + [Hoe te om taken tot stand te brengen](manage-work/tasks/how-to-create-tasks.md)
+      + [Taken maken](manage-work/tasks/how-to-create-tasks.md)
       + [Bovenliggende taken begrijpen](manage-work/tasks/understand-parent-child-tasks.md)
       + [Werken met taken](manage-work/tasks/work-with-tasks.md)
       + [Taken toewijzen vanuit het projectplan](manage-work/tasks/assign-tasks-from-the-project-plan.md)

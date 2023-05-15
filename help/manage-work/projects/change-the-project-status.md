@@ -1,5 +1,5 @@
 ---
-title: De projectstatus wijzigen
+title: Sluit het project
 description: Leer hoe u de status van een project wijzigt om aan te geven dat het werk is voltooid.
 activity: use
 team: Technical Marketing
@@ -10,43 +10,19 @@ role: User
 level: Intermediate
 kt: 10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 961627d42a7967dd3070f52e73986c47d8fdc8f9
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
 # De projectstatus wijzigen
 
-Een van de laatste [!DNL Workfront] De stappen voor het sluiten van een project veranderen de status in Voltooid. Status doet twee belangrijke dingen in [!DNL Workfront]:
+In deze video leert u:
 
-* Laat iedereen weten in welke ontwikkelingsfase het project zich bevindt.
-* Tellen [!DNL Workfront] wanneer en wanneer niet naar.
+* Hoe te om de projectstatus te veranderen in [!UICONTROL Complete]
+* Waarom de projectstatus wijzigen in [!UICONTROL Complete]
+* Wat te doen als u niet de projectstatus kunt veranderen in [!UICONTROL Complete]
 
-Met de status Voltooid laat u iedereen weten dat het projectwerk is voltooid. De resultaten zijn voltooid en het doel is bereikt.
-
-En u vertelt het [!DNL Workfront] om te stoppen met het verzenden van kennisgevingen in verband met het project.
-
-Wijzig de status in het volgende:
-
-* Projectkop
-* Projectdetails
-* Of van een lijst of een rapport dat de kolom van de projectstatus toont
-
-![[!UICONTROL Status] veld uitgevouwen in projectkoptekst](assets/planner-fund-project-status.png)
-
-## Waarom wijzigt u de status?
-
-Het lijkt duidelijk dat wanneer het sluiten van een project, een belangrijke stap is de status te veranderen in Voltooid. Maar [!DNL Workfront] heeft vastgesteld dat deze stap soms over het hoofd wordt gezien. Waarom?
-
-In sommige gevallen hebben organisaties geen vaste procedure voor het afsluiten van projecten. De projectmanager en andere betrokkenen weten dat het werk gedaan is, dus gaan ze gewoon door naar het volgende.
-
-In andere situaties, is het projectpercentage volledig bij 100 percenten omdat alle taken worden voltooid. Soms veronderstellen de projectmanagers 100 percent volledig betekent een Volledige status. Maar dat is niet altijd het geval.
-
-Het vergeten om de projectstatus bij te werken kan de rapportering van uw organisatie beïnvloeden. Dit kan op zijn beurt van invloed zijn op de planning van de middelen, de financiële prognoses en de toekomstige projectverbintenissen.
-
-<!---
-learn more
-Project statuses
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)
