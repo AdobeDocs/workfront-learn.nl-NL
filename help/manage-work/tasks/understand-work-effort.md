@@ -10,27 +10,23 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 0c7a19edf43baae69ab78edf7b344641de97912b
+source-git-commit: 9348bd7044e7a8385154dedc3349d3719d86d42d
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
 # Begrijpen [!UICONTROL Work Effort]
 
-[!DNL Workfront] Sommige organisaties gebruiken de geplande uren niet bij het maken van projecten. Om echter alle voordelen van [!DNL Workfront's] de hulpmiddelen van het middelbeheer en een beter inzicht in de hoeveelheid werkgebruikers worden toegewezen, geplande uren in projecten is een must.
+Workfront begrijpt dat sommige organisaties de geplande uren niet gebruiken bij het maken van projecten. Om echter ten volle te kunnen profiteren van de Workfront-instrumenten voor hulpbronnenbeheer en om een beter inzicht te krijgen in de hoeveelheid werkgebruikers die wordt toegewezen, is het absoluut noodzakelijk dat de geplande uren in projecten worden opgenomen.
 
-Met beide concepten in mening, [!DNL Workfront] heeft de [!UICONTROL Work Effort] optie.
+Met beide in gedachten heeft Workfront de [!UICONTROL Work Effort] optie.
 
-In plaats van specifieke uren voor elke taak in het project in te voeren, gebruik [!UICONTROL Work Effort] om te bepalen als een taak een kleine, middelgrote, of grote inspanning is. [!DNL Workfront] koppelen geplande uren automatisch aan die taken.
+In plaats van specifieke uren voor elke taak in het project in te voeren, kunt u de [!UICONTROL Work Effort] om aan te geven of een taak een kleine, middelgrote, of grote inspanning is. Workfront schat de geplande uren automatisch in op basis van de instellingen in het project.
 
-Op die manier, als u van plan bent om het even welke [!DNL Workfront’s] de hulpmiddelen van het middelbeheer, de aantallen u nodig hebt worden reeds ingevuld en de gebruikers hebben een mening over de hoeveelheid werk die hun weg komt.
+Op die manier, als u van plan bent om het even welke hulpmiddelen van het het middelbeheer van Workfront te gebruiken, worden de ramingen u nodig reeds ingevuld en de gebruikers hebben een overzicht van de hoeveelheid werk die hun weg komt.
 
 ![Lijst met projecttaken met [!UICONTROL Work Effort] kolom](assets/planner-fund-work-effort.png)
-
-<!---
-need hyperlink below
---->
 
 Voor meer informatie over [!UICONTROL Work Effort], zie de [Overzicht van werkprestaties](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
