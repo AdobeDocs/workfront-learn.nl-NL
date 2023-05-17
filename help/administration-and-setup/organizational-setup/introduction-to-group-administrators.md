@@ -1,6 +1,6 @@
 ---
 title: Begrijp de behoefte aan groepsbeheerders
-description: Leer hoe de systeembeheerders groepsbeheerders kunnen gebruiken helpen handhaven [!DNL Workfront] instellingen en groepen meer controle over hun werk geven.
+description: Leer hoe systeembeheerders groepsbeheerders kunnen gebruiken om instellingen voor  [!DNL Workfront]  te onderhouden en groepen meer controle over hun werk te geven.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
