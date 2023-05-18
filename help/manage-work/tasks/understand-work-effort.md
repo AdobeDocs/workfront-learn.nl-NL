@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 9348bd7044e7a8385154dedc3349d3719d86d42d
+source-git-commit: d1598021f9106630929dfa488ae331250616ee7e
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Workfront begrijpt dat sommige organisaties de geplande uren niet gebruiken bij 
 
 Met beide in gedachten heeft Workfront de [!UICONTROL Work Effort] optie.
 
-In plaats van specifieke uren voor elke taak in het project in te voeren, kunt u de [!UICONTROL Work Effort] om aan te geven of een taak een kleine, middelgrote, of grote inspanning is. Workfront schat de geplande uren automatisch in op basis van de instellingen in het project.
+In plaats van specifieke uren voor elke taak in het project in te voeren, kunt u [!UICONTROL Work Effort] om aan te geven of een taak een kleine, middelgrote, of grote inspanning is. Workfront schat de geplande uren automatisch in op basis van de instellingen in het project.
 
 Op die manier, als u van plan bent om het even welke hulpmiddelen van het het middelbeheer van Workfront te gebruiken, worden de ramingen u nodig reeds ingevuld en de gebruikers hebben een overzicht van de hoeveelheid werk die hun weg komt.
 
