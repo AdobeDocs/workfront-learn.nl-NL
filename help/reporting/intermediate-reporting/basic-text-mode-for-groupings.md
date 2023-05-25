@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 18aa5b742c4ad6210893af6141aa0b2777ab3c2a
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -115,4 +115,15 @@ group.0.displayname=Project Name
 ```
 
 ![Een schermafbeelding met proefdrukgoedkeuringen gegroepeerd op projectnaam](assets/proof-approvals-grouped-by-project-name.png)
+
+
+## Goedkeuring proefdrukken - Groeperen op documentnaam
+
+```
+group.0.displayname=Document Name
+group.0.valuefield=documentVersion:document:name
+group.0.valueformat=HTML
+```
+
+![Een schermafbeelding met proefdrukgoedkeuringen gegroepeerd op projectnaam](assets/proof-approvals-grouped-by-doc-name.png)
 
