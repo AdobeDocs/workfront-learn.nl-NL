@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 0ee80dceb8208bd0360fd8c9ab68fb8a73677a9d
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,19 @@ In deze video leert u:
 * Voorwaardelijke opmaak maken en wijzigen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+
+## Samenvatting
+
+Voorwaardelijke opmaak maken:
+
+1. Kies de kolom waar u de opmaak wilt weergeven
+1. Bepaal onder welke voorwaarden de opmaak moet worden gewijzigd
+1. Bepaal welk type opmaakwijziging het beste werkt
+
+   * achtergrondkleur
+   * tekstkleur
+   * vervangende tekst
+   * pictogram tonen
 
 ## Activiteit: Voorwaardelijke opmaak toevoegen aan een weergave
 
