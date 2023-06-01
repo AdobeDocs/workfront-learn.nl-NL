@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
+source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Hier volgt een lijst met concepten die u goed kunt kennen wanneer u werkt met aa
 
 Als het gaat om expressienamen, is het belangrijk om te trainen. Bij het schrijven van een expressienaam kunt u hoofdletters, kleine letters of een combinatie van beide gebruiken.
 
-![Foutbericht zonder hoofdlettergebruik in expressienaam](assets/ttk-casingmatters01.png)
+![Foutbericht zonder hoofdlettergebruik in expressienaam](assets/T2K01.png)
 
 De expressie moet echter als hoofdletters worden geschreven, anders herkent het systeem de expressie en slaat het veld op.
 
@@ -40,23 +40,23 @@ De aanbevolen manier om expressies te schrijven is met weinig tot geen spatiëri
 
 * IF(ISBLANK({description}), &quot;Geen beschrijving&quot;, &quot;Heeft beschrijving&quot;)
 
-![Expressies zonder tussenruimte tussen velden](assets/spacing01.png)
+![Expressies zonder tussenruimte tussen velden](assets/T2K02.png)
 
 Als u echter met spatiëring kunt zien wat er gebeurt, kunt u wat afstand aan de expressies toevoegen. De extra spaties mogen niet verhinderen dat de expressie een waarde in [!DNL Workfront].
 
 * IF (ISBLANK ({description}), &quot;No Description&quot; , &quot;Has Description&quot;)
 
-![Expressies met tussenruimte tussen velden](assets/spacing02.png)
+![Expressies met tussenruimte tussen velden](assets/T2K03.png)
 
 De enige dingen die geen spaties tussen hen kunnen hebben zijn de gebieden en de krullende steunen. Anders ontvangt u een foutbericht en kunt u het veld of het aangepaste formulier niet opslaan.
 
-![Fout bij spatiëring tussen veldnaam en accolade](assets/spacing03.png)
+![Fout bij spatiëring tussen veldnaam en accolade](assets/T2K04.png)
 
 ## Aanhalingstekens moeten recht zijn
 
 Wanneer u aanhalingstekens gebruikt in een expressie, moet u ervoor zorgen dat de aanhalingstekens recht (&quot;) zijn. Wanneer de aanhalingstekens gebogen zijn (&quot;), wordt de [!DNL Workfront] Het systeem zal een &quot;Ongeldig&quot;bericht van de Uitdrukking van de Douane blijven tonen.
 
-![Fout met gekromde aanhalingstekens](assets/curvedquotes01.png)
+![Fout met gekromde aanhalingstekens](assets/T2K05.png)
 
 ## Berekeningen worden bijgewerkt bij het opslaan en bewerken van formulieren
 
@@ -83,7 +83,7 @@ Een veld bijwerken met de optie Expressies opnieuw berekenen:
 * Klik op het menu Meer.
 * Selecteer Expressies opnieuw berekenen in de lijst.
 
-![Expressieoptie in object opnieuw berekenen](assets/recalculate01.png)
+![Expressieoptie in object opnieuw berekenen](assets/T2K06.png)
 
 U kunt ook meerdere expressies tegelijkertijd opnieuw berekenen met de functie &quot;bulkbewerking&quot; in een lijst of rapport. Stel dat u een rapport hebt gemaakt met een lijst met problemen in een kolom met de berekening Openen van dagen. Als u alle problemen in één keer opnieuw wilt berekenen:
 
@@ -93,7 +93,7 @@ U kunt ook meerdere expressies tegelijkertijd opnieuw berekenen met de functie &
 * Schakel het vak Aangepaste expressies opnieuw berekenen onder aan de sectie Aangepaste Forms in.
 * Klik op Wijzigingen opslaan.
 
-![Expressieoptie voor meerdere objecten opnieuw berekenen](assets/recalculate02.png)
+![Expressieoptie voor meerdere objecten opnieuw berekenen](assets/T2K07.png)
 
 Het scherm wordt vernieuwd om bijgewerkte informatie in het berekende veld weer te geven.
 
