@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '2314'
+source-wordcount: '2315'
 ht-degree: 0%
 
 ---
@@ -478,10 +478,10 @@ ht-degree: 0%
       + [Rollen en e-mailwaarschuwingen controleren](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [Proefverslagen](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [Standaard instellen op instellingen voor risicoproefdrukken](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
+      + [Algemene proefdrukinstellingen instellen](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
       + [Standaardproefdrukrollen instellen](workfront-proof/administration-and-setup/set-default-proof-roles.md)
       + [Standaardinstellingen proefdrukaccount instellen](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [Instellingen voor proefdrukgebruikers](workfront-proof/administration-and-setup/settings-for-proof-users.md)
-      + [Algemene instellingen voor proefdrukken instellen](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
    + Proefdrukken uploaden {#upload-proofs}
       + [Wat is een proefversie?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
       + [Wie uploadt de proefversies?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)

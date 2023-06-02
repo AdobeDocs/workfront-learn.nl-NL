@@ -10,9 +10,9 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 kt: 10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 Dankzij de proefdrukrollen en e-mailwaarschuwingen kunt u de proefdrukworkflow verbeteren en ervoor zorgen dat ontvangers de juiste toegang hebben tot proefdrukken en inzicht hebben in het werk dat wordt uitgevoerd.
 
-Laten we een aantal basistesttermen herzien:
+Laten we eens kijken naar een aantal basistevetoepassingen:
 
 * **Proefrol —** Hiermee definieert u wat een gebruiker kan doen met een proefdruk (bijv. opmerking, markering, goedkeuring, enz.).
-* **E-mailwaarschuwing —** E-mails die naar personen in de proefdrukworkflow worden verzonden wanneer de proefdrukbewerking actief is.
+* **E-mailwaarschuwing —** E-mails die naar mensen worden verzonden in de proefwerkstroom wanneer er activiteit is op de proefdruk.
 
 ![Een afbeelding van de [!UICONTROL New Proof] met [!UICONTROL Proof role] en [!UICONTROL Email alerts] gemarkeerde kolommen.](assets/proof-roles-and-email-alerts.png)
 
@@ -35,7 +35,7 @@ Het kan echter voorkomen dat u deze gegevens handmatig moet instellen tijdens he
 [!DNL Workfront] geeft deze algemene aanbevelingen wanneer het toewijzen van proefdrukrollen aan proefontvangers:
 
 * **Revisor en fiatteur —** Deze gebruikers kunnen zowel opmerkingen maken over bewijzen als een beslissing nemen (zoals goedgekeurd of afgewezen) op een bewijs. Gebruik deze proefdrukrol voor de belangrijkste interne en externe belanghebbenden in het evaluatieproces.
-* **Recensent —** Sommige mensen in uw proefwerkstroom hoeven alleen opmerkingen te maken. Deze rol is ideaal voor hen. De revisorrol kan ook worden toegewezen aan [!DNL Workfront] gebruikers die proefdrukken uploaden of die als eigenaar van een proefdruk fungeren, maar die anders geen deel uitmaken van het proefdrukproces.
+* **Recensent —** Sommige mensen in uw proefwerkstroom hoeven alleen opmerkingen te maken. Deze rol is ideaal voor hen. De revisorrol kan ook worden toegewezen aan [!DNL Workfront] gebruikers die proofs hoofdzakelijk uploaden of dienen als proef eigenaar maar anders geen deel van het proefdrukproces uitmaken.
 * **Alleen-lezen —** Ideaal voor ontvangers die alleen de bewijzen hoeven te zien. [!UICONTROL Read Only] geeft toegang tot de weergave en staat geen opmerkingen toe.
 
 [!DNL Workfront] biedt de volgende algemene aanbevelingen wanneer u e-mailwaarschuwingen toewijst aan proefontvangers:
@@ -47,8 +47,8 @@ Het kan echter voorkomen dat u deze gegevens handmatig moet instellen tijdens he
 ## Uw beurt
 
 1. Meld u aan bij Workfront en maak gebruikers die proefdrukken maken die u nog niet hebt gemaakt. Stel het profiel voor proefdrukmachtigingen in de gebruikersinstellingen in op basis van de rol die de persoon in proefdrukwerkstromen zal spelen.
-1. Voor gebruikers die al zijn gemaakt, bewerkt u de instellingen om zo nodig de selectie van het profiel voor machtigingen en proefdrukken aan te passen.
-1. Open het gebied met instellingen voor proefdrukken en ga naar het tabblad Gebruikers. Controleer de persoonlijke instellingen voor uw gebruikers: taal, tijdzone, datumnotatie, standaardproefdrukrol en standaard-e-mailwaarschuwing. Dit is belangrijk als deze gebruikers werden gecreeerd alvorens de globale systeemgebreken werden gevestigd (deze montages worden besproken in Sectie 1 van dit het leren weg).
+1. Voor gebruikers die al zijn gemaakt, bewerkt u de instellingen om zo nodig het profiel voor proefdrukmachtigingen aan te passen.
+1. Open het gebied met instellingen voor proefdrukken en ga naar het tabblad Gebruikers. Controleer de persoonlijke instellingen voor uw gebruikers: taal, tijdzone, datumnotatie, standaardproefdrukrol en standaard-e-mailwaarschuwing. Dit is belangrijk als deze gebruikers zijn gemaakt voordat de standaardwaarden van het algemene systeem zijn ingesteld.
 
 <!--
 Download the proof role and email alert guides to have on hand as you start uploading proofs and assigning proof recipients.

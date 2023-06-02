@@ -10,16 +10,16 @@ role: User
 level: Intermediate
 kt: 9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
 
 # OR-instructies maken in filters
 
-Wanneer u een filter met veelvoudige lijnen van criteria bouwt, door gebrek zet EEN EN tussen elke lijn. Dit betekent elk resultaat in de lijst wanneer u dit filter gebruikt voldoet aan alle filterregels.
+Wanneer u een filter met veelvoudige lijnen van criteria bouwt, door gebrek plaatst Workfront EN tussen elke lijn. Dit betekent elk resultaat in de lijst wanneer u dit filter gebruikt voldoet aan alle filterregels.
 
 In dit voorbeeld hebben we drie criteria, of regels, voor een projectfilter:
 
@@ -33,13 +33,13 @@ De projecten in de resultatenlijst voldoen aan alle drie de criteria, waardoor u
 
 ![Een afbeelding van een gefilterde lijst in [!DNL Workfront]](assets/or-statement-2.png)
 
-Het kan echter voorkomen dat u wilt dat de filterresultaten aan verschillende criteria voldoen. Dat is de manier waarop OR-instructies u kunnen helpen. Met de instructie OR vertelt u het filter dat u deze OR wilt zien.
+Nochtans, kunnen er tijden zijn u de filterresultaten wilt om aan diverse criteria te voldoen, en dat is wanneer OF de verklaringen kunnen helpen. Met een OF verklaring, vertelt u het filter dat u dingen wilt zien die om het even welk van uw OF verklaringen in tegenstelling tot ALLE EN verklaringen aanpassen.
 
 ## OR-instructies gebruiken
 
 OR-instructies vergroten of vergroten de hoeveelheid informatie die het filter zoekt omdat een item in de resultatenlijst alleen aan een van de filterregels moet voldoen, niet aan alle regels.
 
-Kijk naar een eenvoudige OF verklaring-projecten u de projectmanager (eigenaar) voor OF projecten bent die door u werden gecreeerd.
+Kijk naar eenvoudig OF verklaring-projecten u de projectmanager (eigenaar) voor OF projecten bent die door u werden gecreeerd.
 
 ![Een afbeelding van het maken van een filter met OR-instructies in [!DNL Workfront]](assets/or-statement-3.png)
 
@@ -51,11 +51,11 @@ OR tussen de twee filterregels breidt uw onderzoekscriteria uit, die Workfront v
 
 ## Meerdere filterregels met OR-instructies
 
-Laten we nu een OR-instructie bekijken die meerdere filterregels bevat aan elke kant van de OR. Dit gebruikt de zelfde twee regels zoals voordien maar voegt regel-projecten ook toe moet een Huidige status hebben.
+Nu bekijken een OF verklaring die veelvoudige filterregels op elke kant van OF bevat. Dit gebruikt de zelfde twee regels zoals voordien maar voegt regel-projecten ook toe moet een Huidige status hebben.
 
 ![Een afbeelding van het maken van een filter met OR-instructies in [!DNL Workfront]](assets/or-statement-5.png)
 
-De filterregels zijn door Workfront &quot;gegroepeerd&quot; aan beide zijden van de OR (er is een grijs vak rondom deze). Dit vertelt Workfront om de regels aan elke kant van de OR samen uit te voeren en projecten te vinden die aan beide criteria voldoen, omdat ze zijn gekoppeld aan AND.
+De filterregels zijn door Workfront &quot;gegroepeerd&quot; aan beide zijden van de OR (er is een grijs vak rondom de OR). Dit vertelt Workfront om de regels aan elke kant van OF samen in werking te stellen, die projecten vinden die aan beide criteria voldoen omdat zij met EN worden aangesloten.
 
 In dit voorbeeld zoekt Workfront naar:
 
@@ -83,19 +83,19 @@ Dit betekent dat Workfront zal zoeken naar:
 * **PLUS (OF)**
 * Alle projecten die u hebt gemaakt.
 
-Zoals u kunt zien, geeft deze filterinstelling u iets andere resultaten dan het filter met de herhaalde filterregel. Daarom is het belangrijk dat u ervoor zorgt dat het filter op de juiste wijze is ingesteld, zodat u de gewenste en benodigde resultaten krijgt.
+Zoals u kunt zien, geeft deze filterinstelling u iets andere resultaten dan het filter met de herhaalde filterregel. Daarom is het belangrijk dat u ervoor zorgt dat het filter op de juiste manier is ingesteld, zodat u de gewenste resultaten krijgt en deze nodig hebt.
 
-U kunt OR-instructies niet vaak gebruiken bij het maken van filters. Maar zo kunt u het aantal filters verminderen dat u moet maken. Zorg er gewoon voor dat de filters niet te veel resultaten opleveren. Een lange lijst kan het vinden van de juiste gegevens voor gebruikers moeilijker maken.
+U kunt OR-instructies niet vaak gebruiken bij het maken van filters. Maar zo kunt u het aantal filters verminderen dat u moet maken. Zorg er gewoon voor dat uw filters niet te veel resultaten opleveren. Een lange lijst kan het vinden van de juiste informatie moeilijker maken voor gebruikers.
 
 ## OR filteractiviteit
 
-U wilt zoeken naar onvolledige taken die aan u zijn toegewezen of die aan niemand zijn toegewezen. U stelt een filter zo in dat het eronder lijkt. Geeft dit filter u de gewenste resultaten? Waarom of waarom niet?
+U wilt onvolledige taken vinden die aan u worden toegewezen of die niet aan niemand worden toegewezen. U stelt een filter zo in dat het eronder lijkt. Geeft dit filter u de gewenste resultaten? Waarom of waarom niet?
 
 ![Een afbeelding van een onjuist gemaakte OR-instructie in [!DNL Workfront]](assets/or-statement-your-turn-1.png)
 
 ### Antwoorden
 
-Nee, dit filter levert niet de gewenste resultaten op—taken die niet zijn voltooid en die aan u zijn toegewezen of aan niemand zijn toegewezen—omdat de filterregel voor de taakstatus zich slechts aan één kant van de OR bevindt.
+Nr, zal dit filter niet de resultaten verstrekken u voor-taken hoopt die niet gebeëindigd zijn die of aan u of aan geen worden toegewezen-omdat de filterregel voor de taakstatus slechts aan één kant van OF is.
 
 In plaats daarvan genereert dit filter een lijst met de volgende gegevens:
 

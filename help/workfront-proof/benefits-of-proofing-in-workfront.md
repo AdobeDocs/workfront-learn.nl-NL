@@ -11,14 +11,14 @@ thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-# Ontdek de voordelen van proefdrukken [!DNL Workfront]
+# Ontdek de voordelen van proefdrukken in [!DNL Workfront]
 
 In deze video leert u:
 
@@ -31,7 +31,7 @@ In deze video leert u:
 
 Voordat u naar proefinstellingen gaat in [!DNL  Workfront], vertrouwd te raken met de gebruikte terminologie die specifiek voor bewijs geldt. Deze termen worden in deze zelfstudie vaak gebruikt.
 
-* **Proef —** Digitale versie van een bestand dat kan worden gereviseerd, gemarkeerd en goedgekeurd via [!DNL Workfront’s] proefdrukviewer.
+* **Proef —** Digitale versie van een bestand dat kan worden gereviseerd, gemarkeerd en goedgekeurd via [!DNL Workfront's] proefdrukviewer.
 * **Proefworkflow —** Proces om, een proef binnen te creëren te verpletteren en te leiden [!DNL Workfront]. De stappen die worden gevolgd om deze acties te voltooien.
 * **Proefsjabloon of sjabloon voor geautomatiseerde workflow —** Vooraf opgemaakte workflowstappen die snel op een proefdruk kunnen worden toegepast. Neem revisoren, fiatteurs, proofrollen, e-mailwaarschuwingen en deadlines op.
 * **Proefrol —** Hiermee definieert u wat een gebruiker kan doen met een proefdruk (bijv. opmerking, markering, goedkeuring, enz.)

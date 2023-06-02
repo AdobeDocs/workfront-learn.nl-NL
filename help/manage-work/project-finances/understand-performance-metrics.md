@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Opties voor de [!UICONTROL PIM] zijn gebaseerd op uren en kosten.
 * **Berekenen op projectniveau** — [!UICONTROL EAC] voor de moedertaak en het project worden bepaald aan de hand van de werkelijke uren/werkelijke loonkosten in [!UICONTROL EAC] formules. De berekening omvat de werkelijke uren/kosten en uitgaven die rechtstreeks aan de bovenliggende taak of het bovenliggende project zijn toegevoegd.
 * R **opladen van taken/subtaken** — [!UICONTROL EAC] voor de oudertaak en het project worden bepaald door omhoog het [!UICONTROL EAC] voor elke onderliggende taak. Deze berekening sluit de werkelijke uren/kosten uit die rechtstreeks aan een bovenliggende taak of project worden toegevoegd.
 
-De [!UICONTROL EAC] De berekeningen worden vermeld in de &quot;Calculate Estimate At Completion (EAC)&quot; <!-- link to article -->artikel over [!UICONTROL [!DNL Workfront] One].
+De [!UICONTROL EAC] berekeningen worden vermeld in [Schatting berekenen bij voltooiing (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=en).
 
 **Prestatiewaarden: Instellingen**
 

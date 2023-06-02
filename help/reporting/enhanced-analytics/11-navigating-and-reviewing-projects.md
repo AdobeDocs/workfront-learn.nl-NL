@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Workfront raadt u aan het voorwaardetype in te stellen op Progress Status zodat 
 
 ![Een afbeelding van mogelijke voortgangsstatussen](assets/section-2-3.png)
 
-In dit geval kan de projectvoorwaarde:
+Wanneer ingesteld op Voortgangsstatus, kan de projectvoorwaarde:
 
 * **Op doel**—Wanneer de vooruitgangsstatus van de laatste taak op de kritieke weg op Tijd is, zal de voorwaarde van het project op Doel zijn. Het project is op schema om op schema te eindigen.
 * **Risico**—Wanneer de vooruitgangsstatus van de laatste taak op de kritieke weg Achter of Op Risico is, dan is de voorwaarde van het project Op Risico. Het project is op schema om laat te eindigen maar is nog niet laat.
@@ -71,4 +71,4 @@ In dit geval kan de projectvoorwaarde:
 
 >[!NOTE]
 >
->De voorwaarden kunnen voor uw milieu worden aangepast, zodat kunt u meer dan drie opties vinden of de namen kunnen verschillend zijn dan hierboven. Zie het artikel Een aangepaste voorwaarde maken of bewerken voor meer informatie over het aanpassen van voorwaarden.
+>De voorwaarden kunnen voor uw milieu worden aangepast, zodat kunt u meer dan drie opties vinden of de namen kunnen verschillend zijn dan hierboven. Raadpleeg het artikel voor informatie over het aanpassen van voorwaarden [Een aangepaste voorwaarde maken of bewerken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).

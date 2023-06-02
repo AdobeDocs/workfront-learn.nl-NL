@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In deze video leert u hoe u:
 
-* Ingebouwde projectfilters controleren om te zien hoe ze zijn gebouwd
+* Bekijk ingebouwde projectfilters om te zien hoe ze zijn gebouwd
 * Maak uw eigen projectfilter met wat u hebt geleerd
 
 >[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
