@@ -1,5 +1,5 @@
 ---
-title: Je lijst te maken in [!DNL Workfront] [!UICONTROL Home]
+title: Organiseer uw lijst voor taken in [!DNL Workfront] [!UICONTROL Home]
 description: Leer hoe u toegewezen werk kunt filteren en sorteren, werk kunt identificeren dat klaar is om te starten en werktoewijzingen te accepteren in [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
@@ -11,14 +11,14 @@ thumbnail: 335099.png
 kt: 8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 3dc5d407ea6ad97b597b2bfba961f0b169643762
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-# Je lijst te maken in [!DNL Workfront] [!UICONTROL Home]
+# Organiseer uw lijst voor taken in [!DNL Workfront] [!UICONTROL Home]
 
 >[!NOTE]
 >

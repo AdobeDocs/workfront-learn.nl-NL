@@ -1,19 +1,19 @@
 ---
-title: Je te-doen lijst organiseren in Home
+title: Uw lijst voor taken ordenen in Home
 description: In deze video leert u werktoewijzingen sorteren, taken filteren op type, werk identificeren dat gereed is om te starten en werktoewijzingen accepteren.
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 3dc5d407ea6ad97b597b2bfba961f0b169643762
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Je te-doen lijst organiseren in Home
+# Uw lijst voor taken ordenen in Home
 
 In deze video leert u hoe u:
 
