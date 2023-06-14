@@ -11,9 +11,9 @@ team: Technical Marketing
 kt: 8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,12 @@ In deze video leert u hoe u:
 
 * Een geheel nieuwe sjabloon maken
 * Een sjabloon maken van een bestaand project
-* Een sjabloon met blauwdrukken maken
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
 ## Een sjabloon met blauwdrukken maken
 
-systeembeheerders kunnen Blauwdrukken gebruiken om projectsjablonen samen te stellen. Met deze functie in het hoofdmenu hebt u toegang tot vooraf gebouwde gebruiksklare sjablonen die zijn gericht op een afdeling en een specifiek ontwikkelingsniveau. Deze malplaatjes geven gebruikers een hoofdbegin aan herhaalbare projectverwezenlijking en de hulp handhaaft consistentie over projecten gelijkend in werkingsgebied.
+Systeembeheerders kunnen blauwdrukken gebruiken om projectsjablonen samen te stellen. Met deze functie in het hoofdmenu hebt u toegang tot vooraf gebouwde gebruiksklare sjablonen die zijn gericht op een afdeling en een specifiek ontwikkelingsniveau. Deze malplaatjes geven gebruikers een hoofdbegin aan herhaalbare projectverwezenlijking en de hulp handhaaft consistentie over projecten gelijkend in werkingsgebied.
 
 Hoewel projectmalplaatjes die met blauwdrukken worden gemaakt kunnen worden gebruikt wanneer het creëren van projecten, kunt u geen blauwdruk direct toepassen wanneer het creëren van een nieuw project (zoals het omzetten van een taak of een verzoek in een project). Een zeer belangrijk onderscheid tussen een blauwdruk en een projectmalplaatje is dat een blauwdruk wordt gebruikt om een malplaatje te maken, terwijl een projectmalplaatje wordt gebruikt om een project tot stand te brengen.
 

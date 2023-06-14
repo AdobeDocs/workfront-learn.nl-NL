@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '2318'
+source-wordcount: '2322'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,13 @@ ht-degree: 0%
 
    + Systeemprestaties en -onderhoud {#system-perfomance-and-maintenance}
       + [Een bestaande Adobe Workfront-instantie beheren](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
+   + Projectfinanciën {#project-finances}
+      + [Prestatiewaarden begrijpen](manage-work/project-finances/understand-performance-metrics.md)
+      + [Taakontvangsten en standaardinstellingen voor kosten instellen](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [Wisselkoersen instellen](manage-work/project-finances/set-up-exchange-rates.md)
+      + [uitgaventypen instellen](manage-work/project-finances/set-up-expense-types.md)
+      + [Begrijp financiële toegang](manage-work/project-finances/understand-financial-access.md)
 
 
 + Aangepaste gegevens {#custom-data}
@@ -176,16 +183,10 @@ ht-degree: 0%
       + [Logboek- en controleuren](manage-work/close-a-project/log-and-review-hours.md)
       + [Een projectactiviteit sluiten](manage-work/close-a-project/close-a-project-activity.md)
 
-   + Projectfinanciën {#project-finances}
-      + [Prestatiewaarden begrijpen](manage-work/project-finances/understand-performance-metrics.md)
-      + [Taakontvangsten en standaardinstellingen voor kosten instellen](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-      + [Wisselkoersen instellen](manage-work/project-finances/set-up-exchange-rates.md)
-      + [uitgaventypen instellen](manage-work/project-finances/set-up-expense-types.md)
-      + [Begrijp financiële toegang](manage-work/project-finances/understand-financial-access.md)
+   + Projectfinanciën voor gebruikers {#project-finances-users}
       + [Financiën bijwerken en herzien](manage-work/project-finances/update-and-review-finances.md)
       + [Zoeken naar financiële informatie](manage-work/project-finances/find-financial-information.md)
       + [Meerdere factureringssnelheden begrijpen](manage-work/project-finances/multiple-billing-rates.md)
-
 
 
 + Rapportage {#reporting}
