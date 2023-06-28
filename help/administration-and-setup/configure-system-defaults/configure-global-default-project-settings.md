@@ -8,10 +8,10 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 thumbnail: 335065.png
-kt: 8753
+jira: KT-8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%

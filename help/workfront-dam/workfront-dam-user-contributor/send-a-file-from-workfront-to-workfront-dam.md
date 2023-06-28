@@ -7,9 +7,9 @@ feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
-kt: 10108
+jira: KT-10108
 exl-id: 13e24ccc-4d29-4c3a-8340-5fcdbfe4f859
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

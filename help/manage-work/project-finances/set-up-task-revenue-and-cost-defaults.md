@@ -8,9 +8,9 @@ thumbnail: set-up-task-revenue-and-cost-defaults.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10066
+jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%

@@ -4,9 +4,9 @@ description: Bekijk de aanbevelingen van Adobe Workfront-experts over het instel
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
-kt: 10928
+jira: KT-10928
 exl-id: c624545c-ba42-4cc3-aafe-8be15baadb75
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%

@@ -4,8 +4,8 @@ description: In deze video leert u hoe u een project maakt op basis van een sjab
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

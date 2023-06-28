@@ -7,9 +7,9 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10018
+jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 0%
@@ -43,29 +43,29 @@ Bekijk de opties in deze sectie, zodat u de juiste opties voor uw organisatie ku
 
 * **[!UICONTROL Automatically update Resolvable Issue status when the status of the Resolving Object Changes]**
 
-   Met deze instelling kunt u de resolutie van de oorspronkelijke uitgave correleren met de resolutie van het nieuwe object (taak of project).
+  Met deze instelling kunt u de resolutie van de oorspronkelijke uitgave correleren met de resolutie van het nieuwe object (taak of project).
 
-   Als deze instelling is ingeschakeld (ingeschakeld), kunt u aangepaste uitgavestatussen maken die dezelfde statussleutel hebben als een taak of projectstatus. Wanneer de taak of het project (het oplosbare object) op de aangepaste status is ingesteld, wordt de wijziging ook weergegeven bij de status van de uitgave.
+  Als deze instelling is ingeschakeld (ingeschakeld), kunt u aangepaste uitgavestatussen maken die dezelfde statussleutel hebben als een taak of projectstatus. Wanneer de taak of het project (het oplosbare object) op de aangepaste status is ingesteld, wordt de wijziging ook weergegeven bij de status van de uitgave.
 
-   Wanneer deze optie is uitgeschakeld, wordt de status van het oplossende object automatisch ingesteld op de standaardstatus in plaats van op aangepaste status.
+  Wanneer deze optie is uitgeschakeld, wordt de status van het oplossende object automatisch ingesteld op de standaardstatus in plaats van op aangepaste status.
 
-   Deze instelling heeft alleen effect als &quot;[!UICONTROL Keep the original issue and tie its resolution to the task]&quot; moet zijn geselecteerd.
+  Deze instelling heeft alleen effect als &quot;[!UICONTROL Keep the original issue and tie its resolution to the task]&quot; moet zijn geselecteerd.
 
 * **[!UICONTROL Keep the original issue and tie is resolution to the task/project]**
 
-   Wanneer de uitgave wordt omgezet, vertelt dit [!DNL Workfront] om de originele uitgaven te behouden. De status van de uitgave verandert wanneer de status van de taak of het project wordt gewijzigd. Wanneer de taak of het project als voltooid is gemarkeerd, wordt het probleem gemarkeerd als opgelost.
+  Wanneer de uitgave wordt omgezet, vertelt dit [!DNL Workfront] om de originele uitgaven te behouden. De status van de uitgave verandert wanneer de status van de taak of het project wordt gewijzigd. Wanneer de taak of het project als voltooid is gemarkeerd, wordt het probleem gemarkeerd als opgelost.
 
-   Als deze optie niet wordt gecontroleerd, wordt de originele kwestie geschrapt en slechts blijft de omgezette taak of het project.
+  Als deze optie niet wordt gecontroleerd, wordt de originele kwestie geschrapt en slechts blijft de omgezette taak of het project.
 
-   Dit het plaatsen beïnvloedt het melden van kwesties oorspronkelijk die op een project worden geregistreerd of die door een [!DNL Workfront] aanvraagwachtrij.
+  Dit het plaatsen beïnvloedt het melden van kwesties oorspronkelijk die op een project worden geregistreerd of die door een [!DNL Workfront] aanvraagwachtrij.
 
 * **[!UICONTROL Allow Primary Contact to have access to the task/project]**
 
-   Dit geeft de persoon die de originele kwestie creeerde toegang tot de taak of het project dat tijdens de omzetting wordt gecreeerd. Ze kunnen het werk beoordelen, updates uitvoeren en op de hoogte blijven van de voortgang.
+  Dit geeft de persoon die de originele kwestie creeerde toegang tot de taak of het project dat tijdens de omzetting wordt gecreeerd. Ze kunnen het werk beoordelen, updates uitvoeren en op de hoogte blijven van de voortgang.
 
 * **[!UICONTROL Allow these settings to be changed during conversion]**
 
-   Als deze optie is geselecteerd, betekent dit de standaardinstellingen voor &quot;[!UICONTROL Keep original issue]&quot; en &quot;[!UICONTROL Allow Primary Contact]&quot; kan worden gewijzigd door de gebruiker die de uitgave omzet. Schakel deze optie uit als u de standaardinstellingen ongewijzigd wilt laten.
+  Als deze optie is geselecteerd, betekent dit de standaardinstellingen voor &quot;[!UICONTROL Keep original issue]&quot; en &quot;[!UICONTROL Allow Primary Contact]&quot; kan worden gewijzigd door de gebruiker die de uitgave omzet. Schakel deze optie uit als u de standaardinstellingen ongewijzigd wilt laten.
 
 <!---
 learn more URLs

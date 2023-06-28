@@ -8,9 +8,9 @@ type: Tutorial
 role: User, Admin
 level: Beginner
 thumbnail: understand-proof-details.png
-kt: 10110
+jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Met deze instellingen kunt u de toegang tot de proefdruk zelf beheren.
 
 * **[!UICONTROL Require login. This proof cannot be shared with guest users]—** Het bewijs kan alleen worden gedeeld met personen die een [!DNL Workfront] bewijs van bevoegdheid.
 * **[!UICONTROL Require decisions to be electronically signed]—** Wanneer u een proefdruk deelt, moet de ontvanger over proefdrukmachtigingen beschikken in [!DNL Workfront] en maakt van hen &quot; elektronisch &quot; het bewijs door hun bewijswachtwoord in te voeren wanneer zij een bewijskrachtbesluit nemen . (Opmerking: Het proefdrukwachtwoord is anders dan uw [!DNL Workfront] wachtwoord. Het wachtwoord voor proefdrukken is niet gemakkelijk toegankelijk, zodat de meeste ontvangers dit wachtwoord niet weten.) [!DNL Workfront] raadt u aan contact op te nemen met uw [!DNL Workfront] consultant voordat deze functie wordt gebruikt.
-* **[!UICONTROL Lock proof when all required decisions are made ]—** Dit bevestigt het bewijs voor eventuele verdere opmerkingen, antwoorden, besluiten, enz., zodra elk besluit over het bewijs is genomen. Hierdoor wordt de hele proefversie vergrendeld, niet alleen een specifiek stadium van de proefdrukworkflow.
+* **[!UICONTROL Lock proof when all required decisions are made]—** Dit bevestigt het bewijs voor eventuele verdere opmerkingen, antwoorden, besluiten, enz., zodra elk besluit over het bewijs is genomen. Hierdoor wordt de hele proefversie vergrendeld, niet alleen een specifiek stadium van de proefdrukworkflow.
 * **[!UICONTROL Allow downloading the original file]—** Ontvangers van proefdrukken kunnen het oorspronkelijke bronbestand van de proefdruk downloaden vanuit de proefdrukviewer (de optie staat in het rechterdeelvenstermenu).
 * **[!UICONTROL Allow sharing proof via public URL or embed code]—** Ontvangers van bewijzen kunnen een openbaar toegankelijke proefkoppeling met iedereen delen.
 * **[!UICONTROL Allow subscribing to proof via public URL or embed code]—** Iedereen die de openbare URL heeft ontvangen, kan zich aan de proef toevoegen met zijn e-mailadres en naam (als het geen proefgebruikers is) of met zijn e-mailadres en wachtwoord voor het proefdrukken (als het een proefdrukgebruiker is). (Opmerking: Het proefdrukwachtwoord is niet hetzelfde als een [!DNL Workfront] wachtwoord.)

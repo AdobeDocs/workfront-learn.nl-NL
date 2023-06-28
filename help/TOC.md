@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '2322'
+source-wordcount: '2332'
 ht-degree: 0%
 
 ---
@@ -187,6 +187,9 @@ ht-degree: 0%
       + [Financiën bijwerken en herzien](manage-work/project-finances/update-and-review-finances.md)
       + [Zoeken naar financiële informatie](manage-work/project-finances/find-financial-information.md)
       + [Meerdere factureringssnelheden begrijpen](manage-work/project-finances/multiple-billing-rates.md)
+
+   + Tussenprojecten {#intermediate-projects}
+      + [Werken en beheren van de soorten duur en taakbeperkingen](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 
 
 + Rapportage {#reporting}

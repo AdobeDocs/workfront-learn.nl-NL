@@ -9,12 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
-kt: 8854
+jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: f7e6fa6a728699c307fbba926d1bdaa697ba4894
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -87,3 +87,45 @@ Maak een taakweergave met de naam &quot;Weergave van mijlpaal&quot; met de volge
 1. Klik op **[!UICONTROL Save]**.
 
 ![Een afbeelding van een takenlijst met gebruik van een mijlpaalweergave](assets/view-milestone-exercise-2.png)
+
+## Activiteit 3: Een weergave maken van de duur en taakbeperkingen
+
+Deze mening zal u toestaan om alle duurtypes en taakbeperkingen in uw project te onderzoeken en uit te geven.
+
+Creeer een taakmening genoemd &quot;de types van Duur en de mening van taakbeperkingen&quot;met de volgende kolommen:
+
+* [!UICONTROL Task Name]
+* [!UICONTROL Assignments]
+* [!UICONTROL Duration]
+* [!UICONTROL Planned Duration]
+* [!UICONTROL Pln Hrs]
+* [!UICONTROL Predecessors]
+* [!UICONTROL Start On]
+* [!UICONTROL Due On]
+* [!UICONTROL Duration Type]
+* [!UICONTROL Task Constraint]
+* [!UICONTROL Constraint Date]
+
+Wijzig de [!UICONTROL Field Format] op de [!UICONTROL Start On] en [!UICONTROL Due On] kolommen waarin zowel de datum als de tijd worden weergegeven.
+
+## Activiteit 3 Antwoord
+
+![Een afbeelding van het scherm met de typen tijdsduur en de weergave met taakbeperkingen](assets/view-activity-3.png)
+
+1. Ga in een lijst met projecttaken naar de **[!UICONTROL View]** vervolgkeuzelijst en selecteert u **[!UICONTROL New View]**.
+1. Geef de weergave de naam &quot;Weergave Duur en taakbeperkingen&quot;.
+1. Verwijder de [!UICONTROL % Complete] kolom.
+1. Klik op **[!UICONTROL Add Column]**.
+1. In de [!UICONTROL Show in this column] veld, type [!UICONTROL "duration"] Selecteer vervolgens [!UICONTROL "Planned Duration"] onder de [!UICONTROL Task] veldbron.
+1. Deze kolom verplaatsen tussen de [!UICONTROL Duration] en de [!UICONTROL Pln Hrs] kolommen.
+1. Klikken **[!UICONTROL Add Column]** opnieuw.
+1. In de [!UICONTROL Show in this column] veld, type [!UICONTROL "duration type"] Selecteer vervolgens [!UICONTROL "Duration Type"] onder de [!UICONTROL Task] veldbron.
+1. Klikken **[!UICONTROL Add Column]** opnieuw.
+1. In de [!UICONTROL Show in this column] veld, type [!UICONTROL "constraint"] Selecteer vervolgens [!UICONTROL "Task Constraint"] onder de bron van het het gebiedsveld van de Taak.
+1. Klikken **[!UICONTROL Add Column]** opnieuw.
+1. In de [!UICONTROL Show in this column] veld, type [!UICONTROL "constraint"] Selecteer vervolgens [!UICONTROL "Constraint Date"] onder de bron van het het gebiedsveld van de Taak.
+1. Selecteer [!UICONTROL Start On] kolom, klik vervolgens op [!UICONTROL Advanced Options].
+1. Onder de [!UICONTROL Field Format] vervolgkeuzelijst selecteren [!UICONTROL "10/17/60 3:00 AM"].
+1. Selecteer [!UICONTROL Due On] kolom, klik vervolgens op [!UICONTROL Advanced Options].
+1. Onder de [!UICONTROL Field Format] vervolgkeuzelijst selecteren [!UICONTROL "10/17/60 3:00 AM"].
+1. Klik op **[!UICONTROL Save]**.

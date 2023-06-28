@@ -8,9 +8,9 @@ type: Tutorial
 role: User
 level: Intermediate
 thumbnail: manage-incoming-requests.jpeg
-kt: 10154
+jira: KT-10154
 exl-id: df831816-fc60-4c63-b46c-ec2ba49fb061
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%

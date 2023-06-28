@@ -7,9 +7,9 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10152
+jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%

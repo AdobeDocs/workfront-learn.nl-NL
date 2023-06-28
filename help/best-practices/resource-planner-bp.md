@@ -4,9 +4,9 @@ description: Ontdek de aanbevelingen met best practices van Adobe Workfront-expe
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
-kt: 10922
+jira: KT-10922
 exl-id: 8c81892e-d554-43e6-aeba-106bade52cf9
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 0%

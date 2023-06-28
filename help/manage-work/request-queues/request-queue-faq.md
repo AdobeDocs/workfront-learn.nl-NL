@@ -5,8 +5,9 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
-kt: 10101
-source-git-commit: f111f198d3d7587bb9e2de4e19434131cbef9c93
+jira: KT-10101
+exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -44,4 +45,3 @@ Ja. Hiertoe maakt u een aangepast formulier en selecteert u beide [!UICONTROL Is
 **Ik kijk naar een project- of taakrapport. Hoe kan ik achterhalen uit welk verzoek dit object afkomstig is?**
 
 U kunt de **[!UICONTROL Converted Issue Originator]** veldbron om die informatie aan uw project en taakrapporten toe te voegen.
-

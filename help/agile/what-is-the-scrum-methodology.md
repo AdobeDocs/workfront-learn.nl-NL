@@ -4,12 +4,12 @@ description: Leer de voordelen van het gebruik van de scrum agile methodologie.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10890
+jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 hide: true
 hidefromtoc: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: f3e354ead1a01fd7c1a58276c4ca43322e4213f0
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '774'
 ht-degree: 0%

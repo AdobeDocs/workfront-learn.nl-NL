@@ -8,10 +8,10 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: review-approve-digital-work.png
-kt: 8841
+jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Als u werkt in [!DNL Workfront] en u bent gevraagd een proefdruk goed te keuren,
 
 ![Een afbeelding van [!DNL Workfront] [!UICONTROL Home] met de [!UICONTROL Approvals] geactiveerd en er is een proefdruk geselecteerd in de lijst.](assets/open-proof-from-home.png)
 
-Het is belangrijk om te weten dat proefdrukken worden weergegeven in [!DNL Workfront] [!UICONTROL Home] alleen als u deze wilt goedkeuren. Als u zojuist alleen de proefdruk hebt gecontroleerd, wordt deze niet weergegeven in [!DNL Workfront] [!UICONTROL Home] wanneer u [!UICONTROL Approvals ]in de filterlijst.
+Het is belangrijk om te weten dat proefdrukken worden weergegeven in [!DNL Workfront] [!UICONTROL Home] alleen als u deze wilt goedkeuren. Als u zojuist alleen de proefdruk hebt gecontroleerd, wordt deze niet weergegeven in [!DNL Workfront] [!UICONTROL Home] wanneer u [!UICONTROL Approvals]in de filterlijst.
 
 Selecteer de proefdrukgoedkeuring in de [!UICONTROL Work List]klikt u op de knop [!UICONTROL Go to Proof] koppeling gebruiken om het bestand te openen in de proefdrukviewer.
 
@@ -63,7 +63,7 @@ U kunt ook proefdrukken vinden om te beoordelen op een [!DNL Workfront] dashboar
 
 Als u normaal met projecten, taken of kwesties in werkt [!DNL Workfront], kunt u de proefdruk liever rechtstreeks openen vanuit de [!DNL Documents] van dat item.
 
-![Een afbeelding van de [!UICONTROL Documents] sectie gevonden in een [!DNL  Workfront] met de [!UICONTROL Open Proof ]koppeling gemarkeerd.](assets/open-proof-from-documents.png)
+![Een afbeelding van de [!UICONTROL Documents] sectie gevonden in een [!DNL  Workfront] met de [!UICONTROL Open Proof]koppeling gemarkeerd.](assets/open-proof-from-documents.png)
 
 1. Klik op de naam van het project, de taak of de uitgave.
 2. Klikken [!UICONTROL Documents] in het linkerdeelvenstermenu van de pagina van het item.

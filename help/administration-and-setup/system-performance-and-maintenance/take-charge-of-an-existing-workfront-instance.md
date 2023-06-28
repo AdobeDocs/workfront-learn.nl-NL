@@ -6,10 +6,11 @@ type: Tutorial
 role: Admin
 level: Beginner,Intermediate,Experienced
 activity: use
-kt: 11747
+jira: KT-11747
 team: Technical Marketing
 thumbnail: null
-source-git-commit: 48b6414f3128729436a4845f9654bd5fc8ee5353
+exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '645'
 ht-degree: 0%
@@ -58,7 +59,6 @@ Aan het einde van deze fase moet u beschikken over:
 * Een algemeen gevoel van de gezondheid van uw instantie, met inbegrip van de belangrijkste gebruiksgevallen
 
 * Een document waarin wordt beschreven wat goed werkt en waarin uitdagingen en/of leemten tussen proces- en gebruikersbehoeften worden beschreven
-
 <br>
 </br>
 
@@ -73,7 +73,6 @@ Aan het einde van deze fase moet u beschikken over:
 * Een diepere mening in de huidige staat van uw instantie
 
 * Geïdentificeerde veranderingen of verhogingen u aan uw geval wilt maken om bedrijfsbehoeften te richten.
-
 <br>
 </br>
 
@@ -100,4 +99,4 @@ Door door elke fase, en met de hulp van de Geërfde checklist van de Instantie t
 Hieronder vindt u aanvullende informatie:
 * [Doelstellingen voor uw Workfront-implementatie definiëren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
 * [Blogbericht: Executive Sponsoring en waarde voor leiderschap](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [Blogbericht: Inleiding tot Adobe Workfront KPI&#39;s ](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [Blogbericht: Inleiding tot Adobe Workfront KPI&#39;s](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)

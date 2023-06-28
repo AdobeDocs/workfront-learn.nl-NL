@@ -7,10 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9040
+jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 doc-type: video
-source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -54,7 +54,7 @@ U zult een schaduw rond om het even welk segment in uw scenario van een zien **b
 
 Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet verstrekt.
 
-Creeer een nieuw scenario aan som alle uren het programma geopende taken in projecten in de marketing portefeuille. Vervolgens verzendt u een e-mail met de tekst &quot;Uw projectteam {Projectnaam} heeft zich {samengevat uren} van het totaal van de {geplande uren} geplande uren aangemeld, waarmee u op {percentage} van het abonnement wordt gezet.&quot;
+Creeer een nieuw scenario aan som alle uren het programma geopende taken in projecten in de marketing portefeuille. Vervolgens verzendt u een e-mail met de tekst &quot;Uw projectteam {Projectnaam} heeft {samengevat uren} van de totale {geplande uren} die u hebt gepland, en plaatst u op {percentage} van het plan.&quot;
 
 **Uitdaging:** Kijk of je hetzelfde kunt doen, maar alleen voor uren die dit jaar zijn geregistreerd.
 

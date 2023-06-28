@@ -8,9 +8,9 @@ team: Technical Marketing
 role: Admin
 level: Beginner, Intermediate
 thumbnail: 10040.jpeg
-kt: 10040
+jira: KT-10040
 exl-id: 9de6fd40-10fb-47a6-b186-3a38c411f1ac
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%

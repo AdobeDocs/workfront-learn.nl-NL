@@ -4,9 +4,9 @@ description: Ontdek de aanbevelingen met best practices van Adobe Workfront-expe
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
-kt: 10908
+jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '649'
 ht-degree: 0%

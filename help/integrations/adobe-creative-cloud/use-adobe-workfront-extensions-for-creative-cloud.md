@@ -7,9 +7,10 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8811
+jira: KT-8811
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%

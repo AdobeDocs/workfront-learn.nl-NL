@@ -4,12 +4,12 @@ description: Leer de voordelen van het gebruik van een flexibele methodologie.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10889
+jira: KT-10889
 thumbnail: benefits-of-agile.png
 hide: true
 hidefromtoc: true
 exl-id: 8aa79988-6e3a-48a0-a30d-1a4bc3ce98be
-source-git-commit: f3e354ead1a01fd7c1a58276c4ca43322e4213f0
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%

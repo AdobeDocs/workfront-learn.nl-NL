@@ -4,9 +4,9 @@ description: Ontdek de aanbevelingen van de beste praktijken van de deskundigen 
 feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
-kt: 10930
+jira: KT-10930
 exl-id: 15457411-fd4a-4348-892a-2fb08a079a35
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '681'
 ht-degree: 0%

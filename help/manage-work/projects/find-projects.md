@@ -8,10 +8,10 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8716,8717,8718,8719
+jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Uw projecten zoeken
 
-Workfront kan uw projecten niet voor u beheren, maar u krijgt dan wel de zichtbaarheid die u nodig hebt voor het werk dat wordt uitgevoerd. [!DNL Workfront] maakt het voor u gemakkelijker om werkvooruitgang te controleren, met uw team te communiceren, tijdlijnaanpassingen te maken, en meer.
+Workfront kan uw projecten niet voor u beheren, maar het kan u de zichtbaarheid geven die u nodig hebt voor het werk dat wordt uitgevoerd. [!DNL Workfront] maakt het voor u gemakkelijker om werkvooruitgang te controleren, met uw team te communiceren, tijdlijnaanpassingen te maken, en meer.
 
 <!---
 In this section, you will learn how to:

@@ -8,10 +8,10 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335133.png
-kt: 8833
+jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -34,7 +34,7 @@ In deze video leert u:
 
 De instellingen onder aan het venster voor het uploaden van proefdrukken zijn optioneel. Vraag uw organisatie daarom of en hoe u deze instellingen gebruikt.
 
-![Een afbeelding van de [!UICONTROL New Proof ]met [!UICONTROL Stage settings] gemarkeerd.](assets/additional-proof-workflow-settings.png)
+![Een afbeelding van de [!UICONTROL New Proof]met [!UICONTROL Stage settings] gemarkeerd.](assets/additional-proof-workflow-settings.png)
 
 * **[!UICONTROL Lock stage]—** Zo voorkomt u dat personen in deze werkstroomfase opmerkingen maken of beslissingen wijzigen nadat hun werkstroom is voltooid.
 * **[!UICONTROL Transfer primary decision rights to]—** Versnelt het testproces door een primaire besluitvormer aan te wijzen. Wanneer ingesteld, [!DNL Workfront] erkent het bewijsbesluit van deze persoon als het besluit. Zodra die persoon zijn beslissing heeft genomen, is het stadium voorbij en zijn er geen andere beslissingen nodig.

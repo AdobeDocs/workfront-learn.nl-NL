@@ -8,9 +8,9 @@ type: Tutorial
 role: User, Admin
 level: Intermediate
 thumbnail: set-default-proof-roles.png
-kt: 10235
+jira: KT-10235
 exl-id: 77dfb9f1-3242-47ca-a0ce-203b535af156
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%

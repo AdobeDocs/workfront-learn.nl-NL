@@ -4,9 +4,9 @@ description: Bekijk de aanbevelingen van Adobe Workfront-experts over het instel
 feature: Workfront API
 role: Admin, Leader, User
 level: Beginner
-kt: 10902
+jira: KT-10902
 exl-id: 0f3fc5ba-d01a-4337-829f-def0830ddf81
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%

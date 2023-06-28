@@ -4,12 +4,12 @@ description: Leer wat de Kanban-methode is en hoe deze werkt.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10891
+jira: KT-10891
 thumbnail: what-is-kanban.jpeg
 hide: true
 hidefromtoc: true
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
-source-git-commit: f3e354ead1a01fd7c1a58276c4ca43322e4213f0
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 0%

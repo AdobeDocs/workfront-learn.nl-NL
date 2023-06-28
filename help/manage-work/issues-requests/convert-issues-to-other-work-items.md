@@ -8,9 +8,9 @@ thumbnail: convert-issues-to-other-work-items.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10069
+jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '1075'
 ht-degree: 0%

@@ -8,8 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: e81ba47db087aa33510ddfa13ab8e5d4ef329d00
+jira: KT-null
+exl-id: ffbe2169-d475-4907-a78f-5c092b923900
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,5 +34,3 @@ Als projectmanager, kan het houden van &quot;geleerde lessen&quot;zittingen waar
 
 * Denk aan enkele projecten die u het afgelopen jaar hebt beheerd. Welke soorten vragen of informatie zou u in een &quot;geleerde lessen&quot;zitting verzamelen?
 * Bepaal of u &quot;geleerde lessen&quot;in uw projecten wilt opnemen. Bepaal vervolgens hoe. U kunt bijvoorbeeld iets informeel doen, zoals een snelle standup met uw team. Of het zou in uw projectplan kunnen worden gebouwd.
-
-

@@ -8,10 +8,10 @@ level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 thumbnail: 335172.png
-kt: 8909
+jira: KT-8909
 exl-id: b37334c7-67d0-4359-9537-dc26843582d1
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 5%
@@ -53,7 +53,7 @@ Dit verstrekt de flexibiliteit om het gebruiker-onder ogen ziet etiket te verand
 
 **[!UICONTROL Text Field with Formatting]**
 
-De [!UICONTROL Text Field with Formatting ]bevat basisgereedschappen voor tekstopmaak waarmee gebruikers vette, cursieve of onderstreepte tekst kunnen toevoegen terwijl ze het veld invullen op een aangepast formulier.
+De [!UICONTROL Text Field with Formatting]bevat basisgereedschappen voor tekstopmaak waarmee gebruikers vette, cursieve of onderstreepte tekst kunnen toevoegen terwijl ze het veld invullen op een aangepast formulier.
 
 ![Aangepast formuliervenster weergeven [!UICONTROL Text Field with Formatting] option](assets/custom-forms-text-field-with-formatting.png)
 

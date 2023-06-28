@@ -8,9 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: upload-a-proof-video.png
-kt: 10176
+jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Een video uploaden in [!DNL Workfront] volgt dezelfde stappen als bij het upload
 
 * Open het project, de taak, of geef de video uit zou moeten worden geupload aan.
 * Selecteren [!UICONTROL **Documenten**] in het menu van het linkerdeelvenster.
-* Van de [!UICONTROL **Nieuwe toevoegen** ]knop, selecteert u [!UICONTROL **Proef**].
+* Van de [!UICONTROL **Nieuwe toevoegen**] knop, selecteert u [!UICONTROL **Proef**].
 * Sleep het videobestand naar het uploadgebied of gebruik de bladerfunctie.
 * Wijs een standaard- of geautomatiseerde workflow toe.
 * Stel een deadline in.

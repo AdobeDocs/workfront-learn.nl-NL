@@ -8,9 +8,9 @@ thumbnail: set-up-exchange-rates.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10049
+jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%

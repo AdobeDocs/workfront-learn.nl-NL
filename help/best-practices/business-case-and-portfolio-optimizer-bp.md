@@ -4,9 +4,9 @@ description: Voordat u overschakelt op een flexibele methode, bekijkt u enkele a
 feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
-kt: 10904
+jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 0%

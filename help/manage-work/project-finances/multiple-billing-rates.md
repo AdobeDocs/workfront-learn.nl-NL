@@ -8,9 +8,9 @@ thumbnail: understand-multiple-billing-rates.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10048
+jira: KT-10048
 exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -54,4 +54,5 @@ Met [!DNL Workfront]De nieuwe capaciteit van de meervoudige factureringssnelheid
    * Ga door met het toevoegen van factuursnelheden, indien nodig, door op de knop **[!UICONTROL Add Rate]** knop.
    * Klik wanneer gereed **[!UICONTROL Save]**.
    * Alle factureringssnelheden worden weergegeven in het dialoogvenster [!UICONTROL Billing Rates] op het project.
+
    ![Een afbeelding van het maken van nieuwe factureringssnelheden die van toepassing zijn op de verschillende tijdsperioden in [!DNL Workfront]](assets/project-finances-7.png)

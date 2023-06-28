@@ -8,8 +8,9 @@ type: Tutorial
 role: User
 level: Experienced
 team: Technical Marketing
-kt: 11198
-source-git-commit: e2b5115d03e0eaa47cba3397b0aeb01044441083
+jira: KT-11198
+exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 0%
@@ -49,4 +50,3 @@ Het doelpubliek voor deze zelfstudies is [!UICONTROL Plan] licentiegebruikers di
 Deze zelfstudies zijn opnamen van een live-klasse die gedurende een periode van drie dagen in februari 2018 zijn gegeven. U ziet mogelijk een oudere interface in de video&#39;s, maar dit heeft geen invloed op de nauwkeurigheid of relevantie van de geleverde inhoud.
 
 U zult ook sommige verwijzingen horen naar het krijgen van een rekening van de testaandrijving aan praktijk in. Adobe Experience League biedt geen accounts voor teststations, maar maak u geen zorgen. Je kunt oefenen in je productieaccount. Rapporten gaan immers alleen over het weergeven van objecten in Workfront, niet over het maken of verwijderen van objecten. Behalve het opstellen van de verslagen zelf. Maar naast de systeembeheerder, bent u de enige die de rapporten kunt zien u creeert tenzij u besluit om hen te delen.
-

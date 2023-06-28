@@ -8,9 +8,9 @@ level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 thumbnail: exportform.png
-kt: 10059
+jira: KT-10059
 exl-id: aeef197e-1d8c-43a9-8580-0c83d8027a3f
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%

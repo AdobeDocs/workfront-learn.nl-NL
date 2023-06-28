@@ -4,9 +4,9 @@ description: Ontdek de aanbevelingen met best practices van Adobe Workfront-expe
 feature: Workfront Goals
 role: Admin, Leader, User
 level: Beginner
-kt: 10933
+jira: KT-10933
 exl-id: 08c65fae-2077-4b37-b051-bc39d978a923
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%

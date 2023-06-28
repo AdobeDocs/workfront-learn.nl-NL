@@ -4,9 +4,9 @@ description: Ontdek de aanbevelingen met best practices van Adobe Workfront-expe
 feature: People Teams and Groups
 role: Admin, Leader, User
 level: Beginner
-kt: 10912
+jira: KT-10912
 exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 0%

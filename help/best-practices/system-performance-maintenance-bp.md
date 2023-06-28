@@ -4,9 +4,9 @@ description: Ontdek de aanbevelingen van Adobe Workfront-experts over de prestat
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
-kt: 10927
+jira: KT-10927
 exl-id: c3f32975-96f4-4e62-8c3a-5b985b45bbbf
-source-git-commit: 444f059d3cc26d8e3074a7145bc5419407c786cf
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '635'
 ht-degree: 0%

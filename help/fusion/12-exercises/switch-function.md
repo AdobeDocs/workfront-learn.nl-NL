@@ -7,10 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11051
+jira: KT-11051
 thumbnail: KT1101.png
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -42,4 +42,4 @@ Voor eenvoudige gegevensveranderingen, gebruik de functie van de Schakelaar om Ã
    + Een sleutelwaarde wordt bepaald in de eerste positie na de Status van de Voortgang (&quot;LT&quot;) met de overeenkomstige output die in de tweede positie wordt bepaald (&quot;Late&quot;).
    + De volgende sleutelwaarde wordt gedefinieerd in de derde positie, waarbij de corresponderende uitvoer wordt gedefinieerd in de vierde positie, enz., voor zoveel toetsen als gewenst.
 
-      ![Schakelfunctie Afbeelding 2](../12-exercises/assets/switch-function-walkthrough-2.png)
+     ![Schakelfunctie Afbeelding 2](../12-exercises/assets/switch-function-walkthrough-2.png)

@@ -8,10 +8,10 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335178.png
-kt: 8915
+jira: KT-8915
 exl-id: 25223b40-1fef-4ae1-8a9b-3235f88ec30f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%

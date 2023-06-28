@@ -7,10 +7,10 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8928
+jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -46,4 +46,4 @@ Soms krijgt u te veel informatie in het dialoogvenster [!UICONTROL Pulse] stream
 * [!UICONTROL Pulse]
 * [!UICONTROL Goal Alignment]. In deze sectie kunt u tijdelijk de doelen weergeven die niet overeenkomen met het filter dat u hebt toegepast, zodat u een volledig beeld krijgt van alle uitgelijnde doelen. Klik op de knop [!UICONTROL **Deze weergeven/weergeven**] als er doelen verborgen zijn door het geselecteerde filter.
 
-   ![](assets/19-workfront-goals-filter-show-it.png)
+  ![](assets/19-workfront-goals-filter-show-it.png)

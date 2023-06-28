@@ -7,10 +7,10 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11049
+jira: KT-11049
 thumbnail: KT11049.png
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
@@ -52,6 +52,7 @@ Herzie de uitvoeringsgeschiedenis voor het &quot;Gebruikend het machtige filter&
    ![Afbeelding 6 van uitvoeringhistorie](../12-exercises/assets/execution-history-walkthrough-6.png)
 
    + Klik op een logitem om het bewerkingspaneel in het deelvenster met scenario&#39;s te openen. De logboekbestanden worden in chronologische volgorde weergegeven van het tijdstip waarop ze zijn opgetreden.
+
 
    ![Historie van uitvoering afbeelding 7](../12-exercises/assets/execution-history-walkthrough-7.png)
 

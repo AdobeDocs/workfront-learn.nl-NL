@@ -8,9 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: upload-drag-and-drop.png
-kt: 10178
+jira: KT-10178
 exl-id: b092b7cd-34e0-4fb5-9c69-db5709279460
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
