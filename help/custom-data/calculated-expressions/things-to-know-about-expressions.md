@@ -1,7 +1,7 @@
 ---
 title: Informatie over berekende velduitdrukkingen
 description: Krijg een glimp bij een lijst van concepten die goed zijn te kennen wanneer het werken met douane berekende gebieden in [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 71f9ec5fad80664cc1d1f12c6772b131ee46c59c
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
@@ -32,19 +32,19 @@ De expressie moet echter als hoofdletters worden geschreven, anders herkent het 
 
 ## Uren worden in minuten opgeslagen
 
-Uren in de database van Workfront worden in minuten opgeslagen. Als u verwijst naar velden zoals Geplande uren of Werkelijke uren, verdeelt u deze door 60 om de tijd in uren en niet minuten weer te geven.
+Uren in de Workfront-database worden in minuten opgeslagen. Als u verwijst naar velden zoals Geplande Uren of Werkelijke Uren, verdeel door 60 om de tijd in uren en niet notulen te tonen.
 
-## Afstand heeft geen invloed op expressies
+## Tussenruimte heeft geen invloed op expressies
 
 De aanbevolen manier om expressies te schrijven is met weinig tot geen spatiëring tussen elke expressie.
 
-* IF(ISBLANK({description}), &quot;Geen beschrijving&quot;, &quot;Heeft beschrijving&quot;)
+* IF(ISBLANK({description}),&quot;Geen beschrijving&quot;,&quot;Heeft beschrijving&quot;)
 
 ![Expressies zonder tussenruimte tussen velden](assets/T2K02.png)
 
-Als u echter met spatiëring kunt zien wat er gebeurt, kunt u wat afstand aan de expressies toevoegen. De extra spaties mogen niet verhinderen dat de expressie een waarde in [!DNL Workfront].
+Als u echter met spatiëring kunt zien wat er gebeurt, kunt u wat afstand aan de expressies toevoegen. De extra ruimten zouden niet de uitdrukking moeten verhinderen een waarde in te verzamelen of te berekenen [!DNL Workfront].
 
-* IF (ISBLANK ({description}), &quot;No Description&quot; , &quot;Has Description&quot;)
+* IF (ISBLANK ({description}), &quot;Geen beschrijving&quot;, &quot;Heeft beschrijving&quot; )
 
 ![Expressies met tussenruimte tussen velden](assets/T2K03.png)
 
@@ -107,7 +107,7 @@ Als u echter een berekend veld op formulier A hebt en hetzelfde berekende veld o
 
 Wanneer een berekend aangepast veld wordt geselecteerd in de veldbibliotheek en wordt toegevoegd aan een aangepast formulier, wordt het veld toegevoegd maar is de berekening leeg. Een van de redenen hiervoor is dat de berekening kan verwijzen naar velden die niet bestaan voor een ander objecttype.
 
-U hebt bijvoorbeeld een berekend veld met de naam &quot;Aantal dagen om te voltooien&quot; gemaakt om te bepalen hoe lang het duurde om een taak in een project uit te voeren.
+Bijvoorbeeld, hebt u een berekend gebied, &quot;Dagen aan Voltooid,&quot;gecreeerd om te bepalen hoe lang het duurde om een taak in een project te voltooien.
 
 * WEEKDAYDIFF({actualStartDate},{actualCompletionDate})
 
@@ -121,4 +121,4 @@ Afhankelijk van de behoefte, kunnen de berekende gebieden in douaneformulieren v
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you’re ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.-->

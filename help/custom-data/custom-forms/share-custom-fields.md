@@ -1,7 +1,7 @@
 ---
 title: Aangepaste velden delen
 description: Leer hoe u de machtigingen voor een aangepast veld aanpast om te bepalen of gebruikers het aangepaste veld kunnen beheren of alleen kunnen weergeven.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Intermediate, Experienced
@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: share-custom-field.png
 jira: KT-10090
 exl-id: 99aaea2c-28f4-46c6-b384-6e14cfbd7d93
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Een aangepast veld is standaard ingesteld op [!DNL Workfront] kan worden bewerkt door iedereen die een licentie voor abonnementen heeft met rechten om aangepaste formulieren te bewerken. U kunt deze machtigingen beperken en bepalen of gebruikers het aangepaste veld kunnen beheren of alleen kunnen weergeven.
 
-Een nieuw aangepast veld heeft standaard bewerkmachtigingen, wat betekent dat gebruikers het veld kunnen zien en de waarde ervan kunnen bewerken. Als u echter niet wilt dat het bestand door anderen wordt bewerkt of verwijderd, wijzigt u de machtigingen in het veld.
+Een nieuw aangepast veld heeft standaard bewerkmachtigingen, wat betekent dat gebruikers het veld kunnen zien en de waarde ervan kunnen bewerken. Maar als u niet wilt dat het wordt uitgegeven of door anderen wordt geschrapt, verander de toestemmingen op het gebied.
 
 1. Klikken op **[!UICONTROL Share field]**.
 1. Wijzigen [!UICONTROL Editable System-Wide] tot [!UICONTROL Make this visible system-wide] door op de knop **instellingenpictogram**.

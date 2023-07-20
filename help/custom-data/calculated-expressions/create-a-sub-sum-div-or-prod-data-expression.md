@@ -1,7 +1,7 @@
 ---
 title: Een SUB-, SUM-, DIV- of PROD-gegevensexpressie maken
 description: Leer hoe u de standaard wiskundige expressies in het berekende veld Adobe gebruikt en maakt [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -11,7 +11,7 @@ thumbnail: 335177.png
 jira: KT-8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%
@@ -35,7 +35,7 @@ De expressie ROUND neemt een willekeurig getal en rondt dit af tot een bepaald a
 
 Meestal wordt de ROUND-gegevensexpressie gebruikt in combinatie met een andere gegevensexpressie en wanneer het indelingsveld als Tekst of Nummer wordt weergegeven.
 
-Laten we een berekend veld maken om het verschil te bepalen tussen het aantal uren dat is gepland en dat daadwerkelijk is aangemeld voor een taak. Hiervoor is de SUB-expressie vereist en ziet deze eruit:
+Laten wij een berekend gebied tot stand brengen om het verschil tussen het aantal uren te bepalen gepland en eigenlijk het programma geopend op een taak, die de uitdrukking SUB zal vereisen en als dit zal kijken:
 
 **SUB({workRequired},{actualWorkRequired})**
 
@@ -47,7 +47,7 @@ Als de notatie wordt gewijzigd in Number bij het maken van het berekende veld in
 
 ![Werklastverdelingsmechanisme met gebruiksrapport](assets/round01.png)
 
-Als de veldindeling bij het maken van een aangepast veld echter als tekst blijft staan, kan de indeling niet gemakkelijk worden gewijzigd in de weergave. De expressie ROUND moet worden gebruikt om te voorkomen dat getallen zoals deze in uw project worden weergegeven:
+Als de veldindeling echter bij het maken van een aangepast veld als Tekst wordt gelaten, kan de indeling niet gemakkelijk worden gewijzigd in de weergave. De expressie ROUND moet worden gebruikt om te voorkomen dat getallen zoals deze in uw project worden weergegeven:
 
 ![Werklastverdelingsmechanisme met gebruiksrapport](assets/round02.png)
 
@@ -57,7 +57,7 @@ De expressie ROUND bevat de naam van de expressie (ROUND) en doorgaans twee gege
 
 Een expressie zou als volgt zijn gestructureerd: ROUND(gegevenspunt, #)
 
-In de expressie die het verschil berekent tussen de geplande en de werkelijke uren, gebruikt u deze expressie —DIV(SUB(){workRequired},{actualWorkRequired}),60) - als eerste gegevenspunt. Controleer vervolgens of het getal dat uit die expressie komt, niet meer dan 2 cijfers achter het decimaalteken bevat.
+In de expressie die het verschil berekent tussen de geplande en de werkelijke uren, gebruikt u deze expressie —DIV(SUB(){workRequired},{actualWorkRequired}),60) - als eerste gegevenspunt. Zorg er vervolgens voor dat het getal uit die expressie niet meer dan 2 posities naar rechts van het decimaalteken loopt.
 
 ![Werklastverdelingsmechanisme met gebruiksrapport](assets/round03.png)
 

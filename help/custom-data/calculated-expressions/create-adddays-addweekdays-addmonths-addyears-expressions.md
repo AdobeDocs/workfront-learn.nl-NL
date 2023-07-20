@@ -1,7 +1,7 @@
 ---
 title: ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS-expressies maken
 description: Leer hoe u de ADD-expressies in een berekend veld in Adobe gebruikt en maakt [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -11,7 +11,7 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Hieronder vindt u een aantal extra ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR-expressi
 
 **Moet zijn uitgevoerd door**
 
-De klant wilde weten wanneer de taak zou moeten voltooid zijn gebaseerd op de Ware Datum van het Begin en de Geplande Duur. De geplande voltooiingsdatum werkt in dit geval niet omdat de taak kan worden verplaatst als de taak te laat is. De geplande uitvoeringsdatum helpt niet als er vertragingen optreden in eerdere taken.
+De klant wilde weten wanneer de taak zou moeten voltooid zijn gebaseerd op de Ware Datum van het Begin en de Geplande Duur. De voorspelde Voltooiingsdatum werkt in dit geval niet omdat deze kan worden verplaatst als de taak te laat is. De geplande Voltooiingsdatum helpt niet als er vertragingen optreden in eerdere taken.
 
 De gemaakte expressie is ADDDAYS({actualStartDate},{durationMinutes}/480)
 

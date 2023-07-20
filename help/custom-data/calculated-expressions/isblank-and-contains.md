@@ -1,7 +1,7 @@
 ---
 title: De expressies ISBLANK en CONTAINS gebruiken
 description: Leer hoe u de expressies ISBLANK en CONTAINS in het berekende veld Adobe gebruikt en maakt [!DNL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Bijvoorbeeld, om te zien of heeft een project een beschrijving, gebruik de uitdr
 
 ![Werklastverdelingsmechanisme met gebruiksrapport](assets/isblank01.png)
 
-Als u wilt zoeken naar een specifieke waarde in de beschrijving, bijvoorbeeld &quot;liefdadigheidsgebeurtenis&quot;, gebruikt u de tekstexpressie CONTAINS. Als in de beschrijving &quot;liefdadigheidsgebeurtenis&quot; wordt gevonden, wordt in het berekende veld &quot;true&quot; weergegeven. De waarde &quot;false&quot; wordt weergegeven als &quot;charity event&quot; niet wordt gevonden.
+Als u wilt zoeken naar een specifieke waarde in de beschrijving, bijvoorbeeld &quot;liefdadigheidsgebeurtenis&quot;, gebruikt u de tekstexpressie CONTAINS. Als in de beschrijving &quot;liefdadigheidsgebeurtenis&quot; wordt gevonden, wordt in het berekende veld &quot;true&quot; weergegeven. Er wordt &quot;false&quot; weergegeven als er geen &quot;liefdadigheidsgebeurtenis&quot; wordt gevonden.
 
 ![Werklastverdelingsmechanisme met gebruiksrapport](assets/isblank02.png)
 
@@ -44,13 +44,13 @@ ISBLANK({description})
 
 De tekstexpressie CONTAINS bevat de naam van de expressie, het woord of de woordgroep waarin u zoekt en het veld waarin u wilt zoeken.
 
-**CONTAINS(&quot;uitdrukking&quot;,{velden})**
+**CONTAINS(&quot;frase&quot;),{fields})**
 
 Zorg ervoor dat u aanhalingstekens plaatst rond het woord of de woordgroep waarnaar u zoekt, anders is de uitdrukking niet geldig.
 
 In het bovenstaande voorbeeld (waarin wordt gezocht naar &quot;liefdadigheidsgebeurtenis&quot; in de projectomschrijving) zou de expressie als volgt zijn:
 
-**CONTAINS(&quot;charity event&quot;,{description})**
+**CONTAINS(&quot;liefdadigheidsgebeurtenis&quot;,{description})**
 
 ![Werklastverdelingsmechanisme met gebruiksrapport](assets/isblank04.png)
 
@@ -58,7 +58,7 @@ In het bovenstaande voorbeeld (waarin wordt gezocht naar &quot;liefdadigheidsgeb
 
 **CONTAINS(&quot;Charity Event&quot;,{description})**
 
-Zowel de expressies ISBLANK als CONTAINS zijn goed te gebruiken als u wilt zien of een waarde aanwezig is. Het kan echter nuttiger zijn om te weten wat de waarde is, om deze te zien of om een of andere vorm van descriptor te hebben om een beter inzicht te verschaffen.
+Zowel zijn ISBLANK als CONTAINS uitdrukkingen goed om te gebruiken als u kijkt om te zien of is een waarde aanwezig. Het kan echter nuttiger zijn om te weten wat de waarde is, om deze te zien of om een of andere vorm van descriptor te hebben om een beter inzicht te verschaffen.
 
 In plaats van alleen maar te weten dat een project is omgezet vanuit een aanvraag, wilt u bijvoorbeeld de naam van de oorspronkelijke aanvraag kennen.
 

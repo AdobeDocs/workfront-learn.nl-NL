@@ -2,7 +2,7 @@
 title: Welkom bij geavanceerde rapportage
 description: Leer hoe u de [!UICONTROL API Explorer] en de tekstmodus om geavanceerde filters, weergaven en groepen te maken die verder gaan dan de mogelijkheden van de [!UICONTROL Reporting UI].
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -10,7 +10,7 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Naast de video&#39;s die u wilt downloaden, gaat u naar [Geavanceerde rapporthan
 
 Voordat u deze zelfstudies kunt bekijken, hebt u het volgende nodig:
 
-* Goed inzicht in het gebruik van Workfront. Dit betekent dat u al minstens 3 tot 6 maanden een serieuze Workfront-gebruiker bent.
+* Goed inzicht in het gebruik van Workfront. Dit betekent dat je al minstens 3 tot 6 maanden een serieuze Workfront gebruiker bent.
 * Een goed begrip van de objecten die u wilt opnemen in rapporten.
 * Goed inzicht in het gebruik van aangepaste formulieren, vooral berekende aangepaste velden.
 * A [!UICONTROL Plan] licentietype met rechten voor het maken van rapporten en filters ingeschakeld.
@@ -49,4 +49,4 @@ Het doelpubliek voor deze zelfstudies is [!UICONTROL Plan] licentiegebruikers di
 
 Deze zelfstudies zijn opnamen van een live-klasse die gedurende een periode van drie dagen in februari 2018 zijn gegeven. U ziet mogelijk een oudere interface in de video&#39;s, maar dit heeft geen invloed op de nauwkeurigheid of relevantie van de geleverde inhoud.
 
-U zult ook sommige verwijzingen horen naar het krijgen van een rekening van de testaandrijving aan praktijk in. Adobe Experience League biedt geen accounts voor teststations, maar maak u geen zorgen. Je kunt oefenen in je productieaccount. Rapporten gaan immers alleen over het weergeven van objecten in Workfront, niet over het maken of verwijderen van objecten. Behalve het opstellen van de verslagen zelf. Maar naast de systeembeheerder, bent u de enige die de rapporten kunt zien u creeert tenzij u besluit om hen te delen.
+U zult ook sommige verwijzingen horen naar het krijgen van een rekening van de testaandrijving aan praktijk in. Adobe Experience League biedt geen account voor teststations, maar maak je geen zorgen. Je kunt oefenen in je productieaccount. Rapporten gaan immers alleen over het weergeven van objecten in Workfront, niet over het maken of verwijderen van objecten. Behalve het opstellen van de verslagen zelf. Maar naast de systeembeheerder, bent u de enige die de rapporten kunt zien u creeert tenzij u besluit om hen te delen.

@@ -2,7 +2,7 @@
 title: Taken, problemen en goedkeuringen delegeren
 description: Leer hoe u goedkeuringen voor projecten, taken, problemen en tijdschema's kunt delegeren aan een andere Workfront-gebruiker. Leer ook hoe te om taak te delegeren en taken uit te geven.
 activity: use
-feature: Work Management
+feature: Approvals
 type: Tutorial
 role: User
 level: Intermediate
@@ -11,7 +11,7 @@ thumbnail: 336094.png
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%

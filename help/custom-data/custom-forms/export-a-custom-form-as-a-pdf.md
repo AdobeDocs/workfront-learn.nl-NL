@@ -1,7 +1,7 @@
 ---
 title: Een aangepast formulier exporteren als een PDF
 description: Leer hoe u een aangepast formulier exporteert als een PDF om de gegevens eenvoudig met anderen te kunnen delen.
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Beginner, Intermediate
@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: exportform.png
 jira: KT-10059
 exl-id: aeef197e-1d8c-43a9-8580-0c83d8027a3f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%

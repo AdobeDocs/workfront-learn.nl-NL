@@ -1,7 +1,7 @@
 ---
 title: Datum- en tijdnotaties en wiskundige expressies begrijpen
 description: Leer welke datum, tijd en wiskundige expressies zijn en welke beschikbaar zijn voor het maken van aangepaste gegevens in Adobe [!UICONTROL Workfront].
-feature: System Setup and Administration
+feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
 level: Experienced
@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 ## Datum- en tijdexpressies
 
-Met datum- en tijdexpressies kunt u belangrijke datums in de rapporten opnemen, automatisch het aantal werkdagen berekenen dat nodig was om een taak te voltooien of tijdstempels uit de weergave verwijderen wanneer deze niet nodig zijn.
+Met datum- en tijdexpressies kunt u belangrijke datums vooraan in uw rapporten plaatsen, automatisch het aantal werkdagen berekenen dat nodig was om een taak te voltooien, of tijdstempels uit de weergave verwijderen wanneer deze niet nodig zijn.
 
-Wanneer u de beschikbare datum- en tijdexpressies bekijkt, zult u verschillende opties beschikbaar hebben.
+Wanneer u de beschikbare datum- en tijdexpressies bekijkt, zult u verschillende beschikbare opties zien.
 
 ![Voorbeeld van datum- en tijdexpressies](assets/datetimeexpressions01.png)
 
