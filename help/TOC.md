@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
 workflow-type: tm+mt
-source-wordcount: '2332'
+source-wordcount: '2335'
 ht-degree: 0%
 
 ---
@@ -120,7 +120,6 @@ ht-degree: 0%
       + [De voortgang van het project bijhouden](manage-work/projects/track-overall-project-progress.md)
       + [Voortgang van het werk bijhouden met projectmetriek](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [Begrijp het [!UICONTROL Gantt] weergave](manage-work/projects/understand-the-gantt-view.md)
-      + [Sluit het project](manage-work/projects/change-the-project-status.md)
 
    + Taken {#tasks}
       + [Taken maken](manage-work/tasks/how-to-create-tasks.md)
@@ -176,6 +175,7 @@ ht-degree: 0%
 
    + Een project sluiten {#close-a-project}
       + [Een project sluiten](manage-work/close-a-project/close-a-project-in-workfront.md)
+      + [De projectstatus wijzigen om te voltooien](manage-work/projects/change-the-project-status.md)
       + [Taken en problemen sluiten](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Goedkeuring voltooien](manage-work/close-a-project/complete-approvals.md)
       + [Elementen uploaden](manage-work/close-a-project/upload-assets.md)
