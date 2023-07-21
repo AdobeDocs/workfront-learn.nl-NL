@@ -8,12 +8,12 @@ thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-last-substantial-update: 2023-05-02T00:00:00Z
+last-substantial-update: 2023-07-21T00:00:00Z
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 5b1e0bf5cc50fcfe4a4df7cbce608fb20643bf9b
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ In deze video leert u:
 * Een project delen met een persoon
 * Hoe te om een project met een team te delen
 * Een project delen door het in een portfolio te plaatsen
-* Wat is de beste manier om een project te delen
+* Aanbevolen procedures voor het delen van een project
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
