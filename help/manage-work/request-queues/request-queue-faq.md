@@ -8,9 +8,9 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,9 @@ U kunt de [!UICONTROL Search] in de navigatiebalk of zoek de navigatiebalk in de
 
 Als u een verzoek van de verzoekrij opent kunt u op de projectnaam in het broodkruimelgebied klikken.
 
-**Kan ik de informatie van een aanvraagdouaneformulier aan een project overbrengen?**
+**Kan ik de informatie van een aanvraagdouaneformulier naar een project douanevorm overbrengen?**
 
-Ja. Hiertoe maakt u een aangepast formulier en selecteert u beide [!UICONTROL Issue] en [!UICONTROL Project] objecttypen.
+Ja. Wanneer u een aangepast formulier maakt, selecteert u beide [!UICONTROL Project] en [!UICONTROL Issue] als de objecttypen. Voeg het aangepaste formulier bij de aanvraag. Wanneer u het verzoek in een project omzet zal het douaneformulier automatisch aan het nieuwe project vastmaken en de waarden in om het even welke gebieden zullen in zowel het verzoek als de projecten douaneformulieren verschijnen.
 
 **Ik kijk naar een project- of taakrapport. Hoe kan ik achterhalen uit welk verzoek dit object afkomstig is?**
 

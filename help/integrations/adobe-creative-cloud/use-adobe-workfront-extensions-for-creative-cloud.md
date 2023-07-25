@@ -1,6 +1,6 @@
 ---
-title: Adobe Workfront-plug-ins gebruiken voor Creative Cloud
-description: Zoek en werk dat aan u is toegewezen in Adobe Workfront zonder de volgende Adobe Creative Cloud-toepassingen te verlaten - Photoshop, XD, InDesign, Illustrator, Premiere Pro en After Effects
+title: Adobe Workfront-plug-ins gebruiken om te integreren met Creative Cloud
+description: Integreer Workfront met Creative Cloud om het werk te vinden en bij te werken dat aan u in Workfront wordt toegewezen zonder de volgende Creative Cloud toepassingen te verlaten - Photoshop, XD, InDesign, After Effects,  en
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,16 +10,19 @@ team: Technical Marketing
 jira: KT-8811
 doc-type: video
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+badgeIntegration: label="Integratie" type="positive"
+feature-set: Workfront
+topic: Integrations
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Adobe Workfront-plug-ins gebruiken voor Creative Cloud
+# Adobe Workfront-plug-ins gebruiken om te integreren met Creative Cloud
 
-U kunt het werk dat in Adobe Workfront aan u is toegewezen, zoeken en bijwerken zonder de volgende Adobe Creative Cloud-toepassingen te verlaten:
+Integreer Workfront met Creative Cloud om het werk te vinden en bij te werken dat aan u in Adobe Workfront wordt toegewezen zonder de volgende Adobe Creative Cloud-toepassingen te verlaten:
 
 * Photoshop
 * XD
