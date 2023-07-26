@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '685'
 ht-degree: 0%
 
 ---
@@ -25,26 +25,26 @@ ht-degree: 0%
 >
 >Vereisten:
 >
->* Rapporteringselementen begrijpen
->* Rapportonderdelen begrijpen
->* Een basisweergave maken
+>* [Informatie over rapporteringselementen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [Rapportonderdelen begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [Een basisweergave maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 >[!TIP]
 >
->* Voor een beter begrip van de tekstmodus raden we u aan de opgenomen webinar-gebeurtenis te bekijken [Vraag het de Expert - Inleiding aan de Rapportering van de Wijze van de Tekst](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), wat een uur lang is.
+>* Voor een beter begrip van de tekstmodus raden we u aan de opgenomen webinar-gebeurtenis te bekijken [Vraag de expert - Inleiding aan de Rapportering van de Wijze van de Tekst](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), wat een uur lang is.
 >* Als u nog meer wilt weten over de tekstmodus, raden we u aan de [Geavanceerde rapportage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) zelfstudies, die samen 5,5 uur lang zijn.
 
 In deze video leert u:
 
 * Welke tekstmodus is ingesteld
 * Wat kamelendoosje is
-* De standaardtekstmodus &quot;insteekmodule en afspelen&quot; die u in uw weergaven kunt gebruiken
+* Een standaardtekstmodus voor &quot;insteekmodules&quot; die u in uw weergaven kunt gebruiken
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## Taak - 4 ouderenmening
 
-Creeer eerst een kolom voor de Naam van de Taak en de Naam van de Ouder, dan gebruik de volgende tekstwijze om de andere drie kolommen tot stand te brengen.
+Creeer eerst een kolom voor de Naam van de Taak en de Naam van de Ouder, dan gebruik de volgende tekstwijze om de andere drie kolommen te creëren.
 
 ### Taak - Bovenliggend item van bovenliggende naam
 
@@ -235,12 +235,19 @@ type=iterate
 
 ### Taakfilter (optioneel)
 
-**Toon me alle taken die minstens één dwars-projectvoorganger hebben**
+**Toon me alle taken die minstens één dwars-projectvoorganger of minstens één dwars-projectopvolger op huidige projecten hebben**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
 ### Taak - toon voorgangersnamen en projectvoorganger binnen is
@@ -257,7 +264,7 @@ valueformat=HTML
 width=150
 ```
 
-### Taak - toon de namen van de opvolger en projectopvolger binnen
+### Taak - toon de namen van de opvolger en de projectopvolger binnen
 
 ```
 displayname=Successor names
@@ -315,7 +322,7 @@ valueformat=HTML
 width=150
 ```
 
-![Een schermafbeelding die de voordecessors en de opvolgers van het Cross-project weergeeft](assets/cross-project-predecessors-and-successors.png)
+![Een schermafbeelding die de voordecessors en opvolgers voor meerdere projecten weergeeft](assets/cross-project-predecessors-and-successors.png)
 
 
 ## Taak - Herhaling die alle toegewezen personen toont en wie elk toewees
