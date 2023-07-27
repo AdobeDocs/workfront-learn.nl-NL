@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
 workflow-type: tm+mt
-source-wordcount: '2337'
+source-wordcount: '2340'
 ht-degree: 0%
 
 ---
@@ -111,7 +111,7 @@ ht-degree: 0%
       + [De projectdetails invullen](manage-work/projects/fill-in-the-project-details.md)
       + [Navigeren door de projectpagina](manage-work/projects/navigate-the-project-page.md)
       + [Aan de slag met het plannen van een project](manage-work/projects/getting-started-plan-a-project.md)
-      + [Een project live uitvoeren](manage-work/projects/take-a-project-live.md)
+      + [Een project live laten gaan](manage-work/projects/take-a-project-live.md)
       + [Beginnen met het beheren van een project](manage-work/projects/getting-started-manage-a-project.md)
       + [Projecten zoeken](manage-work/projects/find-projects.md)
       + [Een project delen](manage-work/projects/share-a-project.md)
@@ -136,7 +136,7 @@ ht-degree: 0%
       + [Een aanvraag indienen](manage-work/issues-requests/make-a-request.md)
       + [Zoeken naar aanvragen](manage-work/issues-requests/find-requests.md)
       + [Aanvragen beheren](manage-work/issues-requests/manage-incoming-requests.md)
-      + [Uitgave-toewijzingen beheren](manage-work/issues-requests/manage-issue-assignments.md)
+      + [Uitgiftetoewijzingen beheren](manage-work/issues-requests/manage-issue-assignments.md)
       + [Een verzoek bijwerken](manage-work/issues-requests/update-a-request.md)
       + [Een project maken op basis van een aanvraag](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Uitgaven converteren naar andere werkitems](manage-work/issues-requests/convert-issues-to-other-work-items.md)
@@ -149,7 +149,7 @@ ht-degree: 0%
       + [Prioriteit geven aan en werk beheren met portfolio&#39;s](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Wachtrijen aanvragen {#request-queues}
-      + [Inzicht in aanvraagwachtrijen](manage-work/request-queues/understand-request-queues.md)
+      + [Vragenrijen begrijpen](manage-work/request-queues/understand-request-queues.md)
       + [Instellingen voor een stroomaanvraag begrijpen](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Een aanvraagwachtrij maken](manage-work/request-queues/create-a-request-queue.md)
       + [Een aanvraagstroom maken](manage-work/request-queues/create-a-request-flow.md)
@@ -171,7 +171,7 @@ ht-degree: 0%
    + Projecttijdlijnen {#project-timelines}
       + [Projecttijdlijnen begrijpen](manage-work/project-timelines/understand-project-timelines.md)
       + [Datatypen en voortgangsstatus begrijpen](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [Voortgang van project bijhouden](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [Voortgang bijhouden vanaf de projecttijdlijn](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + Een project sluiten {#close-a-project}
       + [Een project sluiten](manage-work/close-a-project/close-a-project-in-workfront.md)
@@ -184,17 +184,18 @@ ht-degree: 0%
       + [Een projectactiviteit sluiten](manage-work/close-a-project/close-a-project-activity.md)
 
    + Projectfinanciën voor gebruikers {#project-finances-users}
-      + [Financiën bijwerken en herzien](manage-work/project-finances/update-and-review-finances.md)
+      + [De financiën bijwerken en herzien](manage-work/project-finances/update-and-review-finances.md)
       + [Zoeken naar financiële informatie](manage-work/project-finances/find-financial-information.md)
       + [Meerdere factureringssnelheden begrijpen](manage-work/project-finances/multiple-billing-rates.md)
 
-   + Tussenprojecten {#intermediate-projects}
+   + Tussentijdse projecten {#intermediate-projects}
       + [Werken en beheren van de soorten duur en taakbeperkingen](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [Voorgangers voor meerdere projecten begrijpen](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
 
 
 + Rapportage {#reporting}
    + Basisrapportage {#basic-reporting}
-      + [Rapporteringselementen begrijpen](reporting/basic-reporting/reporting-elements.md)
+      + [Informatie over rapporteringselementen](reporting/basic-reporting/reporting-elements.md)
       + [Rapportonderdelen begrijpen](reporting/basic-reporting/reporting-components.md)
       + [Een basisgroep maken](reporting/basic-reporting/create-a-basic-grouping.md)
       + [Een basisweergave maken](reporting/basic-reporting/create-a-basic-view.md)
@@ -227,7 +228,7 @@ ht-degree: 0%
 
    + Geavanceerde rapportage {#advanced-reporting}
       + [Welkom bij geavanceerde rapportage](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
-      + [Geavanceerd rapportagedeel 1](reporting/advanced-reporting/advanced-reporting-part-1.md)
+      + [Geavanceerd rapporteringsdeel 1](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [Geavanceerd rapportagedeel 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Geavanceerd rapporteringsdeel 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
 
@@ -240,11 +241,11 @@ ht-degree: 0%
       + [Filters begrijpen](reporting/enhanced-analytics/6-filters-overview.md)
       + [Datumbereiken en tijdframes begrijpen](reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
       + [Geplande weergaven van uren en duur begrijpen](reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-      + [Handelingen begrijpen: Houd de muisaanwijzer boven de knop en sleep de aanwijzer en klik in](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
+      + [Handelingen begrijpen: houd de muisaanwijzer boven de knop, sleep de aanwijzer en klik in](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
       + [KPI&#39;s begrijpen](reporting/enhanced-analytics/10-kpis-overview.md)
       + [Navigeren en projecten evalueren](reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
-      + [Dieper dig met tijdframes en extra grafieken](reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
-      + [Navigeren en projectactiviteit evalueren](reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
+      + [Dieper dig met gebruik van tijdframes en extra grafieken](reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
+      + [Begrijp navigeren en het herzien projectactiviteit](reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
       + [Dieper naar de navigatie](reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
       + [Begrijp de toegang tot van en het herzien van de burndown](reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
       + [De taken tijdens de vlucht controleren](reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
@@ -283,12 +284,12 @@ ht-degree: 0%
       + [Hoe tijd van invloed is op projecttijdlijnen](manage-resources/pto/how-time-off-affects-project-timelines.md)
       + [Andere gebruikers tijd uit beheren](manage-resources/pto/manage-other-users-time-off.md)
       + [Ontdek de tijd bij het toewijzen van taken](manage-resources/pto/see-time-off-when-assigning-tasks.md)
-      + [Zichtbaarheid in hulpmiddelen voor middelenbeheer](manage-resources/pto/visibility-in-resource-management-tools.md)
+      + [Zichtbaarheid in hulpmiddelen voor resourcebeheer](manage-resources/pto/visibility-in-resource-management-tools.md)
 
    + Scenario Planner {#scenario-planner}
       + [Een ogenblik met Product over de Planner van het Scenario](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [Wat is de Scenario Planner?](manage-resources/scenario-planner/what-is-scenario-planner.md)
-      + [Een abonnement openen in Scenario Planner](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
+      + [Toegang tot een abonnement in Scenario Planner](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
       + [Abonnementen maken in het deelvenster Scenario](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
       + [Initiatieven maken met een abonnement](manage-resources/scenario-planner/creating-initiatives-within-a-plan.md)
       + [De rol, het budget en de kosteninformatie van de baan in de Planner van het Scenario aanpassen](manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
@@ -381,7 +382,7 @@ ht-degree: 0%
       + [Buiten basisanalyse van toewijzingen](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
       + [Filters gebruiken](fusion/2-understand-the-basics/use-filters.md)
       + [Filters doorlopen](fusion/2-understand-the-basics/filters-walkthrough.md)
-      + [De toegang vorige versies analyse](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+      + [Toegang tot vorige versies, analyse](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
 
    + Universele schakelaars en het verpletteren {#universal-connectors-and-routing}
       + [Overzicht van oefeningen voor Universal-connectors](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
@@ -391,13 +392,13 @@ ht-degree: 0%
       + [Gemeenschappelijke verpletterende patronen](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [Het verpletteren van patroonanalyse](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
       + [Instellen en ophalen](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
-      + [Doorloop variabelen ophalen/instellen](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+      + [Variabelen ophalen/instellen doorlopen](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
 
    + Iteratie en aggregatie {#iteration-and-aggregation}
       + [Inleiding tot iterators](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
       + [Inleiding aan iteratoranalyse](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
       + [Inleiding tot aggregaties](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
-      + [Samentellinganalyse](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
+      + [Samentellwalkthrough](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
       + [Geavanceerde samenvoegingsanalyse](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
 
    + Uitvoeringshistorie en planning {#execution-history-and-scheduling}
@@ -408,16 +409,16 @@ ht-degree: 0%
       + [Hiermee voert u cycli en doorloopstappen van bundels uit](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
 
    + Buiten basismodules {#beyond-basic-modules}
-      + [Meer informatie over aanvullende apps en algemene modules](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
+      + [Bekend worden met extra apps en gemeenschappelijke modules](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [Omhoog schakelen](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [Schakelen tussen functieanalyses](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
       + [De moduleanalyse van de schakelaar](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
       + [De wereld van de webhaak begrijpen](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
-      + [Webhooks wandelen](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+      + [Webhooks doorlopen](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
 
    + Gegevensstructuren en gegevensopslag {#data-structures-and-data-stores}
       + [Gegevensstructuren begrijpen](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
-      + [Analyse gegevensstructuren](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
+      + [Analyse van gegevensstructuren](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
       + [Gegevensopslag begrijpen](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [Analyse van gegevenswinkels](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
 
@@ -431,7 +432,7 @@ ht-degree: 0%
    + Problemen oplossen en fouten afhandelen {#troubleshooting-and-error-handling}
       + [Geavanceerde probleemoplossing met het hulpprogramma Dev](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [Doorloop van gereedschap Dev](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
-      + [Wat is foutafhandeling?](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
+      + [Foutafhandeling](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
       + [Richtlijnen voor foutafhandeling begrijpen](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
       + [Fout bij afhandeling van analyse](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
       + [Onvolledige uitvoeringen begrijpen](fusion/9-troubleshooting-and-error-handling/understand-incomplete-executions.md)
@@ -518,7 +519,7 @@ ht-degree: 0%
       + [Proefdrukopmerkingen beheren](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [Voortgang proefdruk bijhouden](workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-+ Workfront DAM {#workfront-dam-program}
++ WORKFRONT DAM {#workfront-dam-program}
    + Systeeminstellingen {#system-setup}
       + [Begrijpen [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [Systeeminstellingen begrijpen](workfront-dam/system-setup/system-setup-system-settings.md)
@@ -551,7 +552,7 @@ ht-degree: 0%
       + [Beheer van bedrijfsmiddelen als contribuant begrijpen](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Begrijp het vinden van activa als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [Lichtbakken begrijpen als auteur](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [De beste werkwijzen voor metagegevens en trefwoorden als medewerker begrijpen](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [De beste werkwijzen voor metagegevens en trefwoorden als contribuant begrijpen](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Werken met elementen als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Een bestand verzenden als contribuant](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [Elementen publiceren als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -571,7 +572,7 @@ ht-degree: 0%
    + [Prioriteit geven aan uw werk](workfront-home/prioritize-your-work-in-workfront-home.md)
    + [Werkstatus aangeven](workfront-home/indicate-work-status-in-workfront-home.md)
    + [Communiceren over werk](workfront-home/communicate-about-work-in-workfront-home.md)
-   + [Aantal arbeidsuren](workfront-home/log-hours-on-work-in-workfront-home.md)
+   + [Werktijden vastleggen](workfront-home/log-hours-on-work-in-workfront-home.md)
    + [Toegewezen werk als voltooid markeren](workfront-home/mark-assigned-work-as-complete.md)
    + [Werk goedkeuren in [!UICONTROL Home]](workfront-home/approve-work-in-workfront-home.md)
    + [Samenwerken aan het werk met [!UICONTROL My Updates]](workfront-home/collaborate-on-work-with-my-updates.md)
@@ -600,7 +601,7 @@ ht-degree: 0%
       + [Kolominstellingen toevoegen en bewerken op een board](boards/add-and-edit-column-settings-on-a-board.md)
       + [Codes voor kaarten toevoegen en beheren](boards/add-and-manage-tags-for-cards.md)
 
-+ Aanbevolen werkwijzen {#best-practices}
++ Aanbevolen procedures {#best-practices}
    + [Agile](best-practices/agile-bp.md)
    + [API Explorer](best-practices/api-explorer-bp.md)
    + [Business case en portfolio optimaliseren](best-practices/business-case-and-portfolio-optimizer-bp.md)
@@ -627,7 +628,7 @@ ht-degree: 0%
    + [Planningen](best-practices/schedules-bp.md)
    + [Statussen](best-practices/statuses-bp.md)
    + [Systeemprestaties en -onderhoud](best-practices/system-performance-maintenance-bp.md)
-   + [Rapportering tekstmodus](best-practices/test-mode-reporting-bp.md)
+   + [Rapportage tekstmodus](best-practices/test-mode-reporting-bp.md)
    + [Tijdlijnplanning en -beheer](best-practices/timeline-planning-management-bp.md)
    + [Tijdschema&#39;s en aanmeldtijd](best-practices/timesheets-logging-time-bp.md)
    + [Gebruik](best-practices/utilization-bp.md)
