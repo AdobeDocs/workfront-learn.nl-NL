@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a7baac7e1bf18c454d1ddb8980898159a3802866
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -151,3 +151,18 @@ Het is belangrijk dat gebruikers duidelijke verwachtingen krijgen, zodat ze wete
 
 
 Zorg ervoor dat de leiders mededelingen sturen waarin zij hun steun uitspreken.
+
+</br>
+</br>
+
+
+**Beste praktijken**
+
+Maak en implementeer een adoptieonderzoek van uw gebruikers voor een beter inzicht in waar ze met uitdagingen te maken hebben en waar ze waarde zien
+
+**Hieronder wordt beschreven waarom**
+
+Onze meest succesvolle klanten hebben een regelmatig cadence ontwikkeld voor het verzamelen van feedback om te begrijpen wat een betere acceptatie van de Workfront-oplossing in de weg zou kunnen staan. Als u feedbackgegevens verzamelt, kunnen beheerders de juiste bronnen vinden om verbeteringen aan te brengen. Deze gids voor de Enquêtes van de Goedkeuring analyseert de uitvoering, de meting, de planning, en de overzichtsstadia van het leiden van een onderzoek van uw gebruikers van Workfront.
+
+[Download de Workfront Guide naar adoptie-enquête](../assets/adoption-survey.pdf)
+
