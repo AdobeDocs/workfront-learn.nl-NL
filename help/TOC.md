@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
+source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
 workflow-type: tm+mt
-source-wordcount: '2340'
+source-wordcount: '2349'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,15 @@ ht-degree: 0%
       + [Objecten uit de prullenbak herstellen](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
    + Standaardwaarden systeem configureren {#configure-system-defaults}
-      + [Algemene standaardprojectinstellingen configureren](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
+      + [Objectstatussen maken en beheren](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [Standaardinstellingen begrijpen](administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [Een uitgiftestatus maken](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
       + [Status van systeembrede uitgaven instellen](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+      + [Planningen maken en beheren](administration-and-setup/configure-system-defaults/create-and-manage-schedules.md)
       + [Uitgiftesegmenten maken en beheren](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [Typen problemen en terminologie aanpassen](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Algemene voorkeuren voor standaardproblemen configureren](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [Algemene standaardprojectinstellingen configureren](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
 
    + Lay-outsjablonen {#layout-templates}
       + [Wat zijn lay-outsjablonen?](administration-and-setup/layout-templates/what-are-layout-templates.md)
