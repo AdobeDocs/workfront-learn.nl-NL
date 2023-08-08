@@ -11,9 +11,9 @@ thumbnail: 335221.jpeg
 jira: KT-8958
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 0%
 In deze video leert u hoe u:
 
 * Creeer een verzoekrij door een project eerst te creëren
-* Een aanvraagwachtrij instellen
 * De details van de wachtrij met aanvragen instellen
+* De wachtrij live laten gaan
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
@@ -34,14 +34,10 @@ Neem even de tijd om de informatie te bekijken die je zojuist hebt gepresenteerd
 
 **Vraag:** Welke van het volgende moet zijn op zijn plaats opdat een Rij van het Verzoek om live te gaan? (selecteer alles wat van toepassing is)
 
-1. Projectstatus = huidige
+1. Projectstatus = Huidig
 1. &quot;Issue&quot; van het type request is geselecteerd
 1. &quot;Publiceren als wachtrij voor Help-aanvragen&quot; is geselecteerd
 1. Projectstatus = Huidige of Planning
 
-**Antwoord:** 1) De status van het project = huidig en 3) &quot;publiceer als de Rij van het Verzoek van de Hulp&quot;wordt geselecteerd
-
-**Vraag:** Verzoeken kunnen via e-mail worden ingediend. Waar of onwaar?
-
-**Antwoord:** Waar
+**Antwoord:** 1) De status van het project = Huidige en 3) &quot;publiceer als de Rij van het Verzoek van de Hulp&quot;wordt geselecteerd
 
