@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
+source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
 workflow-type: tm+mt
-source-wordcount: '2352'
+source-wordcount: '2357'
 ht-degree: 0%
 
 ---
@@ -600,6 +600,7 @@ ht-degree: 0%
       + [Bordkolommen beheren](boards/manage-board-columns.md)
       + [Kaarten aan een bord toevoegen](boards/add-cards-to-a-board.md)
       + [Kaarten op de kaart beheren](boards/manage-cards-on-a-board.md)
+      + [Kaarten op een bord aanpassen](boards/customize-cards-on-a-board.md)
       + [Teamleden toevoegen en beheren voor een board](boards/add-and-manage-team-members-for-a-board.md)
       + [Kolominstellingen toevoegen en bewerken op een board](boards/add-and-edit-column-settings-on-a-board.md)
       + [Codes voor kaarten toevoegen en beheren](boards/add-and-manage-tags-for-cards.md)
