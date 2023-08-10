@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -32,13 +32,13 @@ In deze video leert u hoe u:
 
 De [!UICONTROL Options] de sectie kan door de systeembeheerder worden verborgen als zij u de gebreken willen gebruiken zij hebben geplaatst. Als de [!UICONTROL Options] wordt weergegeven, hier wat de opties betekenen:
 
-**Behoud de oorspronkelijke kwestie en koppel zijn resolutie aan dit project.**
+**Behoud de oorspronkelijke kwestie en koppel zijn resolutie aan dit project**
 
 Als deze optie is geselecteerd, wordt het oorspronkelijke probleem gemarkeerd als opgelost wanneer het project is voltooid. Als deze optie **niet** geselecteerd, wordt de oorspronkelijke uitgave verwijderd bij het maken van het project.
 
 **Toestaan (naam van gebruiker) dat toegang tot dit project wordt verkregen**
 
-Als deze optie is geselecteerd, krijgt de persoon die het verzoek heeft ingediend (of namens wie het verzoek is ingediend) automatisch toegangsrechten voor het nieuwe project nadat het is gemaakt. Als deze optie **niet** worden geselecteerd, krijgen zij geen rechten.
+Als deze optie is geselecteerd, krijgt de persoon die het verzoek heeft ingediend (of namens wie het verzoek is ingediend) automatisch toegangsrechten voor het nieuwe project nadat het is gemaakt. Als deze optie **niet** worden geselecteerd, krijgen zij niet automatisch rechten.
 
 ![Een afbeelding van een projectscherm met conversieopties](assets/conversion-options.png)
 
