@@ -3,7 +3,7 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
 source-wordcount: '2357'
 ht-degree: 0%
@@ -138,18 +138,12 @@ ht-degree: 0%
       + [Niet-gepland werk verwerken](manage-work/issues-requests/handle-unplanned-work.md)
       + [Een aanvraag indienen](manage-work/issues-requests/make-a-request.md)
       + [Zoeken naar aanvragen](manage-work/issues-requests/find-requests.md)
-      + [Aanvragen beheren](manage-work/issues-requests/manage-incoming-requests.md)
       + [Uitgiftetoewijzingen beheren](manage-work/issues-requests/manage-issue-assignments.md)
       + [Een verzoek bijwerken](manage-work/issues-requests/update-a-request.md)
-      + [Een project maken op basis van een aanvraag](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Uitgaven converteren naar andere werkitems](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Een uitgave/verzoek omzetten in een project](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Een uitgave/verzoek omzetten in een taak](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Digitale werkzaamheden beoordelen en goedkeuren](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Verslag over kwesties](manage-work/issues-requests/report-on-issues.md)
-
-   + Portfolio {#portfolios}
-      + [Overzicht van portefeuilles](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Inleiding tot de Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Prioriteit geven aan en werk beheren met portfolio&#39;s](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Wachtrijen aanvragen {#request-queues}
       + [Vragenrijen begrijpen](manage-work/request-queues/understand-request-queues.md)
@@ -157,6 +151,11 @@ ht-degree: 0%
       + [Een aanvraagwachtrij maken](manage-work/request-queues/create-a-request-queue.md)
       + [Een aanvraagstroom maken](manage-work/request-queues/create-a-request-flow.md)
       + [Antwoorden op veelgestelde vragen over aanvraagwachtrijen](manage-work/request-queues/request-queue-faq.md)
+
+   + Portfolio {#portfolios}
+      + [Overzicht van portefeuilles](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Inleiding tot de Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Prioriteit geven aan en werk beheren met portfolio&#39;s](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Goedkeuringsprocessen en mijlpaden {#approval-processes-and-milestone-paths}
       + [Een goedkeuringsproces voor eenmalig gebruik maken](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)

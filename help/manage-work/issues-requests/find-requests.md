@@ -4,24 +4,32 @@ description: Leer hoe u dashboards kunt gebruiken, [!UICONTROL Home]de [!UICONTR
 activity: use
 team: Technical Marketing
 feature: Work Management
-thumbnail: find-requests.jpeg
+thumbnail: 3422686.jpg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
+last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
 # Zoeken naar aanvragen
 
-Waar verzoeken kunnen variëren, dus praat met uw interne [!DNL  Workfront] team om te weten te komen hoe u verzoekopname zult leiden. Sommige plaatsen in [!DNL Workfront] waar u verzoeken kunt vinden omvatten:
+In deze video leert u hoe u aanvragen kunt vinden waaraan u bent toegewezen, aanvragen die u hebt gemaakt en verzoeken die u beheert.
 
-* **Dashboards:** Veel [!DNL Workfront] klanten schrijven douanerapporten die inkomende verzoeken tonen, verzoeken volgen die in projecten, en meer zijn omgezet. Deze afzonderlijke rapporten worden samengevoegd tot een dashboard, zodat alles gemakkelijk en snel kan worden bekeken. [!DNL Workfront] Deze methode voor aanvraagbeheer wordt aanbevolen, omdat deze aan de behoeften van uw organisatie kan worden aangepast.
-* **[!UICONTROL Home]:** Verzoeken worden als een kwestie geëtiketteerd, aangezien zo het achterste eind van [!DNL Workfront] behandelt een verzoek dat door een verzoekrij wordt gemaakt.
-* **[!UICONTROL Requests area]**: De [!UICONTROL Submitted] Deze pagina bevat standaard de verzoeken waartoe u toegang hebt, die nog geopend of onopgelost zijn. Wijzig de [!UICONTROL Filter] om alle ingediende verzoeken te zien hebt u toegang tot, enkel uw verzoeken, of enkel uw open verzoeken. Als u snel de details van een aanvraag wilt zien, selecteert u deze in de lijst en opent u het deelvenster Samenvatting.
-* **[!UICONTROL Teams]pagina:** Wanneer de verzoeken aan een team worden verpletterd, verschijnen zij op [!UICONTROL Teams] pagina in de [!UICONTROL Team Requests] sectie. Van daar, kunnen de teamleden het werk zelf-toewijzen of een teamlood kan het werk toewijzen.
+U leert deze verzoeken op de volgende plaatsen vinden:
+
+* Workfront [!UICONTROL Home]
+* De [!UICONTROL Requests] gebied
+* De [!UICONTROL Teams] page
+* In een aangepast dashboard
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
+
+Als u wilt leren hoe u aangepaste rapporten maakt en deze in een dashboard plaatst, raadpleegt u de [Basiscursus voor het maken van rapporten](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)
