@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
 workflow-type: tm+mt
-source-wordcount: '2357'
+source-wordcount: '2361'
 ht-degree: 0%
 
 ---
@@ -137,7 +137,7 @@ ht-degree: 0%
    + Problemen/verzoeken {#issues-requests}
       + [Niet-gepland werk verwerken](manage-work/issues-requests/handle-unplanned-work.md)
       + [Een aanvraag indienen](manage-work/issues-requests/make-a-request.md)
-      + [Zoeken naar aanvragen](manage-work/issues-requests/find-requests.md)
+      + [Verzoeken zoeken en beheren](manage-work/issues-requests/find-requests.md)
       + [Uitgiftetoewijzingen beheren](manage-work/issues-requests/manage-issue-assignments.md)
       + [Een verzoek bijwerken](manage-work/issues-requests/update-a-request.md)
       + [Een uitgave/verzoek omzetten in een project](manage-work/issues-requests/create-a-project-from-a-request.md)
@@ -152,7 +152,7 @@ ht-degree: 0%
       + [Een aanvraagstroom maken](manage-work/request-queues/create-a-request-flow.md)
       + [Antwoorden op veelgestelde vragen over aanvraagwachtrijen](manage-work/request-queues/request-queue-faq.md)
 
-   + Portfolio {#portfolios}
+   + Portfolio&#39;s {#portfolios}
       + [Overzicht van portefeuilles](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Inleiding tot de Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
       + [Prioriteit geven aan en werk beheren met portfolio&#39;s](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
@@ -619,7 +619,7 @@ ht-degree: 0%
    + [Licenties en toegangsniveaus](best-practices/licenses-access-levels-bp.md)
    + [Aan boord nemen en adoptie](best-practices/onboarding-adoption-bp.md)
    + [Organisatie-eenheden](best-practices/organizational-units-bp.md)
-   + [Portfolio en programma&#39;s](best-practices/portfolios-programs-bp.md)
+   + [Portfolio&#39;s en programma&#39;s](best-practices/portfolios-programs-bp.md)
    + [Voorvertoning van sandbox](best-practices/preview-sandbox-bp.md)
    + [Voorkeuren voor projecten, taken en uitgaven](best-practices/project-task-issue-preferences-bp.md)
    + [Projectsjablonen](best-practices/project-templates-bp.md)
@@ -647,6 +647,7 @@ ht-degree: 0%
 + [Wat is de Kanban-methode en hoe werkt die?](agile/what-is-the-kanban-methodology.md)
 + [Overschakelen op Agile](agile/transitioning-to-agile.md)
 + [Workfront voor leidinggevenden](workfront-for-executives/workfront-for-executives.md)
++ [Aanvragen beheren](manage-work/issues-requests/manage-incoming-requests.md)
 
 
 
