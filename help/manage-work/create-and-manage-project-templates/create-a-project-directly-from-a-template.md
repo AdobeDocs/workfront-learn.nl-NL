@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -29,8 +29,11 @@ In het venster Details kunt u de instellingen van het nieuwe project wijzigen.
 
 >[!NOTE]
 >
->Als u een project wilt maken met deze methode, hebt u toegang nodig tot het gedeelte Sjablonen van Workfront. Als u tot malplaatjes niet kunt toegang hebben, kunt u een malplaatje nog gebruiken om een project van het gebied van Projecten tot stand te brengen of wanneer het omzetten van een kwestie/taak.
+>Als u een project wilt maken met deze methode, hebt u toegang nodig tot het gedeelte Sjablonen van Workfront. Als u tot malplaatjes niet kunt toegang hebben, kunt u een malplaatje nog gebruiken om een project van het gebied van Projecten tot stand te brengen of wanneer het omzetten van een kwestie/een taak.
 
-**Pro-Tip**: Als er een sjabloon is die u vaak gebruikt, maakt u deze een favoriet! De sjabloon wordt weergegeven in het menu Nieuw project en wordt ook weergegeven onder Favorieten en Recenten op de navigatiebalk.
+>[!TIP]
+>
+>Als er een sjabloon is die u vaak gebruikt, maakt u deze een favoriet! U zult het malplaatje zien in het Nieuwe menu van het Project, naast het verschijnt onder het menu van Favorieten in de navigatiebar.
+
 
 ![Nieuwe favoriete projectsjablonen](assets/direct-template-03.png)
