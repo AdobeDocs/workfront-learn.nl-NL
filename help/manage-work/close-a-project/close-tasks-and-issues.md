@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10133
 exl-id: 20b8d1f7-01ba-4536-aa7b-3d318d9d86c0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a63de5541cbe92d1dbea286caf5465df0bbdce9a
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,8 @@ ht-degree: 0%
 
 Een van de eerste stappen om een [!DNL Workfront] Het project zorgt ervoor dat alle taken en kwesties een status van Voltooid hebben, of een status die gelijkwaardig is.
 
-Begin met de takenlijst en selecteer een [!UICONTROL View] die de [!UICONTROL Percent Complete] of de [!UICONTROL Status] kolom of beide. Met een snelle scan in de takenlijst kunt u bepalen welke taken geen statuswijziging hebben ondergaan.
+Als de [!UICONTROL Percent Complete] in de projectheader wordt 100% getoond u weet dat al uw taken duidelijk als 100% volledig zijn. Een taak die echter [!UICONTROL Complete - Pending Approval] zal nog steeds 100% lezen, dus vergeet niet om die te controleren. Zie [Goedkeuring voltooien](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals.html) voor alle tips over goedkeuringen.
 
-![Project weergeven [!UICONTROL Percent Complete] kolom](assets/planner-fund-close-tasks-and-issues.png)
+Als u onvolledige problemen hebt, zelfs als deze nog moeten worden goedgekeurd, staat naast het tabblad Problemen een nummer dat aangeeft hoeveel problemen er zijn. Als het getal nul is, heb je geen onvolledige problemen.
 
-Niet elke organisatie gebruikt [!DNL Workfront's] de functionaliteit van kwesties om problemen op te nemen of op te lossen, veranderingsorden, enz., die tijdens het project ontstonden. Maar als je dat doet, ga dan over naar de [!UICONTROL Issues] en zorgt u ervoor dat alle problemen zijn opgelost.
-
-<!---
-learn more
-Update task status
-Issue statuses
---->
+![Project weergeven [!UICONTROL Percent Complete] en open kwesties](assets/close-tasks-and-issues.png)
