@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
+source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '2361'
+source-wordcount: '2359'
 ht-degree: 0%
 
 ---
@@ -154,8 +154,8 @@ ht-degree: 0%
 
    + Portfolio&#39;s {#portfolios}
       + [Overzicht van portefeuilles](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [Inleiding tot de Business Case](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [Prioriteit geven aan en werk beheren met portfolio&#39;s](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [Begrijp het [!UICONTROL Business Case]](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [Gebruik de [!UICONTROL Portfolio Optimizer] prioriteit geven aan en werk beheren](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Goedkeuringsprocessen en mijlpaden {#approval-processes-and-milestone-paths}
       + [Een goedkeuringsproces voor eenmalig gebruik maken](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
