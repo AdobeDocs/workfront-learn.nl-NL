@@ -10,9 +10,9 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -21,28 +21,29 @@ ht-degree: 0%
 
 Het mooie aan Workfront is dat het zo aanpasbaar is. Het uitdagende aan Workfront is dat het zo aanpasbaar is. En als u een nieuw systeem, of een groep, beheerder bent die een bestaand exemplaar van Workfront overneemt, kan het overweldigend zijn om te weten te komen hoe het oorspronkelijk werd gevormd en opstelling.
 
-Via onze controlelijst voor overgeërfde instanties kunt u echter alles leren wat u over uw instantie moet weten.\
+Via onze controlelijst voor overgeërfde instanties kunt u echter alles leren wat u over uw instantie moet weten.
+
+![Afbeelding met overerfde controlelijst voor instanties](assets/wf-inherited-instance-image.png)
+<br></br>
+
+In de controlelijst Overerfde instantie controleert u een uitgebreide reeks vragen, bronnen en koppelingen om een duidelijk inzicht te krijgen in de configuratie ervan.
+
+De controlelijst is gemaakt als een Workfront-blauwdruk en als een downloadbare Excel-spreadsheet. We raden u aan om uw werk in Workfront te beheren en te documenteren met de blauwdruk.
+
+Zowel worden de Vervaging als spreadsheet georganiseerd door onderwerp, eerder dan door chronologie zodat kunt u op de manier vooruitgang boeken die voor u en uw organisatie het meest zinvol maakt. . De opgegeven duur is slechts een voorbeeld en u moet deze aanpassen aan uw specifieke behoeften. Dat hoeft niet allemaal in één vergadering te gebeuren!
+
+Waar mogelijk, moedigen wij u aan om met anderen in uw organisatie te werken om deze elementen te herzien en te documenteren, en uw documentatie bij te houden als er om het even welke belangrijke veranderingen zijn. Toekomstige beheerders in uw exemplaar zullen u danken!
+
+* Als u de vervaging wilt downloaden, navigeert u naar het hoofdmenu in uw eigen Workfront-exemplaar en selecteert u Vervagen. Zoek de blauwdruk &quot;Inherited Instance Basics&quot; | Checklist&quot; en klik op Installeren. Kies uw productie of zandbakmilieu en blijf vormen. Meer informatie over het installeren en configureren van blauwdrukken vindt u in [hier](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+
+* Als u de Excel-controlelijst wilt downloaden, klikt u op [hier](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+
+Of u de Vervaging of checklist van Excel gebruikt, kunt u aan dit proces in drie zeer belangrijke fasen denken - Ontdekking, Controle, en Documentatie. Hieronder vindt u beschrijvingen en ideale resultaten.
+
 <br>
 </br>
-<a href="assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">De controlelijst voor overerfde instanties downloaden </span>
-</a>
 
-![Afbeelding met overerfde controlelijst voor instanties](assets/wf-inherited-instance-imagel.jpg)
-
-In deze controlelijst vindt u een uitgebreide reeks vragen, bronnen en koppelingen voor een duidelijk inzicht in de configuratie.
-
-Bovendien hebben wij drie zeer belangrijke fasen geschetst u zult door - Ontdekking, Controle, en Documentatie - met voorgestelde duur. U kunt deze instellingen aanpassen aan uw specifieke behoeften en u hoeft ze niet allemaal in één vergadering uit te voeren!
-
-De lusjes in spreadsheet worden georganiseerd door onderwerp, eerder dan door chronologie zodat kunt u door het document op de manier vooruit gaan die voor u en uw organisatie het meest logisch maakt.
-
-Waar mogelijk, moedigen wij u aan om met anderen in uw organisatie samen te werken om deze elementen te herzien en te documenteren, en dit document bijgewerkt te houden als er om het even welke belangrijke veranderingen zijn. Toekomstige beheerders in uw exemplaar zullen u danken!
-
-
-<br>
-</br>
-
-## Fase 1: Leren en detecteren
+## Fase 1: Leren en ontdekken
 
 <b>Voorgesteld tijdsbestek: 4 weken</b>
 
@@ -97,6 +98,7 @@ Door door elke fase, en met de hulp van de Geërfde checklist van de Instantie t
 </br>
 
 Hieronder vindt u aanvullende informatie:
+* [Webinar: Tips voor het overnemen van een overgeërfde instantie](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
 * [Doelstellingen voor uw Workfront-implementatie definiëren](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
-* [Blogbericht: Executive Sponsoring en waarde voor leiderschap](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
+* [Blogbericht: Executive Sponsorship and Value to LeaBlades](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
 * [Blogbericht: Inleiding tot Adobe Workfront KPI&#39;s](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
