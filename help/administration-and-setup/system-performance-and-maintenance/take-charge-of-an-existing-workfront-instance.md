@@ -10,7 +10,7 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
+source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -30,13 +30,13 @@ In de controlelijst Overerfde instantie controleert u een uitgebreide reeks vrag
 
 De controlelijst is gemaakt als een Workfront-blauwdruk en als een downloadbare Excel-spreadsheet. We raden u aan om uw werk in Workfront te beheren en te documenteren met de blauwdruk.
 
-Zowel worden de Vervaging als spreadsheet georganiseerd door onderwerp, eerder dan door chronologie zodat kunt u op de manier vooruitgang boeken die voor u en uw organisatie het meest zinvol maakt. . De opgegeven duur is slechts een voorbeeld en u moet deze aanpassen aan uw specifieke behoeften. Dat hoeft niet allemaal in één vergadering te gebeuren!
+Zowel worden de Vervaging als spreadsheet georganiseerd door onderwerp, eerder dan door chronologie zodat kunt u op de manier vooruitgang boeken die voor u en uw organisatie het meest zinvol maakt. De opgegeven duur is slechts een voorbeeld en u moet deze aanpassen aan uw specifieke behoeften. Dat hoeft niet allemaal in één vergadering te gebeuren!
 
 Waar mogelijk, moedigen wij u aan om met anderen in uw organisatie te werken om deze elementen te herzien en te documenteren, en uw documentatie bij te houden als er om het even welke belangrijke veranderingen zijn. Toekomstige beheerders in uw exemplaar zullen u danken!
 
-* Als u de vervaging wilt downloaden, navigeert u naar het hoofdmenu in uw eigen Workfront-exemplaar en selecteert u Vervagen. Zoek de blauwdruk &quot;Inherited Instance Basics&quot; | Checklist&quot; en klik op Installeren. Kies uw productie of zandbakmilieu en blijf vormen. Meer informatie over het installeren en configureren van blauwdrukken vindt u in [hier](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>De blauwdruk downloaden</b>Navigeer naar het hoofdmenu in uw eigen Workfront-exemplaar en selecteer Vervagen. Zoek de blauwdruk &quot;Inherited Instance Basics&quot; | Checklist&quot; en klik op Installeren. Kies uw productie of zandbakmilieu en blijf vormen. Meer informatie over het installeren en configureren van blauwdrukken vindt u in [hier](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
 
-* Als u de Excel-controlelijst wilt downloaden, klikt u op [hier](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* <b>Excel downloaden</b> checklist, klik [hier](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
 
 Of u de Vervaging of checklist van Excel gebruikt, kunt u aan dit proces in drie zeer belangrijke fasen denken - Ontdekking, Controle, en Documentatie. Hieronder vindt u beschrijvingen en ideale resultaten.
 
