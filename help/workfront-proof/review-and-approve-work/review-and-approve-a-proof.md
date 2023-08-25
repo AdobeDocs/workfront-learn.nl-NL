@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: cbeb3387107da639899ab22e4372200356551154
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Voordat u begint met het controleren van een proefdruk, moet u weten wat van u w
 
 Als redacteur van het exemplaar, zou uw nadruk de proef op grammaticale fouten en spelfouten kunnen herzien. Marketing- en creatieve teams kunnen zich richten op het ontwerp van de bedrijfsmiddelen en ervoor zorgen dat bedrijfsbranding wordt gevolgd. Juridische teams kunnen ervoor zorgen dat de formulering van een dienstencontract luchtdicht is. En een projectmanager zou kunnen ervoor zorgen de inhoud die wordt herzien voldoet aan de intentie en de doelstellingen van het project het met verbonden is.
 
-U wordt misschien ook gevraagd om de proefdruk goed te keuren. Als u een proefdruk goedkeurt, zegt u: &quot;Dit werk is oké en klaar om te gaan.&quot; Of misschien moet je zeggen: &quot;Dit werk moet gewijzigd worden, stuur het terug voor herzieningen.&quot;
+U wordt misschien ook gevraagd om de proefdruk goed te keuren. Als u een proefdruk goedkeurt, zegt u: &quot;Dit werk is oké en klaar om te gaan.&quot; Of misschien moet je zeggen: &quot;Dit werk moet gewijzigd worden, stuur het terug voor revisies.&quot;
 
-Als u eenmaal weet wat er wordt verwacht, kunt u beginnen met het controleren van een proefdruk.
+Als u eenmaal weet wat er wordt verwacht, kunt u een proefdruk controleren.
 
 ## Een bewijs ontvangen om te controleren
 
@@ -43,7 +43,7 @@ De [!UICONTROL New Proof] e - mail bevat ook essentiële informatie over het bew
 * Met het versienummer kunt u zien naar welke versie van de proefdruk u gaat kijken.
 * En het belangrijkste is dat de deadline op twee plaatsen in de e-mail verschijnt: vlak boven de sectie met de proefdrukdetails en in de grijze balk voor de werkstroomfase waarin u werkt.
 
-Als u klaar bent om de revisie te starten, hoeft u alleen maar op blauw te klikken [!UICONTROL Go to proof] en het bestand wordt automatisch geopend in [!DNL Workfront’s] viewer controleren.
+Als u klaar bent om de revisie te starten, hoeft u alleen maar op blauw te klikken [!UICONTROL Go to proof] en het bestand wordt automatisch geopend in het dialoogvenster [!DNL Workfront] viewer controleren.
 
 ### Een proefdruk openen vanuit [!UICONTROL Home]
 
@@ -51,9 +51,9 @@ Als u werkt in [!DNL Workfront] en u bent gevraagd een proefdruk goed te keuren,
 
 ![Een afbeelding van [!DNL Workfront] [!UICONTROL Home] met de [!UICONTROL Approvals] geactiveerd en er is een proefdruk geselecteerd in de lijst.](assets/open-proof-from-home.png)
 
-Het is belangrijk om te weten dat proefdrukken worden weergegeven in [!DNL Workfront] [!UICONTROL Home] alleen als u deze wilt goedkeuren. Als u zojuist alleen de proefdruk hebt gecontroleerd, wordt deze niet weergegeven in [!DNL Workfront] [!UICONTROL Home] wanneer u [!UICONTROL Approvals]in de filterlijst.
+Het is belangrijk om te weten dat proefdrukken worden weergegeven in [!DNL Workfront] [!UICONTROL Home] alleen als u deze wilt goedkeuren. Als u alleen de proefdruk wilt controleren, verschijnt deze niet in [!DNL Workfront] [!UICONTROL Home] wanneer u [!UICONTROL Approvals]in de filterlijst.
 
-Selecteer de proefdrukgoedkeuring in de [!UICONTROL Work List]klikt u op de knop [!UICONTROL Go to Proof] koppeling gebruiken om het bestand te openen in de proefdrukviewer.
+Selecteer de proefdrukgoedkeuring in de [!UICONTROL Work List]en klik vervolgens op de knop [!UICONTROL Go to Proof] koppeling gebruiken om het bestand te openen in de proefdrukviewer.
 
 Afhankelijk van de proefdruk- en projectworkflows van uw organisatie ziet u mogelijk een taaktoewijzing in [!DNL Workfront] [!UICONTROL Home] in plaats van een verzoek om goedkeuring als bewijs. In dit geval opent u de proefdruk via het dialoogvenster [!UICONTROL Documents] van de taak zelf (zie hieronder voor instructies).
 
