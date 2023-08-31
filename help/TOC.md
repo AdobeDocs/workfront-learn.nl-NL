@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '2359'
+source-wordcount: '2365'
 ht-degree: 0%
 
 ---
@@ -211,10 +211,6 @@ ht-degree: 0%
       + [Dashboards maken](reporting/basic-reporting/create-dashboards.md)
       + [Rapporten verzenden en delen](reporting/basic-reporting/how-to-send-and-share-reports.md)
       + [Rapportinstellingen begrijpen](reporting/basic-reporting/report-settings.md)
-      + [De kalenderinterface begrijpen](reporting/basic-reporting/tour-of-the-interface.md)
-      + [Een aangepaste kalender maken](reporting/basic-reporting/creating-custom-calendars.md)
-      + [Extra kalenderopties begrijpen](reporting/basic-reporting/additional-calendar-options.md)
-      + [Uw beurt om een kalender te maken](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Tussentijdse rapportage {#intermediate-reporting}
       + [Filters maken met jokertekens op basis van gebruiker](reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
@@ -233,6 +229,12 @@ ht-degree: 0%
       + [Geavanceerd rapporteringsdeel 1](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [Geavanceerd rapportagedeel 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [Geavanceerd rapporteringsdeel 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
+
+   + Kalenderrapporten {#calendar-reports}
+      + [Begrijp de interface van het kalenderrapport](reporting/basic-reporting/tour-of-the-interface.md)
+      + [Een aangepast kalenderrapport maken](reporting/basic-reporting/creating-custom-calendars.md)
+      + [Extra opties voor kalenderrapporten begrijpen](reporting/basic-reporting/additional-calendar-options.md)
+      + [Uw beurt om een kalenderrapport te creëren](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Verbeterde analysemogelijkheden {#enhanced-analytics}
       + [Een ogenblik met Product over [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
@@ -562,10 +564,10 @@ ht-degree: 0%
 
    + Merk Connect-gebruiker {#brand-connect}
       + [Begrijpen [!UICONTROL Brand Connect] als gebruiker](workfront-dam/brand-connect-user/brand-connect-introduction.md)
+      + [Navigatie en zoeken als gebruiker begrijpen](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [Begrijpen [!UICONTROL Brand Connect] meldingen](workfront-dam/brand-connect-user/brand-connect-notifications.md)
       + [Downloaden en delen als gebruiker begrijpen](workfront-dam/brand-connect-user/brand-connect-downloading-and-sharing.md)
       + [Lichtbakken als gebruiker begrijpen](workfront-dam/brand-connect-user/brand-connect-lightboxes.md)
-      + [Navigatie en zoeken als gebruiker begrijpen](workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [Werken met elementen als gebruiker](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Home {#home}

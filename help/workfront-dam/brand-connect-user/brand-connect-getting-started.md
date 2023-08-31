@@ -1,5 +1,5 @@
 ---
-title: Merk Connect in [!UICONTROL Workfront DAM] Uitgelicht
+title: Navigatie en zoeken als gebruiker begrijpen
 description: Meer informatie over wat het merk Connect in [!UICONTROL Workfront DAM] is en hoe te om het te navigeren.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
 
-# Merk verbinden: aan de slag
+# Merk Connect: navigatie en zoeken als gebruiker begrijpen
 
 In deze video leert u:
 
@@ -43,7 +43,7 @@ Als u een gedeeltelijke overeenkomst wilt zoeken, voegt u een sterretje toe aan 
 
 ### AND, operator
 
-Als u resultaten wilt zoeken die meerdere zoektermen bevatten, voert u AND tussen de woorden in. De woorden staan in willekeurige volgorde. Wanneer u in alle velden zoekt, zijn beide woorden mogelijk niet in hetzelfde veld aanwezig. Parijs EN toren zullen bijvoorbeeld middelen vinden die beide woorden in een van de velden hebben.
+Als u resultaten wilt zoeken die meerdere zoektermen bevatten, voert u AND tussen de woorden in. De woorden kunnen in om het even welke orde worden gevonden. Wanneer u in alle velden zoekt, zijn beide woorden mogelijk niet in hetzelfde veld aanwezig. Parijs EN toren zullen bijvoorbeeld middelen vinden die beide woorden in een van de velden hebben.
 
 ### OR, operator
 
@@ -51,7 +51,7 @@ Gebruik de operator OR om te zoeken naar elementen die een van de zoektermen bev
 
 ### Woorden
 
-Als u een exacte woordgroep wilt zoeken, gebruikt u dubbele aanhalingstekens om de woorden. Alle woorden worden op volgorde gevonden. Met &quot;Eiffeltoren&quot; vindt u deze woorden bijvoorbeeld in de exacte volgorde.
+Als u een exacte woordgroep wilt zoeken, gebruikt u dubbele aanhalingstekens om de woorden. Alle woorden worden samen en op volgorde gevonden. Met &quot;Eiffeltoren&quot; vindt u deze woorden bijvoorbeeld in de exacte volgorde.
 
 ### Negatieve operator
 
@@ -59,14 +59,14 @@ Als u een woord wilt uitsluiten van de zoekresultaten, plaatst u een minteken (-
 
 ### operator voor leeg veld
 
-Als u elementen wilt zoeken die geen informatie bevatten in een specifiek metagegevensveld, voert u het veld dat u wilt zoeken in deze indeling in: ?[xxxxx]. Als u bijvoorbeeld elementen wilt zoeken waaraan geen trefwoorden zijn toegewezen, voert u in?[trefwoord] in het zoekveld.
+Als u elementen wilt zoeken die geen informatie bevatten in een specifiek metagegevensveld, voert u het veld dat u wilt zoeken in de volgende indeling in: ?[xxxxx]. Bijvoorbeeld, als u activa wilt vinden die geen toegewezen sleutelwoorden hebben, ga binnen?[trefwoord] in het zoekveld.
 
 ## Handtekeningrichtlijnen
 
 De richtlijnen van het merk zijn een reeks regels die verklaren hoe het merk van uw organisatie werkt. Ook genoemd merkstandaarden, een stijlgids, een merkboek, of merkidentiteitsgidsen, zouden deze richtlijnen kunnen omvatten:
 
 * Een overzicht van de geschiedenis, visie, persoonlijkheid en toon van uw merk.
-* De gebruiksvoorwaarden en -regels van het bedrijfslogo.
+* De dodes en niet van het bedrijfslogo.
 * Voorbeelden van lettertypen die zijn goedgekeurd voor afdrukken en webgebruik.
 * Onderverdelingen van de primaire en secundaire kleuren van het bedrijf.
 * Voorbeelden van afbeeldingsstijlen en foto&#39;s die goed werken met het merk.
