@@ -13,14 +13,21 @@ hidefromtoc: true
 jira: KT-null
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 254a31d341f0b3b1ecf458cbbeddc0d6ad5c779a
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
 
 # Workfront voor leidinggevenden
+
+Als uitvoerend directeur kan Adobe Workfront:
+
+* Houd je op de hoogte van de voortgang van het werk waarover je je zorgen maakt **rapporten en dashboards**
+* Geef u een gemakkelijke manier om **communiceren met belanghebbenden van projecten met behulp van updates**
+* Geef u een gemakkelijke manier om **een werkverzoek indienen**
+* Geef je een eenvoudige manier om te zien **objecten die nog moeten worden goedgekeurd**
 
 ## Rapporten en dashboards
 
@@ -40,9 +47,9 @@ Klik op Dashboards in het menu Main in de rechterbovenhoek om het dashboards-geb
 
 Leaders hebben via de navigatie in het linkerdeelvenster toegang tot de verschillende dashboards waarover ze beschikken.
 
-![Een afbeelding van de optie Dashboards in het hoofdmenu](assets/workfront-4-executives-2.png)
+![Een afbeelding van de pagina Dashboards](assets/workfront-4-executives-2.png)
 
-* **Alle dashboards**: Toont de dashboards die u of andere gebruikers hebben gecreeerd, en die u toestemmingen aan minstens Mening hebt.
+* **Alle dashboards**: Hiermee geeft u de dashboards weer die u of andere gebruikers hebben gemaakt en die u minstens mogen weergeven.
 * **Mijn dashboards**: Hiermee geeft u de dashboards weer die u hebt gemaakt.
 * **Gedeelde dashboards**: Hiermee geeft u de dashboards weer die door andere gebruikers zijn gemaakt en met u zijn gedeeld.
 
@@ -53,6 +60,13 @@ Rapporten in Workfront kunnen uw werknemers helpen verantwoording af te leggen. 
 ![Voorbeeld van rapporten in een dashboard in Workfront ](assets/workfront-4-executives-3.png)
 
 Voorbeeld van rapporten in een dashboard in Workfront
+
+## Communiceren met belanghebbenden van projecten door updates te gebruiken
+
+Communiceer met het projectteam binnen het project zelf zodat zullen alle projectmededelingen gemakkelijk toegankelijk zijn.
+
+![Een afbeelding van de pagina Updates](assets/workfront-4-executives-4.png)
+
 
 ## Een aanvraag indienen
 
@@ -65,3 +79,10 @@ In deze video leert u hoe u:
 * Verzonden verzoeken bekijken
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+
+## Objecten die nog moeten worden goedgekeurd
+
+In [!UICONTROL Home] je kunt gemakkelijk objecten vinden die je nog moet goedkeuren.
+
+![Een afbeelding van de startpagina](assets/workfront-4-executives-5.png)
+
