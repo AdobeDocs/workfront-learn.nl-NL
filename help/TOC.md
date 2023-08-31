@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '2365'
+source-wordcount: '2369'
 ht-degree: 0%
 
 ---
@@ -165,7 +165,7 @@ ht-degree: 0%
       + [Mijlpalen toepassen](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 
    + Projectsjablonen maken en beheren {#create-and-manage-project-templates}
-      + [Een projectsjabloon maken](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Een projectsjabloon maken en leren over blauwdrukken](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [Een project rechtstreeks vanuit een sjabloon maken](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Een projectsjabloon delen](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Een bestaand project kopiëren](manage-work/manage-projects/copy-an-existing-project.md)

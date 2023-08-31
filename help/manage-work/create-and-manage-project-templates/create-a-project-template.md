@@ -1,6 +1,6 @@
 ---
-title: Een projectsjabloon maken
-description: Leer om een projectmalplaatje van kras en van een bestaand malplaatje tot stand te brengen.
+title: Een projectsjabloon maken en leren over [!UICONTROL Blueprints]
+description: Leer om een projectmalplaatje van kras en van een bestaand malplaatje te creëren, en te begrijpen hoe [!UICONTROL Blueprints] kunt u toegang geven tot een wereld van nuttige projectmalplaatjes die door de deskundigen van Workfront worden gecreeerd.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -8,17 +8,22 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 18d4628f9b614a459d2d018938b2786db760e163
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
 
-# Een projectsjabloon maken
+# Een projectsjabloon maken en leren over [!UICONTROL Blueprints]
+
+Leer om een projectmalplaatje van kras en van een bestaand malplaatje te creëren, en te begrijpen hoe [!UICONTROL Blueprints] kunt u toegang geven tot een wereld van nuttige projectmalplaatjes die door de deskundigen van Workfront worden gecreeerd.
+
+## Een projectsjabloon maken
 
 In deze video leert u hoe u:
 
@@ -29,11 +34,11 @@ In deze video leert u hoe u:
 
 ## Sjablonen gemaakt met [!UICONTROL Blueprints]
 
-Systeembeheerders kunnen [!UICONTROL Blueprints] helpen projectsjablonen maken. Met deze functie in het hoofdmenu hebt u toegang tot vooraf gebouwde gebruiksklare sjablonen die zijn gericht op een afdeling en een specifiek ontwikkelingsniveau. Deze malplaatjes geven gebruikers een hoofdbegin aan herhaalbare projectverwezenlijking en de hulp handhaaft consistentie over projecten gelijkend in werkingsgebied.
+Workfront-gebruikers kunnen [!UICONTROL Blueprints] helpen projectsjablonen maken. Met deze functie in het hoofdmenu hebt u toegang tot vooraf gebouwde gebruiksklare sjablonen die zijn gericht op een afdeling en een specifiek ontwikkelingsniveau. Deze malplaatjes geven gebruikers een hoofdbegin aan herhaalbare projectverwezenlijking en de hulp handhaaft consistentie over projecten gelijkend in werkingsgebied.
 
 ![Blauwdrukken in hoofdmenu](assets/pt-blueprints-01.png)
 
-Als Planner kunt u door de lijst met blauwdrukken in Workfront bladeren. U kunt een blauwdruk niet direct toepassen wanneer het creëren van een nieuw project (zoals het omzetten van een taak of een verzoek in een project). Een zeer belangrijk onderscheid tussen een blauwdruk en een projectmalplaatje is dat een blauwdruk wordt gebruikt om een malplaatje te maken, terwijl een projectmalplaatje wordt gebruikt om een project tot stand te brengen. De blauwdruk moet door een systeembeheerder worden geïnstalleerd om het overeenkomstige malplaatje te creëren.
+Elke gebruiker met licentie kan bladeren in de lijst met blauwdrukken die beschikbaar is in Workfront. U kunt een blauwdruk niet direct toepassen wanneer het creëren van een nieuw project (zoals het omzetten van een taak of een verzoek in een project). Een zeer belangrijk verschil tussen een blauwdruk en een projectmalplaatje is dat een blauwdruk wordt gebruikt om een malplaatje te maken, terwijl een malplaatje wordt gebruikt om een project tot stand te brengen. **De blauwdruk moet door een systeembeheerder worden geïnstalleerd om het overeenkomstige malplaatje te creëren.**
 
 Als u een interessante blauwdruk vindt, kunt u klikken op **[!UICONTROL Details]** voor meer informatie.
 
