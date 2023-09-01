@@ -1,5 +1,5 @@
 ---
-title: Uw beurt om een kalender te maken
+title: Uw beurt om een kalenderrapport te creëren
 description: Leer hoe u een agenda voor klanten maakt waarin uw onvolledige taken en problemen worden weergegeven.
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ level: Beginner
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
 
-# Uw beurt om een kalender te maken
+# Uw beurt om een kalenderrapport te creëren
 
 In deze activiteit zult u ervaring op het creëren van uw eigen kalender krijgen.
 
