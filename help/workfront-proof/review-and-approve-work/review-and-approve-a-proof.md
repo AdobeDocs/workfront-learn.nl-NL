@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: cbeb3387107da639899ab22e4372200356551154
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 Voordat u begint met het controleren van een proefdruk, moet u weten wat van u wordt verwacht. Wat is uw rol in het testwerkschema? De proefdruk controleren, goedkeuren of beide?
 
-Als redacteur van het exemplaar, zou uw nadruk de proef op grammaticale fouten en spelfouten kunnen herzien. Marketing- en creatieve teams kunnen zich richten op het ontwerp van de bedrijfsmiddelen en ervoor zorgen dat bedrijfsbranding wordt gevolgd. Juridische teams kunnen ervoor zorgen dat de formulering van een dienstencontract luchtdicht is. En een projectmanager zou kunnen ervoor zorgen de inhoud die wordt herzien voldoet aan de intentie en de doelstellingen van het project het met verbonden is.
+Als redacteur van het exemplaar, zou uw nadruk de proef op grammaticale fouten en spelfouten kunnen herzien. Marketing- en creatieve teams kunnen zich richten op het ontwerp van het bedrijfsmiddel en ervoor zorgen dat bedrijfsbranding wordt gevolgd. Juridische teams kunnen ervoor zorgen dat de formulering van een dienstencontract luchtdicht is. En een projectmanager zou kunnen ervoor zorgen de inhoud die aan de bedoeling en de doelstellingen van het project wordt herzien het met verbonden is.
 
-U wordt misschien ook gevraagd om de proefdruk goed te keuren. Als u een proefdruk goedkeurt, zegt u: &quot;Dit werk is oké en klaar om te gaan.&quot; Of misschien moet je zeggen: &quot;Dit werk moet gewijzigd worden, stuur het terug voor revisies.&quot;
+U wordt misschien ook gevraagd om de proefdruk goed te keuren. Als je een bewijs goedkeurt, zeg je: &quot;Dit werk is oké en klaar om te gaan.&quot; Of misschien moet je zeggen: &quot;Dit werk moet gewijzigd worden, stuur het terug voor revisies.&quot;
 
-Als u eenmaal weet wat er wordt verwacht, kunt u een proefdruk controleren.
+Zodra u weet wat wordt verwacht, kunt u beginnen met het herzien van een proef.
 
 ## Een bewijs ontvangen om te controleren
 
@@ -39,19 +39,19 @@ Deze proefkoppeling is uniek voor u. Als u de koppeling deelt met iemand anders,
 De [!UICONTROL New Proof] e - mail bevat ook essentiële informatie over het bewijs :
 
 * De naam van de proefdruk is de onderwerpregel van de e-mail.
-* Met de miniatuur kunt u snel zien wat u gaat bekijken.
-* Met het versienummer kunt u zien naar welke versie van de proefdruk u gaat kijken.
-* En het belangrijkste is dat de deadline op twee plaatsen in de e-mail verschijnt: vlak boven de sectie met de proefdrukdetails en in de grijze balk voor de werkstroomfase waarin u werkt.
+* Met de miniatuur kunt u snel bekijken wat u gaat bekijken.
+* Het versienummer laat u weten welke versie van de proefdruk u zult bekijken.
+* En, het belangrijkst, verschijnt de deadline twee plaatsen in e-mail-recht boven de sectie van de proefdrukdetails en in de grijze bar voor het werkschemastadium u deel van uitmaakt.
 
 Als u klaar bent om de revisie te starten, hoeft u alleen maar op blauw te klikken [!UICONTROL Go to proof] en het bestand wordt automatisch geopend in het dialoogvenster [!DNL Workfront] viewer controleren.
 
 ### Een proefdruk openen vanuit [!UICONTROL Home]
 
-Als u werkt in [!DNL Workfront] en u bent gevraagd een proefdruk goed te keuren, vindt u een toewijzing in het dialoogvenster [!UICONTROL Work List] van [!DNL Workfront] [!UICONTROL Home]. U kunt het beste alleen selecteren [!UICONTROL Approvals] van de [!UICONTROL Filter], dus u kunt zich op dat type werk concentreren.
+Als je werkt in [!DNL Workfront] en u bent gevraagd een bewijs goed te keuren, zult u een taak in vinden [!UICONTROL Work List] van [!DNL Workfront] [!UICONTROL Home]. Het is handig om alleen [!UICONTROL Approvals] van de [!UICONTROL Filter], dus u kunt zich op dat type werk concentreren.
 
 ![Een afbeelding van [!DNL Workfront] [!UICONTROL Home] met de [!UICONTROL Approvals] geactiveerd en er is een proefdruk geselecteerd in de lijst.](assets/open-proof-from-home.png)
 
-Het is belangrijk om te weten dat proefdrukken worden weergegeven in [!DNL Workfront] [!UICONTROL Home] alleen als u deze wilt goedkeuren. Als u alleen de proefdruk wilt controleren, verschijnt deze niet in [!DNL Workfront] [!UICONTROL Home] wanneer u [!UICONTROL Approvals]in de filterlijst.
+Het is belangrijk om op te merken dat de proefdrukken binnen verschijnen [!DNL Workfront] [!UICONTROL Home] alleen als u deze wilt goedkeuren. Als u alleen de proefdruk wilt controleren, verschijnt deze niet in [!DNL Workfront] [!UICONTROL Home] wanneer u [!UICONTROL Approvals]in de filterlijst.
 
 Selecteer de proefdrukgoedkeuring in de [!UICONTROL Work List]en klik vervolgens op de knop [!UICONTROL Go to Proof] koppeling gebruiken om het bestand te openen in de proefdrukviewer.
 
@@ -70,11 +70,21 @@ Als u normaal met projecten, taken of kwesties in werkt [!DNL Workfront], kunt u
 3. De proefdruk zoeken in het dialoogvenster [!UICONTROL Documents] lijst.
 4. Klik op de knop [!UICONTROL Open Proof] koppeling gebruiken om de proefdrukviewer te openen.
 
+## Hoe een bewijs goed te keuren
+
+Nadat u een proef hebt geopend zult u een **Beslissing geven** knop bovenaan, naast **Opmerking toevoegen**. Als u geen fiatteur bent voor deze proef zult u deze knoop niet zien.
+
+![Een afbeelding van de eerste knop Beslissen maken.](assets/make-decision-1.png)
+
+Als u klaar bent om een beslissing te nemen, klikt u op de knop **Beslissing geven** om uw beslissingsopties te bekijken. Selecteer uw keuze en klik op de andere **Beslissing geven** hieronder.
+
+![Een afbeelding van de tweede knop Beslissen maken.](assets/make-decision-2.png)
+
 ## Een bewijs controleren en goedkeuren
 
 In deze video leert u hoe u:
 
-* Weet wat van u wordt verwacht bij het controleren van een proefdruk
+* Weet wat van u wordt verwacht wanneer het herzien van een bewijs
 * Opmerkingen maken over een proefdruk
 * Markeringen gebruiken om wijzigingen aan te geven die nodig zijn op een proefdruk
 * Reageren op een proefdrukopmerking

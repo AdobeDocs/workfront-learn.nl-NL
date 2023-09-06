@@ -10,9 +10,9 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ De optie &quot;combineren&quot; is handig wanneer afzonderlijke bestanden betrek
 
 Het creatieve team heeft bijvoorbeeld een boek ontworpen. Vier ontwerpers produceerden de pagina&#39;s en bewaarde hen als individuele PDF. Als elke ontwerper deze als afzonderlijke proefdrukken uploadde, zouden de controleurs vier afzonderlijke proefdrukken hebben om te herzien. Bovendien zou het moeilijker zijn om ervoor te zorgen dat de stukjes van het boekje bij elkaar passen.
 
-Oplossing-hebben één persoon alle PDF uploadt en hen combineren in één enkel bewijs bij upload. Hierdoor kunnen revisoren het boek als geheel bekijken in plaats van losgekoppelde onderdelen.
+Oplossing-hebben één persoon alle PDF uploadt en hen combineren in één enkel bewijs bij uploaden. Hierdoor kunnen revisoren het boek als geheel bekijken in plaats van losgekoppelde onderdelen.
 
 Proefdrukken combineren:
 
@@ -39,22 +39,29 @@ Proefdrukken combineren:
 
 ![Een afbeelding van de [!UICONTROL New proof] venster met de lijst met geüploade bestanden en [!UICONTROL Single proof] gemarkeerde secties.](assets/combine-proofs.png)
 
-Zodra de proefdruk is geüpload, ziet u deze als een ZIP-bestand in het dialoogvenster [!UICONTROL Documents] tab.
+Als de proefdruk eenmaal is geüpload, ziet u deze als een ZIP-bestand in het dialoogvenster [!UICONTROL Documents] tab.
 
 Er is niets anders nodig om het gecombineerde bestand weer te geven. Alleen klikken [!UICONTROL Open Proof] zoals gewoonlijk wordt de proefdruk geopend in de proefviewer.
 
 ![Een afbeelding van de proefdrukviewer met een proefdruk van meerdere pagina&#39;s zichtbaar.](assets/combine-proofs-2.png)
 
+## Hoe zit het met het combineren van videobestanden?
+
+Het combineren van bestanden is helaas niet mogelijk wanneer rijke mediabestanden, zoals video&#39;s, animaties en interactieve URL&#39;s in de lijst staan.
+
+![Een afbeelding met een foutbericht waarin u wordt uitgelegd, kunt u videobestanden niet combineren.](assets/combine-proofs-2.png)
+
+
 ## Uw beurt
 
 >[!IMPORTANT]
 >
->Vergeet niet om uw collega&#39;s die u hen stuurt een bewijs te melden als onderdeel van uw Workfront-training.
+>Vergeet niet uw collega&#39;s eraan te herinneren dat u hen een bewijs stuurt als onderdeel van uw Workfront-training.
 
 
 Drie of vier bestanden zoeken (PDF, tekstbestand, enz.) op uw computer.
 
-1. Open een project, taak of probleem dat u in Workfront in de praktijk wilt brengen.
+1. Open een project, taak of kwestie die u voor hands-on praktijk in Workfront gebruikt.
 1. Upload de bestanden en combineer deze tot één proefdruk.
 1. Pas de volgorde van de bestanden aan door de laatste in de lijst te verplaatsen naar de eerste in de lijst.
 1. Wijs de workflow van uw keuze (standaard of automatisch) toe en voltooi de upload.

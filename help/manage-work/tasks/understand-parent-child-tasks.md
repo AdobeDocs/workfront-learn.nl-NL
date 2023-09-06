@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '31'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,22 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Hoe de taken in een [!DNL Workfront] project
+* Hoe de taken in a gestructureerd zijn [!DNL Workfront] project
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on)
+
+
+## Een taak wijzigen in een subtaak en opnieuw
+
+De **inspringen** en **uitspringen** De knoppen worden gebruikt om een taak te wijzigen in een subtaak of van een subtaak in een niet-subtaak.
+
+![Een afbeelding van de inspringing- en uitlijnknoppen.](assets/indent-and-outdent.png)
+
+Selecteren &quot;[!UICONTROL Watermark Design]&quot; en klik op de knop **inspringen** knop. &quot;[!UICONTROL Watermark Design]&quot; wordt een subtaak onder &quot;[!UICONTROL Conceptual Mockups]&quot;, dat een bovenliggende taak wordt.
+
+![Een afbeelding van de inspringingsknop.](assets/indent.png)
+
+Selecteren &quot;[!UICONTROL Watermark Design]&quot; als het een subtaak is en op de knop **uitspringen** knop. &quot;[!UICONTROL Watermark Design]&quot; wordt een regelmatige taak op hetzelfde niveau als &quot;[!UICONTROL Conceptual Mockups]&quot;.
+
+![Een afbeelding van de knop Uitspringen.](assets/outdent.png)
+
