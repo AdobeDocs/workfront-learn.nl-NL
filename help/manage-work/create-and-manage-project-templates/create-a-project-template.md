@@ -12,7 +12,7 @@ last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 5e13fec9021af23c1c2fb6c9126c3a28370675b4
+source-git-commit: 507f4b74d990dfe13ea2e167e90663142fa13e9d
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Een projectsjabloon maken en leren over [!UICONTROL Blueprints]
 
-Leer om een projectmalplaatje van kras en van een bestaand malplaatje te creëren, en te begrijpen hoe [!UICONTROL Blueprints] kunt u toegang geven tot een wereld van nuttige projectmalplaatjes die door de deskundigen van Workfront worden gecreeerd.
+Leer om een projectmalplaatje van kras en van een bestaand project te creëren, en te begrijpen hoe [!UICONTROL Blueprints] kunt u toegang geven tot een wereld van nuttige projectmalplaatjes die door de deskundigen van Workfront worden gecreeerd.
 
 ## Een projectsjabloon maken
 
