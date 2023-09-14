@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
+source-git-commit: 0c1695807751540ce72fb68e0cbfc1f04a5862a9
 workflow-type: tm+mt
-source-wordcount: '2369'
+source-wordcount: '2371'
 ht-degree: 0%
 
 ---
@@ -193,6 +193,7 @@ ht-degree: 0%
    + Tussentijdse projecten {#intermediate-projects}
       + [Werken en beheren van de soorten duur en taakbeperkingen](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
       + [Voorgangers voor meerdere projecten begrijpen](manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [Geavanceerde voordecessors](manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + Rapportage {#reporting}
