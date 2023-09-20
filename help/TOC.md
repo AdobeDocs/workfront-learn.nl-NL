@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0c1695807751540ce72fb68e0cbfc1f04a5862a9
+source-git-commit: 90620c916e5b276c851d3d32c49b8f0ab33f3efb
 workflow-type: tm+mt
-source-wordcount: '2371'
+source-wordcount: '2366'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,6 @@ ht-degree: 0%
       + [Uitgiftesegmenten maken en beheren](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [Typen problemen en terminologie aanpassen](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [Algemene voorkeuren voor standaardproblemen configureren](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
-      + [Algemene standaardprojectinstellingen configureren](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
 
    + Lay-outsjablonen {#layout-templates}
       + [Wat zijn lay-outsjablonen?](administration-and-setup/layout-templates/what-are-layout-templates.md)
