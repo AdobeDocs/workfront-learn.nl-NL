@@ -6,7 +6,8 @@ type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/workfront-learn.nl-NL
 index: true
-source-git-commit: 991748b15e9252f8a903a2e6a4169c796a6923d1
+auto-video-transcripts: true
+source-git-commit: ae940d186b31e89f8ce47807c6a988ea9d495679
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
