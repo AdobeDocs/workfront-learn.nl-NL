@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 90620c916e5b276c851d3d32c49b8f0ab33f3efb
+source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
 workflow-type: tm+mt
-source-wordcount: '2366'
+source-wordcount: '2373'
 ht-degree: 0%
 
 ---
@@ -571,6 +571,7 @@ ht-degree: 0%
       + [Werken met elementen als gebruiker](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + Home {#home}
+   + [Widgets verwijderen, toevoegen en opnieuw rangschikken in Home](workfront-home/remove-add-and-rearrange-widgets.md)
    + [Uw werk zoeken](workfront-home/find-your-work-in-workfront-home.md)
    + [Uw lijst met taken ordenen](workfront-home/organize-your-to-do-list-in-workfront-home.md)
    + [Prioriteit geven aan uw werk](workfront-home/prioritize-your-work-in-workfront-home.md)
