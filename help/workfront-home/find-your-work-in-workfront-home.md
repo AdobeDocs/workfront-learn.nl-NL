@@ -10,14 +10,18 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 1febdaea4c66540db39882404293ecd3fe9015e9
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # Toegewezen werk zoeken in [!DNL Workfront] [!UICONTROL Home]
+
+
+>[!NOTE] Er zijn momenteel twee Workfront Home-ervaringen. Als u de <b>nieuwe thuiservaring</b>, bekijk de [Widgets verwijderen, toevoegen en opnieuw rangschikken in Home](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/remove-add-and-rearrange-widgets.html?lang=en) zelfstudie.
+
 
 In deze video leert u hoe u:
 
