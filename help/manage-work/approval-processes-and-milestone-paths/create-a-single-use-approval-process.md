@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -36,5 +36,5 @@ In deze video leert u hoe u een goedkeuringsproces voor één gebruik kunt maken
 >
 >U kunt één enkele gebruiksgoedkeuring voor projecten en kwesties op de zelfde manier plaatsen zoals die voor taken in de video wordt beschreven.
 >
->Als u automatische emissievergunningen wilt instellen, kunnen deze alleen worden uitgevoerd met behulp van een wereldwijd goedkeuringsproces voor uitgaven en worden toegepast in een rijonderwerp. Zie [Een aanvraagwachtrij maken](https://experienceleague.corp.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) voor informatie over hoe dit te doen.
+>Als u automatische emissievergunningen wilt instellen, kunnen deze alleen worden uitgevoerd met behulp van een wereldwijd goedkeuringsproces voor uitgaven en worden toegepast in een rijonderwerp. Zie [Een aanvraagwachtrij maken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) voor informatie over hoe dit te doen.
 
