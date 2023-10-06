@@ -3,7 +3,7 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '2373'
 ht-degree: 0%
@@ -160,8 +160,8 @@ ht-degree: 0%
       + [Een goedkeuringsproces voor eenmalig gebruik maken](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Bestaande goedkeuringsprocessen bijvoegen en bewerken](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Taken, problemen en goedkeuringen delegeren](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [Mijlpalen weergeven](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
       + [Mijlpalen toepassen](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [Mijlpalen weergeven](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + Projectsjablonen maken en beheren {#create-and-manage-project-templates}
       + [Een projectsjabloon maken en leren over blauwdrukken](manage-work/create-and-manage-project-templates/create-a-project-template.md)

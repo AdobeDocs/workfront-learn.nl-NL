@@ -1,5 +1,5 @@
 ---
-title: Inzicht in aanvraagwachtrijen
+title: Vragenrijen begrijpen
 description: Leer hoe de verzoekrijen in worden gestructureerd [!DNL  Workfront] en hoe een aanvraag moet worden ingediend.
 activity: use
 feature: Work Management
@@ -11,14 +11,14 @@ thumbnail: 335220.jpeg
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 0%
 
 ---
 
-# Inzicht in aanvraagwachtrijen
+# Vragenrijen begrijpen
 
 In deze video leert u:
 
@@ -29,13 +29,13 @@ In deze video leert u:
 
 ## Concepten automatisch aanvragen
 
-Terwijl u een aanvraagformulier invult, [!DNL Workfront] Hiermee slaat u een concept automatisch op nadat u het [!UICONTROL Subject] veld. Dit betekent dat u geen gegevens kwijtraakt als u weg moet navigeren van de [!UICONTROL Requests] om iets anders te doen of als u in het midden van uw verzoek moet pauzeren om meer informatie te verzamelen.
+Terwijl u een aanvraagformulier invult, [!DNL Workfront] Hiermee slaat u een concept automatisch op nadat u het [!UICONTROL Subject] veld. Dit betekent dat u geen gegevens kwijtraakt als u bij het [!UICONTROL Requests] om iets anders te doen of als u in het midden van uw verzoek moet pauzeren om meer informatie te verzamelen.
 
-Er verschijnt een aanwijzing dat het concept boven in het venster is opgeslagen. [!DNL Workfront] slaat een concept van uw verzoek op, zelfs als de vereiste velden nog niet zijn ingevuld.
+Er wordt een indicatie weergegeven dat het concept boven in het venster is opgeslagen. [!DNL Workfront] slaat een concept van uw verzoek op, zelfs als de vereiste velden nog niet zijn ingevuld.
 
 ![afbeelding van een aanvraagconcept](assets/queue-mgt-make-a-request-draft-1.png)
 
-Wanneer u klaar bent om de aanvraag te verzenden, zoekt u deze in het dialoogvenster [!UICONTROL Drafts] tab. Klik op de naam om het te openen en het formulier in te vullen. Klik vervolgens op [!UICONTROL Submit Request] als u klaar bent.
+Wanneer u klaar bent om het verzoek in te dienen, vind het in [!UICONTROL Drafts] tab. Klik op de naam om het te openen en het formulier in te vullen. Klik vervolgens op [!UICONTROL Submit Request] als je klaar bent.
 
 ![afbeelding van het terugroepen van een aanvraagconcept](assets/queue-mgt-make-a-request-draft-2.png)
 
@@ -45,7 +45,7 @@ Neem even de tijd om de informatie te bekijken die je zojuist hebt gepresenteerd
 
 **Vraag:** Hoe doe je een aanvraag in Workfront? Geef de stappen in volgorde weer.
 
-* Kies het gewenste type aanvraag
+* Kies het type aanvraag dat u moet maken
 * Klik op Aanvraag verzenden
 * Vul de gegevens op het formulier in
 * Klik op Nieuwe aanvraag
