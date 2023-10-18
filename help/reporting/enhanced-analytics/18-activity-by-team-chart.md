@@ -1,6 +1,6 @@
 ---
-title: Begrijp de activiteit door teamgrafiek in [!UICONTROL Enhanced Analytics]
-description: Met het overzicht Activiteit per team kunt u begrijpen hoe de teams thuis van uw organisatie hun tijd in Workfront doorbrengen.
+title: Begrijp de activiteit door teamgrafiek
+description: De Activiteit door teamgrafiek in [!UICONTROL Enhanced Analytics] biedt u inzicht in hoe de teams van uw organisatie thuis hun tijd doorbrengen in Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
-# Begrijp de activiteit door teamgrafiek in [!UICONTROL Enhanced Analytics]
+# Begrijp de activiteit door teamgrafiek
 
 Met het overzicht Activiteit per team kunt u begrijpen hoe de teams thuis van uw organisatie hun tijd in Workfront doorbrengen. Workfront-gebruikers kunnen in meerdere teams werken, maar ze kunnen slechts in één team thuis werken. De teams die in de grafieken van Mensen worden gebruikt worden samengesteld uit slechts die gebruikers die dat team hebben dat als hun huisteam wordt aangewezen.
 
@@ -33,8 +33,8 @@ Aan de hand van deze informatie kunt u bepalen:
 
 Op het diagram kunt u zien:
 
-1. Teamnamen aan de linkerkant van het introductieteam.
-1. Datums onderaan komen uit het geselecteerde datumbereik.
+1. Teamnamen aan de linkerkant.
+1. Datums aan de onderkant komen uit het geselecteerde datumbereik.
 1. De paarse dozen tonen dat de gebruikers aan het project dat op die dag worden aangemeld, met een donkerdere schaduw die op een hoger aantal gebruikers het programma openen wijzen.
 1. De roze vakjes tonen dat de gebruikers de status van een taak voor het project op die dag veranderden, met een donkerdere schaduw die op een hoger aantal taakstatussen wijzen die veranderen.
 1. De blauwe vakjes tonen aan dat de gebruikers een taak voor het project voltooiden, met een donkerdere schaduw die op een hoger aantal taken wijzen die worden voltooid.

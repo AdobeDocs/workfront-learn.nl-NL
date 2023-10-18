@@ -1,5 +1,5 @@
 ---
-title: Een doel activeren door het uit te lijnen met een ander doel
+title: Activeren door een doel op een andere uit te lijnen
 description: Leer hoe u een doel activeert in [!DNL Workfront Goals] door het op een ander doel uit te lijnen.
 activity: use
 team: Technical Marketing
@@ -9,18 +9,18 @@ role: User
 level: Beginner
 jira: KT-10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
 
-# Activeren door een doel op een andere uit te lijnen binnen [!DNL Workfront Goals]
+# Activeren door een doel op een andere uit te lijnen
 
 Wanneer u twee doelstellingen richt zal één het ouderdoel en andere een kinddoel worden. Een ouderdoel kan veelvoudige kinddoelstellingen hebben maar een kinddoel kan slechts aan één ouderdoel richten.
 
-1. Open het onderliggende doel door op de naam ervan te klikken in het dialoogvenster [!UICONTROL Goal List]. Standaard bevindt u zich in de [!UICONTROL Goal Details] tab.
+1. Open het onderliggende doel door op de naam ervan te klikken in de [!UICONTROL Goal List]. Standaard bevindt u zich in de [!UICONTROL Goal Details] tab.
 1. Klik op de knop [!UICONTROL +Add] in de [!UICONTROL Parent goal information] deelvenster.
 
    ![Een schermafbeelding van de [!UICONTROL Goal Details] tab](assets/06-workfront-goals-align-goals.png)
@@ -31,7 +31,7 @@ Wanneer u twee doelstellingen richt zal één het ouderdoel en andere een kinddo
 
 1. Klik op [!UICONTROL Save Changes].
 
-Als u een doel uitlijnt op een ander doel, wordt een onderliggende doelstelling gemaakt. Denk aan kinddoelstellingen als individuele doelstellingen die tot de vooruitgang van de ouderdoelstellingen van de organisatie of van het team bijdragen. De doelstellingen van het kind kunnen de vooruitgang van het ouderdoel activeren en beïnvloeden.
+Als u een doel uitlijnt op een ander doel, wordt een onderliggend doel gemaakt. Denk aan kinddoelstellingen als individuele doelstellingen die tot de vooruitgang van de ouderdoelstellingen van de organisatie of van het team bijdragen. De doelstellingen van het kind kunnen de vooruitgang van het ouderdoel activeren en beïnvloeden.
 
 ## Nu het bovenliggende doel activeren
 

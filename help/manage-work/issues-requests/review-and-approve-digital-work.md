@@ -1,5 +1,5 @@
 ---
-title: Digitaal werk bekijken en goedkeuren met Workfront Home
+title: Digitale werkzaamheden beoordelen en goedkeuren
 description: Leer hoe u goedkeuringen voor projecten, taken, problemen, documenten en proefdrukken kunt zoeken en maken in [!DNL Workfront Home].
 activity: use
 feature: Work Management
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-# Digitaal werk beoordelen en goedkeuren met [!DNL Workfront Home]
+# Digitale werkzaamheden beoordelen en goedkeuren
 
 In deze video leert u hoe u:
 

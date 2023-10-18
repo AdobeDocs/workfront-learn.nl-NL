@@ -1,5 +1,5 @@
 ---
-title: Groepen en gebruikers begrijpen in [!UICONTROL Workfront DAM]
+title: Groepen en gebruikers instellen
 description: Leer hoe u mappen, groepen en gebruikers maakt in [!UICONTROL Workfront DAM]. Begrijp de types van gebruikersrol en verlenen toestemmingen aan omslagen.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
 
 ---
 
-# Systeeminstellingen: groepen en gebruikers
+# Groepen en gebruikers instellen
 
 In deze video leert u hoe u:
 
@@ -32,17 +32,17 @@ In deze video leert u hoe u:
 
 ## Groepen en gebruikers controleren
 
-Terwijl u uw [!UICONTROL Workfront DAM] , is het belangrijk om rekening te houden met de rollen die gebruikers en groepen in het grote beeld spelen.
+Terwijl u uw [!UICONTROL Workfront DAM] systeem, is het belangrijk om de rollen te overwegen die de gebruikers en de groepen in het grote beeld spelen.
 
 Groepen beheren de toegang tot elementmappen in [!UICONTROL Workfront DAM]. Groepsinstellingen bepalen ook wat gebruikers met de elementen kunnen doen (weergeven, downloaden, bewerken, enz.) zij hebben toegang .
 
-Bij het maken van groepen is het van essentieel belang om te bedenken tot welke elementmappen de leden van die groep toegang hebben. [!UICONTROL Workfront DAM].
+Wanneer het creëren van groepen, is het van essentieel belang om in mening te zijn welke activaomslagen de leden van die groep toegang tot binnen zullen vereisen [!UICONTROL Workfront DAM].
 
 De gebruikers zijn de individuen die logins hebben aan [!UICONTROL Workfront DAM]. Een gebruiker heeft geen toegang tot [!UICONTROL Workfront DAM] tenzij ze aan een groep zijn toegewezen. Gebruikers kunnen tot meerdere groepen behoren, afhankelijk van hun behoeften.
 
 ## Standaardgroepen
 
-Er zijn twee standaardgroepen die worden meegeleverd [!UICONTROL Workfront DAM]. Alle gebruikers behoren automatisch tot deze groepen, op basis van het feit of zij [!UICONTROL Workfront DAM] aanmeldingsgegevens. U kunt geen gebruikers toevoegen aan of verwijderen uit deze groepen:
+Er zijn twee standaardgroepen die worden geleverd [!UICONTROL Workfront DAM]. Alle gebruikers behoren automatisch tot deze groepen, op basis van het feit of zij [!UICONTROL Workfront DAM] aanmeldingsgegevens. U kunt geen gebruikers toevoegen aan of verwijderen uit deze groepen:
 
 * **Gastgroep**—Gebruikt om toegang voor een anonieme gebruiker te controleren. Dit kan iemand zijn zonder aanmeldingsgegevens of een gebruiker die momenteel niet is aangemeld.
 * **Aangemeld**-In groep-Alle gebruikers die het programma worden geopend behoren tot deze groep.

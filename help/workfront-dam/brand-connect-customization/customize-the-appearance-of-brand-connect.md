@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -34,7 +34,7 @@ De [!UICONTROL Font] optie onder de [!UICONTROL Appearance] menu&#39;s alle teks
 
 ## Homepage-widgets
 
-Pas de vormgeving van uw [!UICONTROL Brand Connect] homepage die overeenkomt met uw organisatie. Met widgets kunt u elementen toevoegen, zoals mappen en afbeeldingsregelaars. Als uw organisatie meerdere [!UICONTROL Brand Connects], elk heeft zijn eigen homepage, die je een duidelijk uiterlijk kunt geven.
+Pas de vormgeving van uw [!UICONTROL Brand Connect] homepage om overeen te komen met uw organisatie. Met widgets kunt u elementen toevoegen, zoals mappen en afbeeldingsregelaars. Als uw organisatie meerdere [!UICONTROL Brand Connects], elk heeft zijn eigen homepage, die je een duidelijk uiterlijk kunt geven.
 
 ![Een schermafbeelding van de beschikbare widgets voor uw [!UICONTROL Brand Connect] homepage](assets/03-brand-connect-home-page-widgets.png)
 
@@ -50,13 +50,13 @@ Deze widgets zijn beschikbaar:
 
 **E. Beschrijving**—Gebruik deze optie om korte stukken tekst weer te geven.
 
-**F. Beschrijving met vulling**—Voer een tekstkopieerblok in dat u wilt weergeven op een grijze achtergrond.
+**F. Omgevulde beschrijving**—Voer een tekstkopieerblok in dat u wilt weergeven op een grijze achtergrond.
 
 **G. HTML**—Gebruik HTML en CSS om aangepaste inhoud te maken. U kunt bijvoorbeeld een koppeling naar een video insluiten. Er zijn enkele [HTML-tags om te voorkomen](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
 
 ## Een zoekbalk toevoegen
 
-Als u een aangepaste homepage voor uw organisatie ontwerpt [!UICONTROL Brand Connect], moeten gebruikers in [!UICONTROL Assets] gebied voor het uitvoeren van een zoekopdracht.
+Als u een aangepaste homepage voor uw organisatie ontwerpt [!UICONTROL Brand Connect], moeten gebruikers in de [!UICONTROL Assets] gebied voor het uitvoeren van een zoekopdracht.
 
 Systeembeheerders kunnen echter een zoekbalk maken met de widget HTML en deze tag HTML:
 

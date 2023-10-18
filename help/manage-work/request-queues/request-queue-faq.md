@@ -8,14 +8,14 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
 
-# Algemene vragen over aanvraagrijen
+# Antwoorden op veelgestelde vragen over aanvraagwachtrijen
 
 **Waarom kan ik een verzoekrij zien, maar mijn gebruiker niet?**
 
@@ -43,7 +43,7 @@ Als u een verzoek van de verzoekrij opent kunt u op de projectnaam in het broodk
 
 **Kan ik de informatie van een aanvraagdouaneformulier naar een project douanevorm overbrengen?**
 
-Ja. Wanneer u een aangepast formulier maakt, selecteert u beide [!UICONTROL Project] en [!UICONTROL Issue] als de objecttypen. Voeg het aangepaste formulier bij de aanvraag. Wanneer u het verzoek in een project omzet zal het douaneformulier automatisch aan het nieuwe project vastmaken en de waarden in om het even welke gebieden zullen in zowel het verzoek als de projecten douaneformulieren verschijnen.
+Ja. Wanneer u een aangepast formulier maakt, selecteert u beide [!UICONTROL Project] en [!UICONTROL Issue] als de objecttypen. Voeg het aangepaste formulier toe aan de aanvraag. Wanneer u het verzoek in een project omzet zal het douaneformulier automatisch aan het nieuwe project vastmaken en de waarden in om het even welke gebieden zullen in zowel het verzoek als de projecten douaneformulieren verschijnen.
 
 **Ik kijk naar een project- of taakrapport. Hoe kan ik achterhalen uit welk verzoek dit object afkomstig is?**
 

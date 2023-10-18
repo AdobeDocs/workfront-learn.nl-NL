@@ -1,6 +1,6 @@
 ---
-title: Begrijp de grafiek van de middelcapaciteit in [!UICONTROL Enhanced Analytics]
-description: Leer hoe de grafiek van de capaciteit van het Middel het aantal geplande uren toont die aan een huisteam binnen de gefiltreerde tijdspanne in vergelijking met de totale beschikbare uren van het team worden toegewezen.
+title: Begrijp de grafiek van de middelcapaciteit
+description: Leer hoe u de capaciteitstabel van de resource in [!UICONTROL Enhanced Analytics] toont het aantal geplande uren die binnen de gefilterde tijdsperiode aan een huisteam zijn toegewezen in vergelijking met de totale beschikbare uren van het team.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,18 +10,18 @@ role: User
 level: Beginner
 jira: KT-10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-# Begrijp de grafiek van de middelcapaciteit in [!UICONTROL Enhanced Analytics]
+# Begrijp de grafiek van de middelcapaciteit
 
 Het capaciteitsplan van het Middel toont het aantal geplande uren die aan een huisteam binnen de gefilterde tijdspanne in vergelijking met het totale beschikbare uren van het team worden toegewezen.
 
-Deze vergelijking kan u helpen bepalen als u niet genoeg werk aan het team toewijst of als zij last van een zware werkbelasting kunnen ervaren. Klik een teamnaam en een de capaciteitsgrafiek van het Team verschijnt, tonend meer details over de capaciteit van het team voor de gefilterde tijdspanne.
+Deze vergelijking kan u helpen bepalen als u niet genoeg werk aan het team toewijst of als zij last van een zware werkbelasting kunnen ervaren. Klik een teamnaam en een de capaciteitsgrafiek van het Team verschijnt, tonend meer details over de capaciteit van het team voor de gefiltreerde tijdspanne.
 
 Aan de hand van deze informatie kunt u bepalen:
 

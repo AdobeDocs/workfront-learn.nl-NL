@@ -1,5 +1,5 @@
 ---
-title: Metagegevens instellen in [!UICONTROL Workfront DAM]
+title: De metagegevens instellen
 description: Leer hoe u een metagegevensschema maakt, de verschillende typen metagegevens begrijpt, bestaande metagegevensvelden gebruikt en meer in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
-# Metagegevens en trefwoorden: metagegevensinstelling
+# De metagegevens instellen
 
 In deze video leert u hoe u:
 

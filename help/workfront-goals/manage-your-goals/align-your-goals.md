@@ -10,18 +10,18 @@ team: Technical Marketing
 jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
 
-# Uitlijning van doelen
+# Lijn uw doelstellingen uit
 
 ## Richt doelstellingen tussen individuen, teams, en het bedrijf
 
-Nu u uw doelstellingen hebt gemaakt en geactiveerd in [!DNL Workfront Goals], laten we ervoor zorgen dat ze op elkaar zijn uitgelijnd. Doelgerichtheid is een belangrijk onderdeel van doelbeheer. Als u niet de het leren weg Workfront Doelen, Deel 1 hebt voltooid: We raden u aan eerst een visie en strategie te ontwikkelen voordat u verdergaat.
+Nu u uw doelstellingen hebt gemaakt en geactiveerd in [!DNL Workfront Goals], laten we ervoor zorgen dat ze op elkaar zijn uitgelijnd. Doelgerichtheid is een belangrijk onderdeel van doelbeheer. Als u niet de het leren weg Workfront Doelen, Deel 1 hebt voltooid: Vestig een visie en een strategie, adviseren wij u dat eerst nemen alvorens verder te gaan.
 
 <!--Insert link to LP 1, above -->
 
@@ -31,9 +31,9 @@ Met de sectie Uitlijning van doel kunt u:
 * Geef de objecthiërarchie weer en bekijk uitgelijnde onderliggende doelen.
 * Open het doel om zijn voortgangsindicatoren te zien.
 
-Als we ervoor zorgen dat de doelstellingen op één lijn worden gebracht, zal iedereen van boven naar beneden werk uitvoeren dat dezelfde initiatieven vooruit drijft. Visualisatie is een belangrijk onderdeel van de manier waarop elke hoofddoelstelling van het bedrijf direct wordt afgestemd op het afdelings-, team- en individuele niveau. Silo&#39;s worden verkleind door teams uit te lijnen die functioneel zijn. Met uitlijning krijgt u duidelijkheid over het doel van iedereen en verbindt u de organisatie met wat er echt toe doet.
+Als we ervoor zorgen dat de doelstellingen op één lijn worden gebracht, zal iedereen van boven naar beneden werk uitvoeren dat dezelfde initiatieven vooruit drijft. Visualisatie is een belangrijk onderdeel van de manier waarop elke hoofddoelstelling van het bedrijf direct wordt afgestemd op het afdelings-, team- en individuele niveau. Silo&#39;s worden gereduceerd door teams uit te lijnen die functioneel overschrijden. Met uitlijning krijgt u duidelijkheid over het doel van iedereen en verbindt u de organisatie met wat er echt toe doet.
 
-Wanneer het richten van uw bedrijfsdoelstellingen, herinner hen worden bedoeld om duidelijkheid en nadruk door eenvoud tot stand te brengen. Als u worstelt met groepering, is het waarschijnlijk omdat u probeert om doelstellingen samen te dwingen die inherent losgemaakt zijn. Wanneer u zich gekleed voelt, herzie eenvoudig de hoogste bedrijfsdoelstellingen, dan de groep en teamdoelstellingen, en besluit welke het belangrijkste zijn om te houden. Elimineer om het even wat die overtollig lijkt of die zich niet aan de visie van uw organisatie richt.
+Wanneer het richten van uw bedrijfsdoelstellingen, herinner hen worden bedoeld om duidelijkheid en nadruk door eenvoud tot stand te brengen. Als u worstelt met groepering, is het waarschijnlijk omdat u probeert om doelstellingen samen te dwingen die inherent losgemaakt zijn. Wanneer u zich geplakt voelt, eenvoudig herzie de hoogste bedrijfsdoelstellingen, dan de groep en teamdoelstellingen, en besluit welke het belangrijkste zijn om te houden. Elimineer om het even wat die overtollig lijkt of die zich niet aan de visie van uw organisatie richt.
 
 Nadat de top-level doelstellingen worden gevestigd en herzien, is het aan individuele contribuanten en teamleden om doelstellingen tot stand te brengen die van dat niveau worden getrapt om gerichtere doelstellingen te plaatsen. De reikwijdte van de individuele doelstellingen zal beperkter zijn.
 

@@ -1,6 +1,6 @@
 ---
-title: Begrijp teamcapaciteit in [!UICONTROL Enhanced Analytics]
-description: Leer hoe de de capaciteitsgrafiek van het Team toont wanneer een huisteam over-toegewezen of onderverdeeld was.
+title: Inzicht in teamcapaciteit
+description: Leer hoe de capaciteitstabel van het Team in [!UICONTROL Enhanced Analytics] toont wanneer een huisteam over-toegewezen of onderverdeeld was.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
 
-# Begrijp teamcapaciteit in [!UICONTROL Enhanced Analytics]
+# Inzicht in teamcapaciteit
 
 De de capaciteitgrafiek van het Team toont wanneer een huisteam over-toegewezen of onderverdeeld was. De grafiek toont het volume van het werk dat aan het huisteam op een bepaalde dag wordt toegewezen en wijst een donkerdere blauwe kleur toe wanneer zij zich in brand steken of niet worden uitgedaagd. Een lichtere, transparantere kleur geeft aan dat de werkbelasting evenwichtiger is.
 
@@ -33,7 +33,7 @@ Aan de hand van deze informatie kunt u bepalen:
 Op het diagram kunt u zien:
 
 1. Het percentage van de capaciteit van het huisteam is op de linkerzijde.
-1. Datums onderaan komen uit het geselecteerde datumbereik.
+1. Datums aan de onderkant komen uit het geselecteerde datumbereik.
 1. De donkerdere blauwe vulkleur geeft aan dat het thuisteam last heeft van uitbarsting (4) of dat deze kleur onbetwist is.
 1. De lichtere of meer transparante blauwe kleur geeft aan dat de werklast van het team van de thuiscomputer in evenwicht is
 

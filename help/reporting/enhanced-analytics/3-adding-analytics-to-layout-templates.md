@@ -1,5 +1,5 @@
 ---
-title: Toevoegen [!UICONTROL Analytics] naar lay-outsjablonen
+title: Analyses toevoegen aan lay-outsjablonen
 description: Leer hoe systeem- en groepsbeheerders toegang verlenen tot Analytics.
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8726
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-# Toevoegen [!UICONTROL Enhanced Analytics] naar lay-outsjablonen
+# Analyses toevoegen aan lay-outsjablonen
 
 In deze video leert u:
 
@@ -27,4 +27,4 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
 
-Iedereen met een Workfront-licentie ([!UICONTROL Work], [!UICONTROL Plan], of [!UICONTROL Collaborator] in [!UICONTROL Workfront Business] plannen of hoger) hebben toegang tot [!UICONTROL Analytics] zodra deze aan de lay-outsjabloon is toegevoegd, worden ze toegewezen. De projecten en gebruikersgegevens worden echter alleen weergegeven als uw Workfront-toegangsniveau dit toestaat en als u machtigingen voor delen voor specifieke projecten en gebruikers gebruikt.
+Iedereen met een Workfront-licentie ([!UICONTROL Work], [!UICONTROL Plan], of [!UICONTROL Collaborator] in [!UICONTROL Workfront Business] plannen of hoger) hebben toegang tot [!UICONTROL Analytics] zodra het aan het lay-outmalplaatje wordt toegevoegd worden zij toegewezen. Nochtans, zult u slechts de projecten en gebruikersinformatie zien als toegestaan door uw Workfront toegangsniveau en de het delen toestemmingen op specifieke projecten en gebruikers.

@@ -1,5 +1,5 @@
 ---
-title: Begrijp het [!UICONTROL Graphs] sectie
+title: De sectie Grafieken begrijpen
 description: Leer hoe u het diagram Goal Health en Goal Progress in [!DNL Goals] leest en interpreteert.
 activity: use
 feature: Workfront Goals
@@ -10,16 +10,16 @@ team: Technical Marketing
 jira: KT-8929
 exl-id: 670d1cb7-b66b-4786-8fd8-f396892a4845
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Begrijp het [!UICONTROL Graphs] sectie
+# De sectie Grafieken begrijpen
 
-## Grafieken en gezondheid van het doel
+## Grafieken en gezondheid van doel
 
 De [!UICONTROL Graphs] kunt u de algemene gezondheid en de voortgang van uw doelstellingen bekijken. Kijk naar trends in de loop der tijd en bekijk een uitgebreide momentopname van de voortgang van uw doelen over een bepaalde periode. De twee standaardgrafieken zijn de Grafiek van de Gezondheid van het Goal en de Grafiek van de Voortgang van het Goal. Deze informatie is essentieel om bedrijfsdoelstellingen over strategische initiatieven te houden.
 

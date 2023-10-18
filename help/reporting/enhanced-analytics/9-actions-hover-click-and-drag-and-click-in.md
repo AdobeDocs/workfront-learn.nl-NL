@@ -11,19 +11,19 @@ team: Technical Marketing
 jira: KT-8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
-# Acties begrijpen in [!UICONTROL Enhanced Analytics] - houd de muisaanwijzer boven, klik en sleep en klik in
+# Handelingen begrijpen: houd de cursor boven, klik en sleep en klik in
 
 In deze video leert u:
 
 * Hoe te om meer informatie te krijgen door over een grafiek te hangen
-* Een tijdframe maken op een diagram
+* Tijdschema&#39;s maken op een diagram
 * Hoe te om extra grafieken te maken verschijnen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on)
@@ -42,7 +42,7 @@ Wanneer u in bepaalde delen van een diagram klikt, worden extra grafieken of een
 
 **Gebruikers die zich hebben aangemeld:** Paarse dozen laten zien dat mensen in het huisteam zich op die dag hebben aangemeld. Een donkerdere tint geeft een groter aantal personen aan die zich aanmelden.
 
-![Een afbeelding van paarse gearceerde vakken](assets/purple-shaded-boxes.png)
+![Een afbeelding van paarse schaduwen](assets/purple-shaded-boxes.png)
 
 **Wijziging taakstatus:** Roze dozen tonen dat de mensen op het huisteam de status van een taak op die dag veranderden. Een donkerdere schaduw geeft aan dat er een groter aantal taakstatussen wordt gewijzigd.
 

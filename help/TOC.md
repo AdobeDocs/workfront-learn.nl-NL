@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
+source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
 workflow-type: tm+mt
-source-wordcount: '2373'
+source-wordcount: '2379'
 ht-degree: 0%
 
 ---
@@ -201,7 +201,7 @@ ht-degree: 0%
       + [Rapportonderdelen begrijpen](reporting/basic-reporting/reporting-components.md)
       + [Een basisgroep maken](reporting/basic-reporting/create-a-basic-grouping.md)
       + [Een basisweergave maken](reporting/basic-reporting/create-a-basic-view.md)
-      + [Standaardvoorwaardelijke opmaak toevoegen](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+      + [Voorwaardelijke basisopmaak toevoegen aan een weergave](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Een basisfilter maken](reporting/basic-reporting/create-a-basic-filter.md)
       + [Basisfilteractiviteit maken](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Een eenvoudig rapport maken](reporting/basic-reporting/create-a-simple-report.md)
@@ -308,7 +308,7 @@ ht-degree: 0%
       + [Stel een visie en strategie voor uw org vast](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
       + [Een duidelijke objectieve verklaring maken](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
       + [Samenwerken rond bedrijfs- en organisatorische doelstellingen](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-      + [Groepen en teams op uw strategie afstemmen](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+      + [Groepen en teams op de strategie afstemmen](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
    + Uw doelen maken {#create-goals}
       + [[!UICONTROL Workfront Goals] Overzicht](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
@@ -340,10 +340,10 @@ ht-degree: 0%
       + [Adobe Workfront-plug-ins gebruiken om te integreren met Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [Configureren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [Integratie configureren](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [Metagegevens toewijzen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
       + [Documenten verzenden en elementen koppelen](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
-      + [Versiehistorie](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+      + [Versiehistorie onderhouden](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Verbeter uw werkschema met de Integratie van de Reeks](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -465,7 +465,7 @@ ht-degree: 0%
       + [Samenvoeging](fusion/12-exercises/aggregation.md)
       + [Geavanceerde samenvoeging](fusion/12-exercises/advanced-aggregation.md)
       + [Uitvoeringshistorie](fusion/12-exercises/execution-history.md)
-      + [Bezig met verkennen van reeksen, cycli en bundels](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [Bezig met verkennen van loopcycli en bundels](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [Switch, functie](fusion/12-exercises/switch-function.md)
       + [Switch-module](fusion/12-exercises/switch-module.md)
       + [Webhaken](fusion/12-exercises/webhooks.md)
@@ -493,8 +493,8 @@ ht-degree: 0%
       + [Instellingen voor proefdrukgebruikers](workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
    + Proefdrukken uploaden {#upload-proofs}
-      + [Wat is een proefversie?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [Wie uploadt de proefversies?](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [Een proefversie](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [Wie de proefversies uploadt](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [Een document converteren naar een proefdruk](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [Proefversies weergeven en vergelijken](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [Een proefdrukversie uploaden](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -544,7 +544,7 @@ ht-degree: 0%
       + [De metagegevens instellen](workfront-dam/metadata-and-keywords/metadata-setup.md)
 
    + Merk Connect aanpassen {#brand-connect-customization}
-      + [Wat is [!UICONTROL Brand Connect]?](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+      + [Wat is [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [Systeeminstellingen vaststellen in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [Aangepaste pagina&#39;s toevoegen in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
       + [Richtlijnen voor merken maken in [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)

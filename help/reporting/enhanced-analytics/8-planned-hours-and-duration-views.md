@@ -1,5 +1,5 @@
 ---
-title: Begrijp de geplande uren en duurmeningen in [!UICONTROL Enhanced Analytics]
+title: Geplande weergaven van uren en duur begrijpen
 description: In de grafieken van de Verbranding en van de Verloop van het Project, kunt u de informatie door geplande uren of duur bekijken.
 activity: use
 team: Technical Marketing
@@ -10,14 +10,14 @@ role: User
 level: Beginner
 jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Begrijp de geplande uren en duurmeningen in [!UICONTROL Enhanced Analytics]
+# Geplande weergaven van uren en duur begrijpen
 
 In de grafieken van de Verbranding en van de Verspreiding van het Project, kunt u de informatie door geplande uren of duur bekijken, afhankelijk van wat u nauwkeuriger voor uw milieu van Workfront acht.
 
@@ -25,7 +25,7 @@ In de grafieken van de Verbranding en van de Verspreiding van het Project, kunt 
 
 
 
-Geplande uren is de standaardinstelling. Als u naar de duur overschakelt, blijft deze wel behouden wanneer u weg navigeert [!DNL Analytics] en kom terug en tussen Workfront logins.
+Geplande uren is de standaardinstelling. Als u naar de duur overschakelt, blijft deze wel behouden wanneer u van [!DNL Analytics] en kom terug en tussen Workfront logins.
 
 ## Wat betekent de grootte van het vak en de kleurschaduw?
 

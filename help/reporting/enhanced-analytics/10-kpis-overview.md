@@ -1,5 +1,5 @@
 ---
-title: KPI's begrijpen in [!UICONTROL Enhanced Analytics]
+title: KPI's begrijpen
 description: Leer hoe te om waarde van de KPI gegevens over te krijgen wat in het heden evenals tendensen van het verleden gebeurt.
 activity: use
 feature: Reports and Dashboards
@@ -11,18 +11,18 @@ team: Technical Marketing
 jira: KT-8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# KPI&#39;s begrijpen in [!UICONTROL Enhanced Analytics]
+# KPI&#39;s begrijpen
 
 In deze video leert u:
 
-* Hoe te om waarde van de KPI gegevens te krijgen
+* Hoe te om waarde van de gegevens van KPI te krijgen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12&learn=on)
 

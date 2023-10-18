@@ -1,6 +1,6 @@
 ---
-title: Werken met navigatie- en revisieprojecten in [!UICONTROL Enhanced Analytics]
-description: Leer hoe u het vliegplandiagram in Workfront kunt lezen.
+title: Navigeren en projecten evalueren
+description: Leer hoe u het vliegplandiagram leest in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
 
-# Werken met navigatie- en revisieprojecten in [!UICONTROL Enhanced Analytics]
+# Navigeren en projecten evalueren
 
 In deze video leert u:
 
@@ -32,7 +32,7 @@ In deze video leert u:
 
 Op het diagram ziet u:
 
-1. De namen van projecten staan links.
+1. De namen van het project zijn op de linkerzijde.
 1. Datums worden onderaan weergegeven.
 1. De verticale blauwe lijn geeft de specifieke datum weer waarop de muis wordt geplaatst.
 1. Horizontale blauwe lijnen geven de geplande begin- en einddatum van het project aan.
@@ -71,4 +71,4 @@ Wanneer ingesteld op Voortgangsstatus, kan de projectvoorwaarde:
 
 >[!NOTE]
 >
->De voorwaarden kunnen voor uw milieu worden aangepast, zodat kunt u meer dan drie opties vinden of de namen kunnen verschillend zijn dan hierboven. Raadpleeg het artikel voor informatie over het aanpassen van voorwaarden [Een aangepaste voorwaarde maken of bewerken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).
+>De voorwaarden kunnen voor uw milieu worden aangepast, zodat kunt u meer dan drie opties vinden of de namen kunnen verschillend zijn dan hierboven. Raadpleeg het artikel voor meer informatie over het aanpassen van voorwaarden [Een aangepaste voorwaarde maken of bewerken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).

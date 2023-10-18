@@ -1,5 +1,5 @@
 ---
-title: Metagegevens en trefwoorden in [!UICONTROL Workfront DAM]
+title: Metagegevens begrijpen
 description: Meer informatie over wat er in de [!UICONTROL Workfront DAM] Beheerder, Deel 2 Metagegevens en Trefwoordencursus.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
-# Metagegevens en trefwoorden: cursus
+# Metagegevens begrijpen
 
 Metagegevens zijn alle gegevens die worden gebruikt om een element te beschrijven. Metagegevensvelden hebben een naam en gebruikers kunnen de gegevens in veel van deze velden bewerken of wijzigen. Sommige metagegevensvelden worden gevuld door de toepassing of het apparaat waaruit het element afkomstig is en kunnen niet worden bewerkt.
 

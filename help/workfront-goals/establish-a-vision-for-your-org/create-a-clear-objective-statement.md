@@ -1,5 +1,5 @@
 ---
-title: Het doel of einddoel definiëren en uitdrukken
+title: Een duidelijke objectieve verklaring maken
 description: Leer hoe u een duidelijke objectieve verklaring, of de intentie van de Bevelhebber, creeert en sterke onderneming of organisatorische doelstellingen schrijft.
 activity: use
 feature: Workfront Goals
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
 
-# De doelstelling definiëren en uitdrukken
+# Een duidelijke objectieve verklaring maken
 
 In deze video leert u hoe u:
 
@@ -44,8 +44,8 @@ Het invullen van deze zin biedt u de hoogste richtlijnen voor uw mensen en teams
 **Deel 2: Het belangrijkste wat dit team kan doen is...**
 Het invullen van deze zin is de basis voor prioriteitstelling. Het stelt duidelijke verwachtingen dat er, als het er allemaal op aankomt, één ding moet worden bereikt. Dit te leveren product is meer dan waarschijnlijk het hoogtepunt van verwezenlijking over vele doelstellingen (zoals het lanceren van een nieuw product, het herbranden van uw bedrijf, het ingaan van een nieuwe markt, etc.).
 
-**Deel 3: Het team zal hun doel bereiken uiterlijk ...**
+**Deel 3: Het team zal hun doel bereiken tegen ...**
 Wanneer je deze zin voltooit, begin je echt je strategische pijlers te stellen. Dit zijn waarschijnlijk de kerndoelen op het hoogste niveau die moeten worden bereikt om het uiteindelijke resultaat te sturen.
 
-**Deel 4: Onze operationele beperkingen omvatten...**
+**Deel 4: Onze operationele beperkingen omvatten..**
 Als u deze verklaring afsluit, geeft u aan wat de belangrijkste indicatoren zijn voor het succes, hoe u uw vooruitgang zult meten en welke resultaten er moeten worden behaald om een succesvolle prestatie te overwegen. Bepaal welke uitdagingen en risico&#39;s uw team in overweging zou moeten nemen. Het identificeren van deze beperkingen zal u helpen beslissen als het doel een weg of geen go is.

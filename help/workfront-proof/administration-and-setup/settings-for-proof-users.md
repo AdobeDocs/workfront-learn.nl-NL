@@ -1,5 +1,5 @@
 ---
-title: Instellingen voor proefdrukken van gebruikers
+title: Instellingen voor proefdrukgebruikers
 description: Leer hoe u kunt bepalen welke [!DNL  Workfront] gebruikers krijgen een proefdrukvergunning, dan pas gebruikersmontages in beide aan [!DNL Workfront] en de achterste-eindinstellingen.
 activity: use
 type: Tutorial
@@ -11,16 +11,16 @@ thumbnail: 335126.png
 jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-# Instellingen voor proefdrukken van gebruikers
+# Instellingen voor proefdrukgebruikers
 
-Voordat u begint met het maken van gebruikers in [!DNL  Workfront]is het verstandig om uw wereldwijde [!DNL Workfront] en de instellingen van het proefdruksysteem zijn voltooid. Sommige van deze instellingen zijn van toepassing op de gebruikersprofielen die worden gemaakt. U hoeft zich echter geen zorgen te maken als u deze set niet hebt gekregen voordat u gebruikers hebt gemaakt...u kunt deze instellingen in elk afzonderlijk gebruikersprofiel bewerken.
+Voordat u begint gebruikers te maken in [!DNL  Workfront], het is aan te raden om uw wereldwijde [!DNL Workfront] en de instellingen van het proefdruksysteem zijn voltooid. Sommige van deze instellingen zijn van toepassing op de gebruikersprofielen die worden gemaakt. Maar maak u geen zorgen als u die reeks niet kreeg alvorens sommige gebruikers werden gecreeerd... u kunt die montages op elk individueel gebruikersprofiel uitgeven.
 
 
 In deze video leert u hoe u:

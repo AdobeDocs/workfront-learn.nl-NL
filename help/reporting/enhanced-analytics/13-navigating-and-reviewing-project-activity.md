@@ -1,6 +1,6 @@
 ---
-title: Begrijp navigeren en het herzien projectactiviteit in [!UICONTROL Enhanced Analytics]
-description: Leer hoe u projecten kunt vergelijken op basis van gebruikers die zijn aangemeld, wijzigingen in de taakstatus en taken die zijn voltooid in Workfront.
+title: Begrijp navigeren en het herzien projectactiviteit
+description: Leer hoe u projecten kunt vergelijken op basis van gebruikers die zijn aangemeld, wijzigingen in de taakstatus en taken die zijn voltooid in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-# Begrijp navigeren en het herzien projectactiviteit in [!UICONTROL Enhanced Analytics]
+# Begrijp navigeren en het herzien projectactiviteit
 
 In deze video leert u:
 

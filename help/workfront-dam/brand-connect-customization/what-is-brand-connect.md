@@ -10,18 +10,18 @@ team: Technical Marketing
 jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# Wat is [!UICONTROL Brand Connect]
+# Wat is [!UICONTROL Brand Connect]?
 
 [!UICONTROL Brand Connect] is het deel van [!UICONTROL Workfront DAM] dat uw eindgebruikers toegang zullen krijgen om goedgekeurde bedrijfsmiddelen te zoeken en te downloaden. Deze gebruikers zijn vaak interne gebruikers die om activa hebben gevraagd of iets zoals een bedrijfslogo zoeken.
 
-[!UICONTROL Brand Connect] gebruikers krijgen de opdracht [!UICONTROL Brand Portal] roltype en zijn lid van een [!UICONTROL Brand Portal] groep. Ze zien alleen de mappen en elementen waarnaar ze zijn gepubliceerd [!UICONTROL Brand Connect] en dat hun groep machtigingen heeft om toegang te krijgen. Meer informatie over het instellen van gebruikers in Workfront DAM Administrator: Systeeminstellingen.
+[!UICONTROL Brand Connect] gebruikers krijgen toegewezen aan de [!UICONTROL Brand Portal] roltype en zijn lid van een [!UICONTROL Brand Portal] groep. Ze zien alleen de mappen en elementen waarnaar ze zijn gepubliceerd [!UICONTROL Brand Connect] en dat hun groep machtigingen heeft om toegang te krijgen. Meer informatie over het instellen van gebruikers in Workfront DAM Administrator: Systeeminstellingen.
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 

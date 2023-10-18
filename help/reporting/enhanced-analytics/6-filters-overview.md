@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
-# Filters begrijpen in [!UICONTROL Enhanced Analytics]
+# Filters begrijpen
 
 In deze video leert u:
 
@@ -37,7 +37,7 @@ De grafieken van Mensen zijn gebaseerd op huisteams. Zij tonen de activiteit en 
 
 ## Aanvullende overwegingen
 
-* Alleen de **eerste 50 projecten** zijn zichtbaar. Pagina over om extra groepen van 50 te zien. Nochtans, berekenen de vier KPIs tegen alle projecten binnen de datumwaaier. Als uw projectlijst groter is dan 50 en u de volledige lijst wilt tegelijkertijd zien, blijf toevoegend filters om de juiste ondergroep van projecten te krijgen.
-* De zoekresultaten worden weergegeven nadat u ten minste **drie letters** van uw zoekterm.
-* U kunt **elk filter slechts eenmaal toevoegen**. Als u bijvoorbeeld eerst Voorwaarde hebt toegevoegd en een specifieke Voorwaarde hebt geselecteerd, kunt u het veld Voorwaarde niet meer toevoegen om een andere optie te kiezen. U moet het filter verwijderen en opnieuw toevoegen met alle criteria. De uitzondering hierop is het filter Aangepast formulier.
+* In de werkgrafieken worden alleen de **eerste 50 projecten** zijn zichtbaar. Pagina over om extra groepen van 50 te zien. Nochtans, berekenen de vier KPIs tegen alle projecten binnen de datumwaaier. Als uw projectlijst groter is dan 50 en u de volledige lijst wilt tegelijkertijd zien, blijf toevoegend filters om de juiste ondergroep van projecten te krijgen.
+* De zoekresultaten worden weergegeven nadat u ten minste hebt getypt **drie letters** van uw zoekterm.
+* U kunt **elk filter slechts eenmaal toevoegen**. Als u bijvoorbeeld eerst Voorwaarde hebt toegevoegd en een specifieke Voorwaarde hebt geselecteerd, kunt u het veld Voorwaarde niet opnieuw toevoegen om een andere optie te kiezen. U moet het filter verwijderen en opnieuw toevoegen met alle criteria. De uitzondering hierop is het filter Aangepast formulier.
 * Verwijder een filter door op de X naast de filter boven in het venster te klikken.

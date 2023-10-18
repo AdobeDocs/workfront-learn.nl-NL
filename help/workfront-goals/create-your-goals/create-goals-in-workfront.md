@@ -1,6 +1,6 @@
 ---
-title: Doelen maken in [!DNL Workfront Goals]
-description: Leer hoe u doelen kunt maken in [!DNL Workfront Goals] met behulp van drie verschillende opties.
+title: Doelen maken
+description: Leer hoe u doelen kunt maken in [!DNL Workfront Goals] met drie verschillende opties.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,16 +10,16 @@ team: Technical Marketing
 jira: KT-10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '866'
 ht-degree: 0%
 
 ---
 
-# Doelen maken in [!DNL Workfront Goals]
+# Doelen maken
 
-In [!DNL Workfront Goals]leidinggevenden en leidinggevende teams van bedrijven kunnen de voortgang van de hele organisatie op elk niveau zien, tot aan het individu. [!DNL Workfront Goals] biedt de zichtbaarheid om belangrijke inzichten in handelingen te krijgen die u kunt gebruiken om de hoogste prioriteiten te bereiken, doelstellingen te identificeren die een risico vormen, problemen in real time te diagnosticeren en de cursus proactief te corrigeren.
+In [!DNL Workfront Goals]leidinggevenden en leidinggevende teams van bedrijven kunnen de voortgang van de hele organisatie op elk niveau zien, tot aan het individu. [!DNL Workfront Goals] biedt de zichtbaarheid om belangrijke inzichten in handelingen te krijgen die u kunt gebruiken om de hoogste prioriteiten te bereiken, doelstellingen te identificeren die risico&#39;s lopen, problemen in real time te diagnosticeren en cursus proactief te corrigeren.
 
 [!DNL Workfront Goals] ook kunnen individuele contribuanten zien hoe hun werk bijdraagt aan het grote beeld . Het werk is zinvoller wanneer mensen kunnen zien waar hun werk belangrijk is.
 
@@ -57,7 +57,7 @@ Hieronder volgen enkele zaken die u in overweging kunt nemen voordat u doelstell
 1. Klik op de naam van een doel om het dialoogvenster **[!UICONTROL Goal Details]** deelvenster.
 1. Klik op het pictogram met drie punten naast de doelnaam en selecteer **[!UICONTROL Copy]**.
 1. Werk om het even welke volgende informatie voor het gekopieerde doel bij:
-   * **Goederennaam**—Dit is de naam van het nieuwe doel. De standaardwaarde is &quot;Kopiëren van&quot; gevolgd door de naam van het oorspronkelijke doel.
+   * **Doelnaam**—Dit is de naam van het nieuwe doel. De standaardwaarde is &quot;Kopiëren van&quot; gevolgd door de naam van het oorspronkelijke doel.
    * **Periode**—De periode waarin u het doel wilt bereiken. Selecteer een tijdsperiode in het keuzemenu of klik op Aangepaste datums definiëren om een aangepaste tijdsperiode aan te geven. De standaardperiode is altijd het huidige kwartaal.
    * **Eigenaar**—De eigenaar van het doel. Dit kan een gebruiker, een team, een groep, of een bedrijf zijn. Het gebrek is de eigenaar van het originele doel.
    * **Beschrijving**—Aanvullende informatie over het doel.
@@ -66,7 +66,7 @@ Hieronder volgen enkele zaken die u in overweging kunt nemen voordat u doelstell
 
 1. Klik op **[!UICONTROL Copy goal]**. Het gekopieerde doel wordt opgeslagen met een status Concept.
 
-   ![Een afbeelding van de [!UICONTROL Goal Details] in [!DNL Workfront Goals] met de [!UICONTROL Copy] option](assets/03-workfront-goals-copy-a-goal.png)
+   ![Een afbeelding van de [!UICONTROL Goal Details] deelvenster in [!DNL Workfront Goals] met de [!UICONTROL Copy] option](assets/03-workfront-goals-copy-a-goal.png)
 
 1. Klik op het pictogram met drie punten en selecteer vervolgens  **[!UICONTROL Activate]**, die de doelstatus in Actief bijwerkt. Het doel moet een bijbehorende activiteit hebben of resulteren in &quot;activeren.&quot;
 

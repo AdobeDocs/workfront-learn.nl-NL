@@ -1,6 +1,6 @@
 ---
-title: Dieper naar navigatie leiden [!UICONTROL Enhanced Analytics]
-description: Leer hoe u snel kunt zien hoeveel tijd werknemers besteden aan elk project in Workfront.
+title: Dieper naar de navigatie
+description: Leer hoe u snel kunt zien hoeveel tijd werknemers besteden aan elk project in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8733
 doc-type: video
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-# Dieper naar navigatie leiden [!UICONTROL Enhanced Analytics]
+# Dieper naar de navigatie
 
 In deze video leert u:
 
@@ -26,7 +26,7 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on)
 
-## Herzieningstijd besteed aan projecten
+## Revisietijd besteed aan projecten
 
 Met de projectreemap kunt u begrijpen hoeveel tijd gebruikers aan een project hebben besteed. Vakken zijn projecten. De grootte van de doos toont hoeveel tijd aan het project in vergelijking met andere projecten werd besteed. Hoe groter de doos, des te meer tijd besteed.
 
@@ -43,4 +43,4 @@ Op het diagram kunt u zien:
 
 1. Projecten in de gefilterde tijd die meer uren hebben voltooid worden voorgesteld door grotere dozen en een donkerblauwe kleur.
 1. Projecten in de gefilterde tijd die minder uren hebben voltooid, worden weergegeven met kleinere vakken en een lichtblauwe kleur.
-1. De legenda rechts van het diagram toont het bereik van voltooide uren voor elke schaduw van blauw.
+1. De legenda rechts van het diagram toont het bereik van voltooide uren voor elke kleur blauw.

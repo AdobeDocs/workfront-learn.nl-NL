@@ -1,6 +1,6 @@
 ---
-title: Dieper dig met gebruik van tijdframes en extra grafieken in [!UICONTROL Enhanced Analytics]
-description: Leer om neer op een project in het de overzichtsdiagram van de Vlucht te boren om de Grafiek van de Instorting en de Taken in vluchtgrafiek te maken verschijnen in Workfront.
+title: Dieper dig met gebruik van tijdframes en extra grafieken
+description: Leer neer op een project in de de overzichtsgrafiek van het Vluchtplan te boren om de Grafiek van de Burndown en de Taken in vluchtgrafiek te maken verschijnen in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8730
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# Dieper dig met gebruik van tijdframes en extra grafieken in [!UICONTROL Enhanced Analytics]
+# Dieper dig met gebruik van tijdframes en extra grafieken
 
 In deze video leert u:
 

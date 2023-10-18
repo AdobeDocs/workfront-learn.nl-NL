@@ -1,5 +1,5 @@
 ---
-title: Doelen activeren in [!DNL Workfront Goals]
+title: Doelstellingen activeren
 description: Leer hoe u doelen activeert in [!DNL Workfront Goals] zodra u ze hebt gemaakt.
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
-# Doelstellingen activeren in [!DNL Workfront]
+# Doelstellingen activeren
 
 Nu u doelstellingen hebt gecreeerd, laten wij hen activeren! Wanneer u een doel maakt, wordt het opgeslagen in [!UICONTROL Draft] status. [!UICONTROL Draft] de doelstellingen zijn geen deel van doelbeheer tot u hen activeert. Als ze eenmaal zijn geactiveerd, schakelen ze over op een [!UICONTROL Active] status en geef de voortgang in het dashboard weer en hoe deze zich aan de algemene strategie aanpassen. Doelen in [!UICONTROL Active] status wordt geassocieerd met een vooruitgangsindicator-gewoonlijk een activiteit, een resultaat, een project of een gericht doel (kind-ouder doelverhouding).
 
@@ -28,7 +28,7 @@ Voordat u verdergaat, is het belangrijk dat u de voortgangsindicatoren begrijpt 
 
 Als u een voortgangsindicator wilt toevoegen, opent u het doel en selecteert u het tabblad Voortgangsindicatoren aan de linkerkant. Vervolgens wordt het vervolgkeuzemenu Nieuwe voortgangsindicator weergegeven.
 
-![Een schermafbeelding met resultaten, activiteiten en projecten en indicatoren voor de voortgang van het doel.](assets/05-workfront-goals-progress-indicators.png)
+![Een schermafbeelding met resultaten, activiteiten en projecten en voortgangsindicatoren voor het doel.](assets/05-workfront-goals-progress-indicators.png)
 
 In vergelijking met andere voortgangsindicatoren zijn projecten een beetje uniek, omdat ze als een soort activiteit worden beschouwd. De activiteiten kunnen in twee types-handvooruitgangsbar en Projecten worden onderscheiden. Dit heeft tot gevolg dat projecten ook de voortgang stimuleren. Hoewel alle soorten vooruitgangsindicatoren met een ouderdoel kunnen worden verbonden, is het belangrijk om in mening te zijn dat er verschillen in de manier zijn u hen beheert.
 
