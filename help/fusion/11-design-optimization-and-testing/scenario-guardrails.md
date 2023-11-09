@@ -10,9 +10,9 @@ level: Beginner
 jira: KT-9072
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: dfe0a31f0087b7a2c925dd6c9b03fa68ef347cf2
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -33,3 +33,5 @@ In deze video leert u meer over:
 ## Meer informatie? We raden het volgende aan:
 
 [Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+
+[Adobe Workfront Fusion-prestatiehandleidingen](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
