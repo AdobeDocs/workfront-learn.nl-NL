@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335082.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 18%
@@ -36,4 +36,4 @@ Uw [!DNL  Workfront] projecten die snel en in werking stellen door een projectma
 1. Predecessors
 1. Toewijzingen
 
-Als alles is ingesteld, wijzigt u de projectstatus in Huidig om het project live te zetten. Naarmate het project vordert, wilt u het werk bijhouden dat wordt uitgevoerd, de problemen die zich voordoen, de vragen die moeten worden beantwoord en nog veel meer. Herinner me enkel... u kunt al die informatie vinden en beheren in [!DNL Workfront]!
+Als alles is ingesteld, wijzigt u de projectstatus in Huidig om het project live te zetten. Naarmate het project vordert, wilt u het werk bijhouden dat wordt uitgevoerd, problemen die zich voordoen, vragen die moeten worden beantwoord en meer. Onthoud ... u kunt al die informatie vinden en beheren in [!DNL Workfront]!

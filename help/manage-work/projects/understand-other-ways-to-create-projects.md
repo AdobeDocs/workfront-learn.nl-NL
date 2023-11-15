@@ -1,17 +1,17 @@
 ---
 title: Leer vier manieren om een project te maken
-description: Leer hoe u een project maakt op basis van een sjabloon, een geheel nieuw project maakt, een bestaand project kopieert of een [!DNL Microsoft Project] bestand.
+description: Leer hoe u een project maakt van een sjabloon, een geheel nieuw project maakt, een bestaand project kopieert of een [!DNL Microsoft Project] bestand.
 activity: use
 feature: Work Management
 thumbnail: 335084.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -35,7 +35,7 @@ In deze video leert u hoe u:
 
 ![[!UICONTROL New Project from Template] venster](assets/planner-fund-new-project-from-template-window.png)
 
-* Als er een sjabloon is die u vaak gebruikt, maak dan een favoriet! De sjabloon wordt weergegeven in het dialoogvenster [!UICONTROL New Project] , naast de [!UICONTROL Favorites and Recents] in de navigatiebalk. Klik op het favoriete sterpictogram op de gewenste plaats op de sjabloonpagina, terwijl u een sjabloon kiest waarmee u een project wilt maken, enz.
+* Als er een sjabloon is die u vaak gebruikt, maakt u deze een favoriet! De sjabloon wordt weergegeven in het dialoogvenster [!UICONTROL New Project] , naast de [!UICONTROL Favorites and Recents] in de navigatiebalk. Klik op het favoriete sterpictogram op de gewenste plaats op de sjabloonpagina, terwijl u een sjabloon kiest waarmee u een project wilt maken, enz.
 
 ![[!UICONTROL Favorite templates] lijst onder [!UICONTROL New Project] knop](assets/planner-fund-template-favorites.png)
 

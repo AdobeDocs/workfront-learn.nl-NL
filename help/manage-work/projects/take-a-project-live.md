@@ -1,24 +1,24 @@
 ---
-title: Een project live uitvoeren
-description: Leer hoe je jouw [!DNL  Workfront] live project met gebruik van de projectstatus.
+title: Een project live laten gaan
+description: Leer hoe je jouw [!DNL  Workfront] live project met de projectstatus.
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 0%
 
 ---
 
-# Een project live uitvoeren
+# Een project live laten gaan
 
 In deze video leert u hoe u:
 

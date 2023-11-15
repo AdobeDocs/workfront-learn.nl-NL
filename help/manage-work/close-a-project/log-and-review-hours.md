@@ -7,10 +7,10 @@ feature: Work Management
 thumbnail: log-and-review-hours.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 jira: KT-10136
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Als het registreren van werkelijk gewerkte uren deel van het werkschema van uw o
 
 >[!NOTE]
 >
->Uw organisatie kan u vragen uren door goed te keuren [!DNL Workfront] timesheets. Controleren met uw interne [!DNL Workfront] team om te zien welk proces u zou moeten gebruiken.
+>Uw organisatie kan u vragen uren door goed te keuren [!DNL Workfront] tijdbladen. Controleren met uw interne [!DNL Workfront] team om te zien welk proces u zou moeten gebruiken.
 
 <!---
 learn more url

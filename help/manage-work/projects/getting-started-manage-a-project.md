@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335094.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In deze video leert u:
 
 ## Een project beheren - revisie
 
-Bij elk project dat u beheert, gaat u een routine aan van wanneer te herzien projecten en wat u elke keer wilt herzien. Als projectmanager bovenop uw projecten blijft staan en hen naar succes drijft, dan is dat precies waar het om gaat.
+Bij elk project dat u beheert, gaat u een routine aan van wanneer te herzien projecten en wat u elke keer wilt herzien. Als projectmanager bovenop uw projecten blijft staan en ze naar succes drijft, dan is dat precies waar het om gaat.
 
 Elke projectmanager behandelt hun projecten een beetje verschillend. En elk team, elke afdeling, of elke organisatie kunnen verschillende projectvereisten en behoeften hebben.
 
@@ -40,7 +40,7 @@ Maar hoe u ook een project beheert, u wilt:
 * Communiceer met uw belanghebbenden.
 * Vier de wins onderweg.
 
-Uiteindelijk is het uw belangrijkste taak om het project naar een geslaagde voltooiing te leiden. [!DNL Workfront] kunt u helpen het werk controleren dat door de projectchronologie wordt gedaan; filters, weergaven en groepen; updates; rapporten ... en meer.
+Uiteindelijk is het uw belangrijkste taak om het project naar een geslaagde voltooiing te leiden. [!DNL Workfront] kunt u helpen het werk controleren dat door de projectchronologie wordt gedaan; filters, meningen, en groeperingen; updates; rapporten.. en meer.
 
 <!---
 learn more urls
