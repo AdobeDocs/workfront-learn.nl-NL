@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
+source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
 workflow-type: tm+mt
-source-wordcount: '2379'
+source-wordcount: '2318'
 ht-degree: 0%
 
 ---
@@ -89,6 +89,7 @@ ht-degree: 0%
       + [Aangepaste velden delen](custom-data/custom-forms/share-custom-fields.md)
       + [Een aangepast formulier bewerken](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Een aangepast formulier aan een object koppelen](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [Sectie-einden en logics toevoegen aan een aangepast formulier](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [Een aangepast formulier exporteren als een PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + Berekende expressies {#calculated-expressions}
@@ -587,7 +588,7 @@ ht-degree: 0%
 + Agile {#agile}
 
    + Schuiven {#scrum}
-      + [Een Scum agile-team maken](agile/create-a-scrum-agile-team.md)
+      + [Een Scrolleteam maken](agile/create-a-scrum-agile-team.md)
       + [Werken als scrum-team beheren](agile/manage-work-scrum-team.md)
       + [De achterstand vergroten](agile/gooming-the-backlog.md)
       + [Een herhaling plannen en maken](agile/plan-and-create-an-iteration.md)
