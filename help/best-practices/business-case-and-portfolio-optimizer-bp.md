@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -30,7 +30,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 </br>
 </br>
 
-## Beste werkwijzen voor business case en Portfolio optimaliseren
+## Beste werkwijzen voor Business Case en Portfolio Optimizer
 
 * Gebruik de Business Case voor of aan het begin van uw project.
 
@@ -45,11 +45,13 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Gebruik de Business Case voor of aan het begin van uw project.
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
 Het gebruiken van een Bedrijfs Geval alvorens uw project, of zelfs bij het begin van uw project begint, staat u toe om echt te voorzien wat dat project (zowel menselijke als niet-menselijke) zal vereisen, begroting, timeframe-en hoe te om het even welke potentiële risico&#39;s te verlichten die zouden kunnen voorkomen alvorens zij gebeuren.
 
 Het biedt u ook de gelegenheid om belanghebbenden te laten zien hoe uw project bijdraagt aan afdelingsdoelen, regionale doelen en/of bedrijfsdoelen.
+
+Voor instructies over het gebruik van de Business Case raadpleegt u [De zakelijke draagtas begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
 
 </br>
 </br>
@@ -58,6 +60,11 @@ Het biedt u ook de gelegenheid om belanghebbenden te laten zien hoe uw project b
 
 Schatting en pas belangrijke projectinformatie zoals de kosten, de groepering, de netto waarde, het risico, en ROI in het BedrijfsGeval aan.
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
-Het ervoor zorgen van deze informatie is zo dicht aan wat het &quot;echte leven&quot;project zal impliceren staat u toe om de scoreeigenschap in de Optimizer van de Portfolio nauwkeurig te gebruiken om de prioriteit van de vermelde projecten te bepalen. Portfolio optimizer is een groot hulpmiddel om ervoor te zorgen dat uw projecten efficiënt voorrang krijgen en aan de strategie en de waarde van uw bedrijf worden gericht.
+Het verzekeren van deze informatie is zo dicht aan wat het &quot;echte leven&quot;project zal impliceren staat u toe om de scoreeigenschap in Optimizer van het Portfolio nauwkeurig te gebruiken om de prioriteit van de vermelde projecten te bepalen. Portfolio Optimizer is een groot hulpmiddel om ervoor te zorgen dat uw projecten efficiënt voorrang krijgen en op de strategie en de waarde van uw bedrijf worden gericht.
+
+Voor instructies over het gebruik van de Business Case raadpleegt u [De zakelijke draagtas begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+
+Zie voor instructies over het gebruik van Portfolio Optimizer [Gebruik Portfolio Optimizer om werk voorrang te geven en te beheren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+

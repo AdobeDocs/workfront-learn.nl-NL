@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -45,7 +45,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Gebruik uw workflows om te bepalen welke meldingen nodig zijn.
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
 Door uw workflows stap voor stap te doorlopen, kunt u gemakkelijker de communicatiepunten identificeren en ervoor zorgen dat de juiste meldingen zijn ingeschakeld. Dit is een primeur van de meldingen voor de manier waarop uw organisatie al werkt, zodat spam of communicatiestoornissen worden voorkomen.
 
@@ -59,7 +59,7 @@ Maak een notitierapport met aanwijzingen voor gebruikers om gemakkelijk te zoeke
 
 
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
 Als u veel updateverbindingen in een project hebt, kan het moeilijk zijn om een specifieke update te vinden, vooral omdat CTRL/Bevel F niet binnen de draden zal zoeken. Met een notitierapport kunt u gemakkelijk alle updates scannen op basis van uw snelle opties zonder dat u elke thread hoeft te openen. Veelvoorkomende snelle opties zijn:
 
@@ -67,3 +67,6 @@ Als u veel updateverbindingen in een project hebt, kan het moeilijk zijn om een 
 * Notitie
 * Naam eigenaar
 * Invoerdatum
+
+Voor geleidelijke instructies op hoe te om een notitierapport met herinneringen tot stand te brengen, bekijk [Een taakrapport maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) zelfstudie en voer de volgende activiteit uit.
+

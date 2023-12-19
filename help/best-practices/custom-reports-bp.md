@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -53,14 +53,14 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 U kunt rapporten gebruiken om de resultaten van een rapport te beperken in plaats van meerdere, vergelijkbare rapporten te maken of ingewikkelde filterstructuren in een rapport te maken.
 
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
 Besnoeiing neer op het aantal rapporten u moet bouwen-en het gebruik van de rapporten uitbreiden u creeert-door herinneringen, vooral op de rapporten te omvatten u vaak loopt.
 
-Met verzoeken kunt u &quot;op het moment&quot; filtertoevoegingen aan een rapport maken zonder de filterinstellingen van het rapport te bewerken. Bijvoorbeeld, hebt u een rapport dat taken van een bepaalde status vindt die aan een specifiek team worden toegewezen. Voeg herinneringen aan dit &quot;basis&quot;rapport toe dat u toestaat om het tijdskader van de taken&#39; te beperken te zien vervalste data, slechts taken te zien die documenten hebben in bijlage, of punttaken die een bepaalde douaneformulier in bijlage hebben.
+Met verzoeken kunt u &quot;op het moment&quot; filtertoevoegingen aan een rapport maken zonder de filterinstellingen van het rapport te bewerken. Bijvoorbeeld, hebt u een rapport dat taken van een bepaalde status vindt die aan een specifiek team worden toegewezen. Voeg herinneringen aan dit &quot;basis&quot;rapport toe dat u toestaat om het tijdskader van de te werk gestelde data van de taken te beperken, slechts taken te zien die documenten hebben in bijlage, of punttaken die een bepaalde douaneformulier in bijlage hebben.
 
 
-**Opmerking**: Sommige gebruikers vinden mogelijk vragen die verwarrend zijn. Als dat het geval is, kunnen meerdere rapporten met duidelijke titels een betere oplossing zijn voor hen.
+**Opmerking**: Sommige gebruikers vinden mogelijk aanwijzingen die verwarrend zijn. Als dat het geval is, kunnen meerdere rapporten met duidelijke titels een betere oplossing zijn voor hen.
 
 
 </br>
@@ -70,7 +70,7 @@ Met verzoeken kunt u &quot;op het moment&quot; filtertoevoegingen aan een rappor
 
 Versnel de creatie van rapporten door een gelijkaardig bestaand rapport te kopiëren om uw nieuw rapport van te bouwen.
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
 Dit is niet alleen een tijdbesparende functie, het zorgt ervoor dat het nieuwe rapport de filters, meningen, of groeperingen bevat die u van het oorspronkelijke rapport nodig hebt.
 
@@ -79,30 +79,21 @@ Dit is niet alleen een tijdbesparende functie, het zorgt ervoor dat het nieuwe r
 
 **Beste praktijken**
 
-Gebruik waar mogelijk de rapportfunctionaliteit voor out-of-the-box in plaats van de tekstmodus.
-
-**Hieronder wordt beschreven waarom**
-
-Zo blijven de rapportconfiguraties zo eenvoudig mogelijk, zodat deze schaalbaar en door uzelf en anderen ondersteund zijn.
-
-</br>
-</br>
-
-**Beste praktijken**
-
 Gebruik op gebruiker-gebaseerde vervangingen om dynamische rapporten tot stand te brengen zodat de gebruiker die het rapport bekijkt informatie relevant voor hen ziet.
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
 Op gebruiker-gebaseerde vervangingen maken rapporten flexibeler, toestaand rapportschrijvers om één enkel rapport tot stand te brengen dat met veelvoudige gebruikers kan worden gedeeld. Niet alleen verstrekken op gebruiker-gebaseerde vervangingen aangepaste, gepersonaliseerde informatie voor de het programma geopende gebruiker die het douanerapport bekijken, maar het betekent u het aantal rapporten kunt verminderen die moeten worden gecreeerd en worden gehandhaafd.
 
 </br>
 </br>
 
+Voor instructies over hoe te om op gebruiker-gebaseerde vervangingen in rapporten te gebruiken zie [Filters maken met jokertekens op basis van gebruiker](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+
 **Beste praktijken**
 
 Maak weergaven die inline bewerken mogelijk maken.
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
-Met in-line het uitgeven, kunnen de gebruikers informatie over een punt direct van een rapport of een lijst veranderen. Dit is een tijdbesparende functie omdat gebruikers het object niet hoeven te openen om wijzigingen aan te brengen of om van object naar object te stuiteren wanneer ze meerdere items bijwerken. Zorg ervoor dat gebruikers weten dat in-line bewerken handig en snel is (twee dingen die bijdragen aan de acceptatie van Workfront door gebruikers).
+Met in-line het uitgeven, kunnen de gebruikers informatie over een punt direct van een rapport of een lijst veranderen. Dit is een tijdbesparende functie omdat gebruikers het object niet hoeven te openen om wijzigingen aan te brengen of om van object naar object te stuiteren wanneer meerdere items worden bijgewerkt. Zorg ervoor dat gebruikers weten dat in-line bewerken handig en snel is (twee dingen die bijdragen aan de acceptatie van Workfront door gebruikers).
