@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Knip het aantal aangepaste rapporten dat u maakt af door filters, weergaven en g
 
 Het maken van eenmalige gebruiksrapporten voor elk gegevenssegment dat u wilt zien, is tijdrovend en werkt het Workfront-systeem in de war.
 
-Voor instructies op hoe te om rapporten met herinneringen tot stand te brengen zie het hoofdstuk geëtiketteerd &quot;hoe te opstelling en de herinneringen van het gebruiksrapport&quot;in [Rapportinstellingen begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+Voor instructies op hoe te om rapporten met herinneringen tot stand te brengen zie het hoofdstuk geëtiketteerd &quot;hoe te opstelling en de herinneringen van het gebruiksrapport&quot;in [Rapportinstellingen begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) video.
 
 Zie voor instructies over het maken van rapporten met aangepaste vragen [Aangepaste vragen maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 

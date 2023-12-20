@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ Hieronder vindt u stapsgewijze instructies.
 ![Een afbeelding van het scherm om een nieuw filter te maken](assets/basic-filter-activity-1.png)
 
 1. Ga naar de [!UICONTROL Projects] gebied van de [!UICONTROL Main Menu]. Dit toont u een lijst van projecten.
-1. Klik op de knop **[!UICONTROL Filter]** en selecteert u [!UICONTROL Legacy Filters]
+1. Klik op de knop **[!UICONTROL Filter]** en selecteert u [!UICONTROL Legacy Filters].
 1. Selecteren **[!UICONTROL New Filter]**.
 1. Geef het filter de naam &quot;Alle projecten in het marketingportfolio&quot;.
 1. Klik op **[!UICONTROL Add Filter Rule]**.
@@ -39,7 +39,7 @@ Hieronder vindt u stapsgewijze instructies.
 1. Laat de [!UICONTROL Equal] -operator zoals deze is.
 1. Typ &quot;[!UICONTROL marketing]&quot; in de [!UICONTROL Start typing name] veld.
 1. Selecteren [!UICONTROL Marketing Portfolio] er wordt aangenomen dat u een portfolio met die naam hebt waarop u wilt filteren. Als u niet gewoon de functie voor het vooruitgaan van tekst gebruikt om het gewenste portfolio te zoeken.
-1. Klikken **[!UICONTROL Save Filter]**
+1. Klik op **[!UICONTROL Save Filter]**.
 
 ## Activiteit 2 - Projecten waarvan ik eigenaar ben en die deze maand aflopen
 
@@ -54,7 +54,7 @@ Hieronder vindt u stapsgewijze instructies.
 ![Een afbeelding van het scherm om een nieuw filter te maken](assets/basic-filter-activity-updated-6-15-21.png)
 
 1. Ga naar de [!UICONTROL Projects] gebied van de [!UICONTROL Main Menu]. Dit toont u een lijst van projecten.
-1. Klik op de knop **[!UICONTROL Filter]** en selecteert u [!UICONTROL Legacy Filters]
+1. Klik op de knop **[!UICONTROL Filter]** en selecteert u [!UICONTROL Legacy Filters].
 1. Selecteren **[!UICONTROL New Filter]**.
 1. Geef uw filter de naam &quot;Projecten waarvan ik eigenaar ben en die deze maand worden gesloten&quot;.
 1. Klik op **[!UICONTROL Add Filter Rule]**.
@@ -69,4 +69,4 @@ Hieronder vindt u stapsgewijze instructies.
 1. Klikken [!UICONTROL Add Filter Rule] opnieuw.
 1. In de [!UICONTROL Start typing field name] veldtype &quot;geplande&quot;, selecteer vervolgens [!UICONTROL Planned Completion Date] onder de [!UICONTROL Project] veldbron.
 1. Wijzig de [!UICONTROL Equal] operator to [!UICONTROL This Month].
-1. Klikken **[!UICONTROL Save Filter]**
+1. Klik op **[!UICONTROL Save Filter]**.
