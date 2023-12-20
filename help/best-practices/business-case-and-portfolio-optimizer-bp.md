@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Het gebruiken van een Bedrijfs Geval alvorens uw project, of zelfs bij het begin
 
 Het biedt u ook de gelegenheid om belanghebbenden te laten zien hoe uw project bijdraagt aan afdelingsdoelen, regionale doelen en/of bedrijfsdoelen.
 
-Voor instructies over het gebruik van de Business Case raadpleegt u [De zakelijke draagtas begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+Voor instructies over het gebruik van de Business Case raadpleegt u [De zakelijke draagtas begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
 </br>
 </br>
@@ -64,7 +64,7 @@ Schatting en pas belangrijke projectinformatie zoals de kosten, de groepering, d
 
 Het verzekeren van deze informatie is zo dicht aan wat het &quot;echte leven&quot;project zal impliceren staat u toe om de scoreeigenschap in Optimizer van het Portfolio nauwkeurig te gebruiken om de prioriteit van de vermelde projecten te bepalen. Portfolio Optimizer is een groot hulpmiddel om ervoor te zorgen dat uw projecten efficiënt voorrang krijgen en op de strategie en de waarde van uw bedrijf worden gericht.
 
-Voor instructies over het gebruik van de Business Case raadpleegt u [De zakelijke draagtas begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+Voor instructies over het gebruik van de Business Case raadpleegt u [De zakelijke draagtas begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
-Zie voor instructies over het gebruik van Portfolio Optimizer [Gebruik Portfolio Optimizer om werk voorrang te geven en te beheren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+Zie voor instructies over het gebruik van Portfolio Optimizer [Gebruik Portfolio Optimizer om werk voorrang te geven en te beheren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
 

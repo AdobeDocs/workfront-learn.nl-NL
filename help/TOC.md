@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '2318'
+source-wordcount: '2317'
 ht-degree: 0%
 
 ---
@@ -204,7 +204,7 @@ ht-degree: 0%
       + [Een basisweergave maken](reporting/basic-reporting/create-a-basic-view.md)
       + [Voorwaardelijke basisopmaak toevoegen aan een weergave](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Een basisfilter maken](reporting/basic-reporting/create-a-basic-filter.md)
-      + [Basisfilteractiviteit maken](reporting/basic-reporting/create-a-basic-filter-activity.md)
+      + [Basisfilteractiviteiten maken](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Een eenvoudig rapport maken](reporting/basic-reporting/create-a-simple-report.md)
       + [Een taakrapport maken](reporting/basic-reporting/create-a-task-report.md)
       + [Rapporten maken met grafieken](reporting/basic-reporting/create-reports-with-charts.md)

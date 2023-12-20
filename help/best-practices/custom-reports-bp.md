@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,6 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 * U kunt rapporten gebruiken om de resultaten van een rapport te beperken in plaats van meerdere, vergelijkbare rapporten te maken of ingewikkelde filterstructuren in een rapport te maken.
 
 * Versnel de creatie van rapporten door een gelijkaardig bestaand rapport te kopiëren om uw nieuw rapport van te bouwen.
-
-* Gebruik waar mogelijk de rapportfunctionaliteit voor out-of-the-box in plaats van de tekstmodus.
 
 * Gebruik op gebruiker-gebaseerde vervangingen om dynamische rapporten tot stand te brengen zodat de gebruiker die het rapport bekijkt informatie relevant voor hen ziet.
 
@@ -88,7 +86,7 @@ Op gebruiker-gebaseerde vervangingen maken rapporten flexibeler, toestaand rappo
 </br>
 </br>
 
-Voor instructies over hoe te om op gebruiker-gebaseerde vervangingen in rapporten te gebruiken zie [Filters maken met jokertekens op basis van gebruiker](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+Voor instructies over hoe te om op gebruiker-gebaseerde vervangingen in rapporten te gebruiken zie [Filters maken met jokertekens op basis van gebruiker](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **Beste praktijken**
 

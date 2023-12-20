@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -32,7 +32,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 ## Aanbevolen werkwijzen voor filters, weergaven en groepen
 
-* Knip het aantal aangepaste rapporten dat u maakt af door filters, weergaven en groepen in een objectlijst te gebruiken om de benodigde gegevens op te halen.
+* Knip het aantal aangepaste rapporten dat u maakt af door filters, weergaven en groepen in een objectlijst te gebruiken om de gegevens op te halen die u nodig hebt.
 
 * Gebruik de lijstcontroles in lay-outmalplaatjes om onnodige filters, meningen, en groepen voor algemeen gebruikte voorwerpen (projecten, taken, programma&#39;s, enz.) te verbergen.
 
@@ -47,11 +47,15 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 **Beste praktijken**
 
-Knip het aantal aangepaste rapporten dat u maakt af door filters, weergaven en groepen in een objectlijst te gebruiken om de benodigde gegevens op te halen.
+Knip het aantal aangepaste rapporten dat u maakt af door filters, weergaven en groepen in een objectlijst te gebruiken om de gegevens op te halen die u nodig hebt.
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
 Het maken van eenmalige gebruiksrapporten voor elk gegevenssegment dat u wilt zien, is tijdrovend en werkt het Workfront-systeem in de war.
+
+Voor instructies op hoe te om rapporten met herinneringen tot stand te brengen zie het hoofdstuk geëtiketteerd &quot;hoe te opstelling en de herinneringen van het gebruiksrapport&quot;in [Rapportinstellingen begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+
+Zie voor instructies over het maken van rapporten met aangepaste vragen [Aangepaste vragen maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 
 </br>
 </br>
@@ -60,9 +64,11 @@ Het maken van eenmalige gebruiksrapporten voor elk gegevenssegment dat u wilt zi
 
 Gebruik de lijstcontroles in lay-outmalplaatjes om onnodige filters, meningen, en groepen voor algemeen gebruikte voorwerpen (projecten, taken, programma&#39;s, enz.) te verbergen.
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
-Minder is meer. Door opties voor het verbergen van filters, de weergave en de groeperingslijst die niet relevant zijn voor de dagelijkse workflows van uw gebruikers, worden de lijsten ingekort, zodat gebruikers gemakkelijker kunnen vinden wat ze sneller nodig hebben.
+Minder is meer. Het verbergen van filter, mening, en het groeperen van lijstopties die niet relevant voor de dagelijkse werkschema&#39;s van uw gebruikers zijn vernauwt de lijsten, wat het voor gebruikers gemakkelijker maakt om te vinden wat zij sneller nodig hebben.
+
+Voor instructies over het verbergen van filters, weergaven of groepen met lay-outsjablonen raadpleegt u [Rapportlijsten aanpassen met lay-outsjablonen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
 
 </br>
 </br>
@@ -71,11 +77,13 @@ Minder is meer. Door opties voor het verbergen van filters, de weergave en de gr
 
 Deel aangepaste filters, weergaven en groeperingen die relevant zijn voor de workflows en processen van uw organisatie via de lijstbesturingselementen voor lay-outsjablonen.
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
-Als u filters, weergaven en groepen hebt gemaakt die informatie weergeven die specifiek is voor de dagelijkse processen van de gebruikers, kunt u deze eenvoudig delen via de lay-outsjablonen. Dit verzekert iedereen toegewezen die lay-outmalplaatje filter, mening, en groeperingsopties relevant voor hun werkschema heeft.
+Als u filters, meningen, en groeperingen hebt gecreeerd die informatie specifiek voor de dagelijkse processen van gebruikers tonen, is het gemakkelijk om deze door de lay-outmalplaatjes te delen. Dit verzekert iedereen toegewezen die lay-outmalplaatje filter, mening, en groeperingsopties relevant voor hun werkschema heeft.
 
 Het aanpassen van de informatie die u voor uw gebruikers zichtbaar door de lay-outmalplaatjes wilt is ook een tijd-redder voor systeem en groepsbeheerders omdat zij niet elke filter, mening, of groeperingsoptie individueel zullen moeten delen.
+
+Voor instructies over het delen van filters, weergaven of groepen met lay-outsjablonen raadpleegt u [Rapportlijsten aanpassen met lay-outsjablonen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html).
 
 </br>
 </br>
@@ -84,8 +92,8 @@ Het aanpassen van de informatie die u voor uw gebruikers zichtbaar door de lay-o
 
 Wanneer u filters maakt voor de projectstatus, taakstatus of uitgiftestatus, gebruikt u de instructie (object)>>Status is gelijk aan de naam van de veldbron/het veld met de optie Gelijk, in plaats van Project>>Bron/veldnaam van het statusveld.
 
-**Hieronder wordt beschreven waarom**
+**Daarom:**
 
-Door gebruik te maken van (object)>>Gelijk aan, neemt u alle aangepaste statussen die die specifieke status hebben toegewezen in het veld Gelijk aan in de statusinstellingen. Terwijl u het filter instelt als (object)>>Status > Gelijk vereist dat u specifieke statuten voor het filter selecteert. Dit zou een onderhoudsuitdaging kunnen betekenen als u voor die nieuwe statussen in diverse filters rekenschap moet geven. Elk filter moet worden geopend en bijgewerkt met de nieuwe status.
+Door (object)>>Equates with te gebruiken, neemt u alle aangepaste statussen op die die specifieke status hebben toegewezen in het veld Equates with in de statusinstellingen. Terwijl u het filter instelt als (object)>>Status > Gelijk vereist dat u specifieke statuten voor het filter selecteert. Dit zou een onderhoudsuitdaging kunnen betekenen als u voor die nieuwe statussen in diverse filters rekenschap moet geven. Elk filter moet worden geopend en bijgewerkt met de nieuwe status.
 
 Als u bijvoorbeeld alle huidige projecten wilt zien, kunt u het filter zo instellen dat Project > > Status > Gelijk > Huidige staat wordt gelezen. Maar als iemand een douanestatus genoemd Actief toevoegt en het aan Huidig vergelijkt, zal dat filter geen projecten met de Actieve status vinden. Als u echter Project>>Status is gelijk aan > Gelijk > Huidig, zoekt het filter objecten met de status Huidig of Actief omdat ze beide Huidig hebben in het veld Gelijk aan.
