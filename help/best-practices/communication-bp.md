@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
-source-git-commit: 97e97fa1a91e7ddae69c1e9fff162917c72b757d
+source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -49,9 +49,9 @@ Gebruik uw workflows om te bepalen welke meldingen nodig zijn.
 
 Door uw workflows stap voor stap te doorlopen, kunt u gemakkelijker de communicatiepunten identificeren en ervoor zorgen dat de juiste meldingen zijn ingeschakeld. Dit is een primeur van de meldingen voor de manier waarop uw organisatie al werkt, zodat spam of communicatiestoornissen worden voorkomen.
 
-Voor instructies over het instellen van gebeurtenismeldingen raadpleegt u [Gebeurtenismeldingen instellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)
+Voor instructies over het instellen van gebeurtenismeldingen raadpleegt u [Gebeurtenismeldingen instellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
 
-Zie voor instructies over het beheren van gebeurtenismeldingen [Gebeurtenismeldingen in de app en e-mailen beheren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)
+Zie voor instructies over het beheren van gebeurtenismeldingen [Gebeurtenismeldingen in de app en e-mailen beheren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
 
 </br>
 </br>
