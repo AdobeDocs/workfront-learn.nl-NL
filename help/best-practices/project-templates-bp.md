@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '1705'
+source-wordcount: '1743'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,8 @@ Projectsjablonen regelmatig controleren en bijwerken.
 
 Naarmate processen en teams veranderen, moeten de projectsjablonen worden bijgewerkt. Vestig een regelmatige toestemming, zoals driemaandelijks, om te controleren en te zien welke malplaatjes niet actief worden gebruikt. U kunt deze deactiveren, zodat ze zich nog steeds in Workfront bevinden, maar niet in de lijsten met sjabloonselectie worden weergegeven.
 
+Voor instructies over hoe te om een projectmalplaatje te deactiveren, zie [Een projectsjabloon deactiveren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+
 </br>
 </br>
 
@@ -245,4 +247,4 @@ Wanneer u een malplaatje van een bestaand project creeert, tenzij u de Duidelijk
 
 Al deze gebruikers zullen als deel van het projectteam, in de Mensen en het Plannen van secties van het project worden vermeld. Dientengevolge, zullen zij aan alle projecten worden verspreid die van dat malplaatje worden gecreeerd. Dit kon verwarring voor de gebruiker veroorzaken omdat als deel van het projectteam, zij berichten over activiteit op het project ontvangen, het project in de Projecten zien I op lijst, en toestemmingen aan het project en zijn taken, kwesties en documenten verkrijgen.
 
-
+Voor instructies op hoe te om het projectteam in een projectmalplaatje uit te geven, zie [Bewerk het projectteam in een projectsjabloon](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).
