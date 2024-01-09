@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '2317'
+source-wordcount: '2329'
 ht-degree: 0%
 
 ---
@@ -169,6 +169,8 @@ ht-degree: 0%
       + [Een project rechtstreeks vanuit een sjabloon maken](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Een projectsjabloon delen](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Een bestaand project kopiëren](manage-work/manage-projects/copy-an-existing-project.md)
+      + [Een projectsjabloon deactiveren](manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+      + [Bewerk het projectteam in een projectsjabloon](manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + Projecttijdlijnen {#project-timelines}
       + [Projecttijdlijnen begrijpen](manage-work/project-timelines/understand-project-timelines.md)

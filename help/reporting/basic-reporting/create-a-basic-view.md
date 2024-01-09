@@ -12,10 +12,10 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 0%
+source-wordcount: '643'
+ht-degree: 1%
 
 ---
 
@@ -51,7 +51,7 @@ Maak een taakweergave met de naam &quot;Taakstatusweergave&quot; met de volgende
 1. Geef de weergave de naam &#39;Taakstatusweergave&#39;.
 1. Deze kolommen verwijderen: [!UICONTROL Pln Hrs], [!UICONTROL Predecessors], [!UICONTROL Start On], en [!UICONTROL Due On].
 1. Klik op **[!UICONTROL Add Column]**.
-1. In de [!UICONTROL Show in this column] veld, typt u &quot;status&quot; en selecteert u &quot;Status&quot; onder het veld [!UICONTROL Task] veldbron.
+1. In de [!UICONTROL Show in this column] veld, typ &quot;status&quot; en selecteer &quot;status&quot; onder het veld [!UICONTROL Task] veldbron.
 1. Klikken **[!UICONTROL Add Column]** opnieuw.
 1. In de [!UICONTROL Show in this column] veld, typt u &quot;status&quot; en selecteert u &quot;Voortgangsstatus&quot; onder het [!UICONTROL Task] veldbron.
 1. Klikken **[!UICONTROL Add Column]** opnieuw.
@@ -88,7 +88,7 @@ Maak een taakweergave met de naam &quot;Weergave van mijlpaal&quot; met de volge
 
 ![Een afbeelding van een takenlijst met gebruik van een mijlpaalweergave](assets/view-milestone-exercise-2.png)
 
-## Activiteit 3: Een weergave maken van de duur en taakbeperkingen
+## Activiteit 3: Een type duur en een weergave met taakbeperkingen maken
 
 Deze mening zal u toestaan om alle duurtypes en taakbeperkingen in uw project te onderzoeken en uit te geven.
 
@@ -124,8 +124,34 @@ Wijzig de [!UICONTROL Field Format] op de [!UICONTROL Start On] en [!UICONTROL D
 1. In de [!UICONTROL Show in this column] veld, type [!UICONTROL "constraint"] Selecteer vervolgens [!UICONTROL "Task Constraint"] onder de bron van het het gebiedsveld van de Taak.
 1. Klikken **[!UICONTROL Add Column]** opnieuw.
 1. In de [!UICONTROL Show in this column] veld, type [!UICONTROL "constraint"] Selecteer vervolgens [!UICONTROL "Constraint Date"] onder de bron van het het gebiedsveld van de Taak.
-1. Selecteer [!UICONTROL Start On] kolom, klik vervolgens op [!UICONTROL Advanced Options].
+1. Selecteer de [!UICONTROL Start On] kolom, klik vervolgens op [!UICONTROL Advanced Options].
 1. Onder de [!UICONTROL Field Format] vervolgkeuzelijst selecteren [!UICONTROL "10/17/60 3:00 AM"].
-1. Selecteer [!UICONTROL Due On] kolom, klik vervolgens op [!UICONTROL Advanced Options].
+1. Selecteer de [!UICONTROL Due On] kolom, klik vervolgens op [!UICONTROL Advanced Options].
 1. Onder de [!UICONTROL Field Format] vervolgkeuzelijst selecteren [!UICONTROL "10/17/60 3:00 AM"].
 1. Klik op **[!UICONTROL Save]**.
+
+## Activiteit 4: Een actieve statusweergave van een projectsjabloon maken
+
+Iedereen die projectmalplaatjes beheert zal het zien van de actieve status (Waar of Onwaar) van elke malplaatje in een lijst waarderen. Nog beter - het veld is online bewerkbaar!
+
+Creeer een mening van het projectmalplaatje genoemd &quot;de actieve status van het malplaatje van het Project&quot;met de volgende kolommen:
+
+* [!UICONTROL Name]
+* [!UICONTROL Owner]
+* [!UICONTROL Duration]
+* [!UICONTROL Planned Hours]
+* [!UICONTROL Planned Cost]
+* [!UICONTROL Flags]
+* [!UICONTROL Group Name]
+* [!UICONTROL Is Active]
+
+
+## Activiteit 4 Antwoord
+
+![Een beeld van het scherm om een actieve de statusmening van het projectmalplaatje te tonen](assets/view-activity-4.png)
+
+1. Ga in een lijst van het projectmalplaatje, naar **[!UICONTROL View]** vervolgkeuzelijst en selecteert u **[!UICONTROL New View]**.
+1. Geef de weergave de naam Standaard+actieve status.
+1. Klik op **[!UICONTROL Add Column]**.
+1. In de [!UICONTROL Show in this column] veld, type &quot;is&quot; en selecteer &quot;Is Actief&quot; onder het veld [!UICONTROL Template] veldbron.
+1. Klik op **[!UICONTROL Save View]**.
