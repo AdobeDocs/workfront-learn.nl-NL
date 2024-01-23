@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8810d3ff896060eef192c06da648a40f7a9333a0
+source-git-commit: 6a2e3a96d6a8733f712fd69e57b7cd552a79b59c
 workflow-type: tm+mt
-source-wordcount: '2326'
+source-wordcount: '2329'
 ht-degree: 0%
 
 ---
@@ -86,6 +86,7 @@ ht-degree: 0%
 + Aangepaste gegevens {#custom-data}
    + Aangepaste Forms {#custom-forms}
       + [Een aangepast formulier maken en delen](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
+      + [Aangepaste velden delen](custom-data/custom-forms/share-custom-fields.md)
       + [Een aangepast formulier bewerken](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [Een aangepast formulier aan een object koppelen](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [Sectie-einden en logics toevoegen aan een aangepast formulier](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
