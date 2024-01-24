@@ -9,19 +9,18 @@ role: User, Admin
 level: Intermediate
 thumbnail: set-default-proof-roles.png
 jira: KT-10235
+last-substantial-update: 2024-01-23T00:00:00Z
 exl-id: 77dfb9f1-3242-47ca-a0ce-203b535af156
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 731005176bc02e3a4d26d00373931fa7444afeea
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
 
 # Standaardproefdrukrollen instellen
 
-<!---
-21.4 updates have been made
---->
+
 
 De eerste standaardinstelling die moet worden voltooid, bepaalt de standaardproefrol die wordt toegewezen wanneer nieuwe gebruikers worden gemaakt of personen een proefdruk openen.
 
@@ -43,3 +42,9 @@ Deze standaardproefrol kan echter worden gewijzigd wanneer afzonderlijke proefdr
 ![Revisie- en goedkeuringsinstellingen in Workfront](assets/proof-system-setups-workfront-defaults.png)
 
 Bedenk wat de meeste gebruikers en gasten van uw account verwachten als ze aan een proefwerkstroom worden toegevoegd. Dit moet uw standaardinstelling zijn.
+
+## Aanbevolen procedures
+
+| Beste praktijken | Daarom: |
+|---|---|
+| Gebruik alleen-lezen of Revisor voor de instelling Rollen voor niet-ontvangers die een proefdruk van een document openen in Workfront. | Voor alle andere opties voor deze instelling moet een proefdrukbeslissing worden genomen, waardoor de proefdrukworkflow kan worden verwijderd. Over het algemeen geldt dat mensen die niet aan de proefdrukworkflow worden toegevoegd, alleen de proefdrukproef moeten bekijken of opmerkingen moeten maken, de proefdrukproef niet moeten goedkeuren. De opties Alleen-lezen of Reviewer zijn dus de beste keuze. <br> <br>Opmerking: deze instelling vindt u in Workfront Main Menu > Setup > Review and Approval. |
