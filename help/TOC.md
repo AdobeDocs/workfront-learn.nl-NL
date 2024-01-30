@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a2e3a96d6a8733f712fd69e57b7cd552a79b59c
+source-git-commit: 74af2d2eebceded98ef9c26db15e66c1ea830c55
 workflow-type: tm+mt
-source-wordcount: '2329'
+source-wordcount: '2321'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,6 @@ ht-degree: 0%
 
    + Gebruikers maken en beheren {#create-and-manage-users}
       + [Gebruikers toevoegen](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
-      + [Een individuele gebruiker maken](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
-      + [Gebruikers bulksgewijs toevoegen](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
       + [Gebruikersgegevens wijzigen](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [Wanneer en hoe gebruikers te deactiveren of te schrappen](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [Begrijp het logboek van de systeemcontrole](administration-and-setup/create-and-manage-users/system-audit-log.md)
