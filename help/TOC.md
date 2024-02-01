@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 74af2d2eebceded98ef9c26db15e66c1ea830c55
+source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
 workflow-type: tm+mt
-source-wordcount: '2321'
+source-wordcount: '2328'
 ht-degree: 0%
 
 ---
@@ -148,6 +148,7 @@ ht-degree: 0%
       + [Instellingen voor een stroomaanvraag begrijpen](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Een aanvraagwachtrij maken](manage-work/request-queues/create-a-request-queue.md)
       + [Een aanvraagstroom maken](manage-work/request-queues/create-a-request-flow.md)
+      + [Een wachtrij voor feedback van systeembeheerders maken](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Antwoorden op veelgestelde vragen over aanvraagwachtrijen](manage-work/request-queues/request-queue-faq.md)
 
    + Portfolio&#39;s {#portfolios}
