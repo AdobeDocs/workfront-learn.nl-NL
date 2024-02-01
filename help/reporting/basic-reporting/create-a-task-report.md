@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '683'
 ht-degree: 3%
 
 ---
@@ -101,7 +101,7 @@ Neem vragen op voor het volgende:
 
 ## Activiteit 2: Een feedbackrapport voor een beheerder maken
 
-Dit is een uitgifterapport waarin alle problemen worden weergegeven uit een wachtrij voor feedbackverzoeken die voor systeembeheerders is gemaakt. U kunt zien hoe u deze aanvraagwachtrij kunt maken in het dialoogvenster **Een wachtrij voor feedback van systeembeheerders maken** zelfstudie.
+Dit is een uitgifterapport waarin alle problemen worden weergegeven uit een wachtrij voor feedbackverzoeken die voor systeembeheerders is gemaakt. U kunt zien hoe u deze aanvraagwachtrij kunt maken in het dialoogvenster [Een wachtrij voor feedback van systeembeheerders maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) zelfstudie.
 
 Dit rapport gebruikt ook een aangepast formulier. Als u wilt leren hoe u een aangepast formulier maakt, raadpleegt u de [Een aangepast formulier maken en delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) zelfstudie.
 
@@ -159,7 +159,8 @@ Filter op identiteitskaart van het project van de verzoekrij waar terugkoppelt k
    ![Een beeld van het scherm om de kolommen van het uitgifterapport tot stand te brengen](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL Issue] > [!UICONTROL Name]
-   * [!UICONTROL Primary Contact] > [!UICONTROL Name] Opmerking: dit wordt weergegeven met &quot;Eigenaar:Naam&quot; als kolomlabel. U kunt dit wijzigen in &quot;Gerapporteerd door&quot; door op Geavanceerde opties te klikken en &quot;Gerapporteerd door&quot; te typen in het dialoogvenster **Aangepast kolomlabel** veld.
+   * [!UICONTROL Primary Contact] > [!UICONTROL Name]
+      * Opmerking: dit wordt weergegeven met &quot;Eigenaar:Naam&quot; als kolomlabel. U kunt dit wijzigen in &quot;Gerapporteerd door&quot; door op Geavanceerde opties te klikken en &quot;Gerapporteerd door&quot; te typen in het dialoogvenster **Aangepast kolomlabel** veld.
    * [!UICONTROL Issue] > [!UICONTROL Process type]
    * [!UICONTROL Issue] > [!UICONTROL Process name]
    * [!UICONTROL Issue] > [!UICONTROL Process grade]
