@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: a371abf052a0ef37edc31fa1e0b02d8265567447
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -37,6 +37,5 @@ In deze video leert u:
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 Leren hoe u de **Feedbackrapport van het team van Admin** gebruikt in de video, zie [Een taakrapport maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) zelfstudie en zoek naar de activiteit **Een feedbackrapport voor een beheerteam maken** volgt de video.
-<br>
-<br>
+
 Als u wilt leren hoe u een aangepast formulier maakt, raadpleegt u de [Een aangepast formulier maken en delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) zelfstudie.
