@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
 workflow-type: tm+mt
-source-wordcount: '2328'
+source-wordcount: '2325'
 ht-degree: 0%
 
 ---
@@ -177,7 +177,6 @@ ht-degree: 0%
       + [Voortgang bijhouden vanaf de projecttijdlijn](manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + Een project sluiten {#close-a-project}
-      + [Een project sluiten](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [De projectstatus wijzigen om te voltooien](manage-work/projects/change-the-project-status.md)
       + [Taken en problemen sluiten](manage-work/close-a-project/close-tasks-and-issues.md)
       + [Goedkeuring voltooien](manage-work/close-a-project/complete-approvals.md)
