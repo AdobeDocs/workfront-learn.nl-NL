@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
+source-git-commit: 0f2a8c6855398759890fad1282ced3c28615f7f5
 workflow-type: tm+mt
 source-wordcount: '811'
 ht-degree: 3%
@@ -32,9 +32,9 @@ In deze video leert u:
 >[!TIP]
 >
 >Breek uw spatulas en mengkom uit en maak klaar om de &quot;recepten&quot; in onze [Adobe Workfront Customer Reporting Cookbook](/help/assets/workfront-customer-reporting-cookbook.pdf). Binnen zult u geleidelijke instructies voor 10 rapporten vinden, klaar voor u om in uw milieu vandaag te slaan.
-><br><br>
+><br>
 >We hebben favoriete rapporten verzameld van klanten en ze samengebracht in een hanteerbaar, gemakkelijk verteerbaar, kookboek dat je kunt meenemen en uittesten in je eigen Workfront-keuken.
-><br><br>
+><br>
 >Deze 10 rapporten komen van klanten die enkel zoals u zijn. Wij zijn de ongelooflijke klanten die een van hun favoriete rapporten hebben gedeeld, enorm dankbaar dat ze zich over verschillende sectoren, afdelingen, teams, posities en allemaal in verschillende bedrijven hebben verspreid. Sommige rapporten zijn eenvoudig (maar ongelooflijk nuttig), en sommige zijn complexer om uw rapportering naar het volgende niveau te brengen.
 
 
