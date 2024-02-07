@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 9d918e0a18ddf5a901086bbfbc92dfddd7eae392
+source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
 workflow-type: tm+mt
-source-wordcount: '2325'
+source-wordcount: '2332'
 ht-degree: 0%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 0%
       + [Beginnen met het beheren van een project](manage-work/projects/getting-started-manage-a-project.md)
       + [Projecten zoeken](manage-work/projects/find-projects.md)
       + [Een project delen](manage-work/projects/share-a-project.md)
+      + [Begrijp het projectteam](manage-work/projects/understand-the-project-team.md)
       + [Projectcommunicatie begrijpen](manage-work/projects/understand-project-communication.md)
       + [Projectinformatie weergeven](manage-work/projects/view-project-information.md)
       + [De voortgang van het project bijhouden](manage-work/projects/track-overall-project-progress.md)
@@ -207,6 +208,7 @@ ht-degree: 0%
       + [Basisfilteractiviteiten maken](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Een eenvoudig rapport maken](reporting/basic-reporting/create-a-simple-report.md)
       + [Een taakrapport maken](reporting/basic-reporting/create-a-task-report.md)
+      + [Een rapport kopiëren](reporting/basic-reporting/copy-a-report.md)
       + [Rapporten maken met grafieken](reporting/basic-reporting/create-reports-with-charts.md)
       + [Een matrixrapport maken](reporting/basic-reporting/create-a-matrix-report.md)
       + [Dashboards maken](reporting/basic-reporting/create-dashboards.md)
