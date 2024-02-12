@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 Wanneer het denken door een automatisering alvorens u bouwt, zijn er strategieën u kunt opstellen om het vereiste herwerk of aantal herhalingen te minimaliseren u door moet gaan.
 
-U bespaart de meeste tijd door een duidelijk gebruiksgeval te definiëren dat door een specifieke gebeurtenis wordt geactiveerd. Wanneer u niet vroeg op de knop gaat zitten om zeker te zijn dat u de goede kant op gaat, krijgt u complexe of inefficiënte scenario&#39;s.
+U zult de meeste tijd besparen door een duidelijk gebruiksgeval te bepalen dat door een specifieke gebeurtenis wordt teweeggebracht. Wanneer u niet vroeg op tijd neemt om ervoor te zorgen u in de juiste richting gaat, zult u met complexe of inefficiënte scenario&#39;s eindigen.
 
 In deze video leert u hoe u:
 

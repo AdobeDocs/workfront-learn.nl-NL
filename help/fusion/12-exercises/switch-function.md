@@ -1,6 +1,6 @@
 ---
-title: Switch, functie
-description: Leer hoe te om de schakelaarfunctionaliteit te gebruiken gebruikend de functie van de Schakelaar.
+title: Overschakelen van functies
+description: Leer hoe te om de schakelaarfunctionaliteit te gebruiken die de functie van de Schakelaar gebruikt.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,23 +9,24 @@ role: User
 level: Beginner
 jira: KT-11051
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
-# Switch, functie
+# Overschakelen van functies
 
-Leer hoe te om de schakelaarfunctionaliteit te gebruiken gebruikend de functie van de Schakelaar.
+Leer hoe te om de schakelaarfunctionaliteit te gebruiken die de functie van de Schakelaar gebruikt.
 
 ## Overzicht van oefening
 
 Voor eenvoudige gegevensveranderingen, gebruik de functie van de Schakelaar om één waarde in een modulegebied om te zetten in een andere. In deze oefening, verander de twee-letterige sleutel in de daadwerkelijke naam voor de status van de projectvooruitgang om in een e-mail te verzenden.
 
-![Schakelfunctie Afbeelding 1](../12-exercises/assets/switch-function-walkthrough-1.png)
+![Schakelen tussen functie Afbeelding 1](../12-exercises/assets/switch-function-walkthrough-1.png)
 
 ## Te volgen stappen
 

@@ -1,6 +1,6 @@
 ---
-title: Werken met JSON
-description: Leer JSON maken en parseren in een scenario dat uw ontwerpbehoeften ondersteunt.
+title: Werken met JSON-oefening
+description: Leer hoe u JSON kunt maken en parseren in een scenario dat uw ontwerpbehoeften ondersteunt.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-11056
 thumbnail: KT11056.png
+recommendations: noDisplay,noCatalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
-# Werken met JSON
+# Werken met JSON-oefening
 
-Leer JSON maken en parseren in een scenario dat uw ontwerpbehoeften ondersteunt.
+Leer hoe u JSON kunt maken en parseren in een scenario dat uw ontwerpbehoeften ondersteunt.
 
 ## Overzicht van oefening
 
@@ -75,7 +76,7 @@ Het doel van deze oefening is conceptueel te tonen hoe te om informatie te gebru
 1. Voor de lagere verpletterende weg, voeg een Samenvoeging aan module JSON toe.
 1. Voor de BronModule, kies iterator-Parse JSON module.
 1. Maak of kies een gegevensstructuur voor de gegevensstructuur. In dit voorbeeld gebruikt u Donut-gegevens.
-1. Voor dit voorbeeld kunt u de velden direct toewijzen, zoals hieronder wordt weergegeven.
+1. Voor dit voorbeeld kunt u de velden direct toewijzen, zoals hieronder wordt getoond.
 1. Wanneer u naar batter en topping gaat, ziet u dat dit arrays zijn. U moet dus op Item toevoegen klikken om de arrays toe te wijzen.
 
    ![Werken met json Image 8](../12-exercises/assets/working-with-json-walkthrough-8.png)

@@ -1,6 +1,6 @@
 ---
 title: Workfront Fusion-oefenbestanden instellen
-description: Leer hoe u de oefenbestanden downloadt en deze bestanden uploadt naar een map in Workfront, in [!DNL Adobe Workfront Fusion].
+description: Leer hoe u de oefenbestanden kunt downloaden en uploaden naar een map in Workfront, in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,8 +9,9 @@ role: User
 level: Beginner
 jira: KT-8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # Workfront Fusion-oefenbestanden instellen
 
-Leer hoe u uw Fusion-oefenbestanden instelt.
+Leer hoe u uw Fusion-inspanningsbestanden instelt.
 
 1. Download de [Fusion-inspanningsbestanden](/help/assets/fusion-exercise-files.zip).
 

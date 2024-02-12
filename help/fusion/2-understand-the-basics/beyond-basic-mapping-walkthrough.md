@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -29,9 +30,6 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 >[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on)
 
->[!TIP]
->
->Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Buiten basisanalyse van toewijzingen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) oefening.
 
 ## Uw beurt
 
@@ -51,7 +49,7 @@ Creeer een taak in elk project u als deel van de vorige analyse creeerde.
 * Stel de geplande uren in op 10% van de betrouwbaarheidsscore in uren.
 * Stel de taakbeperking zo snel mogelijk in.
 
-**Uitdaging:** Als de projectkleur rood is, wijst u de taak toe aan Rick Kuvec. Als de projectkleur geel is, wijs de taak aan Mary Smith toe. Als de projectkleur groen is, wijst u de taak toe aan Ida Blankenship.
+**Uitdaging:** Als de projectkleur rood is, wijst u de taak toe aan Rick Kuvec. Als de projectkleur geel is, wijs de taak aan Mary Smith toe. Als de projectkleur Groen is, wijs de taak aan Blankenship toe.
 
 ## Meer informatie? We raden het volgende aan:
 

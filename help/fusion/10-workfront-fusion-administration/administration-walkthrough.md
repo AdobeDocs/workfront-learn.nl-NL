@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -28,8 +29,8 @@ Leer tussen verschillende organisaties of teams te schakelen en gebruikers aan h
 In deze video leert u:
 
 * Hoe te tussen organisaties en teams te navigeren
-* Hoe te om teams tot stand te brengen
-* Hoe te om gebruikers aan een organisatie en een team uit te nodigen
+* Hoe te om teams te creëren
+* Gebruikers uitnodigen voor een organisatie en een team
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 

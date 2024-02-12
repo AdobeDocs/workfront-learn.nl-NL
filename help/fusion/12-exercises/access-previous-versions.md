@@ -1,6 +1,6 @@
 ---
-title: Eerdere versies openen
-description: Leer hoe te om aan een vorige versie van een scenario terug te keren. (Moet tussen 60 en 160 tekens lang zijn, maar is 56 tekens)
+title: Toegang tot vorige versies
+description: Leer hoe u naar een vorige versie van een [!UICONTROL Fusion] scenario.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11041
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
-# Eerdere versies openen
+# Toegang tot vorige versies
 
 Leer hoe te om aan een vorige versie van een scenario terug te keren.
 

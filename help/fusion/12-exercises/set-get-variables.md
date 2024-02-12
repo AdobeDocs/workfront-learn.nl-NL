@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-11045
 thumbnail: KT11045.png
+recommendations: noDisplay,noCatalog
 exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -57,7 +58,7 @@ Zoek informatie over een project in Workfront en verzend een e-mail met verwante
 
    Als u een fout op Lees een verslagmodule ontvangt, is het waarschijnlijk toe te schrijven aan de module van het Onderzoek die een project vindt zonder een sponsor vermeld.
 
-   **U voorkomt deze fout door twee paden te maken: één voor projecten met een sponsor-id en één voor projecten die dat niet doen.**
+   **Om deze fout te vermijden, creeer twee wegen: voor projecten die een sponsidentiteitskaart en voor projecten hebben die niet hebben.**
 
 1. Voeg een router tussen de twee modules toe door het moersleutelpictogram tussen de router en Gelezen een verslagmodule te klikken. Stel een filter met de naam &quot;Sponsor bestaat&quot; in en stel de voorwaarde in op Sponsor-id bestaat.
 
@@ -66,7 +67,7 @@ Zoek informatie over een project in Workfront en verzend een e-mail met verwante
 1. Klik de router om een andere weg tot stand te brengen. Voeg een module Een e-mailbericht verzenden vanuit de e-mailtoepassing toe.
 
    + Plaats uw eigen e-mailadres in het veld Aan.
-   + Typ in het veld Onderwerp &quot;Huidige projectinformatie&quot;.
+   + Typ in het veld Onderwerp de tekst &quot;Huidige projectinformatie&quot;.
    + Plaats de projectnaam, beschrijving en sponsor in het veld Inhoud.
    + U kunt de uitvoer van de naam van de sponsor niet ophalen uit de module Een record lezen. U kunt tot sponsidentiteitskaart van de onderzoeksmodule slechts toegang hebben vóór de router. U zult een manier moeten vinden om tot de sponsor naam van de andere routerweg toegang te hebben.
 

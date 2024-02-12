@@ -1,6 +1,6 @@
 ---
-title: Bezig met verkennen van reeksen, cycli en bundels
-description: Begrijp hoe de looppas, de cycli, en de bundels zich gebruikend de uitvoeringsgeschiedenis van een scenario gedragen.
+title: Bezig met verkennen van bewerkingen, cycli en bundelbewerkingen
+description: Begrijp hoe de looppas, de cycli, en de bundels zich het gebruiken van de uitvoeringsgeschiedenis van een scenario gedragen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-11050
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-# Bezig met verkennen van reeksen, cycli en bundels
+# Bezig met verkennen van bewerkingen, cycli en bundelbewerkingen
 
-Begrijp hoe de looppas, de cycli, en de bundels zich gebruikend de uitvoeringsgeschiedenis van een scenario gedragen.
+Begrijp hoe de looppas, de cycli, en de bundels zich het gebruiken van de uitvoeringsgeschiedenis van een scenario gedragen.
 
 ## Overzicht van oefening
 

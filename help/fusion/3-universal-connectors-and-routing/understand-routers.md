@@ -9,8 +9,9 @@ role: User
 level: Beginner
 jira: KT-9012
 exl-id: 38517856-094f-48e1-8930-ad0d27bec6ec
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -21,8 +22,8 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Welke routers zijn en waarom om hen te gebruiken
+* Welke routers zijn en waarom hen gebruiken
 * Hoe de bundels van gegevens onderaan routerwegen overgaan
-* Hoe te om routers toe te voegen en te gebruiken
+* Om routers toe te voegen en te gebruiken
 
 >[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on)

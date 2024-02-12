@@ -8,8 +8,9 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11036
+recommendations: noDisplay,noCatalog
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -32,6 +33,6 @@ Als u Workfront Fusion wilt gebruiken, klikt u op de knop [!UICONTROL Sign In] i
 
 Nadat u zich de eerste keer hebt aangemeld, wordt u gevraagd uw wachtwoord te wijzigen.
 
-Wanneer u zich hebt aangemeld, gaat u terug naar het andere e-mailbericht en klikt u op de knop [!UICONTROL Accept The Role] knop.
+Als u zich hebt aangemeld, gaat u terug naar het andere e-mailbericht en klikt u op de knop [!UICONTROL Accept The Role] knop.
 
 Als u dat doet, gaat u terug naar Workfront Fusion en vernieuwt u de pagina. U kunt nu uw team en de overzichtssecties in het linkerpaneel zien.

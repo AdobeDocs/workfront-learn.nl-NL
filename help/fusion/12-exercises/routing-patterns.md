@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-11044
 thumbnail: KT11044.png
+recommendations: noDisplay,noCatalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -30,7 +31,7 @@ Gebruik de Vastgestelde module van de Variabele om een aantal door veelvoudige w
 ## Te volgen stappen
 
 1. Creeer een nieuw scenario en noem het &quot;Verpletterend patronen en fallbacks&quot;.
-1. Voeg voor de trigger de module Variabele instellen toe. Zet &quot;Mijn Aantal&quot;voor de naam van de Variabele, verlaat het leven van de Variabele als Één cyclus, en plaats het gebied van de Variabele aan &quot;75.&quot;
+1. Voeg voor de trigger de module Variabele instellen toe. Zet &quot;Mijn Aantal&quot;voor de naam van de Variabele, verlaat de Veranderlijke levensduur als Één cyclus, en plaats het Variabele gebied aan &quot;75.&quot;
 
    ![Patroonpatroon, afbeelding 2](../12-exercises/assets/routing-patterns-walkthrough-2.png)
 

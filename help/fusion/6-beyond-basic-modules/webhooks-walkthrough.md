@@ -1,5 +1,5 @@
 ---
-title: Webhooks wandelen
+title: Webhooks doorlopen
 description: Leer hoe u een webhaak gebruikt om een app te maken om te bepalen of een klant oud genoeg is om alcohol te kopen, allemaal in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
@@ -9,29 +9,27 @@ role: User
 level: Beginner
 jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
 
-# Webhooks wandelen
+# Webhooks doorlopen
 
 Dit scenario leidt tot een gemakwinkel app zodat kunnen zij gemakkelijk bepalen al dan niet een klant oud genoeg is om alcohol te kopen. De kassier hoeft alleen de naam en geboortedatum van de klant EN een geverifieerde clienttoken te plaatsen in een URL die is opgegeven. Zodra ingegaan, zal dat ons scenario teweegbrengen om de aangewezen reactie te berekenen en het aan de aanvrager terug te keren.
 
 ![Een beeld gebruikend de schakelaarmodule](assets/beyond-basic-modules-5.png)
 
-## Webhooks wandelen
+## Webhooks doorlopen
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on)
 
->[!TIP]
->
->Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Webhooks wandelen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/webhooks.html?lang=en) oefening.
 
 ## Postman instellen
 
@@ -57,9 +55,9 @@ Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet 
 
 Maak een Workfront-webhaak die wacht op nieuwe updates die worden gemaakt en registreer vervolgens de datum, de naam van de persoon die de update heeft uitgevoerd en wat in de update staat. Stuur uzelf een e-mail met deze gegevens.
 
-**Tip**: Met de Workfront Watch Events-triggermodule kunt u uw webhaak maken. Ook in Workfront-updates worden notities genoemd.
+**Tip**: Gebruik de triggermodule Workfront Watch Events om uw webhaak te maken. Ook in Workfront-updates worden notities genoemd.
 
-**Uitdaging**: Kunt u de URL vinden en toevoegen waarvoor de update is gemaakt, zodat u deze eenvoudig kunt openen?
+**Uitdaging**: Kunt u de URL vinden en toevoegen waar de update is gemaakt, zodat u deze eenvoudig kunt openen?
 
 
 ## Meer informatie? We raden het volgende aan:

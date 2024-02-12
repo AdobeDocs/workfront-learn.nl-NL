@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-11048
 thumbnail: KT11048.png
+recommendations: noDisplay,noCatalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -56,7 +57,7 @@ Bel een webservice om details over meerdere landen te retourneren en de totale b
 
 1. Controleer het antwoord Parsen in het deelvenster Toewijzing en klik op OK.
 1. Wijzig de naam &quot;Landgegevens ophalen&quot;.
-1. Klik op Opslaan en voer vervolgens één keer uit.
+1. Klik op Opslaan en vervolgens eenmaal uitvoeren.
 
    + De output is informatie voor één enkel land.
 
@@ -89,6 +90,6 @@ Bel een webservice om details over meerdere landen te retourneren en de totale b
 
    ![Geavanceerde samenvoegingsafbeelding 8](../12-exercises/assets/advanced-aggregation-walkthrough-8.png)
 
-1. Sla het bestand op en voer het één keer uit.
+1. Sla het bestand op en voer het uit.
 
    + Controleer de uitvoer uit de uiteindelijke module.

@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-9060
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Werken met JSON-analyse
 
-Leer JSON maken en parseren in een scenario dat uw ontwerpbehoeften ondersteunt.
+Leer hoe u JSON kunt maken en parseren in een scenario dat uw ontwerpbehoeften ondersteunt.
 
 ![Een afbeelding van een Fusion-scenario](assets/final-functional-bits-and-bobs-2.png)
 
@@ -33,9 +34,6 @@ In deze video leert u hoe u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on)
 
->[!TIP]
->
->Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Werken met JSON-analyse](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/working-with-json.html?lang=en) oefening.
 
 
 ## Meer informatie? We raden het volgende aan:

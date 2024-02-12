@@ -1,6 +1,6 @@
 ---
 title: Gegevensstructuren
-description: Transformeer gegevens van een bronbestand naar een doelbestand. (Dit moet tussen 60 en 160 tekens lang zijn, maar mag niet langer zijn dan 58 tekens)
+description: Gegevens van een bronbestand omzetten in een doelbestand. (Dit moet tussen 60 en 160 tekens lang zijn, maar mag niet langer zijn dan 58 tekens)
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-11054
 thumbnail: KT11054.png
+recommendations: noDisplay,noCatalog
 exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
 
 # Gegevensstructuren
 
-Transformeer gegevens van een bronbestand naar een doelbestand.
+Gegevens van een bronbestand omzetten in een doelbestand.
 
 ## Overzicht van oefening
 
@@ -32,7 +33,7 @@ Open een CSV-bestand dat een lijst met tijdgegevens bevat. Deze tijdgegevens wor
 
 In dit scenario opent u een bestand dat een lijst bevat met tijdgegevens voor gewerkte minuten, zoals de datum en tijd, het aantal minuten dat is ingevoerd en het e-mailadres van wie de gegevens heeft ingevoerd. Er zijn 100 inzendingen, waarvan sommige door dezelfde individuen zijn gemaakt en sommige op dezelfde dag als andere.
 
-Als u een bestand wilt maken waarin de totale tijd in uren wordt weergegeven die elke dag door elk individu wordt gewerkt, gaat u als volgt te werk:
+Als u een bestand wilt maken waarin de totale tijd, in uren, die elke dag door elk individu wordt gewerkt, wordt weergegeven, gaat u als volgt te werk:
 
 1. Haal in de triggermodule een bestand op uit de Workfront-map. Download het bestand.
 1. In de eerste module CSV, ontleed de gegevens van de tijdingang aan output één bundel voor elke tijdingang. Dit is een iterator.
@@ -95,13 +96,13 @@ Als u een bestand wilt maken waarin de totale tijd in uren wordt weergegeven die
 
    ![Gegevensstructuren, afbeelding 8](../12-exercises/assets/data-structures-walkthrough-8.png)
 
-   **Vervolgens haalt u de waarden op die zijn ingesteld voor het uitvoerbestand. U wilt de userID en de datumwaarde die voor de groepen worden gebruikt. Je wilt ook de uren die berekend werden.**
+   **Vervolgens haalt u de ingestelde waarden op voor het uitvoerbestand. U wilt de userID en de datumwaarde die voor de groepen worden gebruikt. Je wilt ook de uren die berekend werden.**
 
 1. Voeg een andere module-CSV module toe gebruikend de aggregator creëren CSV (geavanceerd).
 1. De bronmodule is Tools - Numerieke aggregator.
 1. Klik op Toevoegen in het veld Gegevensstructuur en geef onze gegevensstructuur de naam &quot;Dagelijkse aangegeven tijd&quot;.
 1. Klik op Item toevoegen om het eerste item te maken.
-1. Geef het item de naam &quot;UserID&quot; en stel het type in op Text. Klik op Toevoegen.
+1. Geef het item de naam &quot;UserID&quot; en stel het type in op Text. Klik toevoegen.
 1. Klik nogmaals op Item toevoegen om het tweede item te maken.
 1. Geef het item de naam Datum, stel het type in op Datum en klik op Toevoegen.
 1. Klik nog een keer op Item toevoegen.

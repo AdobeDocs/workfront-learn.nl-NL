@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '2332'
+source-wordcount: '2351'
 ht-degree: 0%
 
 ---
@@ -384,50 +384,68 @@ ht-degree: 0%
 
    + De basisbeginselen begrijpen {#understand-the-basics}
       + [Eerste analyse van het scenario ontwerp](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
+      + [Initiële scenario-ontwerpexercitie](fusion/12-exercises/initial-scenario-design.md)
       + [Deelvenster Toewijzing en formule-editor](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
       + [Belangrijke notities in het deelvenster Toewijzing](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
       + [Buiten basisanalyse van toewijzingen](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
+      + [Buiten de basismapping](fusion/12-exercises/beyond-basic-mapping.md)
       + [Filters gebruiken](fusion/2-understand-the-basics/use-filters.md)
       + [Filters doorlopen](fusion/2-understand-the-basics/filters-walkthrough.md)
+      + [Filteroefening](fusion/12-exercises/filters.md)
       + [Toegang tot vorige versies, analyse](fusion/2-understand-the-basics/access-previous-versions-walkthrough.md)
+      + [Toegang tot vorige versies](fusion/12-exercises/access-previous-versions.md)
 
    + Universele schakelaars en het verpletteren {#universal-connectors-and-routing}
       + [Overzicht van oefeningen voor Universal-connectors](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [Inleiding aan universele connectors analyse](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
+      + [Inleiding tot universele aansluitingen](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [Begrijp routers](fusion/3-universal-connectors-and-routing/understand-routers.md)
       + [Routers doorlopen](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
+      + [Routers](fusion/12-exercises/routers.md)
       + [Gemeenschappelijke verpletterende patronen](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [Het verpletteren van patroonanalyse](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
+      + [Routeringspatronen](fusion/12-exercises/routing-patterns.md)
       + [Instellen en ophalen](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [Variabelen ophalen/instellen doorlopen](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
+      + [Variabelen instellen/ophalen](fusion/12-exercises/set-get-variables.md)
 
    + Iteratie en aggregatie {#iteration-and-aggregation}
       + [Inleiding tot iterators](fusion/4-iteration-and-aggregation/introduction-to-iterators.md)
       + [Inleiding aan iteratoranalyse](fusion/4-iteration-and-aggregation/introduction-to-iterators-walkthrough.md)
+      + [Inleiding tot iteratoroefening](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [Inleiding tot aggregaties](fusion/4-iteration-and-aggregation/introduction-to-aggregations.md)
       + [Samentellwalkthrough](fusion/4-iteration-and-aggregation/aggregation-walkthrough.md)
+      + [Samenvoeging](fusion/12-exercises/aggregation.md)
       + [Geavanceerde samenvoegingsanalyse](fusion/4-iteration-and-aggregation/advanced-aggregation-walkthrough.md)
+      + [Geavanceerde samenvoeging](fusion/12-exercises/advanced-aggregation.md)
 
    + Uitvoeringshistorie en planning {#execution-history-and-scheduling}
       + [Inleiding tot uitvoeringsgeschiedenis](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [Analyse van de uitvoeringshistorie](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
+      + [Uitvoeringshistorie](fusion/12-exercises/execution-history.md)
       + [Begrijp scenario het plannen](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [Run-cycli en -bundels uitbalanceren](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [Hiermee voert u cycli en doorloopstappen van bundels uit](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
+      + [Bezig met verkennen van bewerkingen, cycli en bundelbewerkingen](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
    + Buiten basismodules {#beyond-basic-modules}
       + [Bekend worden met extra apps en gemeenschappelijke modules](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [Omhoog schakelen](fusion/6-beyond-basic-modules/switch-it-up.md)
       + [Schakelen tussen functieanalyses](fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
+      + [Overschakelen van functies](fusion/12-exercises/switch-function.md)
       + [De moduleanalyse van de schakelaar](fusion/6-beyond-basic-modules/switch-module-walkthrough.md)
+      + [Oefening van module wisselen](fusion/12-exercises/switch-module.md)
       + [De wereld van de webhaak begrijpen](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Webhooks doorlopen](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
+      + [Webhaken-oefening](fusion/12-exercises/webhooks.md)
 
    + Gegevensstructuren en gegevensopslag {#data-structures-and-data-stores}
       + [Gegevensstructuren begrijpen](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
       + [Analyse van gegevensstructuren](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
+      + [Gegevensstructuren](fusion/12-exercises/data-structures.md)
       + [Gegevensopslag begrijpen](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [Analyse van gegevenswinkels](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
+      + [Uitoefening van gegevensopslag](fusion/12-exercises/data-stores.md)
 
    + Definitieve functionele bits en bommen {#final-functional-bits-and-bobs}
       + [Workfront-app doorloopt](fusion/8-final-functional-bits-and-bobs/workfront-app-walkthrough.md)
@@ -435,10 +453,12 @@ ht-degree: 0%
       + [Arrays walkthrough](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [JSON begrijpen in scenario&#39;s](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [Werken met JSON-analyse](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
+      + [Werken met JSON-oefening](fusion/12-exercises/working-with-json.md)
 
    + Problemen oplossen en fouten afhandelen {#troubleshooting-and-error-handling}
       + [Geavanceerde probleemoplossing met het hulpprogramma Dev](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
       + [Doorloop van gereedschap Dev](fusion/9-troubleshooting-and-error-handling/dev-tool-walkthrough.md)
+      + [Uitoefening van gereedschap Ontwerpen](fusion/12-exercises/devtool.md)
       + [Foutafhandeling](fusion/9-troubleshooting-and-error-handling/what-is-error-handling.md)
       + [Richtlijnen voor foutafhandeling begrijpen](fusion/9-troubleshooting-and-error-handling/understand-error-handling-directives.md)
       + [Fout bij afhandeling van analyse](fusion/9-troubleshooting-and-error-handling/error-handling-walkthrough.md)
@@ -455,27 +475,6 @@ ht-degree: 0%
       + [Toegankelijkheid en duidelijkheid](fusion/11-design-optimization-and-testing/accessibility-and-clarity.md)
       + [Scenario-instructies](fusion/11-design-optimization-and-testing/scenario-guardrails.md)
       + [Testen en starten](fusion/11-design-optimization-and-testing/testing-considerations.md)
-   + Uitoefening {#exercises}
-      + [Eerste scenario-ontwerp](fusion/12-exercises/initial-scenario-design.md)
-      + [Buiten de basismapping](fusion/12-exercises/beyond-basic-mapping.md)
-      + [Filters](fusion/12-exercises/filters.md)
-      + [Eerdere versies openen](fusion/12-exercises/access-previous-versions.md)
-      + [Inleiding tot universele aansluitingen](fusion/12-exercises/introduction-to-universal-connectors.md)
-      + [Routers](fusion/12-exercises/routers.md)
-      + [Routeringspatronen](fusion/12-exercises/routing-patterns.md)
-      + [Variabelen instellen/ophalen](fusion/12-exercises/set-get-variables.md)
-      + [Inleiding tot iterators](fusion/12-exercises/introduction-to-iterators-exercise.md)
-      + [Samenvoeging](fusion/12-exercises/aggregation.md)
-      + [Geavanceerde samenvoeging](fusion/12-exercises/advanced-aggregation.md)
-      + [Uitvoeringshistorie](fusion/12-exercises/execution-history.md)
-      + [Bezig met verkennen van loopcycli en bundels](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
-      + [Switch, functie](fusion/12-exercises/switch-function.md)
-      + [Switch-module](fusion/12-exercises/switch-module.md)
-      + [Webhaken](fusion/12-exercises/webhooks.md)
-      + [Gegevensstructuren](fusion/12-exercises/data-structures.md)
-      + [Gegevensopslag](fusion/12-exercises/data-stores.md)
-      + [Werken met JSON](fusion/12-exercises/working-with-json.md)
-      + [Gereedschap Dev](fusion/12-exercises/devtool.md)
 
 + Workfront Proof {#workfront-proof}
    + [Ontdek de voordelen van proefdrukken](workfront-proof/benefits-of-proofing-in-workfront.md)

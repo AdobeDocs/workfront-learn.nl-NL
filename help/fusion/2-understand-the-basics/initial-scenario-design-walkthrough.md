@@ -11,9 +11,9 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 7cd5e383310f48660955b9e953a7baf13530b105
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,6 @@ In deze video leert u hoe u:
 * Een basisscenario maken
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
-
-Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Analyse van eerste scenario-ontwerp](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en) oefening.
-
 
 
 ## Meer informatie? We raden het volgende aan:

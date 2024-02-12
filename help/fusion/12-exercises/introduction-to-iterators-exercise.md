@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11046
 thumbnail: KT11046.png
+recommendations: noDisplay,noCatalog
 exl-id: 8d751885-372a-4716-9542-079cc3d36caf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
 
-# Inleiding tot iterators
+# Inleiding tot iteratoroefening
 
 Leer hoe u apps van het type iteratie gebruikt en acties uitvoert op elke bundel van informatie.
 
@@ -34,7 +35,7 @@ Kijk naar een specifiek project in Workfront en bekijk dan alle taken binnen dat
 1. Start een nieuw scenario. Noem het &quot;Inleiding aan herhaling.&quot;
 1. Kies Workfront als de triggermodule. Een record lezen.
 1. Kies Project bij Recordtype.
-1. Kies Id, Naam en Beschrijving voor Output.
+1. Kies Id, Naam en Beschrijving voor Uitvoer.
 1. Op het gebied van identiteitskaart, zet projectidentiteitskaart van het project van ExhibitorsBooth van Northstar project van uw de testaandrijvingsinstantie van Workfront.
 1. Wijzig de naam van deze module &#39;WF-projecten zoeken&#39;.
 1. Voeg een andere Workfront-module toe om de taken met betrekking tot dit project te lezen. Kies de module Verwante records lezen.
@@ -47,9 +48,9 @@ Kijk naar een specifiek project in Workfront en bekijk dan alle taken binnen dat
 
    + Klik op de uitvoeringcontrole en u ziet één bundel als input (het project) en 28 bundels als output (de taken).
 
-   **Telling- en procesherhaalde bundels.**
+   **Aantal en proces herhaalde bundels.**
 
-1. Voeg een andere module toe na Gelezen Verwante Verslagen. Kies een module voor de knoppen voor de functie Toename.
+1. Voeg een andere module toe na Gelezen Verwante Verslagen. Kies een module voor de functiegereedschappen van Toename.
 
    + Laat het veld Een waarde opnieuw instellen op Nooit staan en klik op OK.
 

@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -31,9 +32,6 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 >[!VIDEO](https://video.tv.adobe.com/v/335296/?quality=12&learn=on)
 
->[!TIP]
->
->Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Analyse van gegevenswinkels](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-stores.html?lang=en) oefening.
 
 
 ## Slotopmerking

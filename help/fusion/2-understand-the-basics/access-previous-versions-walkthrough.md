@@ -1,6 +1,6 @@
 ---
-title: De toegang vorige versies analyse
-description: Ontdek hoe u eerdere versies kunt herstellen nadat u wijzigingen in uw scenario hebt aangebracht en deze hebt opgeslagen in [!DNL Adobe Workfront Fusion].
+title: Toegang tot vorige versies, analyse
+description: Ontdek hoe u vorige versies kunt herstellen nadat u veranderingen in uw scenario hebt aangebracht en hen bewaard in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,19 +9,20 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
-# De toegang vorige versies analyse
+# Toegang tot vorige versies, analyse
 
 In deze video zult u:
 
-* Ontdek hoe u eerdere versies kunt herstellen nadat u wijzigingen in uw scenario hebt aangebracht en meerdere keren hebt opgeslagen.
+* Ontdek hoe u vorige versies kunt herstellen nadat u wijzigingen in uw scenario hebt aangebracht en meerdere keren hebt opgeslagen.
 
 ## Toegang tot vorige versies doornemen
 
@@ -33,9 +34,6 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 >
 >Nadat u het scenario hebt opgeslagen, is er een nieuwe versie beschikbaar in het menu met drie punten voor toegang tot het scenario. Eerder opgeslagen versies van scenario&#39;s zijn slechts beschikbaar gedurende 60 dagen. Als u voor controledoeleinden toegang wilt krijgen tot eerdere versies na de 60 dagen, raadt Workfront aan een blauwdruk van uw scenario op te slaan en op een overeengekomen locatie te archiveren.
 
->[!TIP]
->
->Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [De toegang vorige versies analyse](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=en) oefening.
 
 ## Toevoegen aan uw terminologie
 

@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -28,10 +29,6 @@ Installeer en gebruik de verschillende gebieden in Workfront Dev Tool om een die
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on)
-
->[!TIP]
->
->Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Doorloop van gereedschap Dev](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/devtool.html?lang=en) oefening.
 
 
 ## Het gereedschap Ontwikkelen downloaden

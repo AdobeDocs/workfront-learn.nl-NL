@@ -1,5 +1,5 @@
 ---
-title: Gegevensopslag
+title: Uitoefening van gegevensopslag
 description: Leer hoe u bedrijfsnamen synchroniseert tussen twee systemen. (Dit moet tussen 60 en 160 tekens lang zijn, maar mag niet langer zijn dan 59 tekens)
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11055
 thumbnail: KT11055.png
+recommendations: noDisplay,noCatalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '904'
 ht-degree: 0%
 
 ---
 
-# Gegevensopslag
+# Uitoefening van gegevensopslag
 
 Leer hoe u bedrijfsnamen synchroniseert tussen twee systemen.
 
@@ -39,7 +40,7 @@ Dit is het eerste deel van een eenrichtingssynchronisatie van bedrijven in Workf
 1. Geef deze module de naam &quot;Get companies file&quot;.
 1. Voeg nu een Parse CSV-module toe.
 1. Typ 2 voor het veld Aantal kolommen.
-1. Wijs Gegevens van de het documentmodule van de Download op het Csv- gebied toe.
+1. Wijs Gegevens van de het documentmodule van de Download op het CSV gebied toe.
 1. Noem deze module &quot;Parse companies file.&quot;
 1. Sla uw scenario op en klik eenmaal op Uitvoeren.
 
@@ -66,7 +67,7 @@ Dit is het eerste deel van een eenrichtingssynchronisatie van bedrijven in Workf
 1. Wijzig de naam van deze module &quot;Overeenkomende bedrijven&quot;.
 1. Voeg een Workfront-zoekrecordmodule toe.
 1. Kies Bedrijf als recordtype.
-1. Zoekcriteria zijn de bedrijfsnaam in Workfront en zijn gelijk aan de bedrijfsnaam in het CSV-bestand.
+1. Zoekcriteria zijn de bedrijfsnaam in Workfront gelijk aan de bedrijfsnaam in het CSV-bestand.
 1. Selecteer voor uitvoer de bedrijfsnaam en de id.
 
    ![Gegevensopslag afbeelding 4](../12-exercises/assets/data-stores-walkthrough-4.png)
@@ -99,7 +100,7 @@ Dit is het eerste deel van een eenrichtingssynchronisatie van bedrijven in Workf
 
    **Verpletterend weg 2 - werk de gegevensopslag bij.**
 
-1. Creeer een filter op verpletterende weg 2. Geef deze de naam &#39;Niet in de gegevensopslag&#39;.
+1. Creeer een filter op het verpletteren van weg 2. Geef deze de naam &#39;Niet in de gegevensopslag&#39;.
 
 1. Plaats de Voorwaarde aan de Sleutel van de de opslagmodule van Gegevens en bestaat niet.
 

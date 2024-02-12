@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-11042
 thumbnail: KT11042.png
+recommendations: noDisplay,noCatalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -43,7 +44,7 @@ Gebruikend een karakter Pokemon in een spreadsheet, roep de Pijn API door een sc
    **Analyseer de verschepende manifestgegevens.**
 
 1. Voeg een andere module toe en selecteer CSV parseren.
-1. CSV-bestand parseren voor 11 kolommen. Controleer CSV bevat kopballen doos. Kies het komma delimiterType, en zet Gegevens van de module van het Document van de Download op het CSV gebied.
+1. CSV voor elf kolommen instellen. Controleer CSV bevat kopballen doos. Kies het komma delimiterType, en zet Gegevens van de module van het Document van de Download op het CSV gebied.
 
    ![Inleiding tot universele connectors Image 2](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-2.png)
 

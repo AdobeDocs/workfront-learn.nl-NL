@@ -1,5 +1,5 @@
 ---
-title: Eerste scenario-ontwerp
+title: Initiële scenario-ontwerpexercitie
 description: Leer enkele basistips voor navigatie voor wanneer u zich voor het eerst aanmeldt bij Workfront Fusion en voor het maken van uw eerste scenario.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+recommendations: noDisplay,noCatalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '978'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
 
-# Eerste scenario-ontwerp
+# Initiële scenario-ontwerpexercitie
 
 Leer enkele basistips voor navigatie voor wanneer u zich voor het eerst aanmeldt bij Workfront Fusion en voor het maken van uw eerste scenario.
 

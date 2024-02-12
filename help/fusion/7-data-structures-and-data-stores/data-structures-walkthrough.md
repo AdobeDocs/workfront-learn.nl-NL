@@ -1,5 +1,5 @@
 ---
-title: Analyse gegevensstructuren
+title: Analyse van gegevensstructuren
 description: Leer hoe u loggegevens uit één bestand kunt ophalen, transformeren en een nieuw bestand kunt maken met de getransformeerde gegevens in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
@@ -9,29 +9,27 @@ role: User
 level: Beginner
 jira: KT-9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# Analyse gegevensstructuren
+# Analyse van gegevensstructuren
 
 Open een CSV-bestand dat een lijst met tijdgegevens bevat. Deze tijdgegevens worden gedurende minuten vastgelegd door meerdere gebruikers. Het doel is deze informatie te nemen en een nieuwe CSV te produceren die de totale tijd, in uren toont, die door elke gebruiker, elke dag wordt geregistreerd.
 
 ![Een afbeelding van een Fusion-scenario](assets/data-structures-and-data-stores-1.png)
 
-## Analyse gegevensstructuren
+## Analyse van gegevensstructuren
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335294/?quality=12&learn=on)
 
->[!TIP]
->
->Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Analyse gegevensstructuren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/data-structures.html?lang=en) oefening.
 
 
 ## Meer informatie? We raden het volgende aan:

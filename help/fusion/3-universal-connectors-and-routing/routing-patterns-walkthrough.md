@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9015
 exl-id: 3ba15bf6-b296-4356-9974-1262c5d97602
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -28,10 +29,6 @@ Gebruik de Vastgestelde module van de Variabele om een aantal door veelvoudige w
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335274/?quality=12&learn=on)
-
->[!TIP]
->
->Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Het verpletteren van patroonanalyse](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routing-patterns.html?lang=en) oefening.
 
 
 ## Meer informatie? We raden het volgende aan:

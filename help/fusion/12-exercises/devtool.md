@@ -1,5 +1,5 @@
 ---
-title: Gereedschap Dev
+title: Uitoefening van gereedschap Ontwerpen
 description: Verbeter uw mogelijkheden om een scenario problemen op te lossen en complexe configuraties te verlichten gebruikend DevTool.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11057
 thumbnail: KT11057.png
+recommendations: noDisplay,noCatalog
 exl-id: 13080212-26cf-4e5f-8f0b-fc59a6f66eb1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '624'
 ht-degree: 0%
 
 ---
 
-# Gereedschap Dev
+# Uitoefening van gereedschap Ontwerpen
 
 Verbeter uw mogelijkheden om een scenario problemen op te lossen en complexe configuraties te verlichten gebruikend het Dev hulpmiddel.
 
@@ -49,7 +50,7 @@ Installeer en gebruik de verschillende gebieden in Workfront Dev hulpmiddel om d
    **Gebruik de live stream.**
 
 1. Begin door &quot;het Gebruiken van de Opslag van Gegevens aan synchronisatiegegevens&quot;scenario te openen.
-1. Open het gereedschap Dev door F12 of de functie F12 te typen. U kunt ook op het menu met drie punten in de adresbalk van Chrome klikken en naar Gereedschappen voor ontwikkelaars navigeren.
+1. Open het gereedschap Dev door F12 of de functie F12 te typen. U kunt ook op het menu met drie punten in de adresbalk van Chrome klikken en naar Developer Tools navigeren.
 
    ![Afbeelding 4 bewerken](../12-exercises/assets/navigate-to-devtools.png)
 
@@ -79,11 +80,11 @@ Installeer en gebruik de verschillende gebieden in Workfront Dev hulpmiddel om d
 + Module(s) zoeken door Toewijzing - zoek een scenario met een trefwoord om toegewezen waarden en/of sleutels in modules te zoeken.
 + App-metagegevens ophalen - Bekijk de metagegevens voor de geselecteerde app in een scenario.
 + Toewijzing kopiëren - kopieert toewijzingen van de ene module naar de andere. U kunt ook de module in de ontwerper klonen.
-+ Filter kopiëren - Hiermee wordt een filter gekopieerd. Het filter wordt altijd toegewezen aan de module op het recht is.
++ Filter kopiëren - kopieert een filter. Het filter wordt altijd toegewezen aan de module op het recht is.
 + Verbinding wisselen - Het gereedschap neemt de verbinding van de geselecteerde module en stelt dezelfde verbinding in met alle modules van dezelfde app in het scenario. Dit is nuttig als u de verbinding door een voltooid scenario moet veranderen. Met dit gereedschap kunt u voorkomen dat alle toewijzingen verloren gaan en tijd besparen.
 + Variabele wisselen - zoekt alle instanties van de opgegeven variabele in het hele scenario of in één module en vervangt deze door het nieuwe scenario. Jokertekens worden niet ondersteund. Als u per ongeluk een waarde door het volledige scenario in kaart hebt gebracht, kan dit u gemakkelijk voor de correcte waarde ruilen.
 + App wisselen - de opgegeven app wisselen voor een andere app.
 + Basis 64 - codeer de ingevoerde gegevens aan Base64 of decoder Base64. Nuttig wanneer u naar bepaalde gegevens in het gecodeerde verzoek wilt zoeken.
 + Naam van module kopiëren - kopieert de naam van de geselecteerde module naar het klembord.
 + Bron opnieuw toewijzen - Wijzig de toewijzingsbron van de ene module in een andere. U moet eerst de module aan gebruik als bronmodule aan de route in een scenario toevoegen.
-+ Migreren van besturingssysteem - speciaal gemaakt om Google Sheets-modules (verouderd) bij te werken naar de nieuwste Google Sheets-versie. Het voegt een nieuwe versie van de module net na de erfenisversie van de module in de scenario route toe.
++ Migratie van besturingssysteem - speciaal gemaakt om Google Sheets-modules (verouderd) bij te werken naar de nieuwste Google Sheets-versie. Het voegt een nieuwe versie van de module net na de erfenisversie van de module in de scenario route toe.

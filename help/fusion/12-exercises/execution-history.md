@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-11049
 thumbnail: KT11049.png
+recommendations: noDisplay,noCatalog
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -34,22 +35,22 @@ Herzie de uitvoeringsgeschiedenis voor het &quot;Gebruikend het machtige filter&
 
    ![Historie van uitvoering afbeelding 2](../12-exercises/assets/execution-history-walkthrough-2.png)
 
-1. Zoek een uitvoering en klik op de knop Details om een pagina te openen waarop de specifieke uitgevoerde (of niet uitgevoerde) bewerkingen in het rechterdeelvenster worden weergegeven. In het linkerpaneel, kunt u het scenario onderzoeken zoals het op het tijdstip van uitvoering was.
+1. Zoek een uitvoering en klik op de detailknop om een pagina te openen waarop de specifieke uitgevoerde (of niet uitgevoerde) bewerkingen in het rechterdeelvenster worden weergegeven. In het linkerpaneel, kunt u het scenario onderzoeken zoals het op het tijdstip van uitvoering was.
 
-   ![Afbeelding 3 van uitvoeringhistorie](../12-exercises/assets/execution-history-walkthrough-3.png)
+   ![Historie van uitvoering afbeelding 3](../12-exercises/assets/execution-history-walkthrough-3.png)
 
 1. Wanneer u op een module klikt in het deelvenster met scenario&#39;s, wordt een deelvenster met een modulecontrole weergegeven met informatie over de instellingen van de module. Klik op de uitvoeringcontrole naast een module of filter om te zien op welke bundels informatie werd uitgevoerd.
 
    ![Historie van uitvoering afbeelding 4](../12-exercises/assets/execution-history-walkthrough-4.png)
 
-   ![Afbeelding 5 van uitvoeringhistorie](../12-exercises/assets/execution-history-walkthrough-5.png)
+   ![Historie van uitvoering afbeelding 5](../12-exercises/assets/execution-history-walkthrough-5.png)
 
 
 1. Blader in het rechterdeelvenster door het logbestand Eenvoudig of klik erop om de details van de &#39;play-by-play&#39; van de uitvoering weer te geven.
 
    + U kunt zien wanneer de verrichtingen in modules werden voltooid en wanneer de bundels (of niet) door filters overgingen.
 
-   ![Afbeelding 6 van uitvoeringhistorie](../12-exercises/assets/execution-history-walkthrough-6.png)
+   ![Historie van uitvoering afbeelding 6](../12-exercises/assets/execution-history-walkthrough-6.png)
 
    + Klik op een logitem om het bewerkingspaneel in het deelvenster met scenario&#39;s te openen. De logboekbestanden worden in chronologische volgorde weergegeven van het tijdstip waarop ze zijn opgetreden.
 
@@ -59,4 +60,4 @@ Herzie de uitvoeringsgeschiedenis voor het &quot;Gebruikend het machtige filter&
 
 1. Het logbestand Geavanceerd bevat vergelijkbare informatie. Het biedt echter meer informatie over het aantal cycli dat per uitvoering is uitgevoerd en u kunt dieper graven in welke bundels informatie in elke cyclus zijn verwerkt.
 
-![Afbeelding 8 van uitvoeringhistorie](../12-exercises/assets/execution-history-walkthrough-8.png)
+![Historie van uitvoering afbeelding 8](../12-exercises/assets/execution-history-walkthrough-8.png)

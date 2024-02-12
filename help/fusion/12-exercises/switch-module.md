@@ -1,5 +1,5 @@
 ---
-title: Switch-module
+title: Oefening van module wisselen
 description: Begrijp hoe te om de module van de Schakelaar te gebruiken wanneer u complexere of dynamische gegevenstransformaties moet uitvoeren.
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11052
 thumbnail: KT11052.png
+recommendations: noDisplay,noCatalog
 exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-# Switch-module
+# Oefening van module wisselen
 
 Begrijp hoe te om de module van de Schakelaar te gebruiken wanneer u complexere of dynamische gegevenstransformaties moet uitvoeren.
 
@@ -33,7 +34,7 @@ Zoek naar direct-mailprojecten in uw testaandrijving, dan verander de naam van e
 1. Gebruik de zoekmodule van Workfront voor de triggermodule.
 1. Stel uw Workfront-verbinding in en stel het recordtype in op Project.
 1. In de criteria van het Onderzoek, specificeer dat u slechts projecten wilt zien die een waarde op het de douaneveld van het Kanaal hebben.
-1. Selecteer voor uitvoer de optie Id, Naam, Referentienummer en het aangepaste veld Kanaal.
+1. Voor output, uitgezochte identiteitskaart, Naam, het Aantal van de Verwijzing, en het de douaneveld van het Kanaal.
 
    ![Switch module Image 2](../12-exercises/assets/switch-module-walkthrough-2.png)
 

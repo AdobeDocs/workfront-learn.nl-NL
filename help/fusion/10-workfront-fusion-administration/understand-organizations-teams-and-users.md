@@ -9,8 +9,9 @@ role: User
 level: Beginner
 jira: KT-9068
 exl-id: d7b08769-aeca-4b4e-b04c-96472c8ae476
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
@@ -21,6 +22,6 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Hoe te om te gebruiken, tot stand te brengen, en tussen organisaties, teams, en gebruikers te navigeren
+* Hoe te om te gebruiken, te creëren, en tussen organisaties, teams, en gebruikers te navigeren
 
 >[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on)

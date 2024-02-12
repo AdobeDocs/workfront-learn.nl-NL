@@ -8,17 +8,18 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+recommendations: noDisplay,noCatalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
 
 # Overzicht van Workfront Fusion-training
 
-Elke sectie van de Fusie van Workfront bevat veelvoudige leerprogramma&#39;s, met elke zelfstudie die concepten presenteert u zult moeten begrijpen alvorens aan de volgende zelfstudie over te gaan. Een analyse oefening helpt u de meeste concepten master.
+Elke sectie van de Fusie van Workfront bevat veelvoudige leerprogramma&#39;s, met elke zelfstudie die concepten presenteert u zult moeten begrijpen alvorens aan de volgende leerprogramma&#39;s over te gaan. Een analyse oefening helpt u de meeste concepten beheersen.
 
 De video&#39;s tonen u hoe te om elke analyse te voltooien oefening, die gewoonlijk in het creëren van een nieuw scenario van de Fusie van Workfront resulteert. Dan kunt u de oefening in uw eigen milieu van de Fusie van Workfront voltooien, toevoegend aan uw eigen inzameling van scenario&#39;s.
 
@@ -34,7 +35,7 @@ In sommige zelfstudies maakt u een geheel nieuw scenario. In andere zelfstudies 
 
 Als u de oefeningen in de Workfront Fusion-leerpaden wilt voltooien, hebt u een Workfront-teststation nodig. Als u al een testaandrijving hebt, adviseren wij nieuwe voor deze opleiding.
 
-Een praktijkomgeving aanvragen door deze in te vullen [dit formulier](https://forms.office.com/r/f1J8HRGrNY). Als u het formulier niet kunt openen, stuurt u uw naam, e-mailadres en bedrijfsnaam naar wfttstdr@adobe.com.
+Een praktijkomgeving aanvragen door deze in te vullen [dit formulier](https://forms.office.com/r/f1J8HRGrNY). Als u geen toegang hebt tot het formulier, stuurt u uw naam, e-mailadres en bedrijfsnaam naar wfttstdr@adobe.com.
 
 ### Toegang tot Workfront Fusion for Pracsion
 
@@ -44,7 +45,7 @@ Workfront biedt geen Workfront Fusion-teststations. Als u de zelfstudies wilt ui
 
 Er zijn geleidelijke instructies bij de voltooiing van de walkthrough oefeningen. U kunt tot deze van de linkernavigatiebar onder Fusie > Oefeningen toegang hebben, of de verbinding gebruiken die bij de bodem van een analyseleerprogramma wordt verstrekt.
 
-### Optionele praktijkoefeningen
+### Optionele oefeningen
 
 De oefeningen en de uitdagingen van de praktijk worden verstrekt na sommige walkthrough oefeningen.
 

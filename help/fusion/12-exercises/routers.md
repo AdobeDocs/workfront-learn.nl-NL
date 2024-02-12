@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
+recommendations: noDisplay,noCatalog
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '755'
 ht-degree: 0%
 
 ---

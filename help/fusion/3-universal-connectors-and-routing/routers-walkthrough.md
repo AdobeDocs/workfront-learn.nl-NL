@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '853'
 ht-degree: 0%
 
 ---
@@ -37,16 +38,13 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 Als u moeite hebt om uw eigen superheldtoken te openen, kunt u dit gedeelde token gebruiken: 10110256647253588. Houd rekening met het aantal keren dat u de superheld-API aanroept, zodat dit gedeelde token voor iedereen blijft werken.
 
->[!TIP]
->
->Voor geleidelijke instructies bij de voltooiing van de analyse, ga naar [Routers doorlopen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routers.html?lang=en) oefening.
 
 
 ## Items zoeken in het deelvenster Toewijzing
 
 Met het veld Zoeken-items boven aan de deelvensters met toewijzingen kunt u snel velden in het deelvenster zoeken, zelfs als deze in arrays zijn genest. De zoekopdracht is niet hoofdlettergevoelig.
 
-![Een afbeelding van het eerste deelvenster met zoekopdrachten](assets/universal-connectors-and-routing-3.png)
+![Een afbeelding van het eerste zoekdeelvenster](assets/universal-connectors-and-routing-3.png)
 
 ![Een afbeelding van het tweede deelvenster Zoeken](assets/universal-connectors-and-routing-4.png)
 
@@ -54,7 +52,7 @@ Met het veld Zoeken-items boven aan de deelvensters met toewijzingen kunt u snel
 
 Tot dit punt, hebt u met zeer eenvoudige API (de Interface van de Programmering van de Toepassing) gewerkt die geen extra authentificatie vereist om informatie nodig in het scenario te trekken. Hier volgen enkele tips voor het navigeren met API&#39;s en universele connectors.
 
-## Stap 1: Het type API bepalen
+## Stap 1: Bepaal het type API
 
 Workfront en veel softwaresystemen zijn gebouwd met behulp van de REST-API (Representational State Transfer), het eenvoudigste en meest standaard type API dat momenteel wordt gebruikt. Er zijn echter een paar andere, zoals:
 
@@ -67,11 +65,11 @@ Workfront en veel softwaresystemen zijn gebouwd met behulp van de REST-API (Repr
 >
 >Wanneer u verbinding maakt met grotere platforms, zoals Salesforce, bieden verschillende onderdelen van die platforms verschillende API&#39;s. Zorg ervoor u juiste voor de dienst vindt u wilt verbinden met.
 
-## Stap 2: Het type verificatie bepalen dat door de API wordt vereist
+## Stap 2: Bepaal het type verificatie dat door de API wordt vereist
 
 API-verificatie is een vorm van identificatie die wordt gebruikt om de toegang tot een service te regelen, bijvoorbeeld wanneer u verbinding probeert te maken via Workfront Fusion. Het helpt u aan een ander systeem bewijzen dat u gemachtigd bent om tot het systeem toegang te hebben. OAuth 2 is het gemeenschappelijkste type van authentificatie die vandaag wordt gebruikt. Meer informatie vindt u met een internetzoekopdracht over API-verificatie.
 
-Verificatie kan het moeilijkste aspect zijn van het werken met een API. Een van de meest waardevolle functies van de universele connectors van Workfront Fusion is dat Workfront Fusion verificatie voor u kan afhandelen bij het gebruik van veelgebruikte verificatiemethoden zoals basisverificatie, zoals OAuth 2, API Key en andere. Zodra u een verbinding gebruikend de aangewezen module van de Fusie van Workfront voor uw authentificatiemethode (b.v. OAuth 2) creeert, zal de Fusion van Workfront voortdurend API sleutels en/of tokens produceren telkens als u uw scenario wilt in werking stellen.
+Verificatie kan het moeilijkste aspect zijn van het werken met een API. Een van de meest waardevolle functies van de universele connectors van Workfront Fusion is dat Workfront Fusion verificatie voor u kan afhandelen bij het gebruik van veelgebruikte verificatiemethoden zoals basisverificatie, zoals OAuth 2, API Key en andere. Zodra u een verbinding gebruikend de aangewezen module van de Fusie van Workfront voor uw authentificatiemethode (b.v. OAuth 2) creeert, zal de Fusion van Workfront voortdurend API sleutels en/of tekenen produceren telkens als u uw scenario wilt in werking stellen.
 
 Meer informatie over de verschillende verificatietypen die Workfront biedt in het artikel met uitgebreide verificatieoverzichten op Experience League.
 

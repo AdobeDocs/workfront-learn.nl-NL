@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Wat is &quot;scenario optimalisering&quot;en wat kunt u doen om uw scenario&#39;
 
 De optimalisering van het scenario is een geoefende vaardigheid die tijd en toewijding vergt om zich te ontwikkelen. Uw eerste poging om een scenario voor een bedrijfsresultaat te bouwen zou niet uw laatste moeten zijn. Scenario&#39;s moeten vanaf de eerste dag worden herhaald totdat uw integratie wordt gestart. Zelfs nadat u lanceert, zouden de scenario&#39;s door hun levensduur moeten worden herzien en worden bijgewerkt om gelijke tred te houden met zaken en gedragsveranderingen.
 
-Scenario&#39;s vereisen onderhoud. Workfront Fusion-ontwikkelaars moeten regelmatig over de mogelijkheid beschikken om scenario&#39;s te evalueren voor mogelijkheden om te herbouwen, te herstructureren of te optimaliseren. Workfront Fusion-scenario&#39;s hebben regelmatig aandacht, onderhoud en onderhoud nodig.
+Scenario&#39;s vereisen onderhoud. Workfront Fusion-ontwikkelaars moeten regelmatig over de mogelijkheid beschikken om scenario&#39;s voor mogelijkheden voor heropbouw, herstructurering of optimalisatie te evalueren. Workfront Fusion-scenario&#39;s hebben regelmatig aandacht, onderhoud en onderhoud nodig.
 
 In deze video leert u hoe u:
 

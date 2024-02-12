@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Drie kernbegrippen waaruit Workfront Fusion bestaat: scenario&#39;s, apps en modules
+* Drie kernconcepten waaruit Workfront Fusion bestaat: scenario&#39;s, apps en modules
 
 >[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on)
 
@@ -39,7 +40,7 @@ Veel Workfront Fusion-gebruikers bereiken een punt waar ze denken aan alle syste
 
 De eenvoudigste manier om te bepalen of Workfront Fusion een vooraf gebouwde connector heeft, is om de functie App toevoegen te gebruiken en een app op naam te zoeken. U kunt ook de [Apps en modules daarvan](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) artikel over Experience League voor een lijst met toepassingen waarmee Workfront Fusion verbinding kan maken.
 
-Connectors zijn niet beperkt tot de apps in dit artikel. Als de app waarmee u wilt werken geen vooraf gebouwde aansluiting heeft, kunt u deze modules gebruiken om rechtstreeks verbinding te maken met de webservice:
+Connectors zijn niet alleen beperkt tot de apps in dit artikel. Als de app waarmee u wilt werken geen vooraf gebouwde aansluiting heeft, kunt u deze modules gebruiken om rechtstreeks verbinding te maken met de webservice:
 
 * HTTP-modules
 * SOAP-module

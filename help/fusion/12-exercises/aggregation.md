@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-11047
 thumbnail: KT11047.png
+recommendations: noDisplay,noCatalog
 exl-id: 4626b623-8b05-41be-9cfc-917e28222855
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -33,7 +34,7 @@ Gebruikend het &quot;Inleiding aan herhaling&quot;scenario u in de laatste oefen
 
 1. Kloon het &quot;Inleiding aan herhaling&quot;scenario u in de vorige oefening creeerde, en noem het &quot;Inleiding aan samenvoeging.&quot;
 1. Voeg een filter tussen de Gelezen module van Taken van het Project en de Telling toe # van takenmodule. Geef het filter de naam &quot;Alleen werktaken&quot;.
-1. De voorwaarde instellen op Aantal onderliggende items [Numerieke operator: Gelijk aan] 0.
+1. De voorwaarde instellen op Aantal onderliggende items [Numerieke operator: gelijk aan] 0.
 
    ![Samengevoegde afbeelding 2](../12-exercises/assets/aggregation-walkthrough-2.png)
 
@@ -58,6 +59,6 @@ Gebruikend het &quot;Inleiding aan herhaling&quot;scenario u in de laatste oefen
 
    ![Samengevoegde afbeelding 5](../12-exercises/assets/aggregation-walkthrough-5.png)
 
-1. Sla het bestand op en voer het één keer uit. Zoek de e-mail in uw Postvak IN.
+1. Sla het bestand op en voer het uit. Zoek de e-mail in uw Postvak IN.
 
 Binnen de iteratie zijn de afzonderlijke bundels toegankelijk. Maar buiten de iteratie, in Send een e-mailmodule, kunnen slechts de samengevoegde gebieden worden betreden.
