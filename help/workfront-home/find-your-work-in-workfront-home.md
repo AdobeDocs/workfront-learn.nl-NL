@@ -1,7 +1,7 @@
 ---
 title: Werktoewijzingen zoeken in [!UICONTROL Home]
 description: Leer hoe u inkomende en bestaande taken kunt vinden die aan u zijn toegewezen in [!UICONTROL  ]. Controleer vervolgens de toewijzingsgegevens.
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%

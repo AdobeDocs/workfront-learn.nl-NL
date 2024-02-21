@@ -3,7 +3,7 @@ title: Verzoeken zoeken en beheren
 description: Leer hoe u dashboards kunt gebruiken, [!UICONTROL Home]de [!UICONTROL Requests] en de [!UICONTROL Teams] pagina om inkomende verzoeken te vinden die door een verzoekrij worden gemaakt.
 activity: use
 team: Technical Marketing
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: 3422686.jpg
 type: Tutorial
 role: User
@@ -11,9 +11,9 @@ level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
