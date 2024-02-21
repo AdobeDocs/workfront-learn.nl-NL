@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: e17c8cafba5b0829c4bed987a5dad14ecbcb7eaf
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -24,14 +24,15 @@ ht-degree: 0%
 >
 >Vereisten:
 >
->* Rapporteringselementen begrijpen
+>* Informatie over rapporteringselementen
 >* Rapportonderdelen begrijpen
 >* Een basisfilter maken
 
 >[!TIP]
 >
->* Voor een beter begrip van de tekstmodus raden we u aan de opgenomen webinar-gebeurtenis te bekijken [Vraag het de Expert - Inleiding aan de Rapportering van de Wijze van de Tekst](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), wat een uur lang is.
+>* Voor een beter begrip van de tekstmodus raden we u aan de opgenomen webinar-gebeurtenis te bekijken [Vraag de expert - Inleiding aan de Rapportering van de Wijze van de Tekst](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), wat een uur lang is.
 >* Als u nog meer wilt weten over de tekstmodus, raden we u aan de [Geavanceerde rapportage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) zelfstudies, die samen 5,5 uur lang zijn.
+>* Klik hier voor toegang [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
 
 In deze video leert u:
