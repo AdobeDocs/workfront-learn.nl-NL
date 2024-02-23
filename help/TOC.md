@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '2351'
+source-wordcount: '2348'
 ht-degree: 0%
 
 ---
@@ -269,7 +269,7 @@ ht-degree: 0%
       + [Looptijd van beheer van hulpbronnen](manage-resources/resource-management/resource-management-maturity.md)
       + [Bronbeheerinstellingen voor projecten](manage-resources/resource-management/settings-for-projects.md)
       + [Bronbeheerinstellingen voor gebruikers](manage-resources/resource-management/settings-for-users.md)
-      + [Instellingen voor beheer van bronnen, werklastbalans en gebruiksrapport](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+      + [Bronbeheerinstellingen, Workload Balancer en Use Output](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + Werklastverdeling {#workload-balancer}
       + [De werklastbalans zoeken](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -558,7 +558,7 @@ ht-degree: 0%
       + [Beheer van bedrijfsmiddelen als contribuant begrijpen](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [Begrijp het vinden van activa als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [Lichtbakken begrijpen als auteur](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [De beste werkwijzen voor metagegevens en trefwoorden als contribuant begrijpen](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [De beste werkwijzen voor metagegevens en trefwoorden](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Werken met elementen als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Een bestand verzenden als contribuant](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [Elementen publiceren als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -638,7 +638,7 @@ ht-degree: 0%
    + [Systeemprestaties en -onderhoud](best-practices/system-performance-maintenance-bp.md)
    + [Rapportage tekstmodus](best-practices/test-mode-reporting-bp.md)
    + [Tijdlijnplanning en -beheer](best-practices/timeline-planning-management-bp.md)
-   + [Tijdschema&#39;s en aanmeldtijd](best-practices/timesheets-logging-time-bp.md)
+   + [Timesheets en logboektijd](best-practices/timesheets-logging-time-bp.md)
    + [Gebruik](best-practices/utilization-bp.md)
    + [Workfront-doelen](best-practices/workfront-goals-bp.md)
    + [Werklastverdeling](best-practices/workload-balancer-bp.md)

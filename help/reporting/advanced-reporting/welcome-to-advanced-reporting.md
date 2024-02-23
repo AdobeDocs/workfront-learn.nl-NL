@@ -10,9 +10,9 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Drie zelfstudies vormen de Geavanceerde rapportering. Het zijn geavanceerde rapp
 
 Naast de video&#39;s die u wilt downloaden, gaat u naar [Geavanceerde rapporthandleiding](/help/assets/advanced-reporting-manual.pdf) voor referentie en oefeningen.
 
-**Geavanceerd rapportagedeel 1** bevat een overzicht van het aanmaken van rapporten, een inleiding tot [!UICONTROL API explorer] en de tekstmodus, en een diepgaand onderzoek naar de tekstmodusfilters.
+**Geavanceerd rapporteringsdeel 1** bevat een overzicht van het aanmaken van rapporten, een inleiding tot [!UICONTROL API explorer] en de tekstmodus, en een diepgaand onderzoek naar de tekstmodusfilters.
 
 **Geavanceerd rapportagedeel 2** bevat een diepgaande studie van de meningen van de tekstwijze, extra details over de structuur van tekstwijze, berekende douanegegevens, en berekende kolommen.
 
@@ -39,7 +39,13 @@ Voordat u deze zelfstudies kunt bekijken, hebt u het volgende nodig:
 * Een goed begrip van de objecten die u wilt opnemen in rapporten.
 * Goed inzicht in het gebruik van aangepaste formulieren, vooral berekende aangepaste velden.
 * A [!UICONTROL Plan] licentietype met rechten voor het maken van rapporten en filters ingeschakeld.
-* U had de [[!UICONTROL Basic Reporting Elements]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html) de [[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html) en de [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html) cursus.
+* U had deze cursussen moeten volgen:
+   * [[!UICONTROL Basic Reporting Elements]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
+   * [[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
+   * [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
+* U had ook de volgende zelfstudies moeten volgen:
+   * [[!UICONTROL Understand basic text mode for views]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en)
+   * [[!UICONTROL Understand basic text mode for groupings]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en)
 
 ## Doelgroep
 

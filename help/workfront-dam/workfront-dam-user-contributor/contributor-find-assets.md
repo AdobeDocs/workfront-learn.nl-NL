@@ -1,6 +1,6 @@
 ---
-title: Middelen zoeken en ordenen in [!UICONTROL Workfront DAM]
-description: Leer hoe u naar elementen kunt zoeken, in mappen kunt zoeken, zoekresultaten kunt stroomlijnen, metagegevens en trefwoorden kunt gebruiken als zoekfilters en meer in [!UICONTROL Workfront DAM].
+title: Begrijp het vinden van activa als contribuant
+description: Leer hoe u naar elementen kunt zoeken, in mappen kunt zoeken, zoekresultaten kunt stroomlijnen, metagegevens en trefwoorden kunt gebruiken als zoekfilters in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
-# Medewerker: zoeken, middelen
+# Begrijp het vinden van activa als contribuant
 
 In deze video leert u hoe u:
 
@@ -46,7 +46,7 @@ Als u een gedeeltelijke overeenkomst wilt zoeken, voegt u een sterretje toe aan 
 
 ### AND, operator
 
-Als u resultaten wilt zoeken die meerdere zoektermen bevatten, voert u AND tussen de woorden in. De woorden staan in willekeurige volgorde. Wanneer u in alle velden zoekt, zijn beide woorden mogelijk niet in hetzelfde veld aanwezig. Parijs EN toren zullen bijvoorbeeld middelen vinden die beide woorden in een van de velden hebben.
+Als u resultaten wilt zoeken die meerdere zoektermen bevatten, voert u AND tussen de woorden in. De woorden kunnen in om het even welke orde worden gevonden. Wanneer u in alle velden zoekt, zijn beide woorden mogelijk niet in hetzelfde veld aanwezig. Parijs EN toren zullen bijvoorbeeld middelen vinden die beide woorden in een van de velden hebben.
 
 ### OR, operator
 
@@ -54,7 +54,7 @@ Gebruik de operator OR om te zoeken naar elementen die een van de zoektermen bev
 
 ### Woorden
 
-Als u een exacte woordgroep wilt zoeken, gebruikt u dubbele aanhalingstekens om de woorden. Alle woorden worden op volgorde gevonden. Met &quot;Eiffeltoren&quot; vindt u deze woorden bijvoorbeeld in de exacte volgorde.
+Als u een exacte woordgroep wilt zoeken, gebruikt u dubbele aanhalingstekens om de woorden. Alle woorden worden samen en op volgorde gevonden. Met &quot;Eiffeltoren&quot; vindt u deze woorden bijvoorbeeld in de exacte volgorde.
 
 ### Negatieve operator
 
@@ -62,4 +62,4 @@ Als u een woord wilt uitsluiten van de zoekresultaten, plaatst u een minteken (-
 
 ### operator voor leeg veld
 
-Als u elementen wilt zoeken die geen informatie bevatten in een specifiek metagegevensveld, voert u het veld dat u wilt zoeken in deze indeling in: ?[xxxxx]. Als u bijvoorbeeld elementen wilt zoeken waaraan geen trefwoorden zijn toegewezen, voert u in?[trefwoord] in het zoekveld.
+Als u elementen wilt zoeken die geen informatie bevatten in een specifiek metagegevensveld, voert u het veld dat u wilt zoeken in de volgende indeling in: ?[xxxxx]. Bijvoorbeeld, als u activa wilt vinden die geen toegewezen sleutelwoorden hebben, ga binnen?[trefwoord] in het zoekveld.

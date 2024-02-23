@@ -1,5 +1,5 @@
 ---
-title: Instellingen voor resourcebeheer, Workload Balancer en Utilizat... (Titels mogen niet meer dan 60 tekens bevatten)
+title: Bronbeheerinstellingen, Workload Balancer en Use Output
 description: Leer hoe u resourcemanagers met de juiste toegang instelt en hoe u het werklastverdelingsrapport en het gebruiksrapport bekijkt.
 feature: Resource Management
 type: Tutorial
@@ -10,16 +10,16 @@ team: Technical Marketing
 thumbnail: setups-utillization-report.png
 jira: KT-10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# Instellingen voor beheer van bronnen, werklastbalans en gebruiksrapport
+# Instellingen voor hulpbronnenbeheer, werklastverdeling en gebruiksrapport
 
-[!DNL Workfront] biedt gegevens aan over meerdere gereedschappen in [!DNL Workfront], zodat u eenvoudiger kunt beslissen over uw bronnen en uw processen vloeiender verlopen. Als u wilt zien wat er met uw bronnen gebeurt, moet u ervoor zorgen dat uw managers, gebruikers en projecten op de juiste wijze zijn geconfigureerd. Deze configuraties zijn handig, zelfs als u niet van plan bent om alle [!DNL Workfront’s] hulpmiddelen voor resourcebeheer.
+[!DNL Workfront] biedt gegevens aan over meerdere gereedschappen in [!DNL Workfront], zodat u eenvoudiger kunt beslissen over uw bronnen en uw processen vloeiender verlopen. Om te zien wat er gebeurt met uw middelen, zou u uw managers, uw gebruikers, en uw projecten moeten ervoor zorgen behoorlijk worden gevormd. Deze configuraties zijn nuttig zelfs als u niet bij het gebruiken van elk van [!DNL Workfront's] hulpmiddelen voor resourcebeheer.
 
 In deze sectie leert u:
 
@@ -28,7 +28,7 @@ In deze sectie leert u:
 
 ## Instellingen voor beheer van bronnen
 
-Laten we beginnen met ervoor te zorgen dat de juiste mensen toegang hebben tot de bronnen van uw organisatie en deze kunnen beheren.
+Laten we beginnen met ervoor te zorgen dat de juiste mensen toegang hebben tot en de middelen van uw organisatie kunnen beheren.
 
 &lt;!Download the guide for step-by-step instructions.&gt;
 

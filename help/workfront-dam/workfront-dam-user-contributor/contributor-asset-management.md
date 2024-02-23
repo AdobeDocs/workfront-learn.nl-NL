@@ -1,5 +1,5 @@
 ---
-title: Leer hoe u elementen beheert in [!UICONTROL Workfront DAM]
+title: Beheer van bedrijfsmiddelen als contribuant begrijpen
 description: Leer hoe u elementen beheert in [!UICONTROL Workfront DAM] om uw workflow te verbeteren.
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
-# Medewerker: middelenbeheer
+# Beheer van bedrijfsmiddelen als contribuant begrijpen
 
 In deze video leert u hoe u:
 
@@ -38,10 +38,10 @@ Een deel van uw werkschema kan het beheren van veelvoudige versies-of ronden, pr
 
 Het systeem maakt automatische versiebeheer van elementen mogelijk wanneer een bestand met dezelfde naam als een bestaand bestand naar dezelfde map wordt geüpload. Neem contact op met de systeembeheerder om te zien of deze functionaliteit is ingeschakeld.
 
-Als de automatische versiebesturing is ingeschakeld, wordt een element alleen versierd als het wordt geladen in de map die het oorspronkelijke element bevat. Beide elementen moeten dezelfde bestandsnaam hebben. Als het element in een andere map wordt geladen, wordt het element als een nieuw bestand ingevoerd.
+Als de automatische versiecontrole wordt aangezet, zal een activa slechts versie als het in de omslag wordt geladen die het originele element houdt. Beide elementen moeten dezelfde bestandsnaam hebben. Als het element in een andere map wordt geladen, wordt het element als een nieuw bestand ingevoerd.
 Als versiebeheer niet is ingeschakeld, wordt een bestand met dezelfde naam als een bestaand bestand geüpload als een nieuw bestand, ongeacht de map waarin het bestand is geplaatst. Dit kan ertoe leiden dat twee elementen met dezelfde naam in dezelfde map staan.
 
-U kunt ook handmatig versies van een bepaald element uploaden. Klik op het bewerkingspictogram op het element en selecteer vervolgens **[!UICONTROL Upload new version]**.
+U kunt ook handmatig versies van een bepaald element uploaden. Klik op het pictogram Bewerken op het element en selecteer vervolgens **[!UICONTROL Upload new version]**.
 
 Als u middelen publiceert met versies naar Brand Connect, ziet de gebruiker van Brand Connect alleen de nieuwste versie van het middel.
 

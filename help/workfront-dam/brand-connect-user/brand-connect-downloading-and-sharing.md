@@ -1,5 +1,5 @@
 ---
-title: Leer hoe u lichtbakken kunt downloaden en delen
+title: Downloaden en delen als gebruiker begrijpen
 description: Leer hoe u lichtbakken en middelen downloadt en deelt in Brand Connect van [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Merk verbinden: Lichtbakken downloaden en delen
+# Downloaden en delen als gebruiker begrijpen
 
 In deze video leert u hoe u:
 

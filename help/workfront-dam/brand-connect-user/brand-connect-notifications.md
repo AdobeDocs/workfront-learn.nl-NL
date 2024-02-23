@@ -1,5 +1,5 @@
 ---
-title: Meldingsinstellingen wijzigen in Brand Connect
+title: Meldingen over merk Connect begrijpen
 description: Leer hoe u meldingen in de app weergeeft, uw meldingsinstellingen wijzigt en een adresboek maakt in Brand Connect van [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8988
 exl-id: a7f79d27-c9e1-4a27-9757-a3bf6299b794
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# Merk verbinden: meldingen
+# Meldingen over merk Connect begrijpen
 
 In deze video leert u hoe u:
 

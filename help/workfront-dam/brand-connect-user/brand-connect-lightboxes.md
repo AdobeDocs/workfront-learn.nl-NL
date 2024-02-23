@@ -1,5 +1,5 @@
 ---
-title: Lichtbakken in merk Connect uitgelegd
+title: Lichtbakken als gebruiker begrijpen
 description: Leer hoe u een lichtbak maakt, gebruikt, beheert, deelt en samenwerkt in Brand Connect van [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Merk verbinden: lichtbakken
+# Lichtbakken als gebruiker begrijpen
 
 In deze video leert u hoe u:
 

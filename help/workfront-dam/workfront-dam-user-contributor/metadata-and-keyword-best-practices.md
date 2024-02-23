@@ -1,5 +1,5 @@
 ---
-title: De beste werkwijzen voor metagegevens en trefwoorden als medewerker begrijpen
+title: De beste werkwijzen voor metagegevens en trefwoorden
 description: Leer hoe u metagegevens en trefwoorden kunt gebruiken in [!UICONTROL Workfront DAM] om een middel te beschrijven om de doorzoekbaarheid van de activa van uw organisatie te verhogen.
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 jira: KT-10107
 exl-id: ad5a19a7-556a-4b38-9cc4-7e29e5afe1de
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
 
-# Best practices voor metagegevens en trefwoorden
+# De beste werkwijzen voor metagegevens en trefwoorden
 
 ## Best practices voor metagegevens
 
@@ -48,17 +48,17 @@ Uw organisatie heeft waarschijnlijk een strategie voor metagegevens ontwikkeld. 
 
 Trefwoorden zijn een subset van metagegevens. Trefwoorden zijn doorgaans algemene, beschrijvende termen met betrekking tot de inhoud van het element. Deze informatie wordt toegevoegd aan het element, vaak handmatig na het uploaden. Alle trefwoorden gaan naar één veld (trefwoorden met het label). Een foto van de Eiffeltoren in Parijs kan bijvoorbeeld trefwoorden als landmerk, toerisme of lichten bevatten.
 
-Trefwoorden kunnen worden doorzocht, dus het is belangrijk dat trefwoorden consistent worden ingevoerd op elementen.
+Trefwoorden kunnen worden doorzocht, dus het is belangrijk dat trefwoorden consistent op elementen worden ingevoerd.
 
 Uw organisatie kan een sleutelwoordtaxonomie uitvoeren, die een gecontroleerde lijst van sleutelwoorden is u van kunt kiezen wanneer het uitgeven van activa in [!UICONTROL Workfront DAM].
 
 Houd rekening met deze tips als uw organisatie het mogelijk maakt handmatig trefwoorden in te voeren.
 
-* Wees consistent met acroniemen en afkortingen. Trefwoord niet aan een element met &quot;AZ&quot; en aan een ander element met &quot;Arizona&quot;.
+* Wees consistent met acroniemen en afkortingen. Trefwoord geen activa met &quot;AZ&quot;en een ander activa met &quot;Arizona.&quot;
 * Wees consistent in meervoudig versus enkelvoudig. Kies één indeling of gebruik altijd beide. Gebruik bijvoorbeeld &quot;voeten&quot; en &quot;handen&quot; of &quot;voet, voeten&quot; en &quot;hand, handen&quot;.
 * Zorg er bijvoorbeeld voor dat u de beschrijving van een handeling of activiteit consistent volgt: gebruik &quot;actief&quot; en &quot;zwemmen&quot; of &quot;uitvoeren&quot; en &quot;zwemmen&quot;.
 * Wees niet te smal. &quot;Keokuk, IA&quot; kan te smal zijn voor een trefwoord en volledig onherkenbaar voor gebruikers. &quot;Zuidoost-Iowa&quot; zou beter zijn.
 * Wees niet te breed. &quot;Universiteit&quot; werkt misschien niet, vooral niet als alles in uw systeem betrekking heeft op een universiteit. Bepaal wat de activa, zoals een specifieke collegenaam zal onderscheiden.
 * Houd rekening met de relevantie. Enkel omdat elk element een projectcode heeft, betekent dit niet dat het nuttig is voor gebruikers die op trefwoorden vertrouwen om elementen te zoeken. Als deze informatie bij het element moet blijven, kunt u het in een ander metagegevensveld toevoegen.
-* Gebruik niet te weinig trefwoorden, anders helpen ze niet om de zoekresultaten te beperken.
-* Vertrouw niet op trefwoorden voor elk stukje gegevens. Gebruik metagegevensvelden voor informatie zoals de naam of locatie van de fotograaf.
+* Gebruik niet te weinig trefwoorden, anders helpen ze de zoekresultaten niet te beperken.
+* Vertrouw niet op trefwoorden voor elk stuk gegevens. Gebruik metagegevensvelden voor informatie zoals de naam of locatie van de fotograaf.

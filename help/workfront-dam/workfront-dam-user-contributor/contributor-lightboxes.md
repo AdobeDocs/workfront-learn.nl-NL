@@ -1,5 +1,5 @@
 ---
-title: Lichtbakken begrijpen in [!UICONTROL Workfront DAM]
+title: Lichtbakken begrijpen als auteur
 description: Leer hoe u lichtbakken maakt en gebruikt in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Medewerker: lichtbakken
+# Lichtbakken begrijpen als auteur
 
 In deze video leert u hoe u:
 

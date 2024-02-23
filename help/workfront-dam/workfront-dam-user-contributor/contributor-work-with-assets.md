@@ -1,5 +1,5 @@
 ---
-title: Werken met middelen in [!UICONTROL Workfront DAM]
+title: Werken met elementen als contribuant
 description: Leer hoe u met middelen werkt in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8995
 doc-type: video
 exl-id: ae0f3a7f-ca79-451f-851c-6792f44d218f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Medewerker: werken met middelen
+# Werken met elementen als contribuant
 
 In deze video leert u hoe u:
 
