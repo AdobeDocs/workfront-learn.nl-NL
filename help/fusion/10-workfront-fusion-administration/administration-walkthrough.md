@@ -5,15 +5,15 @@ activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
-role: User
+role: Admin
 level: Beginner
 jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,11 @@ In deze video leert u:
 * Gebruikers uitnodigen voor een organisatie en een team
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>Als uw organisatie is aangemeld bij de Adobe Admin Console, raadpleegt u [Gebruikers aan Adobe Workfront Fusion toevoegen via de Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html).
+
 
 ## Meer informatie? We raden het volgende aan:
 
