@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 18%
+source-wordcount: '150'
+ht-degree: 17%
 
 ---
 
@@ -22,13 +23,14 @@ ht-degree: 18%
 
 In deze video leert u:
 
-* Vier stappen om een project in werking te stellen
-* De definitie van een project in [!DNL Workfront]
-* De drie meest gangbare manieren om een project te maken
+* De definitie van een project in Workfront
+* Basisstappen om een project in werking te stellen
+* Iets over taken en kwesties
+* Aanbevolen werkwijze voor het maken van projecten
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-Uw [!DNL  Workfront] projecten die snel en in werking stellen door een projectmalplaatje te gebruiken. Plan uw project door zich eerst op deze vijf gebieden te concentreren:
+U kunt uw Workfront-projecten snel uitvoeren met een projectsjabloon. Plan uw project door zich eerst op deze vijf gebieden te concentreren:
 
 1. Taken
 1. Duur
