@@ -1,6 +1,6 @@
 ---
 title: Begrijp de behoefte aan groepsbeheerders
-description: Leer hoe systeembeheerders groepsbeheerders kunnen gebruiken om instellingen voor  [!DNL Workfront]  te onderhouden en groepen meer controle over hun werk te geven.
+description: Leer hoe de systeembeheerders groepsbeheerders kunnen gebruiken helpen handhaven [!DNL Workfront] instellingen en groepen meer controle over hun werk geven.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -12,8 +12,8 @@ jira: KT-10103
 exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 6%
+source-wordcount: '332'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Als u de systeembeheerder bent van een groot bedrijf of een bedrijf dat veel [!D
 
 Groepbeheerders aanwijzen die bepaalde beheerfuncties voor hun eigen groepen kunnen uitvoeren in [!DNL Workfront] zorgt voor een evenwichtige verdeling van de belasting wanneer het gaat om het bijwerken en onderhouden van het systeem.
 
-Groepbeheerders hebben de neiging meer in overeenstemming te zijn met de dagelijkse uitdagingen van hun groep, zodat kunnen zij de behoeften van de groep beheren. Dat staat u toe, als systeembeheerder om zich op het te concentreren [!DNL Workfront] configuraties die uw organisatie als geheel ten goede komen.
+Groepbeheerders hebben de neiging meer in overeenstemming te zijn met de dagelijkse uitdagingen van hun groep, zodat kunnen zij de behoeften van de groep beheren. Dat staat u, als systeembeheerder toe om zich op het te concentreren [!DNL Workfront] configuraties die uw organisatie als geheel ten goede komen.
 
 Sommige dingen kunnen groepbeheerders binnen doen [!DNL Workfront] omvatten:
 
@@ -66,7 +66,7 @@ Beheer snel en efficiënt groepsleden, subgroepen, groepsstatussen, groepsprojec
 1. Selecteer de naam van een groep om deze te openen.
 1. Open de sectie waarin u updates wilt uitvoeren door erop te klikken in het linkerdeelvenster.
 
-![Groepspagina](assets/admin-fund-manage-a-group.png)
+![Pagina groeperen](assets/admin-fund-manage-a-group.png)
 
 <!---
 learn more URLs

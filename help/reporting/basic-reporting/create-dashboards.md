@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '417'
-ht-degree: 6%
+ht-degree: 5%
 
 ---
 
@@ -43,8 +43,8 @@ Maak dit rapport door een kopie te maken van het rapport &#39;Zoeknotities&#39; 
 
 ## Antwoord
 
-1. Voer het rapport uit dat u hebt gemaakt in de activiteit &quot;Een notitierapport maken&quot;.
-1. Klik op **[!UICONTROL Report Actions]** en selecteer **[!UICONTROL Copy]**. [!DNL Workfront] Hiermee maakt u een nieuw rapport met de naam &quot;Notitie zoeken (kopiëren)&quot;.
+1. Voer het rapport uit dat u hebt gemaakt in de activiteit Een notitierapport maken.
+1. Klikken **[!UICONTROL Report Actions]** en selecteert u **[!UICONTROL Copy]**. [!DNL Workfront] Hiermee maakt u een nieuw rapport met de naam &quot;Notitie zoeken (kopiëren)&quot;.
 1. Ga naar **[!UICONTROL Report Actions]** en selecteert u **[!UICONTROL Edit]**. Klikken **[!UICONTROL Report Settings]** en wijzig de naam in &quot;Notities zoeken in dit project&quot;.
 1. Klikken [!UICONTROL Report Prompts] en de [!UICONTROL Project] > [!UICONTROL Name] in de lijst.
 
@@ -57,7 +57,7 @@ Maak dit rapport door een kopie te maken van het rapport &#39;Zoeknotities&#39; 
 
 1. Klik op **[!UICONTROL Report Actions]** en selecteer **[!UICONTROL Add to Dashboard]** > **[!UICONTROL New Dashboard]**.
 1. Sleep het rapport &quot;Zoeknotities in dit project&quot; naar de **[!UICONTROL Layout]** deelvenster.
-1. De naam van het rapport wordt de naam van het dashboard. Bewerk de naam alleen in &quot;Notities zoeken&quot;.
+1. U ziet dat de naam van het rapport de naam van het dashboard wordt. Bewerk de naam alleen in &quot;Notities zoeken&quot;.
 
    ![Een afbeelding van het scherm om een nieuw dashboard te maken](assets/create-dashboard.png)
 

@@ -54,7 +54,7 @@ Standaard zijn e-mails zo ingesteld dat ze direct worden verzonden. U kunt echte
 
 Met de dagelijkse optie verzendt u een overzicht van de gebeurtenissen van de dag in één e-mail. Gebruikers ontvangen één e-mail voor elke groep die ze in het dialoogvenster [!UICONTROL Notifications] sectie.
 
-De [!UICONTROL Information about Projects I Own] de sectie zal één dagelijkse e-mail produceren, [!UICONTROL Action Needed] e-mail, enz.
+Bijvoorbeeld de [!UICONTROL Information about Projects I Own] de sectie zal één dagelijkse e-mail produceren, [!UICONTROL Action Needed] e-mail wordt dagelijks gegenereerd.
 
 ![[!UICONTROL Daily Digest] e-mailen voor [!UICONTROL Information about Projects I Own]](assets/admin-fund-user-notifications-06.png)
 
@@ -62,7 +62,7 @@ De [!UICONTROL Information about Projects I Own] de sectie zal één dagelijkse 
 
 Selecteer niet alleen de optie voor dagelijks verzenden, maar stel ook een tijdstip in waarop deze e-mails moeten worden verzonden. Afhankelijk van wat het beste werkt, kunnen samenvattingse-mails worden verzonden voordat u &#39;s ochtends of vlak voordat u de dag verlaat aan het werk gaat.
 
-![[!UICONTROL Email Daily Digest after] vervolgkeuzelijst in het dialoogvenster [!UICONTROL Edit Person] venster](assets/admin-fund-user-notifications-08.png)
+![[!UICONTROL Email Daily Digest after] vervolgkeuzemenu in het dialoogvenster [!UICONTROL Edit Person] venster](assets/admin-fund-user-notifications-08.png)
 
 **Helemaal niet**
 
