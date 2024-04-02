@@ -1,5 +1,5 @@
 ---
-title: Overzicht van portefeuilles
+title: Portefeuilles begrijpen
 description: Leer welke portfolio's in Workfront zijn en hoe u met deze portfolio's projecten kunt prioriteren en projecten met elkaar kunt vergelijken.
 activity: use
 team: Technical Marketing
@@ -7,18 +7,18 @@ feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '561'
 ht-degree: 0%
 
 ---
 
-# Overzicht van portefeuilles
+# Portefeuilles begrijpen
 
 Managers hebben vaak de lastige taak om uit te zoeken welke projecten hun bedrijf het best zouden helpen zijn doelstellingen en doelstellingen te bereiken. Dat betekent dat een huidig of potentieel project beoordeeld moet worden op basis van criteria die voor die doelstellingen van belang zijn. Deze criteria kunnen onder meer betrekking hebben op het aantal benodigde middelen, de kosten van het project ten opzichte van wat het zal meebrengen, en het inzicht in de risico&#39;s. Op basis van deze informatie kunnen beheerders beslissen welke projecten moeten worden uitgevoerd en wanneer.
 
@@ -51,6 +51,26 @@ Wanneer een portfolio wordt gemaakt, heeft alleen de maker of manager van het po
 Open het portfolio en klik op het menu met drie punten. Selecteer vervolgens **[!UICONTROL Sharing]**. Voeg de individuen, de teams, de baanrollen, de groepen, of de bedrijven toe die toegang zouden moeten hebben. Dan bepaal welk type van toegang elk zou moeten hebben-leiden of mening.
 
 ![Een afbeelding van de [!UICONTROL Sharing] in een [!DNL Workfront] portfolio](assets/04-portfolio-management11.png)
+
+## Een portfolio maken
+
+Klik op **[!UICONTROL Portfolios]** in het hoofdmenu.
+
+![Een afbeelding van het hoofdmenu ](assets/create-portfolio-1.png)
+
+Klik in het gebied Portfolio&#39;s op **[!UICONTROL New Portfolio]**.
+
+![Een afbeelding van het gebied Portfolio&#39;s ](assets/create-portfolio-2.png)
+
+Geef een naam op voor het portfolio en klik op **[!UICONTROL New Project]** om een project aan de portefeuille toe te voegen. U kunt op verschillende manieren een nieuw project maken, net als bij de **[!UICONTROL Projects]** gebied. Elk nieuw project dat u vanaf hier maakt, behoort tot dit portfolio. U kunt ook klikken op **[!UICONTROL Existing Project]** om een of meer bestaande projecten in een lijst te selecteren.
+
+![Een afbeelding van het nieuwe projectmenu ](assets/create-portfolio-3.png)
+
+## Een programma maken binnen een portfolio
+
+Selecteer de **[!UICONTROL Programs]** tab, klik vervolgens op **[!UICONTROL New Program]** om een nieuw programma in dit portfolio te maken of klik op **[!UICONTROL Existing Program]** bestaande programma&#39;s uit andere portfolio&#39;s te stelen.
+
+![Een afbeelding van het nieuwe programmamenu ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic

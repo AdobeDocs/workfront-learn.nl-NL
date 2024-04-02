@@ -8,12 +8,13 @@ role: User
 level: Intermediate
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2023-07-27T00:00:00Z
+last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
-source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
+exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -26,6 +27,11 @@ ht-degree: 0%
 >
 >* [Leren om taken uit te voeren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Of u bent al comfortabel met voorgangers in uw projecten
+
+>[!NOTE]
+>
+>Predecessors voor verschillende projecten zijn een eenvoudige manier om afhankelijkheden tussen taken in verschillende projecten tot stand te brengen. Een bouwbedrijf kan bijvoorbeeld een project hebben dat **Bouw de Weg van de Toegang tot de Ontwikkeling van de Huisvesting Summerhill** en een ander project genaamd **Model Home maken in Summerhill**. Door de eerste taak binnen te maken **Modelstartpagina samenstellen** u hebt een voorganger van de laatste taak in een ander project **Toegangsweg bouwen**, zorgt u ervoor dat de toegangsweg op zijn plaats is alvorens u begint het huis te bouwen. Omdat de taken aan elkaar zijn gekoppeld, als **Toegangsweg bouwen** de schuifregelaars van het project **Modelstartpagina samenstellen** de geplande begindatum zal automatisch dienovereenkomstig verschuiven.
+
 
 In deze video leert u:
 

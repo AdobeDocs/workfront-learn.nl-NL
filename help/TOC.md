@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '2348'
+source-wordcount: '2346'
 ht-degree: 0%
 
 ---
@@ -153,7 +153,7 @@ ht-degree: 0%
       + [Antwoorden op veelgestelde vragen over aanvraagwachtrijen](manage-work/request-queues/request-queue-faq.md)
 
    + Portfolio&#39;s {#portfolios}
-      + [Overzicht van portefeuilles](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [Portefeuilles begrijpen](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [Begrijp het [!UICONTROL Business Case]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [Gebruik de [!UICONTROL Portfolio Optimizer] prioriteit geven aan en werk beheren](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
@@ -242,7 +242,7 @@ ht-degree: 0%
    + Verbeterde analysemogelijkheden {#enhanced-analytics}
       + [Een ogenblik met Product over [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [Aan de slag met [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [Toevoegen [!UICONTROL analytics] naar lay-outsjablonen](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [Toegang krijgen [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Basisnavigatie begrijpen](reporting/enhanced-analytics/4-basic-navigation.md)
       + [Werken en personentabellen begrijpen](reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [Filters begrijpen](reporting/enhanced-analytics/6-filters-overview.md)
