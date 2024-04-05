@@ -7,13 +7,14 @@ thumbnail: 335085.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-05T00:00:00Z
 team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -45,10 +46,10 @@ De projectpagina is gevuld met vele eigenschappen om u te helpen uw werk leiden.
 8. **[!UICONTROL Condition]:** De [!UICONTROL Condition] Dit is een visuele weergave van de voortgang van het project. [!DNL Workfront] kan automatisch de [!UICONTROL Condition] op basis van de status van de voortgang van de taken in het project. of [!UICONTROL Condition] kan handmatig worden ingesteld via de projectdetails.
 9. **[!UICONTROL Status]:** De [!UICONTROL Status] Hiermee wordt aangegeven waar het project zich in het proces bevindt: wordt het project nog gepland, wordt het project in uitvoering of is alle werkzaamheden in het project voltooid.
 10. **[!UICONTROL New Task]:** Klik om een nieuwe taak in het project tot stand te brengen. De taak wordt onder aan de lijst gegenereerd.
-11. **[!UICONTROL Export]:** Exporteer het projectplan naar een bestand met door tabs gescheiden PDF, spreadsheet of tabs.
+11. **[!UICONTROL Export]:** Exporteer de takenlijst of geselecteerde taken naar een bestand met door tabs gescheiden PDF, spreadsheet of tabs.
 12. **Menu van linkerdeelvenster:** Navigeer met het linkerdeelvenster naar andere informatie over het project. Klik op het pictogram om het deelvenster samen te vouwen als u meer ruimte op het scherm nodig hebt. Sleep de pictogrammen zodat de volgorde u helpt efficiënt te werken. De opties die u ziet, worden ingesteld door uw [!DNL Workfront] systeembeheerder.
 13. **Taaklijst:** De taaklijst toont alle taken die omhoog uw projectplan maken. De informatie die zichtbaar is over elke taak wordt bepaald door de geselecteerde weergave.
-14. **Het deelvenster Samenvatting:** Klik op het pictogram om het samenvattingsvenster te openen of te sluiten. Zo kunt u snel informatie over de geselecteerde taak bekijken.
+14. **Het deelvenster Samenvatting:** In het overzichtsvenster vindt u snel informatie over de geselecteerde taak. Klik op het pictogram om het te openen of te sluiten.
 
 <!---
 learn more:
