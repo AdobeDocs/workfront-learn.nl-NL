@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 109e024dd64ea1b53bffd4b3e1f7971ae0abb070
+source-git-commit: adb114409c60ee4d52a7477116e2acef62ce30df
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -51,4 +51,5 @@ De projectpagina is gevuld met vele eigenschappen om u te helpen uw werk leiden.
 13. **Taaklijst:** De taaklijst toont alle taken die omhoog uw projectplan maken. De informatie die zichtbaar is over elke taak wordt bepaald door de geselecteerde weergave.
 14. **Het deelvenster Samenvatting:** In het overzichtsvenster vindt u snel informatie over de geselecteerde taak. Klik op het pictogram om het te openen of te sluiten.
 15. **Meer taken toevoegen** Klik hier om een andere taak onder aan de takenlijst toe te voegen met inline bewerken.
+
 
