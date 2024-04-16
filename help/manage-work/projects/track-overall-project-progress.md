@@ -8,11 +8,12 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -38,7 +39,13 @@ Het project [!UICONTROL Condition] wordt de &quot;gezondheid van het projectsche
 >Of de projectvoorwaarde automatisch door wordt geplaatst [!DNL Workfront] of handmatig door iemand met beheerrechten voor het project wordt gecontroleerd door de [!UICONTROL Condition Type] in het dialoogvenster [!UICONTROL Overview] van de [!UICONTROL Project Details] pagina.
 
 <!---
-learn more urls
 Project percent complete overview
 Overview of project condition and condition type
 --->
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Beginnen met het beheren van een project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [Voortgang van het werk bijhouden met projectmetriek](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Begrijp het [!UICONTROL Gantt] weergave](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [Begrijp het [!UICONTROL Board] weergave](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)

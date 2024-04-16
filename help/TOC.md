@@ -3,7 +3,7 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
 source-wordcount: '2346'
 ht-degree: 0%
@@ -107,9 +107,9 @@ ht-degree: 0%
 + Werk beheren {#manage-work}
    + Projecten {#projects}
       + [Basisproject maken](manage-work/projects/understand-basic-project-creation.md)
+      + [Navigeren door de projectpagina](manage-work/projects/navigate-the-project-page.md)
       + [Leer vier manieren om een project te maken](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [De projectdetails invullen](manage-work/projects/fill-in-the-project-details.md)
-      + [Navigeren door de projectpagina](manage-work/projects/navigate-the-project-page.md)
       + [Aan de slag met het plannen van een project](manage-work/projects/getting-started-plan-a-project.md)
       + [Een project live laten gaan](manage-work/projects/take-a-project-live.md)
       + [Beginnen met het beheren van een project](manage-work/projects/getting-started-manage-a-project.md)

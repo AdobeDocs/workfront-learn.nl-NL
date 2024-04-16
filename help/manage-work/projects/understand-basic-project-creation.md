@@ -9,13 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2024-03-25T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 17%
+source-wordcount: '94'
+ht-degree: 27%
 
 ---
 
@@ -30,12 +31,10 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-U kunt uw Workfront-projecten snel uitvoeren met een projectsjabloon. Plan uw project door zich eerst op deze vijf gebieden te concentreren:
+## Aanbevolen zelfstudies over dit onderwerp
 
-1. Taken
-1. Duur
-1. Geplande uren
-1. Predecessors
-1. Toewijzingen
+* [Navigeren door de projectpagina](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [Leer vier manieren om een project te maken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [De projectdetails invullen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
 
-Als alles is ingesteld, wijzigt u de projectstatus in Huidig om het project live te zetten. Naarmate het project vordert, wilt u het werk bijhouden dat wordt uitgevoerd, problemen die zich voordoen, vragen die moeten worden beantwoord en meer. Onthoud ... u kunt al die informatie vinden en beheren in [!DNL Workfront]!
+

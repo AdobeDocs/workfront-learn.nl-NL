@@ -8,11 +8,12 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -33,10 +34,9 @@ Wanneer je op de [!UICONTROL Tasks] deel van een project, gebruik [!UICONTROL Fi
 
 Veel [!DNL Workfront] klanten maken aangepaste weergaven die aangepaste formulierinformatie en andere velden die relevant zijn voor het werk dat wordt uitgevoerd, beschikbaar maken.
 
-## Leer hoe u aangepaste filters, weergaven en groepen maakt
+## Aanbevolen zelfstudies over dit onderwerp
 
-[Een basisfilter maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+* [Een basisfilter maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
+* [Een basisweergave maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
+* [Een basisgroep maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
 
-[Een basisweergave maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
-
-[Een basisgroep maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)

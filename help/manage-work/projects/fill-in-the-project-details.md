@@ -8,11 +8,12 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
-source-wordcount: '1219'
+source-wordcount: '1252'
 ht-degree: 0%
 
 ---
@@ -127,3 +128,10 @@ Maak u geen zorgen... u moet niet elk gebied en checkbox in de projectdetails me
    Bijvoorbeeld, zijn er mensen die toegang tot het project zouden kunnen hebben maar niet de financiële informatie zouden moeten zien. U kunt de optie View Finance dus uitschakelen.
 
    De toegangsinstellingen kunnen in de sjabloon worden ingesteld.
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Basisproject maken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
+* [Navigeren door de projectpagina](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [Leer vier manieren om een project te maken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [Aan de slag met het plannen van een project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)
