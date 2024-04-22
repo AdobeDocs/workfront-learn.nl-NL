@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-04-22T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -41,7 +42,7 @@ Maar hoe u ook een project beheert, u wilt:
 * Communiceer met uw belanghebbenden.
 * Vier de wins onderweg.
 
-Uiteindelijk is het uw belangrijkste taak om het project naar een geslaagde voltooiing te leiden. [!DNL Workfront] kunt u helpen het werk controleren dat door de projectchronologie wordt gedaan; filters, meningen, en groeperingen; updates; rapporten.. en meer.
+Uiteindelijk is het uw belangrijkste taak om het project naar een geslaagde voltooiing te leiden. Adobe Workfront kan u helpen het werk controleren dat door de projectchronologie wordt gedaan; filters, meningen, en groeperingen; updates; rapporten.. en meer.
 
 <!---
 learn more urls
