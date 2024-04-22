@@ -1,6 +1,6 @@
 ---
 title: Beginnen met het beheren van een project
-description: Leer wat uw rol als projectmanager is en wat om te bekijken wanneer het controleren van projectwerk.
+description: Leer hoe u de voortgang van het project kunt volgen, de taakdetails kunt bekijken en kunt communiceren met de belanghebbenden.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
+source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,9 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Wat te bekijken wanneer het controleren van projectwerk
-* Wat uw rol als projectmanager is
+* Hoe te om projectvooruitgang te controleren
+* Hoe te boren neer om taakdetails te zien
+* Communiceren met belanghebbenden
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
