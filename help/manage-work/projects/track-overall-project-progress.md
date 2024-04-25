@@ -1,6 +1,6 @@
 ---
 title: De voortgang van het project bijhouden
-description: Leer hoe de informatie die in de projectkopbal wordt getoond u algemene projectvooruitgang en gezondheid kan helpen volgen.
+description: Leer 5 snelle manieren om de algemene voortgang van het project te volgen.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,40 +8,28 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: 99dfdc38fd2192da6a5ef46663634bd6070ee488
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
 # De voortgang van het project bijhouden
 
-De kopbal bij de bovenkant van een project laat u de algemene projectstatus en gezondheid met enkel een blik zien.
+In deze video leert u hoe u de voortgang van het project kunt bijhouden met:
 
-![Projectkoptekst tonen [!UICONTROL Percent Complete]](assets/planner-fund-percent-complete.png)
+* Percentage voltooid
+* Geprojecteerde data
+* Voorwaarde en status voortgang
+* Openstaande kwesties
+* De kolom Voorwaarde bijwerken
 
-De [!UICONTROL Percent Complete] is gebaseerd op de algemene voortgang van de taken in het project. Het aantal is het nauwkeurigst wanneer de teamleden de status van hun toegewezen taken veranderen en op een volledig percentage wijzen.
-
->[!NOTE]
->
->Een globale systeeminstelling beïnvloedt de manier waarop het percentage voltooid van het project wordt berekend op basis van de duur of de geplande uren van de taken.
-
-Het project [!UICONTROL Condition] wordt de &quot;gezondheid van het projectschema&quot; genoemd. Er zijn een aantal dingen die bepalend zijn voor de manier waarop de conditie wordt berekend. [!DNL Workfront] kijkt naar de [!UICONTROL Planned Completion Date] en de [!UICONTROL Projected Completion Date]en het kritieke pad om te berekenen of het project [!UICONTROL On Time], [!UICONTROL At Risk], of [!UICONTROL In Trouble].
-
-![Projectkoptekst tonen [!UICONTROL Condition]](assets/planner-fund-condition.png)
-
->[!NOTE]
->
->Of de projectvoorwaarde automatisch door wordt geplaatst [!DNL Workfront] of handmatig door iemand met beheerrechten voor het project wordt gecontroleerd door de [!UICONTROL Condition Type] in het dialoogvenster [!UICONTROL Overview] van de [!UICONTROL Project Details] pagina.
-
-<!---
-Project percent complete overview
-Overview of project condition and condition type
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
