@@ -11,22 +11,22 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
+exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 # Een wachtrij voor feedback van systeembeheerders maken
 
->[!IMPORTANT]
->
->Vereisten:
+>[!PREREQUISITES]
 >
 >* [Een aanvraagwachtrij maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
 >* [Een aanvraagstroom maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* Of u bent reeds comfortabel met het creëren van een verzoekrij die een verpletterende regel en een douaneformulier gebruikt.
+
 
 In deze video leert u:
 
