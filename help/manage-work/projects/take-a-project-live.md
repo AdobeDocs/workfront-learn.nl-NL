@@ -1,6 +1,6 @@
 ---
 title: Een project live laten gaan
-description: Leer hoe je jouw [!DNL  Workfront] live project met de projectstatus.
+description: Leer hoe u uw Adobe Workfront-project live kunt gebruiken met de projectstatus.
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
