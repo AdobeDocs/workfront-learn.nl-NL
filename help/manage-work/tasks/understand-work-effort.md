@@ -9,10 +9,11 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10153
+recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -30,3 +31,8 @@ Op die manier, als u van plan bent om het even welke hulpmiddelen van het het mi
 ![Lijst met projecttaken met [!UICONTROL Work Effort] kolom](assets/planner-fund-work-effort.png)
 
 Voor meer informatie over [!UICONTROL Work Effort], zie de [Overzicht van de werkprestaties](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Begrijp taakduur](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [Begrijp geplande uren](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)

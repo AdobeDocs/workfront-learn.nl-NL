@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Wanneer u in bepaalde delen van een diagram klikt, worden extra grafieken of een
 * **Projectactiviteit**—Klik op de projectnaam om de grafiek uit te breiden en de projectactiviteit door gebruiker te zien.
 * **Projectreemap**—Klik op een projectvak om de inlay-out en taken in vluchtgrafieken op te halen.
 * **Activiteit per team**—Klik de teamnaam om de grafiek uit te breiden zodat kunt u activiteit door gebruiker zien.
-* **Broncapaciteit**—Klik de teamnaam om de grafiek van de capaciteit van het Team te zien.
 
 ## Wat betekent een donkerdere en lichtere schaduw als het gaat om teamactiviteiten?
 

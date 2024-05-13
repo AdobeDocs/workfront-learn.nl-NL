@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -47,5 +47,4 @@ De Burndown en de Taken in vluchtgrafieken verschijnen wanneer u neer in de gege
 Personengrafieken bestaan uit:
 
 1. Activiteit per team
-1. Broncapaciteit
 1. Teamactiviteit

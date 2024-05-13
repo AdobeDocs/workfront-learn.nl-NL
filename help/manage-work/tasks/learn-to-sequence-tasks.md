@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8778
+recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 39651f3785d2a539314c32a1aa368a1bae7effee
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -38,3 +39,10 @@ Creating a predecessor relationship on the task list
 Overview of lag types
 Overview of task dependency types
 --->
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Begrijp taakduur](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [Begrijp geplande uren](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+* [Werkinspanning begrijpen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+

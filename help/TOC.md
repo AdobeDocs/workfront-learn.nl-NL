@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2341'
 ht-degree: 0%
 
 ---
@@ -258,7 +258,6 @@ ht-degree: 0%
       + [De taken tijdens de vlucht controleren](reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
       + [Actie nemen door updates uit te voeren](reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
       + [Begrijp de activiteit door teamgrafiek](reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [Begrijp de grafiek van de middelcapaciteit](reporting/enhanced-analytics/19-resource-capacity-chart.md)
       + [Inzicht in teamcapaciteit](reporting/enhanced-analytics/20-team-capacity-overview.md)
       + [Begrijp een KPI-vergelijkingscase](reporting/enhanced-analytics/21-kpi-comparisons.md)
       + [Een gebruiksgeval voor eindgebruikers begrijpen](reporting/enhanced-analytics/22-end-user-use.md)

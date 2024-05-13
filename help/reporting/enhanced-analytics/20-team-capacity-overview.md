@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Op het diagram kunt u zien:
 
 1. Klik op de knop [!UICONTROL People] in het linkerdeelvenster.
 1. Gebruik de [!UICONTROL Filter] om een of meer Home-teams te kiezen die moeten worden onderzocht.
-1. U ziet de tabel met de teamcapaciteit onder het tabblad [!UICONTROL Resource capacity] grafiek.
+1. U zult de grafiek van de teamcapaciteit zien verschijnen.
 
 ## Hoe te om de grafiek te gebruiken
 

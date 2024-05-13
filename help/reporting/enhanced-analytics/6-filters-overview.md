@@ -12,9 +12,9 @@ jira: KT-8721
 recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ In deze video leert u:
 
 ## Tekstfilters voor personen
 
-De grafieken van Mensen zijn gebaseerd op huisteams. Zij tonen de activiteit en middelcapaciteit van zo vele teams aangezien u in uw filter selecteert.
+De grafieken van Mensen zijn gebaseerd op huisteams. Zij tonen de activiteit van zo vele teams aangezien u in uw filter selecteert.
 
 ## Aanvullende overwegingen
 
