@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ De projectpagina is gevuld met vele eigenschappen om u te helpen uw werk leiden.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Basisproject maken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [Leer vier manieren om een project te maken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [De projectdetails invullen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
+* [Basisproject maken](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Leer vier manieren om een project te maken](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [De projectdetails invullen](/help/manage-work/projects/fill-in-the-project-details.md)
 

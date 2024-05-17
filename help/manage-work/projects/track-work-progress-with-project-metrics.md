@@ -13,9 +13,9 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 73c83d5f98e6f95332527f0ec7b0b7ea2c094448
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,8 @@ In deze video leert u hoe u:
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Beginnen met het beheren van een project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [De voortgang van het project bijhouden](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [Begrijp het [!UICONTROL Gantt] weergave](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
-* [Begrijp het [!UICONTROL Board] weergave](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Beginnen met het beheren van een project](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [De voortgang van het project bijhouden](/help/manage-work/projects/track-overall-project-progress.md)
+* [Voortgang van het werk bijhouden met projectmetriek](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Begrijp het [!UICONTROL Gantt] weergave](/help/manage-work/projects/understand-the-gantt-view.md)
+* [Begrijp het [!UICONTROL Board] weergave](/help/manage-work/projects/understand-the-board-view.md)

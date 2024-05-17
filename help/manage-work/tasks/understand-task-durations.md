@@ -12,9 +12,9 @@ jira: KT-8776
 recommendations: noDisplay,noCatalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ In deze video leert u:
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Leren om taken uit te voeren](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [Begrijp geplande uren](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
-* [Werkinspanning begrijpen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+* [Leren om taken uit te voeren](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [Begrijp geplande uren](/help/manage-work/tasks/understand-planned-hours.md)
+* [Begrijpen [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
 

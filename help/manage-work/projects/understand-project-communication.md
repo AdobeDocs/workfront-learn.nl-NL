@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-05T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,8 @@ In deze video leert u hoe u kunt communiceren met alle betrokkenen bij het proje
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Beginnen met het beheren van een project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Projecten zoeken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [Een project delen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Begrijp het projectteam](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/anage-work/projects/understand-the-project-team.md)
+* [Beginnen met het beheren van een project](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Projecten zoeken](/help/manage-work/projects/find-projects.md)
+* [Een project delen](/help/manage-work/projects/share-a-project.md)
+* [Begrijp het projectteam](/help/manage-work/projects/understand-the-project-team.md)
+

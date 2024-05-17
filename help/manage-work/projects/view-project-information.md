@@ -12,9 +12,9 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ In deze video leert u hoe u filters, weergaven en groepen kunt gebruiken om te b
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Een basisfilter maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)
-* [Een basisweergave maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
-* [Een basisgroep maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
+* [Basisfilteractiviteiten maken](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
+* [Een basisweergave maken](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [Een basisgroep maken](/help/reporting/basic-reporting/create-a-basic-grouping.md)
 

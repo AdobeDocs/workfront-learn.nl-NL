@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,8 @@ Project management knowledge areas
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Een project live laten gaan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.md)
-* [Projecten zoeken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [Een project delen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [Begrijp het projectteam](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [Projectcommunicatie begrijpen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [Een project live laten gaan](/help/manage-work/projects/take-a-project-live.md)
+* [Projecten zoeken](/help/manage-work/projects/find-projects.md)
+* [Een project delen](/help/manage-work/projects/share-a-project.md)
+* [Begrijp het projectteam](/help/manage-work/projects/understand-the-project-team.md)
+* [Projectcommunicatie begrijpen](/help/manage-work/projects/understand-project-communication.md)

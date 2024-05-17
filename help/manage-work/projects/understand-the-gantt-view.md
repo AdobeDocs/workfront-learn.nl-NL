@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ U kunt meer online leren met het artikel, [Aan de slag met de Gantt-grafiek](htt
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Beginnen met het beheren van een project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [De voortgang van het project bijhouden](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [Voortgang van het werk bijhouden met projectmetriek](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Begrijp het [!UICONTROL Board] weergave](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [Beginnen met het beheren van een project](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [De voortgang van het project bijhouden](/help/manage-work/projects/track-overall-project-progress.md)
+* [Voortgang van het werk bijhouden met projectmetriek](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [Begrijp het [!UICONTROL Board] weergave](/help/manage-work/projects/understand-the-board-view.md)

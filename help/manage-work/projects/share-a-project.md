@@ -12,9 +12,9 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,8 @@ In deze video leert u:
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Beginnen met het beheren van een project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [Projecten zoeken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [Begrijp het projectteam](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-project-team.md)
-* [Projectcommunicatie begrijpen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [Beginnen met het beheren van een project](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [Projecten zoeken](/help/manage-work/projects/find-projects.md)
+* [Begrijp het projectteam](/help/manage-work/projects/understand-the-project-team.md)
+* [Projectcommunicatie begrijpen](/help/manage-work/projects/understand-project-communication.md)
 

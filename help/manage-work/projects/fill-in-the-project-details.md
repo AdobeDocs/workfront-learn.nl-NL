@@ -11,9 +11,9 @@ level: Beginner
 recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '1252'
+source-wordcount: '1248'
 ht-degree: 0%
 
 ---
@@ -131,7 +131,7 @@ Maak u geen zorgen... u moet niet elk gebied en checkbox in de projectdetails me
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Basisproject maken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [Navigeren door de projectpagina](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
-* [Leer vier manieren om een project te maken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [Aan de slag met het plannen van een project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)
+* [Basisproject maken](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Navigeren door de projectpagina](/help/manage-work/projects/navigate-the-project-page.md)
+* [Leer vier manieren om een project te maken](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [Aan de slag met het plannen van een project](/help/manage-work/projects/getting-started-plan-a-project.md)

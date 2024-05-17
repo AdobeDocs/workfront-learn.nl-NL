@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10153
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,6 @@ Voor meer informatie over [!UICONTROL Work Effort], zie de [Overzicht van de wer
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Begrijp taakduur](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [Begrijp geplande uren](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+* [Begrijp taakduur](/help/manage-work/tasks/understand-task-durations.md)
+* [Begrijp geplande uren](/help/manage-work/tasks/understand-planned-hours.md)
+

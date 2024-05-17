@@ -10,9 +10,9 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,6 @@ In deze video leert u:
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Bovenliggende taken begrijpen](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
-* [Werken met taken](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
-* [Taken toewijzen vanuit het projectplan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
+* [Bovenliggende taken begrijpen](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [Werken met taken](/help/manage-work/tasks/work-with-tasks.md)
+* [Taken toewijzen vanuit het projectplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
