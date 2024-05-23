@@ -1,6 +1,6 @@
 ---
 title: Taken toewijzen vanuit het projectplan
-description: Leer hoe u een gebruiker aan een taak toewijst met inlinebewerking in een [!DNL  Workfront] project.
+description: Leer hoe u taken in een Adobe Workfront-project toewijst met inline bewerken, bulkbewerking, taakrollen en teams.
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -8,22 +8,27 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Taken toewijzen vanuit het projectplan
 
-In deze video leert u hoe u:
+In deze video leert u:
 
-* Een gebruiker aan een taak toewijzen met behulp van inlinebewerking
+* Hoe te om een taak toe te wijzen gebruikend gealigneerd uitgeven
+* Hoe te om veelvoudige taken aan de zelfde persoon toe te wijzen
+* Begrijp de waarde van baanrollen wanneer het toewijzen van taken
+* Begrijp de waarde van projectmalplaatjes wanneer het toewijzen van taken
+* Begrijp de waarde van het toewijzen van taken aan teams
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
