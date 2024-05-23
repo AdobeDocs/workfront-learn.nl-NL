@@ -13,19 +13,19 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 # Taken toewijzen vanuit het projectplan
 
-In deze video leert u:
+In deze video zult u:
 
-* Hoe te om een taak toe te wijzen gebruikend gealigneerd uitgeven
-* Hoe te om veelvoudige taken aan de zelfde persoon toe te wijzen
+* Leer hoe u een taak toewijst met inline bewerken
+* Leer hoe u meerdere taken aan dezelfde persoon kunt toewijzen
 * Begrijp de waarde van baanrollen wanneer het toewijzen van taken
 * Begrijp de waarde van projectmalplaatjes wanneer het toewijzen van taken
 * Begrijp de waarde van het toewijzen van taken aan teams
