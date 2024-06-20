@@ -1,6 +1,6 @@
 ---
 title: Begrijp geplande uren
-description: Meer informatie over geplande uren in [!DNL  Workfront]Waarom geplande uren belangrijk zijn voor uw project en hoe u geplande uren aan taken toevoegt.
+description: Leer wat geplande uren zijn, waarom geplande uren belangrijk voor uw project zijn, en hoe te om geplande uren aan taken toe te voegen.
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -9,12 +9,13 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8777
+last-substantial-update: 2024-06-19T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -23,22 +24,18 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Wat zijn de geplande uren? [!DNL  Workfront]
+* Wat zijn de geplande uren in Workfront?
 * Waarom geplande uren belangrijk zijn voor uw project
+* Hoe u geplande uren inschat
 * Hoe te om geplande uren aan taken toe te voegen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
 
 
-<!---
-learn more urls:
-Overview of task duration and duration type
-Planned hours overview
---->
-
-## Aanbevolen zelfstudies over dit onderwerp
+## Aanbevolen zelfstudies en artikelen over dit onderwerp
 
 * [Begrijp taakduur](/help/manage-work/tasks/understand-task-durations.md)
 * [Leren om taken uit te voeren](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Begrijpen [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
-
+* [Overzicht van tijdbladen](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
+* [Logtijd](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
