@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
