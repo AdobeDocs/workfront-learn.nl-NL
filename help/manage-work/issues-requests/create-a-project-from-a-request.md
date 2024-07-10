@@ -9,11 +9,12 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -58,3 +59,9 @@ Als u een aangepast formulier opneemt in een projectsjabloon, wordt het automati
 Om de efficiency van uw werk te verhogen en het gemakkelijker te maken om kwesties in een snel-afgehandelde milieu om te zetten, hebt u de capaciteit om een kwestie in een taak of een project van om het even welke voorwaardenlijst in een project, een rapport, of een dashboard om te zetten. Selecteer een probleem en klik op het menu met drie punten dat wordt weergegeven.
 
 ![Een afbeelding van een projectiescherm met opties voor het converteren van problemen](assets/convert-from-a-list.png)
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Een uitgave/verzoek omzetten in een taak](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [Niet-gepland werk verwerken](/help/manage-work/issues-requests/handle-unplanned-work.md)
+

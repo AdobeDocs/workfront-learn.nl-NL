@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
+recommendations: noDisplay,noCatalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -34,6 +35,11 @@ In deze video leert u hoe u:
 >
 >Documenten, proefdrukken en werkitems (projecten, taken en problemen) waarvoor goedkeuring is vereist, kunt u in projecten en aangepaste rapporten vinden naast [!DNL Workfront Home].
 
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Een goedkeuringsproces voor eenmalig gebruik maken](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [Bestaande goedkeuringsprocessen bijvoegen en bewerken](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+* [Taken, problemen en goedkeuringen delegeren](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!---

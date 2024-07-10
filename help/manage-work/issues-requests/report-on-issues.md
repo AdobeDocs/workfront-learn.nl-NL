@@ -8,11 +8,12 @@ thumbnail: report-on-issues.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -43,7 +44,10 @@ Een project of taakrapport kan deze informatie tonen gebruikend [!UICONTROL Conv
 
 ![Een afbeelding van rapportgegevens voor uitgaven.](assets/19-text-mode-reporting-for-issues.png)
 
->[!NOTE]
->
->Zie voor instructies over het maken van een weergave [Een basisweergave maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Een basisweergave maken](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [Een eenvoudig rapport maken](/help/reporting/basic-reporting/create-a-simple-report.md)
+* [Verzoeken zoeken en beheren](/help/manage-work/issues-requests/find-requests.md)
 

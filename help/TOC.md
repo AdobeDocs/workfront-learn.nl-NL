@@ -3,7 +3,7 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 20d5b2a226651ae8c4dd24da76e3cda53cd647d1
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
 workflow-type: tm+mt
 source-wordcount: '2346'
 ht-degree: 0%
@@ -141,7 +141,6 @@ ht-degree: 0%
       + [Een verzoek bijwerken](manage-work/issues-requests/update-a-request.md)
       + [Een uitgave/verzoek omzetten in een project](manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Een uitgave/verzoek omzetten in een taak](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [Digitale werkzaamheden beoordelen en goedkeuren](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Verslag over kwesties](manage-work/issues-requests/report-on-issues.md)
 
    + Wachtrijen aanvragen {#request-queues}
@@ -160,6 +159,7 @@ ht-degree: 0%
    + Goedkeuringsprocessen en mijlpaden {#approval-processes-and-milestone-paths}
       + [Een goedkeuringsproces voor eenmalig gebruik maken](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Bestaande goedkeuringsprocessen bijvoegen en bewerken](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+      + [Digitale werkzaamheden beoordelen en goedkeuren](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Taken, problemen en goedkeuringen delegeren](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Mijlpalen toepassen](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [Mijlpalen weergeven](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
@@ -300,7 +300,7 @@ ht-degree: 0%
       + [Initiatieven maken met een abonnement](manage-resources/scenario-planner/creating-initiatives-within-a-plan.md)
       + [De rol, het budget en de kosteninformatie van de baan in de Planner van het Scenario aanpassen](manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
       + [Plannen bijwerken en kopiëren](manage-resources/scenario-planner/update-and-copy-plans.md)
-      + [Een scenario publiceren](manage-resources/scenario-planner/publish-a-scenario.md)
+      + [Publish een scenario](manage-resources/scenario-planner/publish-a-scenario.md)
 
 + Workfront-doelen {#workfront-goals}
    + Een visie voor uw org opbouwen {#establish-a-vision-and-strategy}
@@ -560,7 +560,7 @@ ht-degree: 0%
       + [De beste werkwijzen voor metagegevens en trefwoorden](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Werken met elementen als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Een bestand verzenden als contribuant](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
-      + [Elementen publiceren als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
+      + [Publish-activa als contribuant](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
       + [Voeg een [!UICONTROL Workfront DAM] link](workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
 
    + Merk Connect-gebruiker {#brand-connect}
