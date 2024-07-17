@@ -26,9 +26,9 @@ Gegevens van een bronbestand omzetten in een doelbestand.
 
 Open een CSV-bestand dat een lijst met tijdgegevens bevat. Deze tijdgegevens worden gedurende minuten vastgelegd door meerdere gebruikers. Het doel is deze informatie te nemen en een nieuwe CSV te produceren die de totale tijd, in uren toont, die door elke gebruiker, elke dag wordt geregistreerd.
 
-![Gegevensstructuren, afbeelding 1](../12-exercises/assets/data-structures-walkthrough-1.png)
+![ Beeld van de structuren van Gegevens 1 ](../12-exercises/assets/data-structures-walkthrough-1.png)
 
-![Gegevensstructuren, afbeelding 2](../12-exercises/assets/data-structures-walkthrough-2.png)
+![ Beeld van de structuren van Gegevens 2 ](../12-exercises/assets/data-structures-walkthrough-2.png)
 
 
 In dit scenario opent u een bestand dat een lijst bevat met tijdgegevens voor gewerkte minuten, zoals de datum en tijd, het aantal minuten dat is ingevoerd en het e-mailadres van wie de gegevens heeft ingevoerd. Er zijn 100 inzendingen, waarvan sommige door dezelfde individuen zijn gemaakt en sommige op dezelfde dag als andere.
@@ -44,7 +44,7 @@ Als u een bestand wilt maken waarin de totale tijd, in uren, die elke dag door e
 
 ## Te volgen stappen
 
-**Download het bestand van Workfront.**
+**Download het dossier van Workfront.**
 
 1. Selecteer &quot;_Fusion1.0JanTime.csv&quot; in de map Workfront &quot;Fusion Exercise Files&quot; en klik op Documentdetails.
 1. Kopieer het eerste id-nummer van het URL-adres.
@@ -52,21 +52,21 @@ Als u een bestand wilt maken waarin de totale tijd, in uren, die elke dag door e
 1. Start met de module Download Document vanuit de Workfront-toepassing.
 1. Stel uw Workfront-verbinding in en neem de document-id op die u van de Workfront-URL hebt gekopieerd.
 
-   ![Gegevensstructuren, afbeelding 3](../12-exercises/assets/data-structures-walkthrough-3.png)
+   ![ Beeld van de structuren van Gegevens 3 ](../12-exercises/assets/data-structures-walkthrough-3.png)
 
-   **Parseer de gegevens van de tijdingang.**
+   **ontleed de gegevens van de tijdingang.**
 
 1. Voeg een andere module toe en selecteer CSV parseren.
 1. CSV-bestand parseren voor 7 kolommen. Controleer CSV bevat kopballen doos. Kies het scheidingsteken voor komma&#39;s en plaats Gegevens in het CSV-veld.
 
-   ![Gegevensstructuren Afbeelding 4](../12-exercises/assets/data-structures-walkthrough-4.png)
+   ![ Beeld van de structuren van Gegevens 4 ](../12-exercises/assets/data-structures-walkthrough-4.png)
 
 1. Klik eenmaal op Uitvoeren om de uitvoer weer te geven.
 1. Open de uitvoeringscontrole om de input en de output van de Parse CSV module te zien. Er is één bundel (een CSV-bestand) als invoer en meerdere bundels als uitvoer (één bundel voor elke rij in het CSV-bestand). Het moet er ongeveer als volgt uitzien:
 
-   ![Gegevensstructuren, afbeelding 5](../12-exercises/assets/data-structures-walkthrough-5.png)
+   ![ Beeld van de structuren van Gegevens 5 ](../12-exercises/assets/data-structures-walkthrough-5.png)
 
-   **Zet vervolgens de gegevens om in het gewenste uitvoerformulier, waarbij de geaggregeerde tijdtotalen worden uitgedrukt in uren in plaats van minuten.**
+   **daarna, zet de gegevens in de gewenste outputvorm, met samengevoegde tijdtotalen die in uren in plaats van notulen worden uitgedrukt.**
 
 1. Voeg een module voor het gereedschap Numerieke aggregatie toe.
 1. Selecteer de bronmodule, die de ParseCSV module is.
@@ -76,27 +76,27 @@ Als u een bestand wilt maken waarin de totale tijd, in uren, die elke dag door e
 
    + Deze som wordt voor elke combinatie van het e-mailbericht en de datum berekend. Plaats een komma tussen kolom 4 en kolom 5. Dit wordt later als scheidingsteken gebruikt.
 
-   **Uw toewijzingspaneel moet er als volgt uitzien:**
+   **Uw toewijzingspaneel zou als dit moeten kijken:**
 
-   ![Gegevensstructuren Afbeelding 6](../12-exercises/assets/data-structures-walkthrough-6.png)
+   ![ Beeld van de structuren van Gegevens 6 ](../12-exercises/assets/data-structures-walkthrough-6.png)
 
 1. Klik eenmaal op Uitvoeren om de uitvoer van de aggregatie te controleren.
 
-   **De uitvoerbundels moeten er als volgt uitzien:**
+   **de outputbundels zouden als dit moeten kijken:**
 
-   ![Gegevensstructuren, afbeelding 7](../12-exercises/assets/data-structures-walkthrough-7.png)
+   ![ Beeld van de structuren van Gegevens 7 ](../12-exercises/assets/data-structures-walkthrough-7.png)
 
-   **Zet nu de samengevoegde minuten om in uren.**
+   **zet nu de samengevoegde notulen in uren om.**
 
 1. Voeg nog een gereedschapsmodule toe en selecteer Variabele instellen.
 1. Geef de variabele &quot;Uren&quot; een naam.
 1. Stel de waarde van de variabele in op formatNumber(result/60;2;.;,)
 
-   **Uw toewijzingspaneel moet er als volgt uitzien:**
+   **Uw toewijzingspaneel zou als dit moeten kijken:**
 
-   ![Gegevensstructuren, afbeelding 8](../12-exercises/assets/data-structures-walkthrough-8.png)
+   ![ Beeld van de structuren van Gegevens 8 ](../12-exercises/assets/data-structures-walkthrough-8.png)
 
-   **Vervolgens haalt u de ingestelde waarden op voor het uitvoerbestand. U wilt de userID en de datumwaarde die voor de groepen worden gebruikt. Je wilt ook de uren die berekend werden.**
+   **daarna, krijg de waarden opstelling voor het outputdossier. U wilt de userID en de datumwaarde die voor de groepen worden gebruikt. U wilt ook de uren die werden berekend.**
 
 1. Voeg een andere module-CSV module toe gebruikend de aggregator creëren CSV (geavanceerd).
 1. De bronmodule is Tools - Numerieke aggregator.
@@ -108,43 +108,43 @@ Als u een bestand wilt maken waarin de totale tijd, in uren, die elke dag door e
 1. Klik nog een keer op Item toevoegen.
 1. Geef het item de naam &quot;Uren&quot;, stel het type in op Nummer en klik op Toevoegen.
 
-   **Uw gegevensstructuur moet er als volgt uitzien:**
+   **Uw gegevensstructuur zou als dit moeten kijken:**
 
-   ![Gegevensstructuren, afbeelding 9](../12-exercises/assets/data-structures-walkthrough-9.png)
+   ![ Beeld 9 van de structuren van Gegevens ](../12-exercises/assets/data-structures-walkthrough-9.png)
 
 1. Klik op Opslaan om de gegevensstructuur Tijd geregistreerd voor dagelijkse som te voltooien.
 
-   **Nu geeft u de waarden op voor de drie velden die u zojuist hebt gemaakt. Deze drie velden worden weergegeven in het deelvenster voor CSV-toewijzing.**
+   **nu u levert de waarden voor de drie gebieden u enkel creeerde. U zou die drie gebieden in het CSV toewijzingspaneel moeten zien.**
 
 1. Klik in het veld Gebruikersnaam en kies GET op het tabblad Algemene functies. In de eerste parameter, zet SPLIT van de tekst en binaire functies tabel. De eerste parameter voor de functie SPLIT is het Sleutelgebied. Voeg een komma als scheidingsteken en 1 als index toe. Dit geeft aan dat u wilt dat de GET het eerste veld in de array Key ophaalt.
 1. Kopieer deze expressie naar het veld Datum. Wijzig de index van 1 tot en met 2 in de tweede waarde in de array.
 1. Voeg voor het veld Uren het veld Uren toe met het gereedschap Variabele instellen.
 
-   **Het deelvenster voor CSV-toewijzing moet er als volgt uitzien:**
+   **Uw Csv- kaartpaneel zou als dit moeten kijken:**
 
-   ![Gegevensstructuren Afbeelding 10](../12-exercises/assets/data-structures-walkthrough-10.png)
+   ![ Beeld van de structuren van Gegevens 10 ](../12-exercises/assets/data-structures-walkthrough-10.png)
 
-   **Als u het scenario nu in werking stelt, zou u deze output moeten zien:**
+   **als u het scenario nu in werking stelt, zou u deze output moeten zien:**
 
-   ![Gegevensstructuren, afbeelding 11](../12-exercises/assets/data-structures-walkthrough-11.png)
+   ![ Beeld van de structuren van Gegevens 11 ](../12-exercises/assets/data-structures-walkthrough-11.png)
 
-   **Voeg nu een module toe om deze uitvoer als een document te laden naar een bestaand project in Workfront.**
+   **nu, voeg een module toe om deze output te nemen en het als document aan een bestaand project in Workfront te uploaden.**
 
 1. Open het project in Workfront en kopieer de project-id van URL.
 1. Ga terug naar het scenario in Fusion en voeg een andere module-de module van het Document van de Upload van Workfront toe app.
 1. Plak de project-id in het veld Verwante record-id.
 1. Kies Project voor het Verwante type van Verslag.
-1. Kies de optie Kaart voor het bronbestand.
+1. Kies de optie Kaart voor het Source-bestand.
 1. Gebruik voor de documentnaam de bestandsnaam die u hebt gedownload en voeg &quot;Bijgewerkt&quot; vóór de naam toe.
 1. Voor de inhoud van het Dossier, gebruik de output van de Tekst van de Create CSV module.
 
-   **Uw toewijzingspaneel moet er als volgt uitzien:**
+   **Uw toewijzingspaneel zou als dit moeten kijken:**
 
-   ![Gegevensstructuren Afbeelding 12](../12-exercises/assets/data-structures-walkthrough-12.png)
+   ![ Beeld van de structuren van Gegevens 12 ](../12-exercises/assets/data-structures-walkthrough-12.png)
 
 1. Klik op OK en sla het scenario op.
 1. Klik eenmaal op Uitvoeren om het scenario uit te voeren.
 
-   **Controleer de uitvoeringscontrole in de module Document uploaden om te bevestigen dat het document is geüpload.**
+   **controleer de uitvoeringsinspecteur in de Upload module van het Document om het document te bevestigen werd geupload.**
 
-   ![Gegevensstructuren, afbeelding 13](../12-exercises/assets/data-structures-walkthrough-13.png)
+   ![ Beeld van de structuren van Gegevens 13 ](../12-exercises/assets/data-structures-walkthrough-13.png)

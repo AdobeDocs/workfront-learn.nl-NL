@@ -1,6 +1,6 @@
 ---
 title: Mijlpalen weergeven
-description: Leer hoe u mijlpalen kunt weergeven in een [!DNL  Workfront] project, plus gebruik de milestone mening in [!UICONTROL Project] gebied.
+description: Leer hoe te om mijlpalen in een  [!DNL  Workfront]  project te bekijken, plus de milestone mening in het [!UICONTROL Project] gebied gebruiken.
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -23,6 +23,6 @@ ht-degree: 0%
 In deze video leert u hoe u:
 
 * Mijlpalen weergeven in een specifiek project
-* Lees de mijlpaalweergave in het dialoogvenster [!UICONTROL Project] gebied
+* De milestone-weergave in het gebied [!UICONTROL Project] lezen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on)

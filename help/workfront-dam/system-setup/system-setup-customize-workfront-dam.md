@@ -1,6 +1,6 @@
 ---
-title: Aanpassen [!UICONTROL Workfront DAM]
-description: Leer hoe u kunt aanpassen [!UICONTROL Workfront DAM] door watermerken te maken, de [!UICONTROL DAM] login venster, branding de interface, en meer.
+title: '[!UICONTROL Workfront DAM] aanpassen'
+description: Leer hoe u [!UICONTROL Workfront DAM] kunt aanpassen door watermerken te maken, het aanmeldingsvenster van [!UICONTROL DAM] aan te passen, de interface van branding te voorzien en meer.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 ---
 
-# Aanpassen [!UICONTROL Workfront DAM]
+# [!UICONTROL Workfront DAM] aanpassen
 
 In deze video leert u hoe u:
 
 * Watermerken maken
-* De [!UICONTROL Workfront DAM] aanmeldingsvenster
+* Het aanmeldvenster van [!UICONTROL Workfront DAM] aanpassen
 * De interface voorzien van uw kleuren en logo
-* E-mailberichten aanpassen die zijn verzonden van [!UICONTROL Workfront DAM]
+* E-mailberichten aanpassen die zijn verzonden vanuit [!UICONTROL Workfront DAM]
 * Regels vaststellen voor het downloaden van activa
 * Meldingen in apps beheren
-* Plan voor het opzetten en onderhouden van [!UICONTROL Workfront DAM]
+* Plan voor het instellen en onderhouden van [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335232/?quality=12&learn=on)

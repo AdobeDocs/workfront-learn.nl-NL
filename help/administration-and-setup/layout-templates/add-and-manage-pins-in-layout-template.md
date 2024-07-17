@@ -8,13 +8,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-19T00:00:00Z
 jira: KT-13069
 thumbnail: 3418382.jpeg
-source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
+exl-id: 82b41f3c-3b44-4e50-85fd-dbaf31dc1acb
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
-
 
 # Punten via lay-outsjablonen toevoegen en beheren
 

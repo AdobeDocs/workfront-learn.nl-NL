@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Werk toewijzen in het dialoogvenster [!DNL Workload Balancer]
+# Werk toewijzen in de [!DNL Workload Balancer]
 
 In deze video leert u hoe u:
 

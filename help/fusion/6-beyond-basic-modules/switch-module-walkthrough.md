@@ -1,6 +1,6 @@
 ---
 title: De moduleanalyse van de schakelaar
-description: Leer hoe te om de module van de Schakelaar te gebruiken wanneer u complexere of dynamische gegevenstransformaties in moet uitvoeren [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om de module van de Schakelaar te gebruiken wanneer u complexere of dynamische gegevenstransformaties in  [!DNL Adobe Workfront Fusion] moet uitvoeren.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Begrijp hoe te om de module van de Schakelaar te gebruiken wanneer u complexere of dynamische gegevenstransformaties moet uitvoeren.
 
-![Een beeld gebruikend de schakelaarmodule](assets/beyond-basic-modules-4.png)
+![ een beeld gebruikend de schakelaarmodule ](assets/beyond-basic-modules-4.png)
 
 ## De moduleanalyse van de schakelaar
 
@@ -34,4 +34,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

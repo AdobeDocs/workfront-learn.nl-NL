@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Instellingen voor hulpbronnenbeheer, werklastverdeling en gebruiksrapport
 
-[!DNL Workfront] biedt gegevens aan over meerdere gereedschappen in [!DNL Workfront], zodat u eenvoudiger kunt beslissen over uw bronnen en uw processen vloeiender verlopen. Om te zien wat er gebeurt met uw middelen, zou u uw managers, uw gebruikers, en uw projecten moeten ervoor zorgen behoorlijk worden gevormd. Deze configuraties zijn nuttig zelfs als u niet bij het gebruiken van elk van [!DNL Workfront's] hulpmiddelen voor resourcebeheer.
+[!DNL Workfront] biedt gegevens aan, in meerdere gereedschappen in [!DNL Workfront] , zodat u eenvoudiger kunt beslissen over bronnen en uw processen vloeiender verlopen. Om te zien wat er gebeurt met uw middelen, zou u uw managers, uw gebruikers, en uw projecten moeten ervoor zorgen behoorlijk worden gevormd. Deze configuraties zijn handig, zelfs als u niet van plan bent alle [!DNL Workfront's] -functies voor resourcebeheer te gebruiken.
 
 In deze sectie leert u:
 
@@ -30,9 +30,9 @@ In deze sectie leert u:
 
 Laten we beginnen met ervoor te zorgen dat de juiste mensen toegang hebben tot en de middelen van uw organisatie kunnen beheren.
 
-&lt;!Download the guide for step-by-step instructions.&gt;
+&lt;!Download de handleiding voor stapsgewijze instructies.&gt;
 
-![Resourcebeheerinstellingen één pager](assets/rm_setup01.png)
+![ de beheersmontages van het Middel één pager ](assets/rm_setup01.png)
 
 
 ## Werklastbalans en gebruiksrapport
@@ -41,4 +41,4 @@ Samen met de Planner van het Middel en de Pools van het Middel, hebben de gebrui
 
 Er is geen andere instelling nodig voor toegang tot of beheer van bronnen via deze gereedschappen.
 
-![Werklastverdelingsmechanisme met gebruiksrapport](assets/rm_setup02.png)
+![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/rm_setup02.png)

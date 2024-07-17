@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ---
 
-# Weergeven op gebruikers in het dialoogvenster [!DNL Resource Planner]
+# Weergeven op gebruikers in de [!DNL Resource Planner]
 
 In deze video zult u:
 
-* Zie [!UICONTROL View by User]weergave
+* Zie [!UICONTROL View by User] weergave
 * Leer hoe de middelinformatie in deze mening wordt getoond
 
 

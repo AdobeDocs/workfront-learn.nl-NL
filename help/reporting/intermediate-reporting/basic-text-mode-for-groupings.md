@@ -22,16 +22,16 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Informatie over rapporteringselementen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
->* [Rapportonderdelen begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
->* [Een basisgroep maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
+>* [ Begrijp rapporteringselementen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [ Begrijp het melden componenten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [ creeer een basisgroepering ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
 
 
 >[!TIP]
 >
->* Voor een beter begrip van de tekstmodus raden we u aan de opgenomen webinar-gebeurtenis te bekijken [Vraag de expert - Inleiding aan de Rapportering van de Wijze van de Tekst](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), wat een uur lang is.
->* Als u nog meer wilt weten over de tekstmodus, raden we u aan de [Geavanceerde rapportage](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) zelfstudies, die samen 5,5 uur lang zijn.
->* Klik hier voor toegang [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
+>* Om een diepgaander inzicht in tekstwijze te verkrijgen adviseren wij het letten op de geregistreerde webinar gebeurtenis [ vragen de Deskundige - Inleiding aan de Wijze van de Tekst die ](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en) meldt, die één uur in lengte is.
+>* Om nog meer over tekstwijze te leren adviseren wij het letten op [ Geavanceerde het melden ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
+>* Klik hier voor toegang [[!UICONTROL API Explorer] ](https://developer.adobe.com/workfront/api-explorer/)
 
 In deze video leert u:
 
@@ -55,7 +55,7 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![Een het schermbeeld dat projecttaken toont die door 4 ouders worden gegroepeerd](assets/4-parents-grouping.png)
+![ het schermbeeld dat van A projecttaken toont die door 4 ouders ](assets/4-parents-grouping.png) worden gegroepeerd
 
 
 ## Taak - Percentage volledige groepering
@@ -77,7 +77,7 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![Een het schermbeeld die projecttaken tonen die door percent volledig worden gegroepeerd](assets/percent-complete-grouping.png)
+![ het schermbeeld dat van A projecttaken toont die door percent volledig ](assets/percent-complete-grouping.png) worden gegroepeerd
 
 ## Taak - statusEquatesWith, dan status
 
@@ -101,7 +101,7 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![Een het schermbeeld die projecttaken tonen die door statusEquatesWith worden gegroepeerd](assets/status-equates-with.png)
+![ het schermbeeld dat van A projecttaken toont die door statusEquatesWith ](assets/status-equates-with.png) worden gegroepeerd
 
 
 ## Goedkeuring proef - groep per projectnaam
@@ -112,7 +112,7 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![Een schermafbeelding met proefdrukgoedkeuringen gegroepeerd op projectnaam](assets/proof-approvals-grouped-by-project-name.png)
+![ het schermbeeld dat van A goedkeuringen van het Bewijs toont die door projectnaam ](assets/proof-approvals-grouped-by-project-name.png) worden gegroepeerd
 
 
 ## Goedkeuring proefdrukken - Groeperen op documentnaam
@@ -123,5 +123,5 @@ group.0.valuefield=documentVersion:document:name
 group.0.valueformat=HTML
 ```
 
-![Een schermafbeelding met proefdrukgoedkeuringen gegroepeerd op projectnaam](assets/proof-approvals-grouped-by-doc-name.png)
+![ het schermbeeld dat van A goedkeuringen van het Bewijs toont die door projectnaam ](assets/proof-approvals-grouped-by-doc-name.png) worden gegroepeerd
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -52,7 +52,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Als je nog maar net aan de slag bent met Agile, begin dan met een eenvoudig bord.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Beginnen met het krijgen van uw werk op een bord en het trekken van het werkpunten zal u helpen oefenen en geeft u meer structuur later aangezien u begint de prioriteit van het werkpunten te organiseren en te evalueren
 
@@ -65,7 +65,7 @@ Beginnen met het krijgen van uw werk op een bord en het trekken van het werkpunt
 Bespreek uw workflow als een team voordat u kolommen op de kaart maakt - maar houd het eenvoudig!
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Teams creëren vaak te veel complexiteit op het bord, waardoor extra werk ontstaat dat niet echt toegevoegde waarde heeft. Begin met slechts een paar kolommen die je werk doorloopt en pas je vervolgens aan.
 
@@ -76,7 +76,7 @@ Teams creëren vaak te veel complexiteit op het bord, waardoor extra werk ontsta
 
 Stel uw instellingen in via de weergave Bord.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Het is gemakkelijk om te vergeten welke werken eigenlijk de hoogste prioriteit hebben omdat dagelijkse onderbrekingen een dringender gevoel kunnen hebben. Houd uw oorspronkelijke toezeggingen in de gaten door naar het bord te kijken.
 
@@ -87,7 +87,7 @@ Het is gemakkelijk om te vergeten welke werken eigenlijk de hoogste prioriteit h
 
 Creeer een Gemiddelde rapport van de Snelheid (de Verhalen om tijdens een herhaling of timebox te voltooien), en gebruik het om de planning van uw team nauwkeuriger te maken.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Het is makkelijk om te optimistisch te zijn over hoeveel we op elk moment kunnen doen. Regelmatig naar snelheid kijken en realistischer zijn over onze toezeggingen, helpen echte voorspelbaarheid te creëren en beschermen ons tegen werkoverbelasting
 
@@ -98,6 +98,6 @@ Het is makkelijk om te optimistisch te zijn over hoeveel we op elk moment kunnen
 
 Genereer uw achterstand in de weergave Project. U kunt dit als een onderwerp, functie, campagne of een ander onderwerp noemen. Als u veelvoudige Projecten hebt, gebruik de mening van het Programma en zet groep door Project aan. Om algemene prioriteit voor uw team te zien, dan draai het groeperen.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Een achterstand op een board kan niet alle werk vertegenwoordigen nodig om tot grotere waarde te leiden. Als u het project bekijkt, kan het team zich richten op de hogere waarde die u aan uw klant probeert te leveren. Vanaf dat punt kunt u het werk verfijnen en de prioriteit ervan bepalen en het op een bord plaatsen.

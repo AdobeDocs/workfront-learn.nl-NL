@@ -1,6 +1,6 @@
 ---
 title: Een gebruiksgeval voor eindgebruikers begrijpen
-description: Leer hoe eindgebruikers vliegplan, onderbreking en taken in vluchtgrafieken kunnen gebruiken, in [!UICONTROL Enhanced Analytics].
+description: Leer hoe eindgebruikers in [!UICONTROL Enhanced Analytics] vliegdiagrammen kunnen gebruiken voor vliegplan, opbranden en taken.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335055.png

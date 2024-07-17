@@ -1,6 +1,6 @@
 ---
 title: Duidelijke gebruiksgevallen definiëren en de beste aanpak vinden
-description: Leer hoe u een specifieke gebruikscase voor uw scenario kunt identificeren, het juiste ontwerp kunt bepalen en belanghebbenden het beste advies kunt geven in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om een specifiek gebruiksgeval voor uw scenario te identificeren, het juiste ontwerp te bepalen, en belanghebbenden het beste advies in  [!DNL Adobe Workfront Fusion] te geven.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -35,4 +35,4 @@ In deze video leert u hoe u:
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

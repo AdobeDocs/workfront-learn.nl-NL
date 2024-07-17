@@ -1,6 +1,6 @@
 ---
-title: De weergave van [!UICONTROL Brand Connect]
-description: Leer hoe u de navigatiebalk en voettekst kunt aanpassen en de startpagina en aanmeldingspagina kunt aanpassen in [!UICONTROL Brand Connect] for [!UICONTROL Workfront DAM].
+title: De weergave van [!UICONTROL Brand Connect] aanpassen
+description: Leer hoe u de navigatiebalk en voettekst kunt aanpassen en de startpagina en aanmeldingspagina kunt aanpassen in [!UICONTROL Brand Connect] for [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -12,12 +12,12 @@ exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
 
-# De weergave aanpassen van [!UICONTROL Brand Connect]
+# De weergave van [!UICONTROL Brand Connect] aanpassen
 
 In deze video leert u hoe u:
 
@@ -26,37 +26,37 @@ In deze video leert u hoe u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on)
 
-## Extra [!UICONTROL Appearance] instellen
+## Aanvullende instelling [!UICONTROL Appearance]
 
-De [!UICONTROL Font] optie onder de [!UICONTROL Appearance] menu&#39;s alle tekst in uw [!UICONTROL Brand Portal] in het geselecteerde lettertype. Meer dan 800 Google-lettertypen worden ondersteund.
+Met de optie [!UICONTROL Font] onder het menu [!UICONTROL Appearance] kunt u alle tekst in het geselecteerde lettertype in de hele [!UICONTROL Brand Portal] opmaken. Meer dan 800 Google-lettertypen worden ondersteund.
 
-![De [!UICONTROL Font] optie onder de [!UICONTROL Appearance] menustijl voor de [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
+![ De optie [!UICONTROL Font] onder de menustijl [!UICONTROL Appearance] voor [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
 
 ## Homepage-widgets
 
-Pas de vormgeving van uw [!UICONTROL Brand Connect] homepage om overeen te komen met uw organisatie. Met widgets kunt u elementen toevoegen, zoals mappen en afbeeldingsregelaars. Als uw organisatie meerdere [!UICONTROL Brand Connects], elk heeft zijn eigen homepage, die je een duidelijk uiterlijk kunt geven.
+Pas de vormgeving van uw [!UICONTROL Brand Connect] -startpagina aan uw organisatie aan. Met widgets kunt u elementen toevoegen, zoals mappen en afbeeldingsregelaars. Als uw organisatie meerdere [!UICONTROL Brand Connects] heeft, heeft elke organisatie een eigen startpagina, die u een verschillende vormgeving kunt geven.
 
-![Een schermafbeelding van de beschikbare widgets voor uw [!UICONTROL Brand Connect] homepage](assets/03-brand-connect-home-page-widgets.png)
+![ het schermschot van A van beschikbare widgets voor uw [!UICONTROL Brand Connect] homepage ](assets/03-brand-connect-home-page-widgets.png)
 
 Deze widgets zijn beschikbaar:
 
-**A. Carousel**—Meerdere elementen weergeven in een afbeeldingsschuifregelaar. U kunt beschrijvingen toevoegen aan elk element. Klik op het pictogram Toevoegen om afbeeldingen te selecteren die in de carrousel moeten worden weergegeven.
+**A. Carrousel** - toon veelvoudige activa in een beeldschuif. U kunt beschrijvingen toevoegen aan elk element. Klik op het pictogram Toevoegen om afbeeldingen te selecteren die in de carrousel moeten worden weergegeven.
 
-**B. Map**—Geef een map weer die geselecteerde elementen bevat. Klik op het pictogram Toevoegen om het dialoogvenster [!UICONTROL Asset Chooser] zodat u een map kunt selecteren. Middelen in de map zijn zichtbaar voor [!UICONTROL Brand Connect] gebruikers kunnen alleen worden gedownload door personen met een machtiging.
+**B. Map** - Geef een map weer die geselecteerde elementen bevat. Klik op het pictogram Toevoegen om [!UICONTROL Asset Chooser] te openen, zodat u een map kunt selecteren. Assets in de map is zichtbaar voor [!UICONTROL Brand Connect] -gebruikers, maar kan alleen worden gedownload door gebruikers met toestemming.
 
-**C. Lichtbak**—Bestaande weergeven [!UICONTROL Lightbox]. De activa in de [!UICONTROL Lightbox] wordt zichtbaar voor [!UICONTROL Brand Connect] gebruikers kunnen alleen worden gedownload door personen met een machtiging.
+**C. Lichtbak** - toon een bestaand [!UICONTROL Lightbox]. De elementen in de [!UICONTROL Lightbox] zijn zichtbaar voor [!UICONTROL Brand Connect] -gebruikers, maar kunnen alleen worden gedownload door gebruikers met toestemming.
 
-**D. Merkrichtlijnen**—Geef de merkenrichtlijnen weer op de startpagina in plaats van/als aanvulling op de bovenste navigatiebalk.
+**D. De Richtlijnen van het merk** - toon de Richtlijnen van het Merk op de homepage in plaats van/naast in de hoogste navigatiebar.
 
-**E. Beschrijving**—Gebruik deze optie om korte stukken tekst weer te geven.
+**E. Beschrijving** - gebruik om korte stukken van tekst te tonen.
 
-**F. Omgevulde beschrijving**—Voer een tekstkopieerblok in dat u wilt weergeven op een grijze achtergrond.
+**F. Gevulde Beschrijving** - ga een blok van de tekstexemplaar aan vertoning op een grijze achtergrond in.
 
-**G. HTML**—Gebruik HTML en CSS om aangepaste inhoud te maken. U kunt bijvoorbeeld een koppeling naar een video insluiten. Er zijn enkele [HTML-tags om te voorkomen](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
+**G. HTML** - gebruik HTML en CSS om douaneinhoud tot stand te brengen. U kunt bijvoorbeeld een koppeling naar een video insluiten. Er zijn sommige [ HTML markeringen om ](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html) te vermijden.
 
 ## Een zoekbalk toevoegen
 
-Als u een aangepaste homepage voor uw organisatie ontwerpt [!UICONTROL Brand Connect], moeten gebruikers in de [!UICONTROL Assets] gebied voor het uitvoeren van een zoekopdracht.
+Als u een aangepaste homepage voor de [!UICONTROL Brand Connect] -website van uw organisatie ontwerpt, moeten gebruikers in het [!UICONTROL Assets] -gebied klikken om een zoekopdracht uit te voeren.
 
 Systeembeheerders kunnen echter een zoekbalk maken met de widget HTML en deze tag HTML:
 

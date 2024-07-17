@@ -1,6 +1,6 @@
 ---
 title: Begrijp het vinden van activa als contribuant
-description: Leer hoe u naar elementen kunt zoeken, in mappen kunt zoeken, zoekresultaten kunt stroomlijnen, metagegevens en trefwoorden kunt gebruiken als zoekfilters in [!UICONTROL Workfront DAM].
+description: Leer hoe u naar elementen kunt zoeken, in mappen kunt zoeken, zoekresultaten kunt stroomlijnen, metagegevens en trefwoorden kunt gebruiken als zoekfilters in [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -34,7 +34,7 @@ In deze video leert u hoe u:
 
 In een standaardzoekopdracht wordt gekeken naar bestandsnamen, metagegevensvelden, trefwoorden en inhoud van elementen (afhankelijk van het type element). De map bevat geen mapnaam.
 
-De meeste zoekresultaten komen exact overeen. Een uitzondering op deze regel &quot;exacte overeenkomst&quot; is wanneer de [!UICONTROL Workfront DAM] doorzoekt het filename gebied. [!UICONTROL Workfront DAM] retourneert niet alleen exacte overeenkomende bestandsnamen, maar retourneert slechts gedeeltelijke overeenkomende bestandsnamen.
+De meeste zoekresultaten komen exact overeen. Een uitzondering op deze regel &quot;exact overeenkomend&quot; is wanneer de [!UICONTROL Workfront DAM] in het veld filename zoekt. [!UICONTROL Workfront DAM] retourneert gedeeltelijke overeenkomende bestandsnamen in plaats van alleen exacte overeenkomende bestandsnamen.
 
 ## Gebruikersoperatoren tijdens het zoeken
 
@@ -62,4 +62,4 @@ Als u een woord wilt uitsluiten van de zoekresultaten, plaatst u een minteken (-
 
 ### operator voor leeg veld
 
-Als u elementen wilt zoeken die geen informatie bevatten in een specifiek metagegevensveld, voert u het veld dat u wilt zoeken in de volgende indeling in: ?[xxxxx]. Bijvoorbeeld, als u activa wilt vinden die geen toegewezen sleutelwoorden hebben, ga binnen?[trefwoord] in het zoekveld.
+Als u elementen wilt zoeken die geen informatie bevatten in een specifiek metagegevensveld, voert u het veld dat u wilt zoeken in de volgende indeling in: ?[ xxxxx ]. Bijvoorbeeld, als u activa wilt vinden die geen toegewezen sleutelwoorden hebben, ga binnen?[ sleutelwoord ] op het onderzoeksgebied.

@@ -1,6 +1,6 @@
 ---
 title: Voortgang van het werk bijhouden met projectmetriek
-description: Leer hoe u metrische diagrammen van projecten kunt gebruiken om de voortgang van projectwerk te volgen in [!DNL  Workfront].
+description: Leer hoe te om projectmetriekaarten te gebruiken om vooruitgang op projectwerk in  [!DNL  Workfront] te volgen.
 activity: use
 feature: Work Management
 thumbnail: 336667.jpeg
@@ -34,5 +34,5 @@ In deze video leert u hoe u:
 * [Beginnen met het beheren van een project](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [De voortgang van het project bijhouden](/help/manage-work/projects/track-overall-project-progress.md)
 * [Voortgang van het werk bijhouden met projectmetriek](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [Begrijp het [!UICONTROL Gantt] weergave](/help/manage-work/projects/understand-the-gantt-view.md)
-* [Begrijp het [!UICONTROL Board] weergave](/help/manage-work/projects/understand-the-board-view.md)
+* [De weergave [!UICONTROL Gantt] begrijpen](/help/manage-work/projects/understand-the-gantt-view.md)
+* [De weergave [!UICONTROL Board] begrijpen](/help/manage-work/projects/understand-the-board-view.md)

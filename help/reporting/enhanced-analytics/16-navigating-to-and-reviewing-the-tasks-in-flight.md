@@ -1,6 +1,6 @@
 ---
 title: De taken tijdens de vlucht controleren
-description: Leer hoe u toegang krijgt tot de taken in het vluchtdiagram en hoe u snel kunt zien welke taken niet zijn voltooid in een project, allemaal in [!UICONTROL Enhanced Analytics].
+description: Leer hoe u toegang krijgt tot de taken in het vluchtdiagram en hoe u snel kunt zien welke taken niet zijn voltooid in een project, allemaal in [!UICONTROL Enhanced Analytics] .
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -39,7 +39,7 @@ Aan de hand van deze gegevens kunt u bepalen:
 * Hoe dicht een taak aan voltooiing is.
 * Met wie moet u over een specifieke taak spreken?
 
-![Een afbeelding die een taak in het vliegdiagram weergeeft met nummers op de gebieden die worden beschreven in de onderstaande opsommingstekens](assets/section-2-11.png)
+![ een beeld dat een taken in vluchtgrafiek met aantallen op gebieden toont die in de kogels hieronder worden beschreven ](assets/section-2-11.png)
 
 Op het diagram kunt u zien:
 

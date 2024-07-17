@@ -33,9 +33,9 @@ In deze video leert u hoe u kunt communiceren met alle betrokkenen bij het proje
 
 >[!TIP]
 >
->Als u het rapport Notitie zoeken wilt maken dat in de video wordt weergegeven, raadpleegt u de activiteit in het dialoogvenster [Een taakrapport maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) zelfstudie.
+>Om het rapport van het Onderzoek van de Nota tot stand te brengen dat in de video wordt getoond, zie de activiteit in [ een leerprogramma van het taakrapport ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) creëren.
 >
->Als u het rapport Notitie zoeken wilt toevoegen aan uw projectdeelvenster, raadpleegt u de activiteit in het dialoogvenster [Dashboards maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) zelfstudie.
+>Om het rapport van het Onderzoek van de Nota aan uw projectpaneel toe te voegen, zie de activiteit in [ dashboards ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) leerprogramma creëren.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

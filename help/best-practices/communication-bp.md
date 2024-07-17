@@ -45,13 +45,13 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Gebruik uw workflows om te bepalen welke meldingen nodig zijn.
 
-**Daarom:**
+**hier is waarom**
 
 Door uw workflows stap voor stap te doorlopen, kunt u gemakkelijker de communicatiepunten identificeren en ervoor zorgen dat de juiste meldingen zijn ingeschakeld. Dit is een primeur van de meldingen voor de manier waarop uw organisatie al werkt, zodat spam of communicatiestoornissen worden voorkomen.
 
-Voor instructies over het instellen van gebeurtenismeldingen raadpleegt u [Gebeurtenismeldingen instellen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
+Voor instructies op hoe te de berichten van de opstellingsgebeurtenis zien [ de berichten van de opstellingsgebeurtenis ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
 
-Zie voor instructies over het beheren van gebeurtenismeldingen [Gebeurtenismeldingen in de app en e-mailen beheren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
+Voor instructies op hoe te om gebeurtenisberichten te beheren zie [ binnen-app en e-mailgebeurtenisberichten beheren ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
 
 </br>
 </br>
@@ -63,7 +63,7 @@ Maak een notitierapport met aanwijzingen voor gebruikers om gemakkelijk te zoeke
 
 
 
-**Daarom:**
+**hier is waarom**
 
 Als u veel updateverbindingen in een project hebt, kan het moeilijk zijn om een specifieke update te vinden, vooral omdat CTRL/Bevel F niet binnen de draden zal zoeken. Met een notitierapport kunt u gemakkelijk alle updates scannen op basis van uw snelle opties zonder dat u elke thread hoeft te openen. Veelvoorkomende snelle opties zijn:
 
@@ -72,5 +72,5 @@ Als u veel updateverbindingen in een project hebt, kan het moeilijk zijn om een 
 * Naam eigenaar
 * Invoerdatum
 
-Voor geleidelijke instructies op hoe te om een notitierapport met herinneringen tot stand te brengen, bekijk [Een taakrapport maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) zelfstudie en voer de volgende activiteit uit.
+Voor stap voor stap instructies op hoe te om een notitierapport met herinneringen tot stand te brengen, op [ creeer een leerprogramma van het taakrapport ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html), dan doe de activiteit die volgt.
 

@@ -1,6 +1,6 @@
 ---
 title: Testen en starten
-description: Leer hoe u consistent kunt doorlopen in ontwerp en testen en hoe u gedetailleerde en deelbare documentatie kunt maken wanneer u [!DNL Adobe Workfront Fusion].
+description: Leer hoe te constant door ontwerp en het testen herhalen, en gedetailleerde en deelbare documentatie creëren wanneer het gebruiken van  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -48,4 +48,4 @@ Prioriteit geven aan testen gedurende de gehele levenscyclus van uw Workfront Fu
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

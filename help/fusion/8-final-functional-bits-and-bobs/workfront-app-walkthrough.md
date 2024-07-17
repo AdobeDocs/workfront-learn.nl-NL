@@ -1,6 +1,6 @@
 ---
 title: Workfront-app doorloopt
-description: Meer informatie over de verschillende nuttige trigger-, actie- en zoekmodules in de Workfront-app vindt u in [!DNL Adobe Workfront Fusion].
+description: Leer over de verscheidenheid van nuttige trekker, actie, en onderzoeksmodules in Workfront app in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -29,4 +29,4 @@ In deze video leert u meer over:
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

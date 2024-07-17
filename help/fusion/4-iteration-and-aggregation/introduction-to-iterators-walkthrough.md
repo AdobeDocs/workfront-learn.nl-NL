@@ -1,6 +1,6 @@
 ---
 title: Inleiding aan iteratoranalyse
-description: Leer hoe u het aantal werktaken in een project kunt tellen en vervolgens een waarde voor elk van de taakbundels kunt berekenen, allemaal in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om het aantal het werk taken in een project te tellen, dan een waarde voor elk van de taakbundels, allen in  [!DNL Adobe Workfront Fusion] berekenen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Kijk naar een specifiek project in Workfront en bekijk dan alle taken binnen dat project. Dan zult u de module van het verhogingshulpmiddel gebruiken om het aantal taken binnen het project te tellen, tot slot zult u de Vastgestelde veranderlijke module gebruiken om het Aantal Kinderen van het Aantal Open Kwesties af te trekken om een numerieke waarde voor elk van de taakbundels te produceren.
 
-![Een afbeelding van het Fusion-scenario](assets/iteration-and-aggregation-1.png)
+![ een beeld van het scenario van de Fusie ](assets/iteration-and-aggregation-1.png)
 
 ## Inleiding aan iteratoranalyse
 
@@ -34,4 +34,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

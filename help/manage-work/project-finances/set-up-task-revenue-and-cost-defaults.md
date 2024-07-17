@@ -21,18 +21,18 @@ ht-degree: 0%
 
 Het inkomstentype en het kostentype worden gebruikt om de geplande en daadwerkelijke financiële informatie voor een taak te berekenen. De standaardinformatie voor elk van deze kan systeem-breed worden geplaatst, zodat is het op elke nieuwe gemaakte taak van toepassing. De informatie kan op individuele projecten worden veranderd of op projectmalplaatjes worden geplaatst.
 
-**Er zijn vijf standaardovergavetypen beschikbaar:**
+**Vijf standaard opbrengsttypes zijn beschikbaar:**
 
-* Niet opteerbaar
+* Niet opblaasbaar
 * Uur gebruiker
 * Rol Uur
-* Vaste uren
+* Vast uurwerk
 * Vaste inkomsten
 
-**En er zijn vier standaardkostentypen beschikbaar:**
+**en vier standaardkostentypes zijn beschikbaar:**
 
 * Geen kosten
-* Vaste uren
+* Vast uurwerk
 * Uur gebruiker
 * Rol Uur
 
@@ -42,11 +42,11 @@ Het inkomstentype en het kostentype worden gebruikt om de geplande en daadwerkel
 
 ## Ontvangsten en kosten in gebreke blijven instellen
 
-Selecteren **[!UICONTROL Setup]** in het hoofdmenu.
+Selecteer **[!UICONTROL Setup]** in het hoofdmenu.
 
-1. Klikken **[!UICONTROL Project Preferences]** in het linkerdeelvenstermenu.
-1. Klik vervolgens op **[!UICONTROL Tasks & Issues]**.
-1. In de [!UICONTROL New Task Default] selecteert u de gewenste [!UICONTROL Revenue Type] en [!UICONTROL Cost Type].
+1. Klik op **[!UICONTROL Project Preferences]** in het menu van het linkerdeelvenster.
+1. Klik vervolgens op **[!UICONTROL Tasks & Issues]** .
+1. Selecteer in de sectie [!UICONTROL New Task Default] de gewenste [!UICONTROL Revenue Type] en [!UICONTROL Cost Type] .
 1. Klik op Opslaan als u klaar bent.
 
-![Afbeelding van standaardinstellingen voor inkomsten en kosten](assets/setting-up-finances-3.png)
+![ een beeld van vestiging opbrengst en kostengebreken ](assets/setting-up-finances-3.png)

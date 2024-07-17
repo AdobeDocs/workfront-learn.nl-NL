@@ -1,6 +1,6 @@
 ---
 title: Instellen en ophalen
-description: Leer hoe u gegevens kunt delen tussen verschillende paden en variabelen instellen en ophalen kunt gebruiken, allemaal in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om gegevens tussen verschillende wegen te delen, en gebruik Reeks en krijgt variabelen, allen in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

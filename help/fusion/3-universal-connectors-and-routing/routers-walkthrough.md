@@ -1,6 +1,6 @@
 ---
 title: Routers doorlopen
-description: Leer hoe te om een router te gebruiken om de bundels van Pokemon vs superheroes onderaan de correcte weg binnen over te gaan [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om een router te gebruiken om de bundels van Pokemon vs. superheroes onderaan de correcte weg in  [!DNL Adobe Workfront Fusion] over te gaan.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de correcte weg over te gaan, dan creeer een taak voor elk karakter.
 
-![Een afbeelding van het Fusion-scenario](assets/universal-connectors-and-routing-2.png)
+![ een beeld van het scenario van de Fusie ](assets/universal-connectors-and-routing-2.png)
 
 ## Routers doorlopen
 
@@ -32,7 +32,7 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## URL&#39;s uitvoeren
 
-* Superhero-API-website: `https://www.superheroapi.com/`
+* Superhero API-website: `https://www.superheroapi.com/`
 * Eerste URL voor oefening: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
 * Tweede URL voor oefening: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
@@ -44,9 +44,9 @@ Als u moeite hebt om uw eigen superheldtoken te openen, kunt u dit gedeelde toke
 
 Met het veld Zoeken-items boven aan de deelvensters met toewijzingen kunt u snel velden in het deelvenster zoeken, zelfs als deze in arrays zijn genest. De zoekopdracht is niet hoofdlettergevoelig.
 
-![Een afbeelding van het eerste zoekdeelvenster](assets/universal-connectors-and-routing-3.png)
+![ een beeld van het eerste onderzoekspaneel ](assets/universal-connectors-and-routing-3.png)
 
-![Een afbeelding van het tweede deelvenster Zoeken](assets/universal-connectors-and-routing-4.png)
+![ een beeld van het tweede onderzoekspaneel ](assets/universal-connectors-and-routing-4.png)
 
 ## Tips en trucs voor het werken met API&#39;s
 
@@ -56,7 +56,7 @@ Tot dit punt, hebt u met zeer eenvoudige API (de Interface van de Programmering 
 
 Workfront en veel softwaresystemen zijn gebouwd met behulp van de REST-API (Representational State Transfer), het eenvoudigste en meest standaard type API dat momenteel wordt gebruikt. Er zijn echter een paar andere, zoals:
 
-* SOAP (Simple Object Access Protocol) (Workfront Proof API is gebaseerd op SOAP)
+* SOAP (Simple Object Access Protocol) (API voor proefdrukken van Workfront is SOAP)
 * FTP (File Transfer Protocol)
 * SFTP (Secure File Transfer Protocol)
 * Zoek op internet naar API-typen en trefwoorden voor meer informatie.
@@ -95,14 +95,14 @@ Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet 
 
 Maak in de module Meerdere variabelen instellen voor Pokemon-tekens een variabele met de naam &quot;Status (niveau)&quot;. Wijs de naam van de Stats van Pokemon in deze variabele toe. Gebruik de mogelijkheid van de arraywaarde om de weergave van de array te wijzigen, zodat elke status een nieuwe regel is, zoals hieronder wordt weergegeven.
 
-**Tip:** Er zijn slechts zes verschillende Pokemon stats met een vergelijkbaar niveau.
+**Hint:** Er zijn slechts zes verschillende verklaringen Pokemon met een overeenkomstig niveau.
 
-![Een afbeelding van statistische gegevens](assets/universal-connectors-and-routing-5.png)
+![ een beeld van Stats ](assets/universal-connectors-and-routing-5.png)
 
-**Uitdaging:** Zie of u de arrayformules kunt gebruiken om de Abilities ertoe te brengen om de zelfde manier te tonen zoals hierboven als verschillende rijen eerder dan een koord van waarden die door een komma worden gescheiden. Er staat een tip in de schermafbeelding hieronder.
+**Uitdaging:** zie of kunt u de serieformules gebruiken om de Ababilities te krijgen om de zelfde manier zoals hierboven als verschillende rijen eerder dan een koord van waarden te tonen die door een komma worden gescheiden. Er staat een tip in de schermafbeelding hieronder.
 
-![Een afbeelding van een arraynaam](assets/universal-connectors-and-routing-6.png)
+![ een beeld van een serienaam ](assets/universal-connectors-and-routing-6.png)
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

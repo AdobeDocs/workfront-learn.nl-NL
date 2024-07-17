@@ -1,6 +1,6 @@
 ---
 title: Inleiding aan universele connectors analyse
-description: Leer hoe u de Poke API aanroept via een HTTP-connector om informatie te verzamelen en te posten op een Pokemon-teken, allemaal in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om Poke API door een schakelaar van HTTP te roepen om informatie over een karakter van Pokemon te verzamelen en te posten, allen in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Gebruikend een karakter Pokemon in een spreadsheet, roep de Pijn API door een schakelaar van HTTP om meer informatie over dat karakter te verzamelen en te posten.
 
-![Een afbeelding van het Fusion-scenario](assets/universal-connectors-and-routing-1.png)
+![ een beeld van het scenario van de Fusie ](assets/universal-connectors-and-routing-1.png)
 
 ## Inleiding aan universele connectors analyse
 
@@ -41,4 +41,4 @@ URL voor oefening: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

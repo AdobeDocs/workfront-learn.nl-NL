@@ -1,6 +1,6 @@
 ---
-title: Organiseer uw lijst voor taken in [!DNL Workfront] [!UICONTROL Home]
-description: Leer hoe u toegewezen werk kunt filteren en sorteren, werk kunt identificeren dat klaar is om te starten en werktoewijzingen te accepteren in [!DNL  Workfront].
+title: Organiseer uw aan-doe lijst in  [!DNL Workfront] [!UICONTROL Home]
+description: Leer hoe te om toegewezen werk te filtreren en te sorteren, werk identificeren dat klaar is te beginnen, en werktaken in  [!DNL  Workfront] goed te keuren.
 feature: Work Management
 type: Tutorial
 role: User
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 ---
 
-# Organiseer uw lijst voor taken in [!DNL Workfront] [!UICONTROL Home]
+# Uw lijst met taken ordenen in [!DNL Workfront] [!UICONTROL Home]
 
 >[!NOTE]
 >
->De [!UICONTROL [!DNL Sort by]] in de [!UICONTROL Work List] is hernoemd naar [!UICONTROL Group by], en taken en problemen kunnen ook worden gegroepeerd op hun [!UICONTROL Planned Start Date].
+>De optie [!UICONTROL [!DNL Sort by]] in de [!UICONTROL Work List] is hernoemd naar [!UICONTROL Group by] en taken en problemen kunnen ook worden gegroepeerd door de [!UICONTROL Planned Start Date] .
 
 In deze video leert u hoe u:
 
@@ -35,6 +35,6 @@ In deze video leert u hoe u:
 
 >[!NOTE]
 >
->Standaard staan de oudste items boven aan het dialoogvenster [!UICONTROL Work List]. Als u uw het werkpunten in dalende orde wilt hebben verschijnen, klik de pijlen rechts van de Groep door gebied.
+>Standaard staan de oudste items die u hebt, boven aan de [!UICONTROL Work List] . Als u uw het werkpunten in dalende orde wilt hebben verschijnen, klik de pijlen rechts van de Groep door gebied.
 
-![Afbeelding van een scherm waarop uw werklijst wordt weergegeven, gegroepeerd op vervaldatum.](assets/work-list-arrows.png)
+![ Beeld van een scherm dat uw het werklijst toont die door vervaldatum wordt gegroepeerd.](assets/work-list-arrows.png)

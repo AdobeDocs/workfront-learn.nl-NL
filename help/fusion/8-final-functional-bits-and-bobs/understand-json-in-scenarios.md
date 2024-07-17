@@ -1,6 +1,6 @@
 ---
 title: JSON begrijpen in scenario's
-description: Leer wat JSON is, hoe het gestructureerd is en hoe het wordt vertaald in gegevens die binnen uw scenario's worden gebruikt in [!DNL Adobe Workfront Fusion].
+description: Leer wat JSON is, hoe het gestructureerd is, en hoe het in gegevens zal worden vertaald die binnen uw scenario's in  [!DNL Adobe Workfront Fusion] moeten worden gebruikt.
 activity: use
 team: Technical Marketing
 type: Tutorial

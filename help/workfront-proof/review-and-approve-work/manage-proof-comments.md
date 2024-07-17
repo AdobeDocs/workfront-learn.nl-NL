@@ -1,6 +1,6 @@
 ---
 title: Proefdrukopmerkingen beheren
-description: Leer hoe u opmerkingen over proefdrukken beheert in [!DNL  Workfront] door commentaaracties toe te passen, commentaren op te lossen, en de commentaarkolom te filtreren.
+description: Leer hoe te om proefdrukcommentaren in  [!DNL  Workfront]  te beheren door commentaaracties toe te passen, commentaren op te lossen, en de commentaarkolom te filtreren.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -19,27 +19,27 @@ ht-degree: 0%
 
 # Proefdrukopmerkingen beheren
 
-[!DNL Workfront] helpt u het werk met betrekking tot elke opmerking op een proefdruk bij te houden en te beheren, bijvoorbeeld door correcties aan te brengen in het element, met handelingen voor opmerkingen of door opmerkingen op te lossen.
+Met [!DNL Workfront] kunt u met opmerkingen of opmerkingen het werk bijhouden en beheren dat betrekking heeft op elke opmerking in een proefdruk, bijvoorbeeld het aanbrengen van correcties op het element.
 
 Proefacties zijn een &quot;markering&quot; of &quot;label&quot; voor een opmerking en worden vaak gebruikt om aan te geven dat een actie is ondernomen of moet worden ondernomen met betrekking tot de opmerking. Handelingen kunnen worden geselecteerd via het pictogram of het menu Meer voor elke opmerking.
 
-![Een afbeelding van een proefdruk in de testviewer met het vlagpictogram gemarkeerd op de opmerking en de beschikbare proefdrukacties zichtbaar.](assets/manage-comments-1.png)
+![ een beeld van een proef in de het proefdrukken kijker met het vlagpictogram dat op de commentaar en de beschikbare bewijsacties zichtbaar wordt benadrukt.](assets/manage-comments-1.png)
 
-U bent bijvoorbeeld verantwoordelijk voor de beslissing welke van de correcties die tijdens het controleproces zijn aangebracht, daadwerkelijk moeten worden uitgevoerd. Met behulp van een handeling kunt u de relevante opmerkingen markeren, zodat een ontwerper of editor weet welke revisies u wilt maken. Die persoon kan dan een andere actie gebruiken om aan te geven dat er wijzigingen zijn aangebracht.
+U bent bijvoorbeeld verantwoordelijk voor de beslissing welke van de correcties tijdens het controleproces daadwerkelijk moeten worden uitgevoerd. Met behulp van een handeling kunt u de relevante opmerkingen markeren, zodat een ontwerper of editor weet welke revisies u wilt maken. Die persoon kan dan een andere actie gebruiken om aan te geven dat er wijzigingen zijn aangebracht.
 
-![Een afbeelding van een proefdruk in de conceptviewer met de [!UICONTROL To Do] proefdrukactie gemarkeerd in de opmerking.](assets/manage-comments-2.png)
+![ een beeld van een proef in de het proefdrukken kijker met de [!UICONTROL To Do] proefdrukactie die op de commentaar wordt benadrukt.](assets/manage-comments-2.png)
 
 Als u geen acties ziet die in uw opmerkingen worden vermeld, heeft uw organisatie deze niet ingesteld. Bespreek met uw het proef systeembeheerder als u denkt de acties iets zijn uw organisatie zou moeten gebruiken.
 
-De functie &quot;Commentaar oplossen&quot; wordt doorgaans gebruikt om aan te geven dat een opmerking is opgelost. Er is een correctie aangebracht of een vraag is beantwoord. Sommige [!DNL Workfront] klanten &quot;lossen&quot; een opmerking op wanneer het een correctie betreft die niet hoeft te worden aangebracht of die alleen is gelezen.
+De functie &quot;Commentaar oplossen&quot; wordt doorgaans gebruikt om aan te geven dat een opmerking is opgelost. Er is een correctie aangebracht of een vraag is beantwoord. Sommige [!DNL Workfront] -klanten &quot;lossen&quot; een opmerking op wanneer het een correctie betreft die niet hoeft te worden aangebracht of die slechts een opmerking bevat die is gelezen.
 
 Los de opmerking op door op het pictogram van het vinkje te klikken. Hierdoor wordt een groen vinkje op de opmerking geplaatst, zodat u gemakkelijk kunt zien welke opmerkingen zijn gecontroleerd terwijl u door de kolom Opmerkingen scant.
 
-![Een afbeelding van een proefdruk in de testviewer met het pictogram van het vinkje gemarkeerd op de opmerking.](assets/manage-comments-4.png)
+![ een beeld van een proef in de het proefdrukken kijker met het controletekenpictogram dat op de commentaar wordt benadrukt.](assets/manage-comments-4.png)
 
 U kunt de kolom met opmerkingen filteren op beide functies, zodat u kunt bijhouden wat u ziet wanneer u met de proefdruk werkt.
 
-![Een afbeelding van de opmerking filtert in de conceptviewer met de [!UICONTROL Actions] en [!UICONTROL General] filteropties gemarkeerd.](assets/manage-comments-3.png)
+![ een beeld van de commentaarfilters in de het proeven kijker met de [!UICONTROL Actions] en [!UICONTROL General] benadrukte het filtreren opties.](assets/manage-comments-3.png)
 
 ## Uw beurt
 

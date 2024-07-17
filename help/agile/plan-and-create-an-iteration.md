@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Een herhaling plannen en maken
 
-In deze video leert u hoe u een nieuwe herhaling kunt maken en hoe u artikelen voor een herhaling kunt controleren of de controle ongedaan kunt maken.
+In deze video leert u hoe u een nieuwe herhaling kunt maken en hoe u artikelen voor een herhaling kunt controleren of niet kunt controleren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346284/?quality=12&learn=on)

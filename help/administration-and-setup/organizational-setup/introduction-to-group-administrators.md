@@ -1,6 +1,6 @@
 ---
 title: Begrijp de behoefte aan groepsbeheerders
-description: Leer hoe de systeembeheerders groepsbeheerders kunnen gebruiken helpen handhaven [!DNL Workfront] instellingen en groepen meer controle over hun werk geven.
+description: Leer hoe de systeembeheerders groepsbeheerders kunnen gebruiken helpen  [!DNL Workfront]  montages handhaven terwijl het geven van groepen meer controle over hun werk.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -23,13 +23,13 @@ ht-degree: 0%
 21.4 updates have been made
 --->
 
-Als u de systeembeheerder bent van een groot bedrijf of een bedrijf dat veel [!DNL Workfront] gebruikers, onderhouden [!DNL Workfront] de instellingen voor elke groep en subgroep kunnen tijdrovend zijn.
+Als u de systeembeheerder voor een groot bedrijf of een bedrijf met veel [!DNL Workfront] gebruikers bent, kan het tijdrovend zijn om de [!DNL Workfront] -instellingen voor elke groep en subgroep te behouden.
 
-Groepbeheerders aanwijzen die bepaalde beheerfuncties voor hun eigen groepen kunnen uitvoeren in [!DNL Workfront] zorgt voor een evenwichtige verdeling van de belasting wanneer het gaat om het bijwerken en onderhouden van het systeem.
+Als u groepbeheerders aanwijst die bepaalde beheerfuncties voor hun eigen groepen in [!DNL Workfront] kunnen uitvoeren, kunt u de belasting beter in evenwicht brengen wanneer het gaat om het bijwerken en onderhouden van het systeem.
 
-Groepbeheerders hebben de neiging meer in overeenstemming te zijn met de dagelijkse uitdagingen van hun groep, zodat kunnen zij de behoeften van de groep beheren. Dat staat u, als systeembeheerder toe om zich op het te concentreren [!DNL Workfront] configuraties die uw organisatie als geheel ten goede komen.
+Groepbeheerders hebben de neiging meer in overeenstemming te zijn met de dagelijkse uitdagingen van hun groep, zodat kunnen zij de behoeften van de groep beheren. Dat staat u toe, als systeembeheerder, om zich op de [!DNL Workfront] configuraties te concentreren die uw organisatie als geheel ten goede komen.
 
-Sommige dingen kunnen groepbeheerders binnen doen [!DNL Workfront] omvatten:
+Enkele dingen die groepsbeheerders in [!DNL Workfront] kunnen doen zijn:
 
 * Maak subgroepen en voeg gebruikers toe aan de subgroepen.
 * Lay-outsjablonen maken voor hun groep.
@@ -49,24 +49,24 @@ Als systeem- of groepsbeheerder kunt u subgroepen maken binnen de groepen en sub
 >
 >Er geldt een limiet van 14 niveaus voor subgroepen in één groep.
 
-**Meer informatie over groepsbeheerders**
+**Leer meer over groepsbeheerders**
 
 <!---
 bullet points below need hyperlinks
 --->
 
-Voor een lijst welke systeem beheert, groepsbeheerders, en subgroepbeheerders binnen kunnen doen [!DNL Workfront]Zie de artikelhandelingen die zijn toegestaan voor verschillende typen beheerders.
+Voor een lijst van welke systeembeheerders, groepsbeheerders, en subgroepbeheerders in [!DNL Workfront] kunnen doen, zie de artikelActies toegestaan voor verschillende types van beheerders.
 
 ## Een groep beheren
 
 Beheer snel en efficiënt groepsleden, subgroepen, groepsstatussen, groepsprojectvoorkeuren en meer vanaf de groepspagina in [!DNL Workfront].
 
-1. Selecteren **[!UICONTROL Setup]** van de **[!UICONTROL Main Menu]**.
-1. Ga naar **[!UICONTROL Groups]** in het linkerdeelvenster.
+1. Selecteer **[!UICONTROL Setup]** in het menu **[!UICONTROL Main Menu]** .
+1. Ga naar **[!UICONTROL Groups]** in het linkerpaneel.
 1. Selecteer de naam van een groep om deze te openen.
 1. Open de sectie waarin u updates wilt uitvoeren door erop te klikken in het linkerdeelvenster.
 
-![Pagina groeperen](assets/admin-fund-manage-a-group.png)
+![ pagina van de Groep ](assets/admin-fund-manage-a-group.png)
 
 <!---
 learn more URLs

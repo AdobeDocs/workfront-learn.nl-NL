@@ -1,6 +1,6 @@
 ---
 title: Aangepaste pagina's toevoegen in merk Connect
-description: Leer hoe u pagina's aan de navigatiebalk kunt toevoegen, aangepaste pagina's kunt maken en opties kunt aanpassen in de navigatiebalk in Merk Connect voor [!UICONTROL Workfront DAM].
+description: Leer hoe u pagina's aan de navigatiebalk kunt toevoegen, aangepaste pagina's kunt maken en opties kunt aanpassen in de navigatiebalk in Brand Connect for [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

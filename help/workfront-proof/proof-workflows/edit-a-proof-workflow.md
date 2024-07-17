@@ -1,6 +1,6 @@
 ---
 title: Een proefdrukworkflow bewerken
-description: Leer hoe u een proefdrukdeadline kunt bijwerken, gebruikers kunt toevoegen aan een bestaande workflow en een bestaande workflow kunt overschakelen op een geautomatiseerde workflow in [!DNL  Workfront].
+description: Leer hoe te om een proefdrukdeadline bij te werken, gebruikers aan een bestaand werkschema toe te voegen, en een bestaand werkschema aan een geautomatiseerde werkschema in  [!DNL  Workfront] te schakelen.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -24,7 +24,7 @@ In deze video leert u hoe u:
 
 * De proefdrukdeadline bijwerken
 * Gebruikers toevoegen aan een bestaande workflow
-* Overschakelen van een bestaande workflow naar een geautomatiseerde workflow
+* Een bestaande workflow overschakelen op een geautomatiseerde workflow
 
 >[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on)
 
@@ -34,7 +34,7 @@ In deze video leert u hoe u:
 >
 >Vergeet niet om collega&#39;s die aan een proefwerkstroom zijn toegewezen, er aan te herinneren dat u in het kader van uw Workfront-training met proefdrukken werkt.
 
-1. Zoek een proefdruk die je naar Workfront hebt geüpload. In het venster Proofing Workflow kunt u het volgende doen: de deadline met één dag uitstellen en een revisor wijzigen in een revisor en fiatteur.
+1. Zoek een proefdruk die je naar Workfront hebt geüpload. Gebruik het venster Proofing Workflow voor het volgende: duw de deadline met één dag en verander een Revisor in een Revisor &amp; fiatteur.
 1. Controleer of aan de proefdruk een geautomatiseerde workflow is toegewezen en voeg vervolgens een sjabloon toe aan de proefdruk.
 
 

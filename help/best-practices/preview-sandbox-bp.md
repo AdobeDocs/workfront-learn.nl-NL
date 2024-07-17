@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -43,11 +43,11 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Definieer, diagram en test wijzigingen in bestaande Workfront-processen of -instellingen in de Sandbox-omgeving van Voorvertoning voordat u updates aanbrengt in uw Production-instantie.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 De voorvertoningssandbox-omgeving fungeert als een replica van uw live omgeving. Hoewel het niet wordt geadviseerd om een volledig nieuw milieu in de Sandbox tot stand te brengen alvorens het in de instantie van de Productie uit te bouwen, aangezien dit extra werk creeert, is het goed om het als testend milieu voor veranderingen te gebruiken die u zou willen uitvoeren.
 
 Door het testen van gebruikersacceptatie (UAT) uit te voeren en geselecteerde gebruikers te betrekken tijdens de testfase van een wijziging, kunt u beter inzicht krijgen in de behoeften en workflows van uw gebruikers. Dit is een geweldige manier om de Workfront-workflows te verbeteren en binnen uw organisatie te implementeren.
 
 
-**Opmerking**: Elke wijziging die u in Workfront wilt implementeren, hoeft niet eerst in de Sandbox-omgeving van Voorvertoning te worden gemaakt. Vele veranderingen van Workfront, zoals de verwezenlijking van een nieuwe verzoekrij of projectmalplaatje, kunnen binnen het milieu van de Productie worden gedaan. Een goede duimregel wanneer het testen in de instantie van de Productie is de zichtbaarheid van uw voorwerpen te controleren tot u aan een groter publiek klaar bent om te publiceren. Verwijder alles wat u niet wilt gebruiken, zodat het systeem schoon en beheerbaar blijft.
+**Nota**: Elke verandering die u in Workfront zou willen uitvoeren moet niet eerst in het milieu van de Sandbox van de Voorproef worden gecreeerd. Vele veranderingen van Workfront, zoals de verwezenlijking van een nieuwe verzoekrij of projectmalplaatje, kunnen binnen het milieu van de Productie worden gedaan. Een goede duimregel wanneer het testen in de instantie van de Productie is de zichtbaarheid van uw voorwerpen te controleren tot u aan een groter publiek klaar bent om te publiceren. Verwijder alles wat u niet wilt gebruiken, zodat het systeem schoon en beheerbaar blijft.

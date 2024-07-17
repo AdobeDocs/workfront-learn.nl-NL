@@ -1,6 +1,6 @@
 ---
-title: Voortgang van resultaten en activiteiten bijwerken in [!DNL Workfront Goals]
-description: Leer hoe u de voortgang van resultaten en activiteiten kunt bijwerken in [!DNL Workfront Goals].
+title: Voortgang van resultaten en activiteiten bijwerken in  [!DNL Workfront Goals]
+description: Leer hoe te om vooruitgang op resultaten en activiteiten in  [!DNL Workfront Goals] bij te werken.
 activity: use
 feature: Workfront Goals
 type: Tutorial

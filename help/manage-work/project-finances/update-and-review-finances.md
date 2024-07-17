@@ -1,6 +1,6 @@
 ---
-title: Financiën bijwerken en herzien
-description: Leer hoe u de financiële informatie over een project kunt bekijken in [!DNL  Workfront].
+title: De financiën bijwerken en herzien
+description: Leer hoe te om de financiële informatie te herzien verbonden aan een project in  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -17,34 +17,34 @@ ht-degree: 0%
 
 ---
 
-# Financiën bijwerken en herzien
+# De financiën bijwerken en herzien
 
-Als uw organisatie [!DNL Workfront] om projectgerelateerde financiële informatie bij te houden, kosten te evalueren en factureringsverslagen te maken, kan deel uitmaken van uw proces voor het afsluiten van een project.
+Als uw organisatie [!DNL Workfront] gebruikt om projectgerelateerde financiële informatie bij te houden, kan het controleren van kosten en het maken van factureringsverslagen deel uitmaken van uw proces om een project te sluiten.
 
 >[!NOTE]
 >
->Veel [!DNL Workfront] de klanten behandelen hun uitgaven en projectfinanciëlen in een derdesysteem, eerder dan in [!DNL Workfront]. U kunt dus verschillende processen of richtlijnen hebben voor het bijwerken en evalueren van financiële informatie voordat u een project sluit.
+>Veel [!DNL Workfront] -klanten verwerken hun uitgaven en projectfinancieringen in een systeem van derden in plaats van in [!DNL Workfront] . U kunt dus verschillende processen of richtlijnen hebben voor het bijwerken en evalueren van financiële informatie voordat u een project sluit.
 
 
 ## Uitgaven
 
-De uitgaven kunnen op individuele taken of het project zelf worden het programma geopend. Ongeacht welk punt de uitgave wordt geregistreerd, kunt u alle uitgaven in bekijken [!UICONTROL Expenses] deel van het project zelf.
+De uitgaven kunnen op individuele taken of het project zelf worden het programma geopend. Ongeacht welk item de uitgave wordt aangemeld, kunt u alle uitgaven weergeven in de [!UICONTROL Expenses] -sectie van het project zelf.
 
-![[!UICONTROL Expenses] deel van een project](assets/expense-section.png)
+![[!UICONTROL Expenses] sectie van een project ](assets/expense-section.png)
 
 ## Factureringsgegevens
 
-Factureringsrecords worden gebruikt in [!DNL Workfront] het verzamelen van factureerbare uren, factureerbare kosten, factureerbare inkomsten en extra factureerbare bedragen in één record en bedrag. Vaak worden deze geëxporteerd van [!DNL Workfront] in een facturerings- of boekhoudsysteem van derden.
+Factureringsrecords worden in [!DNL Workfront] gebruikt om factureerbare uren, factureerbare kosten, factureerbare opbrengsten en extra factureerbare bedragen in één record en bedrag te verzamelen. Vaak worden deze vanuit [!DNL Workfront] geëxporteerd naar een facturerings- of boekhoudsysteem van derden.
 
-U moet toegang hebben tot financiële gegevens in [!DNL Workfront] om factureringsrecords te maken en weer te geven.
+U moet toegang hebben tot financiële gegevens in [!DNL Workfront] om factureringsverslagen tot stand te brengen en te bekijken.
 
 ## Financiële details
 
-Een blik op de [!UICONTROL Finance] in de [!UICONTROL Project Details] laat u daadwerkelijke aantallen voor voordeel, opbrengst, en kosten zien.
+Met een blik bij de [!UICONTROL Finance] informatie in [!UICONTROL Project Details] kunt u daadwerkelijke aantallen voor voordeel, opbrengst, en kosten zien.
 
-![Sectie Financiën [!UICONTROL Project Details] venster op een project](assets/finance-section-project-details.png)
+![ sectie van Financiën van [!UICONTROL Project Details] venster op een project ](assets/finance-section-project-details.png)
 
-De meeste financiële informatie in de [!UICONTROL Project Details] is ingesteld tijdens het maken van het project en de nummers die u hier ziet, zijn gebaseerd op die informatie. Wanneer u een project sluit, hoeft u de financiële gegevens dus echt niet bij te werken of toe te voegen.
+De meeste financiële informatie in de [!UICONTROL Project Details] wordt ingesteld tijdens het maken van het project. De nummers die u hier ziet, zijn gebaseerd op die informatie. Wanneer u een project sluit, hoeft u de financiële gegevens dus echt niet bij te werken of toe te voegen.
 
 <!---
 learn more urls

@@ -12,7 +12,7 @@ exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -43,12 +43,12 @@ Overweeg deze concepten wanneer het bepalen van de aangewezen kadentie voor uw o
 
 De volgende afbeelding illustreert de relatie en het cyclische karakter van deze ervaring, tussen niet alleen doelstellingen op langere en kortere termijn, maar ook inspanningen op langere en kortere termijn.
 
-![Een afbeelding van een strategische uitvoeringscyclus](assets/02-workfront-goals-strategic-execution-cycle.png)
+![ grafisch van A van een strategische uitvoeringscyclus ](assets/02-workfront-goals-strategic-execution-cycle.png)
 
-1. **Langetermijndoelstellingen** zijn doorgaans bredere bedrijfs- of organisatorische doelstellingen die twaalf of meer maanden in beslag nemen om te worden verwezenlijkt. Ze worden waarschijnlijk niet uitgevoerd met speciale werkinspanningen. De meeste bedrijven en organisaties hebben een aantal niveaus van deze langetermijndoelstellingen bovenaan in de hiërarchie die kortetermijndoelstellingen verenigen onder één enkel, breed einddoel.
-1. **Initiatieven op lange termijn** de schatting op hoog niveau van de werkinspanning die wordt toegewezen aan aandrijvingsverrichtingen vertegenwoordigen. Deze initiatieven zullen uiteindelijk worden verfijnd tot meer kostbare inspanningen (d.w.z. project, taken, enz.). Hoewel dit doorgaans langer werk is, bijvoorbeeld 12 of meer maanden, kunnen deze in sommige gevallen een groepering zijn van verschillende initiatieven van zes of meer maanden die met hetzelfde resultaat overeenkomen.
-1. **Kortetermijndoelstellingen** zijn de doelstellingen die door uw mensen en teams worden geplaatst die aan meer mijlpaal-type resultaten richten. Al deze gesegmenteerde prestaties dragen bij tot de algemene verwezenlijking van uw onderneming of organisatorische langetermijndoelstellingen.
-1. **Kortetermijnprojecten** verwijzen naar het engere werkterrein dat nodig is om de kortetermijndoelstellingen te verwezenlijken. Dit kunnen eenmalige projecten zijn of projecten die deel uitmaken van een breder initiatief.
+1. **langetermijndoelstellingen** zijn typisch bredere onderneming of organisatorische doelstellingen die 12 of meer maanden zullen vergen om te bereiken. Ze worden waarschijnlijk niet uitgevoerd met speciale werkinspanningen. De meeste bedrijven en organisaties hebben een aantal niveaus van deze langetermijndoelstellingen bovenaan in de hiërarchie die kortetermijndoelstellingen verenigen onder één enkel, breed einddoel.
+1. **initiatieven op lange termijn** vertegenwoordigen de raming op hoog niveau van het werkinspanning die wordt toegewezen aan aandrijvingsverrichtingen. Deze initiatieven zullen uiteindelijk worden verfijnd tot meer kostbare inspanningen (d.w.z. project, taken, enz.). Hoewel dit doorgaans langer werk is, bijvoorbeeld 12 of meer maanden, kunnen deze in sommige gevallen een groepering zijn van verschillende initiatieven van zes of meer maanden die met hetzelfde resultaat overeenkomen.
+1. **kortetermijndoelstellingen** zijn de doelstellingen die door uw mensen en teams worden geplaatst die zich aan meer mijlpaal-type resultaten richten. Al deze gesegmenteerde prestaties dragen bij tot de algemene verwezenlijking van uw onderneming of organisatorische langetermijndoelstellingen.
+1. **kortetermijnprojecten** verwijzen naar het meer eng bepaalde werkingsgebied van het werk dat wordt vereist om de kortetermijndoelstellingen te vervullen. Dit kunnen eenmalige projecten zijn of projecten die deel uitmaken van een breder initiatief.
 
 <!--
 Your turn graphic
@@ -56,4 +56,4 @@ Your turn graphic
 
 Laten we even oefenen en toepassen wat je tot nu toe hebt geleerd. Begin door een aanvankelijke reeks doelstellingen voor uw team in kaart te brengen. U zou dit kunnen gehoord hebben die als cascading doelstellingen of een doelhiërarchie wordt bedoeld. Let op hoe ze allemaal teruggaan naar het langetermijndoel en van daaruit worden getrapt. Maak je geen zorgen om in deze fase te definitief te zijn. Dit is uw kans om al uw doelstellingen op tafel te krijgen. We zullen deze verder verfijnen naarmate we verder gaan.
 
-![Een afbeelding van het in kaart brengen van doelstellingen op korte en lange termijn](assets/03-workfront-goals-goal-mapping.png)
+![ grafisch van A om doelstellingen op korte en lange termijn in kaart te brengen ](assets/03-workfront-goals-goal-mapping.png)

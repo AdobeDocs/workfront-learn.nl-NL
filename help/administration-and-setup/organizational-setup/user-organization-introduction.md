@@ -26,11 +26,11 @@ In deze video leert u meer over:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on)
 
-Voordat u aan de slag gaat, zijn er enkele belangrijke termen waarmee u vertrouwd kunt raken wanneer u gebruikersorganisaties verkent in [!DNL Workfront].
+Voordat u aan de slag gaat, zijn er enkele belangrijke termen waarmee u vertrouwd kunt raken wanneer u gebruikersorganisaties in [!DNL Workfront] verkent.
 
 | Bedrijf | Groep | Team |
 | --- | --- | --- |
-| <ul><li>een commerciële activiteit; intern of extern</li><li>Grootste Workfront org-eenheid</li></ul> | <ul><li>Een afdeling of afdeling</li><li>Tweede grootste Workfront org-eenheid</li></ul> | <ul><li>kleine verzameling van mensen die samenwerken aan dagelijkse activiteiten; werkteam</li><li>Kan functioneel of kruisfunctioneel zijn</li><li>Kleinste Workfront org-eenheid</li></ul> |
+| <ul><li>Een commercieel bedrijf; intern of extern</li><li>Grootste Workfront org-eenheid</li></ul> | <ul><li>Een afdeling of afdeling</li><li>Tweede grootste Workfront org-eenheid</li></ul> | <ul><li>Kleine verzameling mensen die samenwerken aan dagelijkse activiteiten; team</li><li>Kan functioneel of kruisfunctioneel zijn</li><li>Kleinste Workfront org-eenheid</li></ul> |
 | Voorbeelden <ul><li>Workfront</li><li>Google Amazon</li><li>JP Morgan Chase</li><li>Adobe</li></ul> | Voorbeelden <ul><li>Financiën</li><li>Juridisch</li><li>Marketing</li><li>Bewerkingen</li></ul> | Voorbeelden <ul><li>Payroll</li><li>Analyse</li><li>Publiceren</li><li>Productie</li></ul> |
 
 

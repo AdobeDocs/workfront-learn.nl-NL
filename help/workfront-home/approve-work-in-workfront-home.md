@@ -1,6 +1,6 @@
 ---
-title: Procedure voor goedkeuring van werk in [!UICONTROL Home]
-description: Leer hoe u aanvragen voor goedkeuring van projecten, taken, uitgaven en proefdrukken kunt vinden in het dialoogvenster [!UICONTROL Work List]keurt dan of verwerpt het werk in [!DNL  Workfront].
+title: Werken goedkeuren in [!UICONTROL Home]
+description: Leer hoe te om project, taak, kwestie, en proefdrukgoedkeuringsverzoeken in [!UICONTROL Work List] te vinden, dan goedkeuren of verwerpen het werk in  [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 In deze video leert u hoe u:
 
-* Goedkeuringen zoeken in het dialoogvenster [!UICONTROL Work List]
+* Goedkeuringen zoeken in de [!UICONTROL Work List]
 * Werk goedkeuren of afwijzen
-* Een bewijs controleren
+* Een proefafdruk controleren
 
 >[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on)
 

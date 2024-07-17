@@ -1,6 +1,6 @@
 ---
 title: Een proefdruk uploaden met een standaardworkflow
-description: Leer hoe u bestanden als proefdrukken kunt uploaden, een standaardtestworkflow voor beoordeling en goedkeuring door belanghebbenden kunt toevoegen en termijnen voor het maken van proefdrukken kunt instellen in [!DNL Workfront].
+description: Leer hoe u bestanden kunt uploaden als proefdrukken, voeg een standaardtestworkflow toe voor revisie en goedkeuring door belanghebbenden en stel termijnen in voor revisie van proefdrukken in  [!DNL Workfront] .
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In deze video leert u hoe u:
 
-* Een bestand uploaden in [!DNL Workfront] zo genereert het een bewijs
+* Een bestand uploaden in [!DNL Workfront] , zodat een proefdruk wordt gegenereerd
 * Een standaardtestworkflow toevoegen zodat belanghebbenden het element kunnen bekijken en goedkeuren
 * Een deadline instellen voor de proefdrukcontrole
 

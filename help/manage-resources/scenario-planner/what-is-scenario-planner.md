@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Scenario Planner] Uitleg"'
-description: Meer informatie [!DNL Scenario Planner] past bij andere hulpmiddelen voor middelenplanning. Leer vervolgens hoe u kunt instellen [!DNL Scenario Planner].
+title: '[!DNL Scenario Planner] Verklaard'
+description: Leer hoe  [!DNL Scenario Planner]  met andere middel planningshulpmiddelen past. Dan leer hoe te opstelling  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -20,13 +20,13 @@ ht-degree: 0%
 
 # Wat is [!DNL Scenario Planner]?
 
-[!DNL Scenario Planner] is dat er een stuk ontbreekt [!DNL Workfront’s] al robuuste middelen planning en beheer reeks hulpmiddelen door uw initiatieven te identificeren en voorrang te geven gebaseerd op de algemene visie en strategie van de organisatie alvorens binnen te graven om uw middelen voor levering te optimaliseren.
+[!DNL Scenario Planner] is dat ontbrekende onderdeel in [!DNL Workfront’s] al een robuuste suite met hulpmiddelen voor middelenplanning en -beheer door uw initiatieven vast te stellen en te prioriteren op basis van de algemene visie en strategie van de organisatie voordat u zich aanmeldt om uw bronnen te optimaliseren voor levering.
 
-Het doel van de [!DNL Scenario Planner] is snelheid aan uitvoering voor uw organisatie-vlakke plannen te drijven en u te helpen cruciale besluiten nemen die levering van voorspelbare, gewenste resultaten voor uw zaken drijven.
+Het doel van [!DNL Scenario Planner] is snelheid aan uitvoering voor uw organisatie-vlakke plannen te drijven en u te helpen cruciale besluiten nemen die levering van voorspelbare, gewenste resultaten voor uw zaken drijven.
 
 In deze video leert u:
 
-* Hoe [!DNL Scenario Planner] past met de andere hulpmiddelen van de middelplanning
+* Hoe [!DNL Scenario Planner] met de andere hulpmiddelen van de middelplanning past
 * Scenario-planning binnen uw organisatie
 * Toegangsinstellingen nodig om de [!DNL Scenario Planner]
 

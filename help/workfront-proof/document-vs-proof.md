@@ -1,6 +1,6 @@
 ---
 title: Begrijp het verschil tussen een document en een proef
-description: Meer informatie over het verschil tussen een document en een proefdruk in [!DNL  Workfront].
+description: Leer het verschil tussen een document en een proef in  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Het verschil tussen een document en een bewijs in [!DNL Workfront]
+* Het verschil tussen een document en een proefdruk in [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on)

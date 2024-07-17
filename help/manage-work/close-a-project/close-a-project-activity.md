@@ -24,7 +24,7 @@ Zoek een Workfront-project waarmee u tijdens de training hebt geoefend en maak h
 * Taken en problemen sluiten
 * Goedkeuringen oplossen
 * Documenten uploaden
-* Opgeslagen uren controleren (indien van toepassing)
+* Geregistreerde uren controleren (indien van toepassing)
 * Financiële informatie controleren (indien van toepassing)
 * De projectstatus wijzigen
 

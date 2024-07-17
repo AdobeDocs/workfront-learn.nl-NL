@@ -1,6 +1,6 @@
 ---
 title: Merk en verbinding begrijpen als gebruiker
-description: Meer informatie over [!UICONTROL Workfront DAM] en merk Connect zijn en hoe deze worden gebruikt.
+description: Meer informatie over wat [!UICONTROL Workfront DAM] en Brand Connect zijn en hoe ze worden gebruikt.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # Merk en verbinding begrijpen als gebruiker
 
-[!UICONTROL Brand Connect] maakt deel uit van [!UICONTROL Workfront DAM], een DAM-oplossing (Digital Asset Management) voor het beheren, beheren en publiceren van uw marketing, creatieve services, professionele services en andere middelen. Gebruiken [!DNL Workfront] om activa te creëren verzoeken en dan de productie en de evaluatie van activa te beheren. Voltooide en goedgekeurde elementen curven, opslaan en distribueren met behulp van [!UICONTROL Workfront DAM]. Elementen publiceren naar [!UICONTROL Brand Connect] om ervoor te zorgen dat de juiste boodschap beschikbaar is voor het juiste publiek , waar en hoe ze die nodig hebben .
+[!UICONTROL Brand Connect] maakt deel uit van [!UICONTROL Workfront DAM] , een DAM-oplossing (Digital Asset Management) voor het beheren, beheren en publiceren van uw marketing, creatieve services, professionele services en andere middelen. Gebruik [!DNL Workfront] om elementaanvragen te maken en vervolgens de productie en revisie van elementen te beheren. Voltooide en goedgekeurde elementen cureren, opslaan en distribueren met [!UICONTROL Workfront DAM] . Publish-middelen aan [!UICONTROL Brand Connect] om ervoor te zorgen dat het juiste bericht beschikbaar is voor het juiste publiek, waar en hoe ze het nodig hebben.
 
 In deze video leert u:
 
-* Wat is [!UICONTROL Workfront DAM] en merk verbinden
+* Wat is [!UICONTROL Workfront DAM] en Merk Connect
 * Hoe [!UICONTROL Brand Connect] wordt gebruikt
 
 >[!VIDEO](https://video.tv.adobe.com/v/335245/?quality=12&learn=on)

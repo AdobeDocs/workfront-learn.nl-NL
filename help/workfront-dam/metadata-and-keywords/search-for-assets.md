@@ -1,6 +1,6 @@
 ---
 title: Zoeken naar elementen met trefwoorden voor metagegevens
-description: Leer hoe u naar elementen kunt zoeken met behulp van metagegevens en trefwoorden, hoe u metagegevens en trefwoorden wilt onderhouden en hoe u [!UICONTROL Workfront DAM] beste praktijken.
+description: Leer hoe u naar elementen kunt zoeken met behulp van metagegevens en trefwoorden, hoe u metagegevens en trefwoorden wilt onderhouden en hoe u [!UICONTROL Workfront DAM] tips en trucs kunt vastleggen.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -23,6 +23,6 @@ In deze video leert u hoe u:
 
 * Middelen zoeken met behulp van metagegevens en trefwoorden
 * Plan voor het handhaven van meta-gegevens en sleutelwoorden
-* Vaststellen [!UICONTROL Workfront DAM] best practices
+* Tips en trucs voor [!UICONTROL Workfront DAM] vaststellen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on)

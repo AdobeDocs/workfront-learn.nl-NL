@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -64,7 +64,7 @@ Begin met minder toegang voor gebruikers wanneer vestiging toegangsniveaus.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Start gebruikers zo weinig mogelijk toegang om hun werk te doen. Als ze hun taken niet kunnen uitvoeren vanwege onvoldoende toegangsrechten, vragen ze meestal om aanvullende toegang. Het direct verlenen van te veel toegang aan gebruikers kan tot veiligheidskwesties leiden. Bovendien is het altijd beter om gebruikers meer toegang te geven dan om toegang weg te nemen.
 
@@ -79,7 +79,7 @@ Wanneer u revisie- en aanvraaglicenties toewijst, kunt u doorgaans de standaardi
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Hoewel zowel het Overzicht als de Vergunning van het Verzoek aan een onbeperkt aantal gebruikers in Workfront kunnen worden toegewezen, zijn de vergunningen van het Verzoek beperkt tot ongeveer enkel het maken van en het bijwerken van verzoeken. Een revisielicentie heeft meer toegang tot projecten en taken dan een aanvraaglicentie en biedt ook de mogelijkheid om portfolio&#39;s en programma&#39;s te bekijken, documenten te bewerken en toegang te krijgen tot hulpmiddelen voor resourcebeheer.
 
@@ -92,9 +92,9 @@ Schakel het selectievakje &quot;Delen in het hele systeem&quot; voor elk object 
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
-Het delen van een object in het hele systeem wordt vaak gebruikt als een kruising waarmee bepaalde gebruikers items in Workfront kunnen zien. Dit gebeurt wanneer de Workfront-groepsstructuur ontbreekt of wanneer de machtigingen voor delen niet volledig worden begrepen. Wanneer de punten over het hele systeem worden gedeeld, betekent het iedereen het punt kan zien dat wordt gedeeld. Afhankelijk van het type informatie dat in het systeem wordt bewaard, kan dit tot privacyproblemen leiden.
+Het delen van een object in het hele systeem wordt vaak gebruikt als een kruising waarmee bepaalde gebruikers items in Workfront kunnen zien. Dit gebeurt wanneer de Workfront-groepsstructuur ontbreekt of wanneer machtigingen voor delen niet volledig worden begrepen. Wanneer de punten over het hele systeem worden gedeeld, betekent het iedereen het punt kan zien dat wordt gedeeld. Afhankelijk van het type informatie dat in het systeem wordt bewaard, kan dit tot privacyproblemen leiden.
 
 
 
@@ -113,7 +113,7 @@ U kunt overwegen de instelling &quot;Gebruikers nooit toestaan opmerkingen te ve
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Als u deze optie inschakelt, worden oude communicatie niet uit Workfront verwijderd. Sommige organisaties vereisen dat de volledige commentaargeschiedenis wordt bewaard voor controledoeleinden.
 
@@ -126,7 +126,7 @@ Beperk het aantal systeembeheerders ten gunste van groepsbeheerders.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Systeembeheerders hebben toegang tot alles in Workfront, inclusief algemene systeeminstellingen. De beheerders van de montageengroep kunnen tot toegang hebben worden gecontroleerd door de systeembeheerder en zijn slechts op die specifieke groep van toepassing.
 
@@ -144,7 +144,7 @@ Kopieer een bestaand toegangsniveau en breng wijzigingen aan in plaats van een n
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Het kopiëren van een bestaand toegangsniveau verstrekt een verenigbare basis voor nieuwe toegangsniveaus, die verzekeren de aanvankelijke montages identiek zijn. Dit is ook een tijdbesparende functie, omdat systeembeheerders geen volledig volledig nieuw toegangsniveau hoeven in te stellen.
 
@@ -157,7 +157,7 @@ Documenteer wat elk toegangsniveau in de doos van de Beschrijving kan doen.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Geef een gedetailleerde beschrijving van de instellingen voor elk objecttype. Dit helpt systeembeheerders-huidig en toekomstig-weet precies wat elk toegangsniveau doet zonder het moeten in het toegangsniveau zelf duiken om de montages te herzien.
 
@@ -173,7 +173,7 @@ Dit kan het vergelijken van toegangsniveaus gemakkelijker maken wanneer het beki
 Beperk uzelf tot slechts de toegangsniveaus die noodzakelijk zijn om uw het werkdoelstellingen te verwezenlijken, ideaal vier of vijf die de behoeften van de meeste gebruikers in het systeem vangen.
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Het toegangsniveau zorgt ervoor dat wanneer een Workfront-object wordt gedeeld met een gebruiker, de gebruiker de rechten heeft die nodig zijn om het object te bewerken, te verwijderen, enz. U kunt toegangsniveaus algemener maken omdat het delen op individuele punten kan worden gevormd om specifieker te zijn.
 
@@ -187,7 +187,7 @@ Bovendien kan het feit dat er minder toegangsniveaus zijn het gemakkelijker make
 
 Wijs minstens twee gebruikers het globale toegangsniveau van de systeembeheerder toe.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Meer dan één persoon zou moeten begrijpen waarom Workfront de manier werd gevormd dat het was, hoe te om het te beheren/te handhaven, en hoe te om gebruikers te steunen. Als één persoon buiten zijn kantoor is, de organisatie verlaat, bezig is, enz., verzekert dit er een andere persoon is die de informatie en de kennis heeft om het systeem met succes te leiden.
 
@@ -199,6 +199,6 @@ Meer dan één persoon zou moeten begrijpen waarom Workfront de manier werd gevo
 Beperk wat gebruikers met Workfront-items kunnen doen door ze te delen in plaats van een functie op toegangsniveau te verwijderen.
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 De niveaus van de toegang controleren wat de gebruikers met specifieke punten op een globaal niveau kunnen doen. De deelmachtigingen voor elk project, elke taak, elk portfolio, elk document, enzovoort, bepalen wat een individuele gebruiker met dat specifieke item kan doen. In plaats van het verwijderen van een mogelijkheid voor iedereen met een specifiek toegangsniveau, verfijn de het delen toestemmingen op specifieke punten zodat hebben de gebruikers beperkte controles.

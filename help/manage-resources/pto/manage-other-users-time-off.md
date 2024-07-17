@@ -22,22 +22,22 @@ Managers of andere leiders kunnen de time-off kalenders van hun teamleden behere
 
 Workfront raadt aan dat uw organisatie een beleid of procedure heeft voor het geval dat een manager de persoonlijke tijd van een werknemer van kalender bijwerkt.
 
-![gebruiker in hoofdmenu](assets/mouto_01.png)
+![ gebruiker in hoofdmenu ](assets/mouto_01.png)
 
 De kalender van een andere gebruiker beheren:
 
-* Klik op de knop [!UICONTROL Main Menu] en selecteer Gebruikers.
+* Klik op [!UICONTROL Main Menu] en selecteer Gebruikers.
 
 * Gebruik het zoekpictogram om de gebruiker te zoeken of door de lijst te bladeren.
 
 * Klik op de naam van de gebruiker in de lijst.
 
-* Klikken [!UICONTROL Time Off] in het linkerdeelvenstermenu op de profielpagina van de gebruiker.
+* Klik op [!UICONTROL Time Off] in het menu van het linkerdeelvenster op de profielpagina van de gebruiker.
 
 * Klik op een datum in de kalender.
 
-* Workfront gaat uit van een volledige dag. Als dat het geval is, gaat u verder en klikt u op de knop [!UICONTROL Save] knop.
+* Workfront gaat uit van een volledige dag. Als dat het geval is, gaat u verder en klikt u op de knop [!UICONTROL Save] .
 
-* Voor meerdere opeenvolgende dagen korting wijzigt u de datum Tot in de laatste dag van het kantoor. Klik op de knop [!UICONTROL Save] knop.
+* Voor meerdere opeenvolgende dagen korting wijzigt u de datum Tot in de laatste dag van het kantoor. Klik op [!UICONTROL Save] .
 
-* Als u een gedeeltelijke dag wilt markeren, schakelt u de optie [!UICONTROL All Day] doos. Geef vervolgens de uren op waarop de gebruiker die dag zal werken (de uren dat deze beschikbaar zijn). Klik op de knop [!UICONTROL Save] knop.
+* Schakel het selectievakje [!UICONTROL All Day] uit als u een gedeeltelijke dag wilt markeren. Geef vervolgens de uren op waarop de gebruiker die dag zal werken (de uren dat deze beschikbaar zijn). Klik op [!UICONTROL Save] .

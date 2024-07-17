@@ -1,6 +1,6 @@
 ---
 title: Meldingen over merk Connect begrijpen
-description: Leer hoe u meldingen in de app weergeeft, uw meldingsinstellingen wijzigt en een adresboek maakt in Brand Connect van [!UICONTROL Workfront DAM].
+description: Leer hoe u meldingen in de app weergeeft, uw meldingsinstellingen wijzigt en een adresboek maakt in Brand Connect van [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Werken met elementen als contribuant
-description: Leer hoe u met middelen werkt in [!UICONTROL Workfront DAM].
+description: Leer hoe u met middelen werkt in [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

@@ -13,7 +13,7 @@ jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Hoe te om de projectstatus te veranderen in [!UICONTROL Complete]
+* De projectstatus wijzigen in [!UICONTROL Complete]
 * Waarom de projectstatus wijzigen in [!UICONTROL Complete]
-* Wat te doen als u niet de projectstatus kunt veranderen in [!UICONTROL Complete]
+* Wat moet u doen als u de projectstatus niet kunt wijzigen in [!UICONTROL Complete]
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)

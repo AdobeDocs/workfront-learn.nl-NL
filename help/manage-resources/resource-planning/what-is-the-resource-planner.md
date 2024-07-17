@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Wat is de [!DNL Resource Planner]?
+# Wat is de [!DNL Resource Planner] ?
 
 Om mensen echt te kunnen helpen, moeten managers plannen maken en plannen maken voor de inspanningen van hun mensen. Maar het vinden van mensen met de juiste vaardigheden die op het juiste moment beschikbaar zijn terwijl het proberen om deze gegevens te vangen en te beheren maandelijks, driemaandelijks, of zelfs jaarlijks, is een grote onderneming.
 

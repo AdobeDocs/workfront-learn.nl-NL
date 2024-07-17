@@ -1,6 +1,6 @@
 ---
 title: Mijlpalen toepassen
-description: Leer hoe u milestone-paden toepast op een [!DNL  Workfront] en associeer zeer belangrijke taken als mijlpaal stappen binnen het project.
+description: Leer hoe te om milestone wegen op een  [!DNL  Workfront]  project toe te passen en zeer belangrijke taken als milestone stappen binnen het project te associëren.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -14,7 +14,7 @@ exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -31,5 +31,5 @@ In deze video leert u hoe u:
 
 >[!TIP]
 >
->Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [Een basisweergave maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+>Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [ een basismening ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en) creëren.
 

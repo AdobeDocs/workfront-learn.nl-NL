@@ -28,9 +28,9 @@ See other user landing pages to get ideas.
 
 Bekijk de nieuwste updates van de zelfstudies voor elke Workfront-productrelease. Dit is wat met de recentste versie werd bijgewerkt:
 
-* In de bovenste navigatie op Workfront is het pictogram voor favorieten en curven gescheiden. Een korte samenvatting van elk kan in <a href="/help/manage-work/projects/find-projects.md">Projecten zoeken</a> zelfstudie.
+* In de bovenste navigatie op Workfront is het pictogram voor favorieten en curven gescheiden. Een korte samenvatting van elk kan in de <a href="/help/manage-work/projects/find-projects.md"> 1} leerprogramma van de Projecten van de Vondst {worden gevonden.</a>
 
-* Een aangepast formulier configureren om met meerdere objecttypen te werken. Zie hoe in <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">een aangepast formulier maken en delen</a> zelfstudie.
+* Een aangepast formulier configureren om met meerdere objecttypen te werken. Zie hoe in <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md"> creeer en deel een douanevorm </a> leerprogramma.
 
 </div>
 
@@ -52,10 +52,10 @@ Bekijk de nieuwste updates van de zelfstudies voor elke Workfront-productrelease
       <img alt="Lay-outsjablonen zoeken en maken" src="./assets/ltemp_01.png"/>
       </a>
       <div>
-         <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Lay-outsjablonen zoeken en maken</strong></a>
+         <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong> vind en creeer lay-outmalplaatjes </strong></a>
       </div>
       <p>
-         <em>Leer hoe u een standaardlay-outsjabloon maakt.</em>
+         <em> leer hoe te om een basis lay-outmalplaatje tot stand te brengen.</em>
       </p>
     </td>
    <td>
@@ -63,10 +63,10 @@ Bekijk de nieuwste updates van de zelfstudies voor elke Workfront-productrelease
       <img alt="Een aanvraag indienen" src="./assets/nrequest_01.png"/>
       </a>
       <div>
-         <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Een aanvraag indienen</strong></a>
+         <a href="/help/manage-work/issues-requests/make-a-request.md"><strong> maak een verzoek </strong></a>
       </div>
       <p>
-         <em>Leer hoe u aanvragen maakt, weergeeft en bewerkt.</em>
+         <em> leer hoe te, verzoeken te maken bekijken en uit te geven.</em>
       </p>
 
 <td>
@@ -74,10 +74,10 @@ Bekijk de nieuwste updates van de zelfstudies voor elke Workfront-productrelease
       <img alt="Een eenvoudig rapport maken" src="./assets/sreport_01.png"/>
       </a>
       <div>
-         <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Een eenvoudig rapport maken</strong></a>
+         <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong> creeer een eenvoudig rapport </strong></a>
       </div>
       <p>
-         <em>Leer hoe u een eenvoudig aangepast rapport maakt.</em>
+         <em> leer hoe te om een eenvoudig douanerapport tot stand te brengen.</em>
       </p>
     </td>
   </tr>

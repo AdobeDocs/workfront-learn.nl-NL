@@ -1,6 +1,6 @@
 ---
 title: Dieper dig met gebruik van tijdframes en extra grafieken
-description: Leer neer op een project in de de overzichtsgrafiek van het Vluchtplan te boren om de Grafiek van de Burndown en de Taken in vluchtgrafiek te maken verschijnen in [!UICONTROL Enhanced Analytics].
+description: Leer om op een project in het de overzichtsdiagram van de Vlucht neer te boren om de Grafiek van de Instorting en de Taken in vluchtgrafiek te maken verschijnen in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png

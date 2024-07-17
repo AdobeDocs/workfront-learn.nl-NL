@@ -1,6 +1,6 @@
 ---
 title: Instellingen voor proefdrukgebruikers
-description: Leer hoe u kunt bepalen welke [!DNL  Workfront] gebruikers krijgen een proefdrukvergunning, dan pas gebruikersmontages in beide aan [!DNL Workfront] en de achterste-eindinstellingen.
+description: Leer hoe te om te bepalen welke  [!DNL  Workfront]  gebruikers een het proef vergunning krijgen, dan gebruikersmontages in zowel  [!DNL Workfront]  als de achtergrond-eindmontages aanpassen.
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Instellingen voor proefdrukgebruikers
 
-Voordat u begint gebruikers te maken in [!DNL  Workfront], het is aan te raden om uw wereldwijde [!DNL Workfront] en de instellingen van het proefdruksysteem zijn voltooid. Sommige van deze instellingen zijn van toepassing op de gebruikersprofielen die worden gemaakt. Maar maak u geen zorgen als u die reeks niet kreeg alvorens sommige gebruikers werden gecreeerd... u kunt die montages op elk individueel gebruikersprofiel uitgeven.
+Voordat u begint met het maken van gebruikers in [!DNL  Workfront] , kunt u het beste de algemene [!DNL Workfront] -instellingen en de systeeminstellingen controleren. Sommige van deze instellingen zijn van toepassing op de gebruikersprofielen die worden gemaakt. Maar maak u geen zorgen als u die reeks niet kreeg alvorens sommige gebruikers werden gecreeerd... u kunt die montages op elk individueel gebruikersprofiel uitgeven.
 
 
 In deze video leert u hoe u:

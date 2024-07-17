@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -47,9 +47,9 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Een naamgevingsconventie instellen voor aangepaste velden die worden gebruikt met integratie van systemen van derden.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
-Zorg ervoor dat iedereen die aangepaste formulieren maakt, op de hoogte is van de naamgevingsconventie, zodat deze niet per ongeluk een veld gebruikt dat is gereserveerd voor integratie. Afhankelijk van uw integraties en workflows kan het gebruik van hetzelfde veld op meerdere manieren ertoe leiden dat gegevens worden gewijzigd of overschreven. Dit kan leiden tot onjuiste gegevens in rapporten.
+Zorg ervoor dat iedereen die aangepaste formulieren maakt, op de hoogte is van de naamgevingsconventie, zodat hij of zij niet per ongeluk een veld gebruikt dat is gereserveerd voor integratie. Afhankelijk van uw integraties en workflows kan het gebruik van hetzelfde veld op meerdere manieren ertoe leiden dat gegevens worden gewijzigd of overschreven. Dit kan leiden tot onjuiste gegevens in rapporten.
 
 </br>
 </br>
@@ -59,7 +59,7 @@ Zorg ervoor dat iedereen die aangepaste formulieren maakt, op de hoogte is van d
 
 Houd alle aangepaste velden bij die in integraties worden gebruikt met een Workfront-project.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Een project is de ideale plaats om aangepaste veldnamen te registreren, met welke integratie deze worden gebruikt, enzovoort. Zo voorkomt u dat er redundante aangepaste velden worden gemaakt of dat hetzelfde aangepaste veld met meerdere integraties wordt gebruikt.
 
@@ -71,6 +71,6 @@ Een project is de ideale plaats om aangepaste veldnamen te registreren, met welk
 
 Voeg het gebied van objectenidentiteitskaart aan rapporten toe die door de systeembeheerder worden gebruikt.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Systeembeheerders moeten vaak naar objecten in Workfront verwijzen met hun id-nummers wanneer ze API&#39;s of andere integraties gebruiken. Het veld Id opnemen in weergaven voor de objecten waaraan u werkt (projecten, taken, uitgaven, sjablonen, aangepaste formulieren, enz.) om het gemakkelijk te maken om toegang te hebben en te kopiëren.

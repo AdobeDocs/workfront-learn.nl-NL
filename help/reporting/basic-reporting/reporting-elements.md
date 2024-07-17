@@ -1,5 +1,5 @@
 ---
-title: Rapporteringselementen begrijpen
+title: Informatie over rapporteringselementen
 description: Leer hoe u bestaande rapportelementen (filters, weergaven en groepen) gebruikt voor toegang tot informatie die wordt bijgehouden in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Rapporteringselementen begrijpen
+# Informatie over rapporteringselementen
 
 In deze video leert u hoe u:
 

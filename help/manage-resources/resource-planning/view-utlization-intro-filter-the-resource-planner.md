@@ -33,9 +33,9 @@ U zult niet alleen kunnen zien hoe de toewijzing van middelen het werk van vanda
 De functie Bronnen wordt automatisch geopend met een standaardset filters. U wilt deze filters bewerken door:
 
 * Tijdskader
-* Portfolio/Programma
+* Portfolio/programma
 * Brongroepen, enz.
 
-![resource planner, filter](assets/TRP01.png)
+![ filter van de middelplanner ](assets/TRP01.png)
 
 Hierdoor kunt u zich concentreren op welke bronnen beschikbaar zijn en wanneer.

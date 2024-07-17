@@ -8,7 +8,7 @@ jira: KT-10930
 exl-id: 15457411-fd4a-4348-892a-2fb08a079a35
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -58,7 +58,7 @@ Beperk het aantal tijdbladprofielen.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Creeer timesheet profielen die op welke algemene uurtypes worden gebaseerd worden vereist en wie de timesheets zou moeten goedkeuren. Het wordt aanbevolen de optie &#39;Hun manager&#39; te gebruiken voor fiatteurs in plaats van &#39;Specifieke personen&#39; om te negeren dat meerdere tijdlijnprofielen nodig zijn. (Controleer of het veld Rapporten naar is ingevuld voor uw gebruikers, anders herkent Workfront niet dat deze een manager hebben en is er geen fiatteur toegewezen aan de tijdpagina.)
 
@@ -71,7 +71,7 @@ Beperk het aantal uurtypen tot een minimum.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Te veel uurtypes-voor zowel factureerbare als niet factureerbare tijd-veroorzaakt verwarring over hoe de tijd zou moeten worden geregistreerd. Werk samen met het Workfront-comité voor bestuur/toezicht van uw organisatie om te bepalen welke uurtypen vereist zijn en waarover moet worden gerapporteerd.
 
@@ -84,7 +84,7 @@ Verberg het veld Overwerk op tijdbladen als overwerk niet bij uw organisatie wor
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Omdat het veld Overtime handmatig wordt ingevuld in tijdbladen, kan dit voor gebruikers verwarrend zijn over de manier waarop en het tijdstip waarop deze het veld moeten gebruiken. De optie voor het verbergen van het veld Overuren maakt deel uit van het tijdlijnprofiel.
 
@@ -97,7 +97,7 @@ Timesheets moeten wekelijks worden ingediend.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Dit zal betere real-time rapportering verstrekken, die resultaten in wekelijkse toename eerder dan twee-wekelijkse of maandelijkse toename verstrekt. Het maakt het ook makkelijker om terug te gaan en problemen op te lossen voordat ze in het verleden te ver komen.
 
@@ -110,7 +110,7 @@ De tijd van het logboek dagelijks om de nauwkeurigste tijdingangen te krijgen.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Het is eenvoudiger om te onthouden waar u op één dag aan hebt gewerkt dan enkele dagen terug te proberen. Nauwkeurige tijdvermeldingen dragen bij tot een nauwkeurigere planning van de projecttijdlijn, die dan:
 
@@ -130,6 +130,6 @@ Zet de capaciteit uit om tijd op het projectniveau te registreren.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 De tijd die op het projectniveau wordt geregistreerd toont niet wat de tijd eigenlijk werd doorgebracht werkend aan. Het registreren van de werkelijke uren die op de taak- en uitgifteniveaus zijn gewerkt, laat zien hoe lang het duurde om bepaalde onderdelen van het werk te voltooien. Deze informatie kan nuttig zijn wanneer het aanpassen van projectmalplaatjes, aangezien u de projectchronologie en het plan voor de benodigde personenmiddelen nauwkeuriger zult kunnen plannen. Het betekent ook dat de verslagen nauwkeuriger zullen zijn en beter inzicht zullen verschaffen in waar de tijd van de werknemers naartoe gaat.

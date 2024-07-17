@@ -1,6 +1,6 @@
 ---
 title: Instellingen voor een stroomaanvraag begrijpen
-description: Leer hoe de aanvraagstroom verloopt in [!DNL  Workfront] werkt. Dan creeer het verpletteren van regels, onderwerpgroepen, en rijonderwerpen.
+description: Leer hoe het proces van de verzoekstroom in  [!DNL  Workfront]  werkt. Dan creeer het verpletteren van regels, onderwerpgroepen, en rijonderwerpen.
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -23,6 +23,6 @@ ht-degree: 0%
 In deze video leert u:
 
 * Het proces van de verzoekstroom specifiek voor rijbeheer
-* Hoe te om het verpletteren van regels, onderwerpgroepen en rijonderwerpen tot stand te brengen en te gebruiken
+* Hoe te om het verpletteren van regels, onderwerpgroepen en rijonderwerpen te creëren en te gebruiken
 
 >[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on)

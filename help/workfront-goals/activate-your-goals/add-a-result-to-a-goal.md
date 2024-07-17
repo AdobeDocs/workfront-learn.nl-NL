@@ -1,6 +1,6 @@
 ---
 title: Een resultaat toevoegen aan een doel
-description: Leer hoe u een doel activeert door een resultaat toe te voegen in [!DNL Workfront Goals].
+description: Leer hoe te om een doel te activeren door een resultaat in  [!DNL Workfront Goals] toe te voegen.
 activity: use
 feature: Workfront Goals
 type: Tutorial

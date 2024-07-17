@@ -1,6 +1,6 @@
 ---
 title: Groepen en gebruikers instellen
-description: Leer hoe u mappen, groepen en gebruikers maakt in [!UICONTROL Workfront DAM]. Begrijp de types van gebruikersrol en verlenen toestemmingen aan omslagen.
+description: Leer hoe u mappen, groepen en gebruikers maakt in [!UICONTROL Workfront DAM] . Begrijp de types van gebruikersrol en verlenen toestemmingen aan omslagen.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -32,32 +32,32 @@ In deze video leert u hoe u:
 
 ## Groepen en gebruikers controleren
 
-Terwijl u uw [!UICONTROL Workfront DAM] systeem, is het belangrijk om de rollen te overwegen die de gebruikers en de groepen in het grote beeld spelen.
+Wanneer u uw [!UICONTROL Workfront DAM] systeem configureert, is het belangrijk om rekening te houden met de rollen die gebruikers en groepen in het grote beeld spelen.
 
-Groepen beheren de toegang tot elementmappen in [!UICONTROL Workfront DAM]. Groepsinstellingen bepalen ook wat gebruikers met de elementen kunnen doen (weergeven, downloaden, bewerken, enz.) zij hebben toegang .
+Groepen beheren de toegang tot elementmappen in [!UICONTROL Workfront DAM] . Groepsinstellingen bepalen ook wat gebruikers met de elementen kunnen doen (weergeven, downloaden, bewerken, enz.) zij hebben toegang .
 
-Wanneer het creëren van groepen, is het van essentieel belang om in mening te zijn welke activaomslagen de leden van die groep toegang tot binnen zullen vereisen [!UICONTROL Workfront DAM].
+Bij het maken van groepen is het van essentieel belang om te bedenken tot welke elementmappen de leden van die groep toegang hebben in [!UICONTROL Workfront DAM] .
 
-De gebruikers zijn de individuen die logins hebben aan [!UICONTROL Workfront DAM]. Een gebruiker heeft geen toegang tot [!UICONTROL Workfront DAM] tenzij ze aan een groep zijn toegewezen. Gebruikers kunnen tot meerdere groepen behoren, afhankelijk van hun behoeften.
+Gebruikers zijn de personen die zich aanmelden bij [!UICONTROL Workfront DAM] . Een gebruiker heeft alleen toegang tot elementen in [!UICONTROL Workfront DAM] als deze aan een groep zijn toegewezen. Gebruikers kunnen tot meerdere groepen behoren, afhankelijk van hun behoeften.
 
 ## Standaardgroepen
 
-Er zijn twee standaardgroepen die worden geleverd [!UICONTROL Workfront DAM]. Alle gebruikers behoren automatisch tot deze groepen, op basis van het feit of zij [!UICONTROL Workfront DAM] aanmeldingsgegevens. U kunt geen gebruikers toevoegen aan of verwijderen uit deze groepen:
+Er zijn twee standaardgroepen die bij [!UICONTROL Workfront DAM] worden geleverd. Alle gebruikers behoren automatisch tot deze groepen, op basis van het feit of zij [!UICONTROL Workfront DAM] aanmeldingsgegevens hebben. U kunt geen gebruikers toevoegen aan of verwijderen uit deze groepen:
 
-* **Gastgroep**—Gebruikt om toegang voor een anonieme gebruiker te controleren. Dit kan iemand zijn zonder aanmeldingsgegevens of een gebruiker die momenteel niet is aangemeld.
-* **Aangemeld**-In groep-Alle gebruikers die het programma worden geopend behoren tot deze groep.
+* **Gast groep** - gebruikt om toegang voor een anonieme gebruiker te controleren. Dit kan iemand zijn zonder aanmeldingsgegevens of een gebruiker die momenteel niet is aangemeld.
+* **Logged** - in groep-Alle gebruikers die het programma worden geopend behoren tot deze groep.
 
 De groep Admin en zijn montages bestaan ook door gebrek. U kunt gebruikers aan deze groep toevoegen, maar u kunt de instellingen niet aanpassen.
 
 ## Roltypen
 
-Wanneer groepen worden gemaakt, krijgen deze een roltype toegewezen. Het roltype bepaalt welk deel van [!UICONTROL Workfront DAM] systeemgebruikers krijgen wanneer ze zich aanmelden — [!UICONTROL Workfront DAM] zelf of [!UICONTROL Brand Connect].
+Wanneer groepen worden gemaakt, krijgen deze een roltype toegewezen. Het roltype bepaalt welk deel van [!UICONTROL Workfront DAM] systeemgebruikers krijgen wanneer ze zich aanmelden — [!UICONTROL Workfront DAM] zelf of [!UICONTROL Brand Connect] .
 
 Er zijn drie roltypes beschikbaar met [!UICONTROL Workfront DAM] vergunningen:
 
-* **[!UICONTROL Brand Portal]**—Deze gebruikers hebben alleen toegang tot [!UICONTROL Brand Connect], waarin ze goedgekeurde elementen kunnen weergeven en downloaden.
-* **[!UICONTROL Contributor]**—Deze gebruikers hebben toegang tot [!UICONTROL Workfront DAM] en [!UICONTROL Brand Connect]. Ze hebben volledige toegangsrechten voor elementen en mappen, zoals weergeven, downloaden, uploaden, bewerken, verplaatsen en verwijderen.
-* **[!UICONTROL Administrator]**—Systeembeheerders hebben toegang tot alles in [!UICONTROL Brand Connect] en [!UICONTROL Workfront DAM], plus de mogelijkheid om de algemene systeeminstellingen voor elke instelling te bepalen. Ze kunnen ook toegang krijgen tot elementen die verlopen zijn of als inactief zijn ingesteld.
+* **[!UICONTROL Brand Portal]** - Deze gebruikers hebben alleen toegang tot [!UICONTROL Brand Connect] , waar ze goedgekeurde elementen kunnen weergeven en downloaden.
+* **[!UICONTROL Contributor]** - Deze gebruikers hebben toegang tot [!UICONTROL Workfront DAM] en [!UICONTROL Brand Connect] . Ze hebben volledige toegangsrechten voor elementen en mappen, zoals weergeven, downloaden, uploaden, bewerken, verplaatsen en verwijderen.
+* **[!UICONTROL Administrator]** - Systeembeheerders hebben toegang tot alles in [!UICONTROL Brand Connect] en [!UICONTROL Workfront DAM] , plus de mogelijkheid om de algemene systeeminstellingen voor elke instantie vast te stellen. Ze kunnen ook toegang krijgen tot elementen die verlopen zijn of als inactief zijn ingesteld.
 
 <!-- 
 Learn more graphic & documentation article link, below

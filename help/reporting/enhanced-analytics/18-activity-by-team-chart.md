@@ -1,6 +1,6 @@
 ---
 title: Begrijp de activiteit door teamgrafiek
-description: De Activiteit door teamgrafiek in [!UICONTROL Enhanced Analytics] biedt u inzicht in hoe de teams van uw organisatie thuis hun tijd doorbrengen in Workfront.
+description: Met het overzicht Activiteit per team in [!UICONTROL Enhanced Analytics] kunt u begrijpen hoe de teams van uw organisatie thuis hun tijd doorbrengen in Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -30,7 +30,7 @@ Aan de hand van deze informatie kunt u bepalen:
 * Welke huisteams worden overwerkt of gebruiken meer het systeem.
 * Als de distributie van het werk voor het huisteam aangewezen is.
 
-![Een afbeelding met een activiteit per teamdiagram met nummers op de gebieden die in de onderstaande opsommingstekens worden beschreven](assets/section-3-1.png)
+![ een beeld dat een activiteit door teamgrafiek met aantallen op gebieden toont die in hieronder kogels worden beschreven ](assets/section-3-1.png)
 
 Op het diagram kunt u zien:
 
@@ -42,6 +42,6 @@ Op het diagram kunt u zien:
 
 ## Hoe te aan de grafiek te navigeren
 
-1. Klik op de knop [!UICONTROL People] in het linkerdeelvenster.
-1. Gebruik de [!UICONTROL Filter] om een of meer Home-teams te kiezen die moeten worden onderzocht.
+1. Klik op de tab [!UICONTROL People] in het linkerdeelvenster.
+1. Gebruik [!UICONTROL Filter] om een of meer Home-teams te kiezen die u wilt onderzoeken.
 1. U zult de activiteit door teamgrafiek bij de personengrafieken zien verschijnen.

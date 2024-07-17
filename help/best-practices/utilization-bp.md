@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -47,13 +47,13 @@ De vooruitgang, de kosten, en de opbrengst van het spoor met het gebruiksrapport
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Maak optimaal gebruik van uw personele middelen door de vooruitgang, de kosten, of de opbrengst van een project, een programma, of een portefeuille met het rapport van het Gebruik te analyseren. Dit enige rapport is een essentieel hulpmiddel voor middelmanagers, projectmanagers, of andere personenmanagers omdat dit geplande of daadwerkelijke opbrengst aan kosten kan ook vergelijken zodat u meer inzicht in besluiten kunt nemen en de verschillende soorten en het aantal middelen volledig kunt meten een specifieke taak of een project kunnen vereisen.
 
 
 
-Opmerking: Informatie over het gebruik van bronnen vindt u in Workfront Main Menu > Resource > Utilization.
+Opmerking: informatie over het gebruik van bronnen vindt u in het hoofdmenu van Workfront > Bronnen > Gebruik.
 
 </br>
 </br>
@@ -64,6 +64,6 @@ Wijs middelen aan kindtaken eerder dan aan oudertaken toe om de totale uren te v
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Wanneer het rapport van het Gebruik wordt gecreeerd, omvat het uren die aan het project worden geregistreerd, kindtaken, kwesties, en oudertaken die minstens één taak hebben. Nochtans, volgt het niet de uren die aan oudertaken zonder enige taken worden geregistreerd. Om een goede vertegenwoordiging van de totale uren te krijgen die aan de taken, de kwesties, of het project worden doorgebracht, gebruik oudertaken niet als werkende taken en wijs gebruikers slechts aan kindtaken toe.

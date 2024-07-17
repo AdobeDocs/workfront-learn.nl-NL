@@ -33,13 +33,13 @@ Zij kunnen naar één of meerdere van het volgende worden verzonden:
 
 Hoewel niet algemeen gebruikt, kunnen de automatische herinneringen nuttig zijn als uw organisatie een kwestie met heeft en wil gebruikers voor de voltooiing van het werk op tijd ter verantwoording roepen.
 
-Automatische herinneringen kunnen worden ingesteld in het dialoogvenster [!UICONTROL Email] van de [!UICONTROL Setup] gebied. U hoeft alleen te bepalen:
+Automatische herinneringen kunnen worden ingesteld in de sectie [!UICONTROL Email] van het [!UICONTROL Setup] -gebied. U hoeft alleen te bepalen:
 
 * Wie moet de automatische herinnering ontvangen?
 * Hoeveel tijd moet er voor/na de werkzaamheden worden uitgetrokken als de kennisgeving wordt verzonden.
 
-![[!UICONTROL Automatic Reminders] venster in [!UICONTROL Setup]](assets/admin-fund-automatic-reminders-1.png)
+![[!UICONTROL Automatic Reminders] -venster in [!UICONTROL Setup]](assets/admin-fund-automatic-reminders-1.png)
 
-Op dit moment zijn de automatische herinneringen toegepast en worden deze verzonden zodra aan de criteria is voldaan. Bovendien kunnen gebruikers automatische herinneringen in hun [!UICONTROL My Settings] venster.
+Op dit moment zijn de automatische herinneringen toegepast en worden deze verzonden zodra aan de criteria is voldaan. Bovendien kunnen gebruikers automatische herinneringen in hun [!UICONTROL My Settings] venster niet onbruikbaar maken.
 
-![[!UICONTROL Automatic Reminder] e-mailbericht](assets/admin-fund-automatic-reminders-2.png)
+![[!UICONTROL Automatic Reminder] email message ](assets/admin-fund-automatic-reminders-2.png)

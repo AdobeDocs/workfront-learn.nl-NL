@@ -33,7 +33,7 @@ Er zijn vier standaardinstellingen voor uitgiften die niet kunnen worden verwijd
 * Gesloten
 * In de wachtstand
 
-Zes andere statussen die algemeen gelden voor het uitgeven van beheer worden meegeleverd [!DNL Workfront]:
+Er zijn zes andere statussen die veel voorkomen in het beheer van uitgaven: [!DNL Workfront]
 
 * Opnieuw geopend
 * Nog geen feedback
@@ -47,13 +47,13 @@ need URL in paragraph below
 --->
 
 
-De status van een uitgave kan worden weergegeven en gewijzigd in het dialoogvenster [!UICONTROL Issue Details]. U kunt ook de afgifte van een status wijzigen in de koptekst van de uitgavepagina helemaal rechts.
+De status van een uitgave kan worden weergegeven en gewijzigd in de [!UICONTROL Issue Details] . U kunt ook de afgifte van een status wijzigen in de koptekst van de uitgavepagina helemaal rechts.
 
-![[!UICONTROL Status] optie in paginakoptekst en [!UICONTROL Issue Details] page](assets/admin-fund-issue-details-status.png)
+![[!UICONTROL Status] in paginakoptekst en [!UICONTROL Issue Details] page ](assets/admin-fund-issue-details-status.png)
 
-U kunt de [!UICONTROL Status] aan een mening of een douanerapport, die het gemakkelijk zichtbaar en snel maken te veranderen.
+U kunt de kolom [!UICONTROL Status] aan een mening of een douanerapport toevoegen, makend het gemakkelijk zichtbaar en snel om te veranderen.
 
-![[!UICONTROL Status] kolom in een [!UICONTROL View]](assets/admin-fund-issue-status-view.png)
+![[!UICONTROL Status] -kolom in een [!UICONTROL View]](assets/admin-fund-issue-status-view.png)
 
 <!---
 link the bullets below to the articles

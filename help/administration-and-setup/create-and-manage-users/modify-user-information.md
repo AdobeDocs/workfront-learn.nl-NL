@@ -30,7 +30,7 @@ Het kan voorkomen dat u gebruikers in Workfront moet bewerken. Een gebruiker wij
 * Klik op Wijzigingen opslaan.
 
 
-![[!DNL Edit Person] venster](assets/mod_01.png)
+![[!DNL Edit Person] window ](assets/mod_01.png)
 
 ## Meerdere gebruikers bewerken
 
@@ -39,4 +39,4 @@ Met de bulkbewerkingsfunctie van Workfront kunt u meerdere gebruikers tegelijk b
 Schakel de selectievakjes in naast de gebruikers die u wilt bewerken. Klik vervolgens op de knop Bewerken om de gebruikersgegevens te openen. De wijzigingen die u aanbrengt, gelden voor alle geselecteerde gebruikers.
 
 
-![[!DNL Edit Person] venster](assets/mod_02.png)
+![[!DNL Edit Person] window ](assets/mod_02.png)

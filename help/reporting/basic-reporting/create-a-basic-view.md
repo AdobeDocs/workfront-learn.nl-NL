@@ -45,20 +45,20 @@ Maak een taakweergave met de naam &quot;Taakstatusweergave&quot; met de volgende
 
 ## Antwoord op activiteit 1
 
-![Een afbeelding van het scherm om een taakstatusweergave te maken](assets/view-exercise.png)
+![ een beeld van het scherm om een mening van de taakstatus tot stand te brengen ](assets/view-exercise.png)
 
-1. Ga in een rapport van de taaklijst naar **[!UICONTROL View]** vervolgkeuzelijst en selecteert u **[!UICONTROL New View]**.
+1. Ga in een takenlijstrapport naar de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL New View]** .
 1. Geef de weergave de naam &#39;Taakstatusweergave&#39;.
-1. Deze kolommen verwijderen: [!UICONTROL Pln Hrs], [!UICONTROL Predecessors], [!UICONTROL Start On], en [!UICONTROL Due On].
+1. Verwijder de volgende kolommen: [!UICONTROL Pln Hrs], [!UICONTROL Predecessors], [!UICONTROL Start On] en [!UICONTROL Due On] .
 1. Klik op **[!UICONTROL Add Column]**.
-1. In de [!UICONTROL Show in this column] veld, typ &quot;status&quot; en selecteer &quot;status&quot; onder het veld [!UICONTROL Task] veldbron.
-1. Klikken **[!UICONTROL Add Column]** opnieuw.
-1. In de [!UICONTROL Show in this column] veld, typt u &quot;status&quot; en selecteert u &quot;Voortgangsstatus&quot; onder het [!UICONTROL Task] veldbron.
-1. Klikken **[!UICONTROL Add Column]** opnieuw.
-1. In de [!UICONTROL Show in this column] veld, typt u &quot;status&quot; en selecteert u &quot;Statuspictogrammen&quot; onder de bron van het taakveld.
+1. Typ in het veld [!UICONTROL Show in this column] &quot;status&quot; en selecteer &quot;Status&quot; onder de veldbron van [!UICONTROL Task] .
+1. Klik nogmaals op **[!UICONTROL Add Column]** .
+1. Typ in het veld [!UICONTROL Show in this column] &quot;status&quot; en selecteer &quot;Voortgangsstatus&quot; onder de veldbron van [!UICONTROL Task] .
+1. Klik nogmaals op **[!UICONTROL Add Column]** .
+1. Typ in het veld [!UICONTROL Show in this column] &quot;status&quot; en selecteer vervolgens &quot;Statuspictogrammen&quot; onder de bron van het taakveld.
 1. Klik op **[!UICONTROL Save]**.
 
-Houd de muisaanwijzer boven de pictogrammen in het dialoogvenster [!UICONTROL Status Icons] om te zien wat ze vertegenwoordigen. Als ze grijs zijn, betekent dit dat de taak geen notities, documenten, goedkeuringsprocedures, enzovoort bevat. Als een pictogram in kleur verschijnt, is er minstens één van dat punt verbonden aan de taak. U kunt op de notitie- of documentpictogrammen klikken om naar dat item te gaan.
+Houd de muisaanwijzer boven elk pictogram in de kolom [!UICONTROL Status Icons] om te zien wat de pictogrammen vertegenwoordigen. Als ze grijs zijn, betekent dit dat de taak geen notities, documenten, goedkeuringsprocedures, enzovoort bevat. Als een pictogram in kleur verschijnt, is er minstens één van dat punt verbonden aan de taak. U kunt op de notitie- of documentpictogrammen klikken om naar dat item te gaan.
 
 ## Activiteit 2: Een mijlpaalweergave maken
 
@@ -78,15 +78,15 @@ Maak een taakweergave met de naam &quot;Weergave van mijlpaal&quot; met de volge
 
 ## Antwoord op activiteit 2
 
-![Een afbeelding van het scherm om een mijlpaalweergave te maken](assets/view-milestone-exercise-1.png)
+![ een beeld van het scherm om een milestone mening ](assets/view-milestone-exercise-1.png) te creëren
 
-1. Ga in een lijst met projecttaken naar de **[!UICONTROL View]** vervolgkeuzelijst en selecteert u **[!UICONTROL New View]**.
+1. Ga in een lijst met projecttaken naar de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL New View]** .
 1. Geef uw weergave de naam &#39;Weergave van mijlpaal&#39;.
-1. Klik op de knop [!UICONTROL Predecessors] te selecteren.
-1. In de [!UICONTROL Show in this column] veld, klikt u op het X-pictogram in het dialoogvenster [!UICONTROL Task >> Predecessors] veld, typ vervolgens &quot;[!UICONTROL milestone name]&quot; en klik op &quot;[!UICONTROL Name]&quot; in de lijst.
+1. Klik op de kolom [!UICONTROL Predecessors] om deze te selecteren.
+1. Klik in het veld [!UICONTROL Show in this column] op het X-pictogram in het veld [!UICONTROL Task >> Predecessors] , typ &quot;[!UICONTROL milestone name]&quot; en klik op &quot;[!UICONTROL Name]&quot; in de lijst.
 1. Klik op **[!UICONTROL Save]**.
 
-![Een afbeelding van een takenlijst met gebruik van een mijlpaalweergave](assets/view-milestone-exercise-2.png)
+![ een beeld van een taaklijst gebruikend een milestone mening ](assets/view-milestone-exercise-2.png)
 
 ## Activiteit 3: Een type duur en een weergave met taakbeperkingen maken
 
@@ -106,28 +106,28 @@ Creeer een taakmening genoemd &quot;de types van Duur en de mening van taakbeper
 * [!UICONTROL Task Constraint]
 * [!UICONTROL Constraint Date]
 
-Wijzig de [!UICONTROL Field Format] op de [!UICONTROL Start On] en [!UICONTROL Due On] kolommen waarin zowel de datum als de tijd worden weergegeven.
+Wijzig [!UICONTROL Field Format] in de kolommen [!UICONTROL Start On] en [!UICONTROL Due On] om zowel de datum als de tijd weer te geven.
 
 ## Activiteit 3 Antwoord
 
-![Een afbeelding van het scherm met de typen tijdsduur en de weergave met taakbeperkingen](assets/view-activity-3.png)
+![ een beeld van het scherm dat de duurtypes en de mening van taakbeperkingen toont ](assets/view-activity-3.png)
 
-1. Ga in een lijst met projecttaken naar de **[!UICONTROL View]** vervolgkeuzelijst en selecteert u **[!UICONTROL New View]**.
+1. Ga in een lijst met projecttaken naar de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL New View]** .
 1. Geef de weergave de naam &quot;Weergave Duur en taakbeperkingen&quot;.
-1. Verwijder de [!UICONTROL % Complete] kolom.
+1. Verwijder de kolom [!UICONTROL % Complete] .
 1. Klik op **[!UICONTROL Add Column]**.
-1. In de [!UICONTROL Show in this column] veld, type [!UICONTROL "duration"] Selecteer vervolgens [!UICONTROL "Planned Duration"] onder de [!UICONTROL Task] veldbron.
-1. Deze kolom verplaatsen tussen de [!UICONTROL Duration] en de [!UICONTROL Pln Hrs] kolommen.
-1. Klikken **[!UICONTROL Add Column]** opnieuw.
-1. In de [!UICONTROL Show in this column] veld, type [!UICONTROL "duration type"] Selecteer vervolgens [!UICONTROL "Duration Type"] onder de [!UICONTROL Task] veldbron.
-1. Klikken **[!UICONTROL Add Column]** opnieuw.
-1. In de [!UICONTROL Show in this column] veld, type [!UICONTROL "constraint"] Selecteer vervolgens [!UICONTROL "Task Constraint"] onder de bron van het het gebiedsveld van de Taak.
-1. Klikken **[!UICONTROL Add Column]** opnieuw.
-1. In de [!UICONTROL Show in this column] veld, type [!UICONTROL "constraint"] Selecteer vervolgens [!UICONTROL "Constraint Date"] onder de bron van het het gebiedsveld van de Taak.
-1. Selecteer de [!UICONTROL Start On] kolom, klik vervolgens op [!UICONTROL Advanced Options].
-1. Onder de [!UICONTROL Field Format] vervolgkeuzelijst selecteren [!UICONTROL "10/17/60 3:00 AM"].
-1. Selecteer de [!UICONTROL Due On] kolom, klik vervolgens op [!UICONTROL Advanced Options].
-1. Onder de [!UICONTROL Field Format] vervolgkeuzelijst selecteren [!UICONTROL "10/17/60 3:00 AM"].
+1. Typ in het veld [!UICONTROL Show in this column] [!UICONTROL "duration"] en selecteer [!UICONTROL "Planned Duration"] onder de veldbron van [!UICONTROL Task] .
+1. Verplaats deze kolom tussen de kolommen [!UICONTROL Duration] en [!UICONTROL Pln Hrs] .
+1. Klik nogmaals op **[!UICONTROL Add Column]** .
+1. Typ in het veld [!UICONTROL Show in this column] [!UICONTROL "duration type"] en selecteer [!UICONTROL "Duration Type"] onder de veldbron van [!UICONTROL Task] .
+1. Klik nogmaals op **[!UICONTROL Add Column]** .
+1. Typ in het veld [!UICONTROL Show in this column] [!UICONTROL "constraint"] en selecteer [!UICONTROL "Task Constraint"] onder de bron van het taakveld.
+1. Klik nogmaals op **[!UICONTROL Add Column]** .
+1. Typ in het veld [!UICONTROL Show in this column] [!UICONTROL "constraint"] en selecteer [!UICONTROL "Constraint Date"] onder de bron van het taakveld.
+1. Selecteer de kolom [!UICONTROL Start On] en klik op [!UICONTROL Advanced Options] .
+1. Selecteer onder de vervolgkeuzelijst [!UICONTROL Field Format] de optie [!UICONTROL "10/17/60 3:00 AM"] .
+1. Selecteer de kolom [!UICONTROL Due On] en klik op [!UICONTROL Advanced Options] .
+1. Selecteer onder de vervolgkeuzelijst [!UICONTROL Field Format] de optie [!UICONTROL "10/17/60 3:00 AM"] .
 1. Klik op **[!UICONTROL Save]**.
 
 ## Activiteit 4: Een actieve statusweergave van een projectsjabloon maken
@@ -148,10 +148,10 @@ Creeer een mening van het projectmalplaatje genoemd &quot;Standaard+actieve stat
 
 ## Activiteit 4 Antwoord
 
-![Een beeld van het scherm om een actieve de statusmening van het projectmalplaatje te tonen](assets/view-activity-4.png)
+![ een beeld van het scherm om een actieve de statusmening van het projectmalplaatje te tonen ](assets/view-activity-4.png)
 
-1. Ga in een lijst van het projectmalplaatje, naar **[!UICONTROL View]** vervolgkeuzelijst en selecteert u **[!UICONTROL New View]**.
+1. Ga in een lijst met projectsjablonen naar de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL New View]** .
 1. Geef de weergave de naam Standaard+actieve status.
 1. Klik op **[!UICONTROL Add Column]**.
-1. In de [!UICONTROL Show in this column] veld, type &quot;is&quot; en selecteer &quot;Is Actief&quot; onder het veld [!UICONTROL Template] veldbron.
+1. Typ in het veld [!UICONTROL Show in this column] &quot;is&quot; en selecteer &quot;Is actief&quot; onder de veldbron van [!UICONTROL Template] .
 1. Klik op **[!UICONTROL Save View]**.

@@ -26,5 +26,5 @@ Leer widgets op de startpagina verwijderen, toevoegen en opnieuw rangschikken.
 
 >[!NOTE]
 >
-> Ga voor meer informatie over elke widget naar [Aan de slag met New Home in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en) artikel.
+> Om meer informatie over elke widget te vinden, ga [ begonnen met Nieuw Huis in Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en) artikel.
 

@@ -1,6 +1,6 @@
 ---
 title: Een verzoek bijwerken
-description: Leer hoe u de verzoeken kunt vinden die u hebt verzonden en hoe u deze aanvragen kunt bijwerken in [!DNL  Workfront].
+description: Leer hoe te om de verzoeken te vinden u hebt voorgelegd en een update over die verzoeken in  [!DNL  Workfront].
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -27,7 +27,7 @@ In deze video leert u hoe u:
 * Zoeken naar aanvragen die je hebt verzonden
 * Een update uitvoeren in het deelvenster Samenvatting
 * De aanvraagpagina openen
-* Een verzoek bijwerken in het dialoogvenster [!UICONTROL Updates] deelvenster
+* Een aanvraag bijwerken in het deelvenster [!UICONTROL Updates]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
 

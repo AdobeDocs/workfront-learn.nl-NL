@@ -14,7 +14,7 @@ jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 source-git-commit: 7dc10404ef9123a9a8f89517dac5c8c31897cd73
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,4 @@ In deze video leert u meer over de meest gebruikte projectinstellingen die u nod
 * [Navigeren door de projectpagina](/help/manage-work/projects/navigate-the-project-page.md)
 * [Leer vier manieren om een project te maken](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Aan de slag met het plannen van een project](/help/manage-work/projects/getting-started-plan-a-project.md)
-* [Projecten bewerken](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+* [ geeft projecten ](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects) uit

@@ -10,7 +10,7 @@ exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 ## Een scrubteam instellen
 
-Een Agile-team in Workfront voltooit zijn werk vanaf de iteratiepagina [1]. Het burndown-diagram [2] boven aan de pagina staat een overzicht van de vorderingen die tot nu toe tijdens deze herhaling zijn gemaakt . Onder het burndown-overzicht staan de verhalen [3] het team heeft zich voor deze herhaling ingezet .
+Een flexibel team in Workfront voltooit zijn werk van de iteratiepagina [ 1 ]. Het burndown grafiek [ 2 ] bij de bovenkant van de pagina is een overzicht van de vooruitgang die tot dusver tijdens deze herhaling is gemaakt. Onder de burndown grafiek zijn de verhalen [ 3 ] het team aan voor deze herhaling heeft geëngageerd.
 
 In deze video leert u hoe u een flexibel team kunt maken, de methode voor de scrum kunt selecteren en de instellingen voor het scrum-team kunt bepalen.
 
-![Teams pagina](assets/scrum-agile-team-page.png)
+![ pagina van Teams ](assets/scrum-agile-team-page.png)
 
 ### Een geheel nieuw scrubteam instellen
 
-Nu u weet hoe het eruitziet wanneer het is ingesteld, kunt u meteen overschakelen naar het instellen ervan in Workfront. Laten we de instellingen doorlopen aan de hand van een casestudy voor het bedrijf Swains. U bent verantwoordelijk voor de bewerkingen voor het creatieve team en u hebt de OK-regel ingevoerd voor de verplaatsing van het creatieve marketingteam naar Agile.
+Nu u weet hoe het eruitziet wanneer het is ingesteld, kunt u meteen bladeren hoe u het in Workfront instelt. Laten we de instellingen doorlopen aan de hand van een casestudy voor het bedrijf Swains. U bent verantwoordelijk voor de bewerkingen voor het creatieve team en u hebt de OK-regel ingevoerd voor de verplaatsing van het creatieve marketingteam naar Agile.
 
 
 Dit specifieke team heeft besloten om de methode van de Trommel aan te nemen omdat zij houden van dat het storyboard hen zo veel meer zicht geeft in wie doet wat en welke status of werkpunten van het stadium in zijn. Kortdurende herhalingen kunnen plannen werkt goed met hun huidige werkbehoeften. Het team krijgt doorgaans marketingcampagnes van 2 tot 3 weken en moet prioriteiten kunnen stellen aan wat hun team kan doen of doen in zo korte tijd.
@@ -42,7 +42,7 @@ In deze video leert u hoe u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on)
 
-Hebt u al een team in Workfront dat u wilt converteren naar een Agile-team? Geen probleem! Ga naar de Montages van het Team en controleer het vakje &quot;Dit is een Geniel team&quot;doos.
+Hebt u al een team in Workfront dat u wilt converteren naar een Agile-team? Geen probleem! Ga naar de Montages van het Team en controleer het vakje &quot;Dit is een team van Adobe&quot;.
 
 
 

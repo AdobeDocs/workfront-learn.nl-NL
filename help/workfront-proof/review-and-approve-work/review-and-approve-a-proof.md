@@ -1,6 +1,6 @@
 ---
 title: Een bewijs controleren en goedkeuren
-description: Leer hoe u toegang kunt krijgen tot een bewijs en opmerkingen kunt plaatsen, markeringen kunt gebruiken om de noodzakelijke wijzigingen aan te geven, opmerkingen kunt beantwoorden en een beslissing kunt nemen over een bewijs in [!DNL Workfront].
+description: Leer hoe te om tot een bewijs toegang te hebben en commentaren op een bewijs, prijsverhoging te gebruiken om noodzakelijke veranderingen aan te geven, op beproefde commentaren te antwoorden, en een besluit over een bewijs in te nemen  [!DNL Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -32,53 +32,53 @@ Zodra u weet wat wordt verwacht, kunt u beginnen met het herzien van een proef.
 
 Als een element gereed is voor revisie en goedkeuring, ontvangt u een e-mailbericht.
 
-![Een afbeelding van een nieuwe e-mail waarin wordt gevraagd twee proefdrukken te controleren en goed te keuren [!DNL  Workfront].](assets/new-proof-emails.png)
+![ een beeld van een nieuwe proefe-mail die om de overzicht en goedkeuring van twee proefdrukken in [!DNL  Workfront] verzoekt.](assets/new-proof-emails.png)
 
 Deze proefkoppeling is uniek voor u. Als u de koppeling deelt met iemand anders, worden eventuele opmerkingen en markeringen die deze persoon heeft, van uw naam voorzien.
 
-De [!UICONTROL New Proof] e - mail bevat ook essentiële informatie over het bewijs :
+Het e-mailadres van [!UICONTROL New Proof] bevat ook essentiële informatie over de proefdruk:
 
 * De naam van de proefdruk is de onderwerpregel van de e-mail.
 * Met de miniatuur kunt u snel bekijken wat u gaat bekijken.
 * Het versienummer laat u weten welke versie van de proefdruk u zult bekijken.
 * En, het belangrijkst, verschijnt de deadline twee plaatsen in e-mail-recht boven de sectie van de proefdrukdetails en in de grijze bar voor het werkschemastadium u deel van uitmaakt.
 
-Als u klaar bent om de revisie te starten, hoeft u alleen maar op blauw te klikken [!UICONTROL Go to proof] en het bestand wordt automatisch geopend in het dialoogvenster [!DNL Workfront] viewer controleren.
+Als u klaar bent om de revisie te starten, hoeft u alleen maar op de blauwe knop [!UICONTROL Go to proof] te klikken en wordt het bestand automatisch geopend in de [!DNL Workfront] -proefdrukviewer.
 
 ### Een proefdruk openen vanuit [!UICONTROL Home]
 
-Als je werkt in [!DNL Workfront] en u bent gevraagd een bewijs goed te keuren, zult u een taak in vinden [!UICONTROL Work List] van [!DNL Workfront] [!UICONTROL Home]. Het is handig om alleen [!UICONTROL Approvals] van de [!UICONTROL Filter], dus u kunt zich op dat type werk concentreren.
+Als u in [!DNL Workfront] werkt en u bent gevraagd een proefdruk goed te keuren, vindt u een toewijzing in de map [!UICONTROL Work List] of [!DNL Workfront] [!UICONTROL Home] . Het is handig om alleen [!UICONTROL Approvals] te selecteren in de [!UICONTROL Filter] , zodat u zich kunt concentreren op dat type werk.
 
-![Een afbeelding van [!DNL Workfront] [!UICONTROL Home] met de [!UICONTROL Approvals] geactiveerd en er is een proefdruk geselecteerd in de lijst.](assets/open-proof-from-home.png)
+![ een beeld van [!DNL Workfront] [!UICONTROL Home] met het [!UICONTROL Approvals] geactiveerde filter en een proef die van de lijst wordt geselecteerd.](assets/open-proof-from-home.png)
 
-Het is belangrijk om op te merken dat de proefdrukken binnen verschijnen [!DNL Workfront] [!UICONTROL Home] alleen als u deze wilt goedkeuren. Als u alleen de proefdruk wilt controleren, verschijnt deze niet in [!DNL Workfront] [!UICONTROL Home] wanneer u [!UICONTROL Approvals]in de filterlijst.
+Het is belangrijk om op te merken dat de proefdrukken in [!DNL Workfront] [!UICONTROL Home] slechts verschijnen als u wordt toegewezen om het goed te keuren. Als u alleen de proefdruk wilt controleren, wordt deze niet weergegeven in [!DNL Workfront] [!UICONTROL Home] wanneer u [!UICONTROL Approvals] selecteert in de filterlijst.
 
-Selecteer de proefdrukgoedkeuring in de [!UICONTROL Work List]en klik vervolgens op de knop [!UICONTROL Go to Proof] koppeling gebruiken om het bestand te openen in de proefdrukviewer.
+Selecteer de proefdrukgoedkeuring in [!UICONTROL Work List] en klik vervolgens op de koppeling [!UICONTROL Go to Proof] om deze te openen in de proefdrukviewer.
 
-Afhankelijk van de proefdruk- en projectworkflows van uw organisatie ziet u mogelijk een taaktoewijzing in [!DNL Workfront] [!UICONTROL Home] in plaats van een verzoek om goedkeuring als bewijs. In dit geval opent u de proefdruk via het dialoogvenster [!UICONTROL Documents] van de taak zelf (zie hieronder voor instructies).
+Afhankelijk van de proefdruk- en projectworkflows van uw organisatie wordt mogelijk een taak toegewezen in [!DNL Workfront] [!UICONTROL Home] in plaats van een aanvraag voor proefdrukgoedkeuring. In dit geval opent u de proefdruk vanuit de sectie [!UICONTROL Documents] van de taak zelf (zie hieronder voor instructies).
 
-U kunt ook proefdrukken vinden om te beoordelen op een [!DNL Workfront] dashboard dat specifiek voor uw team of organisatie werd gecreeerd helpen proefdrukwerkschema&#39;s beheren.
+U kunt ook proefdrukken vinden om op een [!DNL Workfront] dashboard te herzien dat specifiek voor uw team of organisatie werd gecreeerd helpen proefdrukwerkschema&#39;s beheren.
 
 ### Een proefdruk openen vanuit een project, taak of uitgave
 
-Als u normaal met projecten, taken of kwesties in werkt [!DNL Workfront], kunt u de proefdruk liever rechtstreeks openen vanuit de [!DNL Documents] van dat item.
+Als u normaal met projecten, taken of problemen werkt in [!DNL Workfront] , opent u de proefdruk liever rechtstreeks vanuit de sectie [!DNL Documents] van dat item.
 
-![Een afbeelding van de [!UICONTROL Documents] sectie gevonden in een [!DNL  Workfront] met de [!UICONTROL Open Proof]koppeling gemarkeerd.](assets/open-proof-from-documents.png)
+![ een beeld van de [!UICONTROL Documents] sectie die in een [!DNL  Workfront] taak wordt gevonden met de [!UICONTROL Open Proof] benadrukte verbinding.](assets/open-proof-from-documents.png)
 
 1. Klik op de naam van het project, de taak of de uitgave.
-2. Klikken [!UICONTROL Documents] in het linkerdeelvenstermenu van de pagina van het item.
-3. De proefdruk zoeken in het dialoogvenster [!UICONTROL Documents] lijst.
-4. Klik op de knop [!UICONTROL Open Proof] koppeling gebruiken om de proefdrukviewer te openen.
+2. Klik op [!UICONTROL Documents] in het menu van het linkerdeelvenster van de pagina van het item.
+3. Zoek de proefdruk in de lijst [!UICONTROL Documents] .
+4. Klik op de koppeling [!UICONTROL Open Proof] om de proefdrukviewer te openen.
 
 ## Hoe een bewijs goed te keuren
 
-Nadat u een proef hebt geopend zult u een **Beslissing geven** knop bovenaan, naast **Opmerking toevoegen**. Als u geen fiatteur bent voor deze proef zult u deze knoop niet zien.
+Nadat u een bewijs hebt geopend zult u a **besluit van het Merk** knoop bij de bovenkant zien, naast **toevoegen commentaar**. Als u geen fiatteur bent voor deze proef zult u deze knoop niet zien.
 
-![Een afbeelding van de eerste knop Beslissen maken.](assets/make-decision-1.png)
+![ een beeld van de eerste de besluitvormingsknoop van het Merk.](assets/make-decision-1.png)
 
-Als u klaar bent om een beslissing te nemen, klikt u op de knop **Beslissing geven** om uw beslissingsopties te bekijken. Selecteer uw keuze en klik op de andere **Beslissing geven** hieronder.
+Wanneer u bereid bent om een besluit te nemen klik de **besluit** knoop van het Merk om uw besluitvormingsopties te zien. Selecteer uw keus, dan klik de andere **besluit** hieronder knoop van het Merk.
 
-![Een afbeelding van de tweede knop Beslissen maken.](assets/make-decision-2.png)
+![ een beeld van de tweede de besluitvormingsknoop van het Merk.](assets/make-decision-2.png)
 
 ## Een bewijs controleren en goedkeuren
 

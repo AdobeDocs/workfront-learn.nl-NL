@@ -1,6 +1,6 @@
 ---
 title: Inzicht in teamcapaciteit
-description: Leer hoe de capaciteitstabel van het Team in [!UICONTROL Enhanced Analytics] toont wanneer een huisteam over-toegewezen of onderverdeeld was.
+description: Leer hoe het de capaciteitskaart van het Team in [!UICONTROL Enhanced Analytics] toont wanneer een huisteam over-toegewezen of onderverdeeld was.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -29,7 +29,7 @@ Aan de hand van deze informatie kunt u bepalen:
 * Hoe consistent de werklast van een thuisteam is van dag tot dag.
 * Als u capaciteitsproblemen maakt met nieuw werk.
 
-![Een afbeelding die een tabel met de teamcapaciteit weergeeft met nummers op de gebieden die worden beschreven in de onderstaande opsommingstekens](assets/section-3-4.png)
+![ een beeld dat een grafiek van de teamcapaciteit met aantallen op gebieden toont die in hieronder kogels worden beschreven ](assets/section-3-4.png)
 
 Op het diagram kunt u zien:
 
@@ -40,15 +40,15 @@ Op het diagram kunt u zien:
 
 ## Hoe te aan de grafiek te navigeren
 
-1. Klik op de knop [!UICONTROL People] in het linkerdeelvenster.
-1. Gebruik de [!UICONTROL Filter] om een of meer Home-teams te kiezen die moeten worden onderzocht.
+1. Klik op de tab [!UICONTROL People] in het linkerdeelvenster.
+1. Gebruik [!UICONTROL Filter] om een of meer Home-teams te kiezen die u wilt onderzoeken.
 1. U zult de grafiek van de teamcapaciteit zien verschijnen.
 
 ## Hoe te om de grafiek te gebruiken
 
 Als u gegevens wilt weergeven in de diagrammen in het gedeelte Personen van het gedeelte Analyse, moet u filters toevoegen en een datumbereik selecteren. Als u al eerder filters hebt toegevoegd, zijn deze actief totdat u ze verwijdert.
 
-![Een afbeelding met een tabel met teamcapaciteit](assets/section-3-5.png)
+![ een beeld dat een grafiek van de teamcapaciteit toont ](assets/section-3-5.png)
 
 Op de de capaciteitsgrafiek van het Team, kunt u:
 

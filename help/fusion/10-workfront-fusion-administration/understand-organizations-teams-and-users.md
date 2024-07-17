@@ -1,6 +1,6 @@
 ---
 title: Organisaties, teams en gebruikers begrijpen
-description: Leer hoe u organisaties, teams en gebruikers in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om te gebruiken, tot stand te brengen, en tussen organisaties, teams, en gebruikers in  [!DNL Adobe Workfront Fusion] te navigeren.
 activity: use
 team: Technical Marketing
 type: Tutorial

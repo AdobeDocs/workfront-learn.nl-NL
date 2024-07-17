@@ -1,6 +1,6 @@
 ---
 title: Richtlijnen voor foutafhandeling begrijpen
-description: Meer informatie over de aanwijzingen van de fouthandler waarmee uitvoering kan worden voortgezet en over de instructies die de uitvoering stoppen, kunt u in [!DNL Adobe Workfront Fusion].
+description: Leer over de richtlijnen van de foutenmanager die uitvoering toestaan om verder te gaan en die die de uitvoering, in  [!DNL Adobe Workfront Fusion] tegenhouden.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -35,7 +35,7 @@ In deze video leert u:
 * De volgende modules worden verwerkt.
 * De status van de uitvoering van het scenario is gemarkeerd als &quot;succes.&quot;
 
-![Een afbeelding van een instructie Hervatten](assets/troubleshooting-and-error-handling-2.png)
+![ een beeld van een richtlijn van het Hervatten ](assets/troubleshooting-and-error-handling-2.png)
 
 ### Break
 
@@ -44,7 +44,7 @@ In deze video leert u:
 * Als er onverwerkte bundels zijn, gaat de uitvoering van het scenario normaal voort.
 * De status van de uitvoering van het scenario wordt gemarkeerd als &quot;waarschuwing.&quot;
 
-![Afbeelding van een instructie Break](assets/troubleshooting-and-error-handling-3.png)
+![ een beeld van een richtlijn van de Onderbreking ](assets/troubleshooting-and-error-handling-3.png)
 
 ### Negeren
 
@@ -52,7 +52,7 @@ In deze video leert u:
 * Als er onverwerkte bundels zijn, gaat de uitvoering van het scenario normaal voort.
 * De status van de uitvoering van het scenario is gemarkeerd als &quot;succes.&quot;
 
-![Een afbeelding van een instructie Negeren](assets/troubleshooting-and-error-handling-4.png)
+![ een beeld van een Negeren richtlijn ](assets/troubleshooting-and-error-handling-4.png)
 
 ## Richtlijnen — Scenario-stops
 
@@ -67,7 +67,7 @@ In deze video leert u:
 >
 >Dit is het standaardgedrag als geen route van de foutenmanager aan de module in bijlage is en &quot;het Opslaan van Onvolledige Uitvoeringen&quot;het plaatsen onder de montages van het Scenario niet wordt gecontroleerd.
 
-![Een afbeelding van een instructie Terugdraaien](assets/troubleshooting-and-error-handling-5.png)
+![ een beeld van een richtlijn van het Terugschroeven van prijzen ](assets/troubleshooting-and-error-handling-5.png)
 
 ### Vastleggen
 
@@ -75,4 +75,4 @@ In deze video leert u:
 * Als er onverwerkte bundels zijn, gaat de uitvoering van het scenario normaal voort.
 * De status van de uitvoering van het scenario is gemarkeerd als &quot;succes.&quot;
 
-![Afbeelding van een instructie Vastleggen](assets/troubleshooting-and-error-handling-6.png)
+![ een beeld van een Commit richtlijn ](assets/troubleshooting-and-error-handling-6.png)

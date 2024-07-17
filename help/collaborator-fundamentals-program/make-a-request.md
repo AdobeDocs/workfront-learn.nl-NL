@@ -1,6 +1,6 @@
 ---
 title: Een aanvraag indienen
-description: Leer hoe u de [!UICONTROL Requests] en een aanvraag indienen. Leer vervolgens hoe u verzonden verzoeken en ontwerpverzoeken kunt bekijken.
+description: Leer hoe u het [!UICONTROL Requests] -gebied kunt vinden en een aanvraag kunt indienen. Leer vervolgens hoe u verzonden verzoeken en ontwerpverzoeken kunt bekijken.
 activity: use
 type: Tutorial
 team: Technical Marketing
@@ -26,15 +26,15 @@ In deze video leert u hoe u:
 
 ## Snelle en eenvoudige toegang tot wachtrijpaden voor aanvragen
 
-Wanneer u in het dialoogvenster [!UICONTROL Request Type] veld, de laatste drie aanvraagpaden die u onlangs hebt verzonden om automatisch boven aan de lijst weer te geven. Selecteer een optie om een andere aanvraag in te dienen bij dezelfde wachtrij.
+Wanneer u in het veld [!UICONTROL Request Type] klikt, worden de laatste drie aanvraagpaden die u onlangs hebt verzonden automatisch boven aan de lijst weergegeven. Selecteer een optie om een andere aanvraag in te dienen bij dezelfde wachtrij.
 
-![Het menu Type aanvraag bevat een lijst met recente aanvraagpaden](assets/collaborator-fundamentals-1.png)
+![ het menu dat van het Type van verzoek toont lijst van recente verzoekwegen ](assets/collaborator-fundamentals-1.png)
 
 Onder aan de lijst staan alle wachtrijen voor aanvragen die u kunt openen. Als u niet zeker bent welke rij voor uw verzoek te gebruiken, gebruik het sleutelwoordonderzoek om snel en gemakkelijk te vinden u wenst.
 
-Terwijl u in trefwoorden typt, [!DNL Workfront] brengt gelijken omhoog zodat kunt u de weg van de verzoekrij vinden die uw behoeften aanpast. Als u bijvoorbeeld een aanvraag wilt indienen voor een bericht op een sociale media, typt u &quot;sociale media&quot; in het dialoogvenster [!UICONTROL Request Type] en de lijst worden dynamisch bijgewerkt om overeenkomsten weer te geven.
+Terwijl u trefwoorden typt, voegt [!DNL Workfront] overeenkomsten toe, zodat u het pad naar de wachtrij met aanvragen kunt vinden dat aan uw behoeften voldoet. Als u bijvoorbeeld een aanvraag voor een sociaal-mediabericht wilt indienen, typt u &quot;sociale media&quot; in het veld [!UICONTROL Request Type] en werkt de lijst dynamisch bij om eventuele overeenkomsten weer te geven.
 
-![Het menu Type aanvragen met een woord dat in het veld is getypt om recente aanvraagpaden weer te geven](assets/collaborator-fundamentals-2.png)
+![ het menu van het Type van verzoek met een woord dat op het gebied wordt getypt om recente verzoekwegen ](assets/collaborator-fundamentals-2.png) te tonen
 
 Selecteer de gewenste optie, vul het aanvraagformulier in en verzend de aanvraag.
 

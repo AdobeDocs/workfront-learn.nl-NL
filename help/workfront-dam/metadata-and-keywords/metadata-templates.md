@@ -1,6 +1,6 @@
 ---
 title: Een sjabloon voor metagegevens instellen
-description: Leer hoe u tijd kunt besparen met sjablonen voor metagegevens, een sjabloon voor metagegevens kunt instellen en een sjabloon kunt toepassen op een map in [!UICONTROL Workfront DAM].
+description: Leer hoe u tijd bespaart met sjablonen voor metagegevens, een sjabloon voor metagegevens instelt en een sjabloon toepast op een map in [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

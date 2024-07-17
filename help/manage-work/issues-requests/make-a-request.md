@@ -1,6 +1,6 @@
 ---
 title: Een aanvraag indienen
-description: Leer hoe u de [!UICONTROL Requests] en een aanvraag indienen. Leer vervolgens hoe u verzonden verzoeken en ontwerpverzoeken kunt bekijken.
+description: Leer hoe u het [!UICONTROL Requests] -gebied kunt vinden en een aanvraag kunt indienen. Leer vervolgens hoe u verzonden verzoeken en ontwerpverzoeken kunt bekijken.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial

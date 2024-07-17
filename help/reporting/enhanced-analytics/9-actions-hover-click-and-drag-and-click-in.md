@@ -1,6 +1,6 @@
 ---
 title: 'Handelingen begrijpen: houd de cursor boven, klik en sleep en klik in'
-description: Leer hoe u meer informatie krijgt door de muisaanwijzer boven een diagram te plaatsen, een tijdframe op een diagram te maken en extra grafieken weer te geven, allemaal in [!UICONTROL Enhanced Analytics].
+description: Leer hoe u meer informatie kunt krijgen door de muisaanwijzer boven een diagram te houden, een tijdframe op een diagram te maken en extra grafieken te maken, allemaal in [!UICONTROL Enhanced Analytics] .
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -33,23 +33,23 @@ In deze video leert u:
 
 Wanneer u in bepaalde delen van een diagram klikt, worden extra grafieken of een uitsplitsing van de informatie in het diagram weergegeven.
 
-* **Vliegplan**—Klik op de projectnaam om de Burndown en Taken in vluchtgrafieken te zien.
-* **Projectactiviteit**—Klik op de projectnaam om de grafiek uit te breiden en de projectactiviteit door gebruiker te zien.
-* **Projectreemap**—Klik op een projectvak om de inlay-out en taken in vluchtgrafieken op te halen.
-* **Activiteit per team**—Klik de teamnaam om de grafiek uit te breiden zodat kunt u activiteit door gebruiker zien.
+* **plan van de Vlucht** - klik op de projectnaam om de Inbrand en Taken in vluchtgrafieken te zien.
+* **activiteit van het Project** - klik op de projectnaam om de grafiek uit te breiden en de projectactiviteit door gebruiker te zien.
+* **het treemap van het Project** - klik op een projectdoos om de Indruk en Taken in vluchtgrafieken op te trekken.
+* **Activiteit door team** - klik de teamnaam om de grafiek uit te breiden zodat kunt u activiteit door gebruiker zien.
 
 ## Wat betekent een donkerdere en lichtere schaduw als het gaat om teamactiviteiten?
 
-**Gebruikers die zich hebben aangemeld:** Paarse dozen laten zien dat mensen in het huisteam zich op die dag hebben aangemeld. Een donkerdere tint geeft een groter aantal personen aan die zich aanmelden.
+**de Gebruikers het programma opende:** paarse dozen tonen dat de mensen op het huisteam op die dag het programma opende. Een donkerdere tint geeft een groter aantal personen aan die zich aanmelden.
 
-![Een afbeelding van paarse schaduwen](assets/purple-shaded-boxes.png)
+![ een beeld van paarse gearceerde dozen ](assets/purple-shaded-boxes.png)
 
-**Wijziging taakstatus:** Roze dozen tonen dat de mensen op het huisteam de status van een taak op die dag veranderden. Een donkerdere schaduw geeft aan dat er een groter aantal taakstatussen wordt gewijzigd.
+**de statusverandering van de Taak:** Roze dozen tonen dat de mensen op het huisteam de status van een taak op die dag veranderden. Een donkerdere schaduw geeft aan dat er een groter aantal taakstatussen wordt gewijzigd.
 
-![Een afbeelding van roze gearceerde vakken](assets/pink-shaded-boxes.png)
+![ een beeld van roze gearceerde dozen ](assets/pink-shaded-boxes.png)
 
-**Voltooide taken:** Blauwe dozen laten zien dat mensen in het team van huis die dag een taak hebben voltooid. Een donkerdere schaduw geeft een hoger aantal taken aan die worden voltooid.
+**voltooide Taken:** Blauwe dozen tonen dat de mensen op het huisteam een taak op die dag voltooiden. Een donkerdere schaduw geeft een hoger aantal taken aan die worden voltooid.
 
-![Een afbeelding van blauw gearceerde vakken](assets/blue-shaded-boxes.png)
+![ een beeld van blauwe gearceerde dozen ](assets/blue-shaded-boxes.png)
 
-Zie voor meer informatie [Begrijp de Activiteit door teamvisualisatie](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en).
+Voor meer informatie zie [ de Activiteit door teamvisualisatie ](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en) begrijpen.

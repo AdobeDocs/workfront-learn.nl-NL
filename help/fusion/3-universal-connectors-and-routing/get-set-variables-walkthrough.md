@@ -1,6 +1,6 @@
 ---
 title: Analyse van variabelen instellen/ophalen
-description: Meer informatie over een project in Workfront en een e-mail met verwante informatie in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te omhoog informatie over een project in Workfront te zoeken en een e-mail met verwante informatie in  [!DNL Adobe Workfront Fusion] te verzenden.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Zoek informatie over een project in Workfront en verzend een e-mail met verwante informatie.
 
-![Een afbeelding van het Fusion-scenario](assets/universal-connectors-and-routing-8.png)
+![ een beeld van het scenario van de Fusie ](assets/universal-connectors-and-routing-8.png)
 
 ## Variabelen ophalen/instellen doorlopen
 
@@ -45,4 +45,4 @@ Maak een kloon van het &quot;het Delen variabelen tussen het verpletteren van we
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

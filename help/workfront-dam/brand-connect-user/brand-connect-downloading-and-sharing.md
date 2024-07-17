@@ -1,6 +1,6 @@
 ---
 title: Downloaden en delen als gebruiker begrijpen
-description: Leer hoe u lichtbakken en middelen downloadt en deelt in Brand Connect van [!UICONTROL Workfront DAM].
+description: Leer hoe u lichtbakken en middelen kunt downloaden en delen in Brand Connect van [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Lijn uw doelstellingen uit
-description: Leer hoe u door de [!UICONTROL Goal Alignment] pagina in [!DNL-doelen].
+description: Leer hoe u door de pagina [!UICONTROL Goal Alignment] in [!DNL   Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -12,7 +12,7 @@ exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## Richt doelstellingen tussen individuen, teams, en het bedrijf
 
-Nu u uw doelstellingen hebt gemaakt en geactiveerd in [!DNL Workfront Goals], laten we ervoor zorgen dat ze op elkaar zijn uitgelijnd. Doelgerichtheid is een belangrijk onderdeel van doelbeheer. Als u niet de het leren weg Workfront Doelen, Deel 1 hebt voltooid: Vestig een visie en een strategie, adviseren wij u dat eerst nemen alvorens verder te gaan.
+Nu u uw doelstellingen in [!DNL Workfront Goals] hebt gecreeerd en geactiveerd, zorg ervoor zij aan elkaar worden gericht. Doelgerichtheid is een belangrijk onderdeel van doelbeheer. Als u niet de het leren weg Workfront Doelen, Deel 1 hebt voltooid: Vestig een visie en een strategie, adviseren wij u dat eerst nemen alvorens verder te gaan.
 
 <!--Insert link to LP 1, above -->
 
@@ -39,7 +39,7 @@ Nadat de top-level doelstellingen worden gevestigd en herzien, is het aan indivi
 
 <!-- Pro-tips graphic -->
 
-Hieronder volgen enkele zaken die u in overweging moet nemen voordat u de doelstellingen op één lijn brengt [!DNL Workfront]:
+U moet rekening houden met enkele zaken voordat u de doelen uitlijnt in [!DNL Workfront] :
 
 * Houd het eenvoudig. Identificeer de belangrijkste prioriteiten voor het bedrijf momenteel en bepaal doelstellingen om dat te steunen.
 * Begin met 3-5 onderneming-vlakke doelstellingen, hoogstens.
@@ -50,6 +50,6 @@ Hieronder volgen enkele zaken die u in overweging moet nemen voordat u de doelst
 In deze video leert u hoe u:
 
 * Richt doelstellingen gebruikend zowel een bottom-up als een top-down benadering
-* Navigeren door de [!UICONTROL Goal Alignment] sectie
+* Navigeren door de sectie [!UICONTROL Goal Alignment]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)

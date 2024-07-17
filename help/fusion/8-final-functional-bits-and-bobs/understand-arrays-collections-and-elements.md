@@ -1,6 +1,6 @@
 ---
 title: Arrays, verzamelingen en elementen begrijpen
-description: Leer hoe gegevens kunnen worden georganiseerd in arrays, verzamelingen en elementen, en hoe u kunt werken met eenvoudige en complexe arrays, in [!DNL Adobe Workfront Fusion].
+description: Leer hoe de gegevens in series, inzamelingen, en elementen kunnen worden georganiseerd, en hoe te met eenvoudige en complexe series, in  [!DNL Adobe Workfront Fusion] werken.
 activity: use
 team: Technical Marketing
 type: Tutorial

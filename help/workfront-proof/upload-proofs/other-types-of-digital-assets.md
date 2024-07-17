@@ -1,6 +1,6 @@
 ---
 title: Een proefdruk van een video uploaden
-description: Leer hoe u een video kunt uploaden om deze te controleren [!DNL  Workfront].
+description: Leer hoe te om een video te uploaden voor het proef in  [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -12,34 +12,34 @@ jira: KT-10176
 exl-id: 09fb15ea-caf6-4793-ac16-cf24b52cc3f2
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
 # Een proefdruk van een video uploaden
 
-[!DNL Workfront’s] Proofingfuncties zijn niet alleen van toepassing op statische bestanden, zoals PDF, werkbladen of afbeeldingen. [!DNL Workfront] ondersteunt meer dan 150 bestandstypen, waaronder video- en webvastleggingen van maximaal 4 GB.
+[!DNL Workfront’s] -proefdrukfuncties zijn niet alleen van toepassing op statische bestanden, zoals PDF, werkbladen of afbeeldingen. [!DNL Workfront] ondersteunt meer dan 150 bestandstypen, waaronder video- en webvastleggingen van maximaal 4 GB.
 
 Houd er rekening mee dat het langer duurt om grotere bestanden te uploaden. Controleer of uw internetverbinding stabiel is voordat u begint met een grote upload, omdat een verstoring het uploadproces kan beëindigen.
 
 <!-- For a complete list of uploadable file types, see the article, Supported proofing file types. -->
 
-[!DNL Workfront’s] de proefkijker is de ideale plaats om videodossiers te herzien en goed te keuren. Ontvangers met een proefafdruk kunnen de video rechtstreeks afspelen in de proefdrukviewer. Opmerkingen hebben een tijdstempel, zodat u precies weet naar welk deel van de video de opmerking verwijst. Ontvangers van proefdrukken kunnen zelfs de opmaakgereedschappen gebruiken en rechtstreeks op de gepauzeerde video tekenen.
+[!DNL Workfront’s] -proefviewer is de ideale plaats om videobestanden te bekijken en goed te keuren. Ontvangers met een proefafdruk kunnen de video rechtstreeks afspelen in de proefdrukviewer. Opmerkingen hebben een tijdstempel, zodat u precies weet naar welk deel van de video de opmerking verwijst. Ontvangers van proefdrukken kunnen zelfs de opmaakgereedschappen gebruiken en rechtstreeks op de gepauzeerde video tekenen.
 
 Tot de ondersteunde videotypen behoren MOV, MP4 en H.264. <!-- Check the supported file types list to make sure the video type you use is compatible with Workfront’s proofing features.-->
 
-![Een afbeelding van opmaakcodes in een videoproefbestand.](assets/upload-a-proof-of-a-video.png)
+![ een beeld van prijsverhoging op een videoproefdruk dossier.](assets/upload-a-proof-of-a-video.png)
 
-Een video uploaden in [!DNL Workfront] volgt dezelfde stappen als bij het uploaden van een statisch bestand.
+Bij het uploaden van een video in [!DNL Workfront] worden dezelfde stappen uitgevoerd als bij het uploaden van een statisch bestand.
 
 * Open het project, de taak, of geef de video uit zou moeten worden geupload aan.
-* Selecteren [!UICONTROL **Documenten**] in het menu van het linkerdeelvenster.
-* Van de [!UICONTROL **Nieuwe toevoegen**] knop, selecteert u [!UICONTROL **Proef**].
+* Selecteer [!UICONTROL **Documenten**] van het linkerpaneelmenu.
+* Van [!UICONTROL **voeg Nieuwe**] knoop toe, uitgezochte [!UICONTROL **Bewijs**].
 * Sleep het videobestand naar het uploadgebied of gebruik de bladerfunctie.
 * Wijs een standaard- of geautomatiseerde workflow toe.
 * Stel een deadline in.
-* Klikken [!UICONTROL **Proef maken**] om af te ronden.
+* Klik [!UICONTROL **creëren Bewijs**] om te beëindigen.
 
 ## Uw beurt
 

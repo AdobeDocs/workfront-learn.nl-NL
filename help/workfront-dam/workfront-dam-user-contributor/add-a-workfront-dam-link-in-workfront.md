@@ -1,6 +1,6 @@
 ---
-title: Voeg een [!UICONTROL Workfront DAM] link
-description: Leer hoe u een [!UICONTROL Workfront DAM] koppelen in Workfront zodat u een koppeling kunt maken [!UICONTROL DAM] naar uw project, taak of probleem in Workfront.
+title: Een koppeling [!UICONTROL Workfront DAM] toevoegen
+description: Leer hoe u een [!UICONTROL Workfront DAM] -koppeling in Workfront toevoegt, zodat u [!UICONTROL DAM] kunt koppelen aan uw project, taak of uitgave in Workfront.
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -16,29 +16,29 @@ ht-degree: 0%
 
 ---
 
-# Voeg een [!UICONTROL Workfront DAM] link
+# Een koppeling [!UICONTROL Workfront DAM] toevoegen
 
 Start door de verbinding tussen de twee systemen in te stellen.
 
-1. Aanmelden bij [!DNL Workfront].
-1. Een project, taak of uitgave openen en op de knop **[!UICONTROL Documents]** tab.
-1. Klik op de knop **[!UICONTROL Add New]** en selecteert u **[!UICONTROL From Workfront DAM]** in het keuzemenu.
-1. Voer uw aanmeldingsnaam en wachtwoord in het dialoogvenster [!UICONTROL Workfront DAM] machtigingsvak dat wordt weergegeven.
-1. Klik op Volgende **[!UICONTROL Yes]** geven [!DNL Workfront] toegang tot de [!UICONTROL DAM] account.
-1. Vernieuw indien nodig de pagina om de toegang tot [!UICONTROL Workfront DAM].
+1. Meld u aan bij [!DNL Workfront] .
+1. Open een project, taak of uitgave en klik op het tabblad **[!UICONTROL Documents]** .
+1. Klik op de knop **[!UICONTROL Add New]** en selecteer **[!UICONTROL From Workfront DAM]** in de vervolgkeuzelijst.
+1. Voer in het machtigingsvak [!UICONTROL Workfront DAM] dat wordt weergegeven uw aanmeldingsnaam en wachtwoord in.
+1. Klik vervolgens op **[!UICONTROL Yes]** om [!DNL Workfront] toegang te geven tot de [!UICONTROL DAM] -account.
+1. Vernieuw indien nodig de pagina om de toegang tot [!UICONTROL Workfront DAM] bij te werken.
 
-Nu kunt u een koppeling naar de [!UICONTROL Workfront DAM] item in [!DNL Workfront].
+Nu kunt u een koppeling naar het item [!UICONTROL Workfront DAM] in [!DNL Workfront] plaatsen.
 
-1. Aanmelden bij [!DNL Workfront].
-1. Een project, taak of uitgave openen en op de knop **[!UICONTROL Documents]** tab.
-1. Klik op de knop **[!UICONTROL Add New]** en selecteert u **[!UICONTROL From Workfront DAM]** in het keuzemenu.
-   ![Een afbeelding van de [!UICONTROL From Workfront DAM] in de [!UICONTROL Add New] vervolgkeuzemenu](assets/01-contributor-from-workfront-dam.png)
-1. Een lijst met bestanden en mappen waartoe u toegang hebt in [!UICONTROL Workfront DAM] in het venster.
+1. Meld u aan bij [!DNL Workfront] .
+1. Open een project, taak of uitgave en klik op het tabblad **[!UICONTROL Documents]** .
+1. Klik op de knop **[!UICONTROL Add New]** en selecteer **[!UICONTROL From Workfront DAM]** in de vervolgkeuzelijst.
+   ![ een beeld van de [!UICONTROL From Workfront DAM] optie in het [!UICONTROL Add New] drop-down menu ](assets/01-contributor-from-workfront-dam.png)
+1. In het venster wordt een lijst weergegeven met bestanden en mappen die u in [!UICONTROL Workfront DAM] kunt openen.
 
 1. Zoek het element dat u zoekt en schakel het selectievakje naast het element in. De standaardweergave is een lijst, maar u kunt overschakelen naar een miniatuurweergave met de pictogrammen in de rechterbovenhoek van het venster.
 
-   ![Een afbeelding van geselecteerde elementen in een pop-upvenster](assets/02-contributor-select-files-in-dam.png)
+   ![ een beeld van geselecteerde activa in een pop-up venster ](assets/02-contributor-select-files-in-dam.png)
 
-1. Klik op de knop **[!UICONTROL Link]** knop. Een koppeling naar de [!UICONTROL Workfront DAM] wordt weergegeven in de documentenlijst. Een pictogram geeft deze koppeling aan.
+1. Klik op **[!UICONTROL Link]** . Er wordt een koppeling naar het [!UICONTROL Workfront DAM] -bestand weergegeven in de documentenlijst. Een pictogram geeft deze koppeling aan.
 
-   ![Een afbeelding van de koppelingen naar de [!UICONTROL Workfront DAM] bestanden die worden weergegeven in de documentenlijst van [!DNL Workfront].](assets/03-contributor-linked-in-wf.png)
+   ![ een beeld van de verbindingen aan de [!UICONTROL Workfront DAM] dossiers verschijnen in de documentenlijst van [!DNL Workfront].](assets/03-contributor-linked-in-wf.png)

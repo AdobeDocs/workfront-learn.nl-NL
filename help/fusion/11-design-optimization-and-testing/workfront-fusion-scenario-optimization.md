@@ -1,6 +1,6 @@
 ---
 title: Workfront Fusion-scenario optimaliseren
-description: Leer hoe u minder bewerkingen uitvoert, minder API-aanroepen verzendt en minder modules gebruikt, allemaal in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om minder verrichtingen uit te voeren, minder API vraag te verzenden, en minder modules, allen in  [!DNL Adobe Workfront Fusion] te gebruiken.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -36,4 +36,4 @@ In deze video leert u hoe u:
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

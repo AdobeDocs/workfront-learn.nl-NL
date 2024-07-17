@@ -1,6 +1,6 @@
 ---
 title: Metagegevens begrijpen
-description: Meer informatie over wat er in de [!UICONTROL Workfront DAM] Beheerder, Deel 2 Metagegevens en Trefwoordencursus.
+description: Leer meer over de functies die worden behandeld in de cursus [!UICONTROL Workfront DAM] Beheerder, Deel 2 Metagegevens en Trefwoorden.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -12,7 +12,7 @@ exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,10 @@ Metagegevens zijn alle gegevens die worden gebruikt om een element te beschrijve
 
 Trefwoorden zijn een subset van metagegevens. Trefwoorden zijn doorgaans algemene, beschrijvende termen met betrekking tot de inhoud van het element. Deze informatie wordt toegevoegd aan het element, vaak handmatig na het uploaden.
 
-Door consistente metagegevens en trefwoorden te gebruiken, wordt de zoekbaarheid van uw elementen in [!UICONTROL Workfront DAM].
+Door consistente metagegevens en trefwoorden te gebruiken, wordt de zoekbaarheid van uw elementen in [!UICONTROL Workfront DAM] vergroot.
 
 In deze video zult u:
 
-* Ontvang een inleiding op de [!UICONTROL Workfront DAM] cursus
+* Introductie van de cursus [!UICONTROL Workfront DAM] ophalen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335233/?quality=12&learn=on)

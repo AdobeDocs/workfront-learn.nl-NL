@@ -1,6 +1,6 @@
 ---
 title: Doorloop van gereedschap Dev
-description: Leer hoe u de verschillende onderdelen in het dialoogvenster [!DNL Adobe Workfront Fusion Dev Tool] om een diepere duik in geavanceerde scenario ontwerptrucs te nemen.
+description: Leer hoe te om de verschillende gebieden in  [!DNL Adobe Workfront Fusion Dev Tool]  te installeren en te gebruiken om een diepere duik in de geavanceerde trucs van het scenarioontwerp te nemen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Installeer en gebruik de verschillende gebieden in Workfront Dev Tool om een diepere duik in gemaakte verzoeken/reacties en geavanceerde de ontwerptrucs van het scenario te nemen.
 
-![Een afbeelding van een Fusion-scenario en het gereedschap Ontwikkelen](assets/troubleshooting-and-error-handling-1.png)
+![ een beeld van een scenario van de Fusie en het dev hulpmiddel ](assets/troubleshooting-and-error-handling-1.png)
 
 ## Doorloop van gereedschap Dev
 
@@ -39,4 +39,4 @@ Het hulpprogramma Dev beschikt over een aantal geavanceerde functies waarmee u b
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

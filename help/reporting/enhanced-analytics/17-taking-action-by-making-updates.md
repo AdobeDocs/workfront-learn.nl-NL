@@ -1,6 +1,6 @@
 ---
 title: Actie nemen door updates uit te voeren
-description: Leer hoe u updates kunt maken vanuit de takenlijst in het vluchtdiagram [!UICONTROL Enhanced Analytics].
+description: Leer hoe u updates kunt maken vanuit de takenlijst in het vliegdiagram in [!UICONTROL Enhanced Analytics] .
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png

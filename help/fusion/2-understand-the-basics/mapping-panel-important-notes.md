@@ -1,6 +1,6 @@
 ---
 title: Belangrijke notities in het deelvenster Toewijzing
-description: Leer het belang van het gebruik van de operatoren in het deelvenster Toewijzing in [!DNL Adobe Workfront Fusion].
+description: Leer het belang van het gebruiken van de exploitanten die in het mappingpaneel in  [!DNL Adobe Workfront Fusion] worden verstrekt.
 activity: use
 team: Technical Marketing
 type: Tutorial

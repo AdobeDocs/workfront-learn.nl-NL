@@ -1,6 +1,6 @@
 ---
 title: Logboek- en controleuren
-description: Nog openstaande uren opnemen en de geregistreerde uren controleren voordat een project wordt afgesloten [!DNL  Workfront].
+description: Neem openstaande uren op en herzie geregistreerde uren alvorens een project in  [!DNL  Workfront] te sluiten.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Logboek- en controleuren
 
-Als het registreren van werkelijk gewerkte uren deel van het werkschema van uw organisatie uitmaakt, kunt u die uren op het [!UICONTROL Hours] (selecteer het van het linkerpaneelmenu) op het project. Dit toont alle uren het programma geopend individuele taken en het project zelf. U kunt ook uren loggen vanaf deze pagina.
+Als het registreren van werkelijk gewerkte uren deel van het werkschema van uw organisatie uitmaakt, kunt u die uren op de [!UICONTROL Hours] sectie (selecteer het van het linkerpaneelmenu) op het project herzien. Dit toont alle uren het programma geopend individuele taken en het project zelf. U kunt ook uren loggen vanaf deze pagina.
 
-![Urenpagina met aanduiding van uren](assets/planner-fund-log-and-review-hours.png)
+![ pagina van Uren die uuringangen ](assets/planner-fund-log-and-review-hours.png) tonen
 
 >[!NOTE]
 >
->Uw organisatie kan u vragen uren door goed te keuren [!DNL Workfront] tijdbladen. Controleren met uw interne [!DNL Workfront] team om te zien welk proces u zou moeten gebruiken.
+>Uw organisatie kan u vragen om uren door [!DNL Workfront] timesheets goed te keuren. Vraag uw interne [!DNL Workfront] -team na welk proces u moet gebruiken.
 
 <!---
 learn more url

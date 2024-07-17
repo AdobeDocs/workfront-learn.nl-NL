@@ -12,31 +12,31 @@ jira: KT-10040
 exl-id: 9de6fd40-10fb-47a6-b186-3a38c411f1ac
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
 # Begrijp het logboek van de systeemcontrole
 
-Het logboek van de systeemcontrole is de beste manier van de systeembeheerder om een oog op te houden wat binnen gebeurt [!DNL Workfront]. Beschouw het logboek als de bron van de waarheid voor wie wat heeft veranderd en wanneer.
+Het systeemcontrolelogboek is de beste manier van de systeembeheerder om de ontwikkelingen in [!DNL Workfront] in de gaten te houden. Beschouw het logboek als de bron van de waarheid voor wie wat heeft veranderd en wanneer.
 
-Open het auditlogboek door naar de [!UICONTROL Preferences] in de [!UICONTROL Setup] gebied. Standaard worden gegevens van de laatste zeven dagen weergegeven. Wijzig de filtercriteria om gegevens van verschillende datumbereiken weer te geven.
+Open het auditlogboek door naar de sectie [!UICONTROL Preferences] in het [!UICONTROL Setup] -gebied te gaan. Standaard worden gegevens van de laatste zeven dagen weergegeven. Wijzig de filtercriteria om gegevens van verschillende datumbereiken weer te geven.
 
-Wanneer een gebruiker bepaalde handelingen uitvoert, [!UICONTROL Workfront] registreert hen in [!UICONTROL Audit Logs] van de [!UICONTROL Setup] gebied.
+Wanneer een gebruiker bepaalde handelingen uitvoert, worden deze door [!UICONTROL Workfront] vastgelegd in de [!UICONTROL Audit Logs] -sectie van het [!UICONTROL Setup] -gebied.
 
-![[!UICONTROL Log Type] vervolgkeuzemenu op het tabblad [!UICONTROL Audit Logs] pagina in [!UICONTROL Setup]](assets/admin-fund-audit-log-1.png)
+![[!UICONTROL Log Type] vervolgkeuzelijst op de [!UICONTROL Audit Logs] pagina in [!UICONTROL Setup]](assets/admin-fund-audit-log-1.png)
 
 Elke geregistreerde of geregistreerde actie toont:
 
-* De datum en het tijdstip van de wijziging
+* Datum en tijdstip van de wijziging
 * Het logtype
 * De naam van de gebruiker die de handeling heeft voltooid
 * Het object
 * Alle details die aan de actie zijn gekoppeld
 * Het IP-adres
 
-![[!UICONTROL Audit Log] list](assets/admin-fund-audit-log-2.JPG)
+![[!UICONTROL Audit Log] list ](assets/admin-fund-audit-log-2.JPG)
 
 ## Het controlelogboek exporteren
 
@@ -44,7 +44,7 @@ Door de gegevens van het auditlogboek te exporteren, kunnen systeembeheerders de
 
 Auditlogboeken kunnen worden geëxporteerd in een CSV-bestand (een bestand met komma&#39;s als scheidingsteken) dat kan worden geopend in een spreadsheettoepassing of normale teksteditor. Het exporteren is beperkt tot 50.000 rijen tegelijk. Gebruik de filters om de lijst te verkleinen als het totaal groter is dan 50.000.
 
-![[!UICONTROL Export] aan [!UICONTROL Audit Logs] page](assets/admin-fund-audit-log-3.png)
+![[!UICONTROL Export] op [!UICONTROL Audit Logs] page ](assets/admin-fund-audit-log-3.png)
 
 <!---
 learn more URLs

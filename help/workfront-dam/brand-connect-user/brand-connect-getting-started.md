@@ -1,6 +1,6 @@
 ---
 title: Navigatie en zoeken als gebruiker begrijpen
-description: Meer informatie over wat het merk Connect in [!UICONTROL Workfront DAM] is en hoe te om het te navigeren.
+description: Meer informatie over wat het merk Connect in [!UICONTROL Workfront DAM] is en hoe u hierin kunt navigeren.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -31,7 +31,7 @@ In deze video leert u:
 
 In een standaardzoekopdracht wordt gekeken naar bestandsnamen, metagegevensvelden, trefwoorden en inhoud van elementen (afhankelijk van het type element). De map bevat geen mapnamen.
 
-De meeste zoekresultaten komen exact overeen. Een uitzondering op deze regel &quot;exacte overeenkomst&quot; is wanneer de [!UICONTROL Brand Connect] doorzoekt het filename gebied. [!UICONTROL Brand Connect] retourneert niet alle overeenkomende bestandsnamen, maar alleen de exacte overeenkomende bestandsnamen.
+De meeste zoekresultaten komen exact overeen. Een uitzondering op deze regel &quot;exact overeenkomend&quot; is wanneer de [!UICONTROL Brand Connect] in het veld filename zoekt. [!UICONTROL Brand Connect] retourneert niet alleen overeenkomende bestandsnamen, maar retourneert deze gedeeltelijk.
 
 ## Geavanceerd zoeken in [!UICONTROL Brand Connect]
 
@@ -59,7 +59,7 @@ Als u een woord wilt uitsluiten van de zoekresultaten, plaatst u een minteken (-
 
 ### operator voor leeg veld
 
-Als u elementen wilt zoeken die geen informatie bevatten in een specifiek metagegevensveld, voert u het veld dat u wilt zoeken in de volgende indeling in: ?[xxxxx]. Bijvoorbeeld, als u activa wilt vinden die geen toegewezen sleutelwoorden hebben, ga binnen?[trefwoord] in het zoekveld.
+Als u elementen wilt zoeken die geen informatie bevatten in een specifiek metagegevensveld, voert u het veld dat u wilt zoeken in de volgende indeling in: ?[ xxxxx ]. Bijvoorbeeld, als u activa wilt vinden die geen toegewezen sleutelwoorden hebben, ga binnen?[ sleutelwoord ] op het onderzoeksgebied.
 
 ## Handtekeningrichtlijnen
 
@@ -71,4 +71,4 @@ De richtlijnen van het merk zijn een reeks regels die verklaren hoe het merk van
 * Onderverdelingen van de primaire en secundaire kleuren van het bedrijf.
 * Voorbeelden van afbeeldingsstijlen en foto&#39;s die goed werken met het merk.
 
-Eenmaal aangemeld [!UICONTROL Brand Connect], opent u de richtlijnen door op Handelingrichtlijnen in de bovenste navigatiebalk te klikken.
+Als u zich hebt aangemeld bij [!UICONTROL Brand Connect] , opent u de hulplijnen door te klikken op Handelsrichtlijnen in de bovenste navigatiebalk.

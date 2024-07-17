@@ -1,6 +1,6 @@
 ---
 title: Lichtbakken als gebruiker begrijpen
-description: Leer hoe u een lichtbak maakt, gebruikt, beheert, deelt en samenwerkt in Brand Connect van [!UICONTROL Workfront DAM].
+description: Leer hoe u een lichtbak maakt, gebruikt, beheert, deelt en samenwerkt in Brand Connect van [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Wat is [!UICONTROL Brand Connect]?
-description: Ontvang een inleiding op [!UICONTROL Brand Connect].
+description: Ontvang een inleiding op [!UICONTROL Brand Connect] .
 activity: use
 feature: Digital Content and Documents,Get Started with Workfront
 type: Tutorial
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 # Wat is [!UICONTROL Brand Connect]?
 
-[!UICONTROL Brand Connect] is het deel van [!UICONTROL Workfront DAM] dat uw eindgebruikers toegang zullen krijgen om goedgekeurde bedrijfsmiddelen te zoeken en te downloaden. Deze gebruikers zijn vaak interne gebruikers die om activa hebben gevraagd of iets zoals een bedrijfslogo zoeken.
+[!UICONTROL Brand Connect] is het gedeelte van [!UICONTROL Workfront DAM] dat uw eindgebruikers kunnen gebruiken om goedgekeurde bedrijfsmiddelen te zoeken en downloaden. Deze gebruikers zijn vaak interne gebruikers die om activa hebben gevraagd of iets zoals een bedrijfslogo zoeken.
 
-[!UICONTROL Brand Connect] gebruikers krijgen toegewezen aan de [!UICONTROL Brand Portal] roltype en zijn lid van een [!UICONTROL Brand Portal] groep. Ze zien alleen de mappen en elementen waarnaar ze zijn gepubliceerd [!UICONTROL Brand Connect] en dat hun groep machtigingen heeft om toegang te krijgen. Meer informatie over het instellen van gebruikers in Workfront DAM Administrator: Systeeminstellingen.
+[!UICONTROL Brand Connect] -gebruikers krijgen het [!UICONTROL Brand Portal] roltype toegewezen en zijn lid van een [!UICONTROL Brand Portal] -groep. Ze zullen alleen de mappen en elementen zien die naar [!UICONTROL Brand Connect] worden gepubliceerd en die voor hun groep toegankelijk zijn. Meer informatie over het instellen van gebruikers in Workfront DAM Administrator: Systeeminstellingen.
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-De weergave van de [!UICONTROL Brand Portal] om gebruikers te helpen snel te vinden wat ze nodig hebben en om ervoor te zorgen dat de nieuwste middelen gemakkelijk beschikbaar zijn.
+Pas de weergave van de [!UICONTROL Brand Portal] -software van uw organisatie aan, zodat gebruikers snel kunnen terugvinden wat ze nodig hebben en de nieuwste middelen eenvoudig beschikbaar zijn.
 
 In deze video zult u:
 
-* Ontvang een inleiding op [!UICONTROL Brand Connect]
+* Introductie van [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 

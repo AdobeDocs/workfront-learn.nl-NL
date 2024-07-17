@@ -1,6 +1,6 @@
 ---
 title: Geavanceerde probleemoplossing met het hulpprogramma Dev
-description: Leer hoe u de [!DNL Adobe Workfront Fusion dev tool]en bekijk de verschillende geavanceerde hulpprogramma's voor het ontwerpen van scenario's.
+description: Leer hoe te om  [!DNL Adobe Workfront Fusion dev tool] te installeren en te gebruiken, en de verschillende geavanceerde hulpmiddelen van het scenario te herzien het omvat.
 activity: use
 team: Technical Marketing
 type: Tutorial

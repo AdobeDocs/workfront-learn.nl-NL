@@ -1,6 +1,6 @@
 ---
 title: Verbind manueel doelstellingen met elkaar
-description: Leer hoe u doelstellingen handmatig met elkaar kunt verbinden in [!DNL Workfront Goals].
+description: Leer hoe te om doelstellingen aan elkaar in  [!DNL Workfront Goals] manueel te verbinden.
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Verbind manueel doelstellingen met elkaar
 
-De eerste manier om doelen op te nemen in [!DNL Workfront Goals] is een bottom-to-top aanpak. Dit neemt een kinddoel en verbindt het met een ouderdoel. Dit is vooral nuttig voor individuele medewerkers die persoonlijke doelstellingen hebben die zij aan de doelstellingen van het team willen richten. Hierdoor kunnen individuele medewerkers zien hoe hun werk wordt uitgelijnd en past in het grotere werk in de organisatie. Het biedt ook zichtbaarheid aan de leiders om de voortgang van individuele werkzaamheden en het werk van een team in relatie tot de algemene bedrijfsstrategie te zien.
+De eerste manier om doelen in [!DNL Workfront Goals] uit te lijnen, is van beneden naar boven. Dit neemt een kinddoel en verbindt het met een ouderdoel. Dit is vooral nuttig voor individuele medewerkers die persoonlijke doelstellingen hebben die zij aan de doelstellingen van het team willen richten. Hierdoor kunnen individuele medewerkers zien hoe hun werk wordt uitgelijnd en past in het grotere werk in de organisatie. Het biedt ook zichtbaarheid aan de leiders om de voortgang van individuele werkzaamheden en het werk van een team in relatie tot de algemene bedrijfsstrategie te zien.
 
 Er gelden enkele tijdbeperkingen voor het uitlijnen van doelen:
 

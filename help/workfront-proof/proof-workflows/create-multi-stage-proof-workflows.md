@@ -1,6 +1,6 @@
 ---
 title: Aan de slag met geautomatiseerde workflows
-description: Meer informatie over de geautomatiseerde proefdrukworkflow [!DNL  Workfront] en hoe het anders is dan een basisworkflow.
+description: Leer wat een geautomatiseerde proefdrukwerkschema in  [!DNL  Workfront]  is en hoe het van een basiswerkschema verschillend is.
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Workflows voor proefdrukken kunnen eenvoudig zijn, met slechts een paar revisoren en één deadline. Of ze kunnen gecompliceerder zijn, met meerdere termijnen en mensen die het bewijs in een bepaalde volgorde bekijken.
 
-[!DNL Workfront] heeft twee soorten proefwerkschema-basis en geautomatiseerd, soms genoemd geavanceerd.
+[!DNL Workfront] heeft twee typen proefwerkstromen: standaard en geautomatiseerd, ook wel geavanceerd genoemd.
 
 Een geautomatiseerde workflow heeft meerdere fasen of stappen die in een bepaalde volgorde moeten worden voltooid. Elke fase heeft naast zijn eigen deadline ook eigen ontvangers (revisoren en fiatteurs).
 

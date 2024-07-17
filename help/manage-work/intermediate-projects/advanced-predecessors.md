@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Leren om taken uit te voeren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
+>* [ leer aan opeenvolgingstaken ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Of u bent al comfortabel met voorgangers in uw projecten
 
 
@@ -38,8 +38,8 @@ In deze video leert u meer over:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on)
 
-Voor meer informatie over het gebruik van predecessors raadpleegt u [Voorlopers voor taken gebruiken](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
+Voor meer informatie over het gebruiken van predecessors zie [ de taakpredecessors van het Gebruik ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
 
-Zie voor meer informatie over taakbeperkingen [Werken en beheren van de soorten duur en taakbeperkingen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Voor meer informatie over taakbeperkingen zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html) begrijpen en beheren.
 
-Zie voor meer informatie over voordecessors voor meerdere projecten [Voorgangers voor meerdere projecten begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).
+Voor meer informatie over dwars-project predecessors zien [ predecessors begrijpen dwars-project ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).

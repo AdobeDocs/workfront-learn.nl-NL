@@ -1,6 +1,6 @@
 ---
-title: Inleiding tot [!DNL Scenario Planner]
-description: Meer informatie over [!DNL Scenario Planner] kan u helpen bij het afstemmen van beslissingen op het resultaat voor uw bedrijf. Leren navigeren [!DNL Scenario Planner].
+title: Inleiding tot  [!DNL Scenario Planner]
+description: Leer hoe  [!DNL Scenario Planner]  kan helpen bij het richten van besluiten met resultaat voor uw zaken. Leer hoe te om  [!DNL Scenario Planner] te navigeren.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# Een moment met product: Inleiding tot [!DNL Scenario Planner]
+# Een moment met product: Introductie tot [!DNL Scenario Planner]
 
 In deze video zult u:
 
-* Een overzicht van de navigatie ophalen in het dialoogvenster [!DNL Scenario Planner]
-* Begrijp hoe [!DNL Scenario Planner] kan u helpen bij het afstemmen van beslissingen op het resultaat voor uw bedrijf.
+* Een overzicht van de navigatie ophalen in [!DNL Scenario Planner]
+* Begrijp hoe [!DNL Scenario Planner] kan helpen bij het afstemmen van beslissingen op het resultaat voor uw bedrijf.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on)

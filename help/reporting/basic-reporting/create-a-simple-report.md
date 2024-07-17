@@ -37,23 +37,25 @@ U wilt al uw actieve taken in één enkel rapport volgen. Creeer een rapport van
 
 ## Antwoord
 
-1. Ga naar de **[!UICONTROL Main Menu]** en selecteert u **[!UICONTROL Reports]**.
-1. Klik op de knop **[!UICONTROL New Report]** vervolgkeuzelijst en selecteert u **[!UICONTROL Task Report]**.
-1. In [!UICONTROL Columns (View)]klikt u op de knop **[!UICONTROL Apply an Existing View]** en selecteert u **[!UICONTROL Standard]**.
+1. Ga naar de **[!UICONTROL Main Menu]** en selecteer **[!UICONTROL Reports]** .
+1. Klik op de vervolgkeuzelijst **[!UICONTROL New Report]** en selecteer **[!UICONTROL Task Report]** .
+1. Klik in [!UICONTROL Columns (View)] op het menu **[!UICONTROL Apply an Existing View]** en selecteer **[!UICONTROL Standard]** .
 
-   ![Een beeld van het scherm om kolommen in een taakrapport te creëren](assets/simple-task-report-columns.png)
+   ![ een beeld van het scherm om kolommen in een taakrapport ](assets/simple-task-report-columns.png) te creëren
 
-1. In de **[!UICONTROL Groupings]** klikt u op de knop **[!UICONTROL Apply an Existing Grouping]** en selecteert u **[!UICONTROL Project]**.
+1. Klik op het tabblad **[!UICONTROL Groupings]** op het menu **[!UICONTROL Apply an Existing Grouping]** en selecteer **[!UICONTROL Project]** .
 
-   ![Een beeld van het scherm om groepen in een taakrapport tot stand te brengen](assets/simple-task-report-groupings.png)
+   ![ een beeld van het scherm om groeperingen in een taakrapport ](assets/simple-task-report-groupings.png) tot stand te brengen
 
-1. In de **[!UICONTROL Filters]** klikt u op de knop **[!UICONTROL Apply an Existing Filter]** en selecteert u Mijn huidige taken.
+1. Klik op het tabblad **[!UICONTROL Filters]** op het menu **[!UICONTROL Apply an Existing Filter]** en selecteer Mijn huidige taken.
 
-   ![Een beeld van het scherm om filters in een taakrapport tot stand te brengen](assets/simple-task-report-filters.png)
+   ![ een beeld van het scherm om filters in een taakrapport ](assets/simple-task-report-filters.png) tot stand te brengen
 
-1. Openen **[!UICONTROL Report Settings]** en noem het rapport &quot;Mijn Huidige Taken.&quot;
-1. Op het gebied van de Beschrijving, ga &quot;Onvolledige taken op Huidige projecten in waar ik de taakeigenaar ben, die door project wordt gegroepeerd.&quot;
+1. Open **[!UICONTROL Report Settings]** en noem het rapport &quot;Mijn Huidige Taken.&quot;
+1. Voer in het veld Beschrijving &quot;Niet voltooid&quot; in
+taken voor lopende projecten waar ik de taak ben
+eigenaar, gegroepeerd op project.&quot;
 
-   ![Een beeld van het scherm van rapportmontages in een taakrapport](assets/simple-task-report-report-settings.png)
+   ![ een beeld van het scherm van de rapportmontages in een taakrapport ](assets/simple-task-report-report-settings.png)
 
 1. Sla uw rapport op en sluit het.

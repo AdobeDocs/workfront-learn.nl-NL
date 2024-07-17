@@ -1,6 +1,6 @@
 ---
 title: Doorloop onvolledige executies
-description: Leer de waarde van het opslaan van onvolledige uitvoeringen en dan herstelt bundels na het evalueren van en het verbeteren van fouten in [!DNL Adobe Workfront Fusion].
+description: Leer de waarde om onvolledige uitvoeringen op te slaan en dan bundels opnieuw in werking te stellen na het evalueren van en het verbeteren van fouten in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer de handige gewoonte om onvolledige uitvoeringen op te slaan en begrijp de waarde die wordt geboden wanneer bundels opnieuw worden uitgevoerd na het evalueren en corrigeren van fouten.
 
-![Een afbeelding van een scenario met foutafhandeling](assets/troubleshooting-and-error-handling-8.png)
+![ een beeld van een scenario met fout behandeling ](assets/troubleshooting-and-error-handling-8.png)
 
 ## Doorloop onvolledige executies
 
@@ -32,4 +32,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

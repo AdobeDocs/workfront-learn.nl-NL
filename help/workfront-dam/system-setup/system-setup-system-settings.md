@@ -1,6 +1,6 @@
 ---
 title: Systeeminstellingen begrijpen
-description: Leer hoe u globale instellingen kunt instellen, opties voor middelen kunt instellen, mapinstellingen kunt instellen, downloadregels kunt instellen en rapporten en auditlogs kunt weergeven [!UICONTROL Workfront DAM].
+description: Leer hoe u algemene instellingen kunt instellen, opties voor middelen kunt instellen, mapinstellingen kunt instellen, downloadregels kunt instellen en rapporten en auditlogs kunt weergeven [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

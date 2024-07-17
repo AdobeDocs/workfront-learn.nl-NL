@@ -8,7 +8,7 @@ jira: KT-10933
 exl-id: 08c65fae-2077-4b37-b051-bc39d978a923
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -56,7 +56,7 @@ Begin met 3-5 onderneming-vlakke doelstellingen op het hoogtepunt.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Houd het eenvoudig. Alvorens uw systeem te vormen, bepaal uit 3-5 onderneming-vlakke doelstellingen. Als u dit doet, kunt u niet alleen de Doelstellingen gebruiken, maar kunt u ook gemakkelijk vaststellen wat de belangrijkste prioriteiten van uw bedrijf zijn en de doelstellingen bepalen die deze prioriteiten ondersteunen.
 
@@ -69,13 +69,13 @@ Wijs het laatste doel in de hiërarchie toe aan een individuele medewerker.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Dit leidt tot persoonlijke verantwoordelijkheid voor het bereiken van het overkoepelende bedrijfsdoel.
 
 
 
-Hoewel u een complexe hiërarchie kunt tot stand brengen wanneer u doelstellingen richt, betekent de ware objecthiërarchie dat u individuele medewerkers bij de laatste rij van elke tak van doelgroepering hebt. Dit betekent zij de vooruitgang op hun eigen doelstellingen kunnen bijwerken, die dan het overkoepelende team of de vooruitgang van het groepsdoel bijwerkt.
+Hoewel u een complexe hiërarchie kunt tot stand brengen wanneer u doelstellingen richt, betekent de ware objecthiërarchie dat u individuele medewerkers bij de laatste rij van elke tak van doelgroepering hebt. Dit betekent zij de vooruitgang op hun eigen doelstellingen kunnen bijwerken, die dan het overkoepelende team of groepsdoelvooruitgang bijwerkt.
 
 </br>
 </br>
@@ -87,7 +87,7 @@ Stel een cadence in voor de frequentie waarmee u doelstellingen gaat evalueren e
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Het hebben van een vastgestelde vaardigheid om vastgestelde doelstellingen te herzien en het bedrijfstraject voor de toekomst te evalueren kan uw team helpen op spoor blijven en echt gericht aan de visie van het bedrijf.
 
@@ -101,6 +101,6 @@ Maak eerst filters voor elke groep.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Dit zal helpen de informatie verminderen u en uw team moeten begrijpen wat moet worden gedaan en bovenmatige informatie elimineren die, vooralsnog, overweldigend kan zijn.

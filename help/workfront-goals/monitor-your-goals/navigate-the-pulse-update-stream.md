@@ -1,6 +1,6 @@
 ---
-title: Navigeren door de [!UICONTROL Pulse] updatestroom in [!DNL Goals]
-description: Leer hoe u door de [!UICONTROL Pulse] updatestream in [!DNL-doelen].
+title: Navigeren door de [!UICONTROL Pulse] updatestream in  [!DNL Goals]
+description: Leer hoe u door de updatestream van [!UICONTROL Pulse] kunt navigeren in [!DNL   Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 ---
 
-# Navigeren door de [!UICONTROL Pulse] updatestroom
+# Navigeren door de updatestream van [!UICONTROL Pulse]
 
-Gebruik de [!UICONTROL Pulse] te controleren en om updates aan doelstellingen te vragen die de vooruitgang van uw doelstellingen, met inbegrip van gerichte doelstellingen en hun resultaten of activiteiten zouden kunnen beïnvloeden. Dit kunnen doelstellingen zijn die tot u, uw team, de groep, of de organisatie behoren.
+Met de sectie [!UICONTROL Pulse] kunt u doelen controleren en updates aanvragen die de voortgang van uw doelen kunnen beïnvloeden, inclusief uitgelijnde doelen en de resultaten of activiteiten. Dit kunnen doelstellingen zijn die tot u, uw team, de groep, of de organisatie behoren.
 
 In deze video leert u hoe u:
 
-* Navigeren door de [!UICONTROL Pulse] updatestroom
+* Navigeren door de updatestream van [!UICONTROL Pulse]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on)

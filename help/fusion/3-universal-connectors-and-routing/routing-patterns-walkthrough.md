@@ -1,6 +1,6 @@
 ---
 title: Het verpletteren van patroonanalyse
-description: Leer hoe u de module Variabele instellen gebruikt om een getal via meerdere paden te verzenden om te zien hoe filters en fallbacks zich gedragen [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om de Vastgestelde module van de Variabele te gebruiken om een aantal door veelvoudige wegen te verzenden om te zien hoe de filters en de fallbacks zich in  [!DNL Adobe Workfront Fusion] gedragen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Gebruik de Vastgestelde module van de Variabele om een aantal door veelvoudige wegen te verzenden om te zien hoe de filters en fallbacks zich wanneer het verpletteren gedragen.
 
-![Een afbeelding van het Fusion-scenario](assets/universal-connectors-and-routing-7.png)
+![ een beeld van het scenario van de Fusie ](assets/universal-connectors-and-routing-7.png)
 
 ## Het verpletteren van patroonanalyse
 
@@ -33,4 +33,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

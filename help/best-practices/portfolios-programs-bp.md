@@ -43,14 +43,14 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Gebruik portfolio&#39;s en programma&#39;s om projecten en rapporten te helpen beheren.
 
-**Daarom:**
+**hier is waarom**
 
 Als u portfolio&#39;s en programma&#39;s gebruikt, kunt u extra Workfront-gereedschappen efficiënter gebruiken. In een verslag wilt u bijvoorbeeld alleen een aantal projecten bekijken die dezelfde doelstellingen hebben of die voor dezelfde begroting variëren. Door projecten in een portefeuille en/of programma te organiseren, kunt u die projecten gemakkelijk filtreren door dat portefeuille in plaats van verscheidene andere criteria om het rapport te beperken.
 
 Bovendien kunt u extra hulpmiddelen zoals het rapport van het Gebruik gebruiken, dat u helpt begrijpen hoe en waar de gebruikers werken, of Portfolio Optimizer, die het gemakkelijker maakt om projecten aan algemene bedrijfsdoelstellingen en strategieën voorrang te geven en te richten.
 
-Om te begrijpen hoe te om een lijst van projecten door een bepaalde portefeuille te filtreren, zie &quot;Activiteit 1 - Alle projecten in de portefeuille van de Marketing&quot;in [Basisfilteractiviteiten maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
+Om te begrijpen hoe te om een lijst van projecten door een bepaalde portefeuille te filtreren, zie &quot;Activiteit 1 - Alle projecten in de portefeuille van de Marketing&quot;in [ basisfilteractiviteiten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html) creëren.
 
-Raadpleeg het artikel voor meer informatie over het gebruiksrapport [De vooruitgang, de kosten, en de opbrengst van het spoor met het rapport van het Gebruik](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
+Om het rapport van het Gebruik te begrijpen zie de vooruitgang, de kosten, en de opbrengst van het artikel [ Spoor met het rapport van het Gebruik ](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
 
-Zie voor meer informatie over Portfolio optimaliseren [Gebruik Portfolio Optimizer om werk voorrang te geven en te beheren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
+Om over Portfolio te leren Optimizer zie [ Gebruik de Optimizer van het Portfolio om het werk ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html) voorrang te geven en te beheren.

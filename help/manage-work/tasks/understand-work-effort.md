@@ -1,6 +1,6 @@
 ---
 title: Begrijpen [!UICONTROL Work Effort]
-description: Meer informatie over het gebruik van [!UICONTROL Work Effort] voor een ruwe schatting van geplande uren in uw projectchronologie.
+description: Leer hoe u [!UICONTROL Work Effort] kunt gebruiken om een ruwe schatting van geplande uren in uw projectchronologie te krijgen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,7 +29,7 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on)
 
-Voor meer informatie over [!UICONTROL Work Effort], zie de [Overzicht van de werkprestaties](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
+Voor meer informatie over [!UICONTROL Work Effort], zie het [ het overzicht van de Werkinspanning van het Werk ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

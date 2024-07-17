@@ -1,6 +1,6 @@
 ---
 title: Werken met elementen als gebruiker
-description: Leer hoe u elementen in Brand Connect kunt weergeven en gegevens over een middel kunt bekijken, zoals metagegevens en trefwoorden in [!UICONTROL Workfront DAM].
+description: Leer hoe u elementen in Brand Connect kunt weergeven en gegevens over een middel kunt weergeven, zoals metagegevens en trefwoorden in [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Verzoeken zoeken en beheren
-description: Leer hoe u dashboards kunt gebruiken, [!UICONTROL Home]de [!UICONTROL Requests] en de [!UICONTROL Teams] pagina om inkomende verzoeken te vinden die door een verzoekrij worden gemaakt.
+description: Leer hoe u dashboards, [!UICONTROL Home], het [!UICONTROL Requests] gebied, en de [!UICONTROL Teams] pagina kunt gebruiken om inkomende verzoeken te vinden die door een verzoekrij worden gemaakt.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -26,14 +26,14 @@ In deze video leert u hoe u aanvragen kunt vinden waaraan u bent toegewezen, aan
 U leert deze verzoeken op de volgende plaatsen vinden:
 
 * Workfront [!UICONTROL Home]
-* De [!UICONTROL Requests] gebied
-* De [!UICONTROL Teams] page
+* Het [!UICONTROL Requests] -gebied
+* De pagina [!UICONTROL Teams]
 * In een aangepast dashboard
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
 
-Als u wilt leren hoe u aangepaste rapporten maakt en deze in een dashboard plaatst, raadpleegt u de [Basiscursus voor het maken van rapporten](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html).
+Als u wilt leren hoe te om douanerapporten tot stand te brengen en hen in een dashboard te zetten, zie de [ Basiscursus van de rapportverwezenlijking ](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html).
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

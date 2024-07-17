@@ -1,6 +1,6 @@
 ---
 title: Deelvenster Toewijzing en formule-editor
-description: Meer informatie over het gebruik van het toewijzingsvenster, de formule-editor en voorbeelden van algemene formules vindt u in [!DNL Adobe Workfront Fusion].
+description: Leer meer over het gebruiken van het mappingpaneel, de formules redacteur, en gemeenschappelijke formulevoorbeelden in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

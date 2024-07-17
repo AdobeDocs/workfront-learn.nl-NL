@@ -1,6 +1,6 @@
 ---
-title: Geavanceerd rapportagedeel 1
-description: Begrijp een overzicht van het creëren van rapporten, een inleiding aan [!UICONTROL API explorer] en de tekstmodus, en een diepgaand onderzoek naar de tekstmodusfilters.
+title: Geavanceerd rapporteringsdeel 1
+description: Begrijp een overzicht van het creëren van rapporten, een inleiding aan [!UICONTROL API explorer] en tekstwijze, en een diepgaande studie van de filters van de tekstwijze.
 activity: use
 feature: Text Mode Reporting
 thumbnail: 3409632.png
@@ -13,12 +13,12 @@ exl-id: dec3d807-41b2-47a6-b4ff-476313b6fc07
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# Geavanceerd rapportagedeel 1
+# Geavanceerd rapporteringsdeel 1
 
 In deze video leert u:
 

@@ -35,7 +35,7 @@ In sommige zelfstudies maakt u een geheel nieuw scenario. In andere zelfstudies 
 
 Als u de oefeningen in de Workfront Fusion-leerpaden wilt voltooien, hebt u een Workfront-teststation nodig. Als u al een testaandrijving hebt, adviseren wij nieuwe voor deze opleiding.
 
-Een praktijkomgeving aanvragen door deze in te vullen [dit formulier](https://forms.office.com/r/f1J8HRGrNY). Als u geen toegang hebt tot het formulier, stuurt u uw naam, e-mailadres en bedrijfsnaam naar wfttstdr@adobe.com.
+Vraag een praktijkomgeving door [ deze vorm ](https://forms.office.com/r/f1J8HRGrNY) te vullen. Als u geen toegang hebt tot het formulier, stuurt u uw naam, e-mailadres en bedrijfsnaam naar wfttstdr@adobe.com.
 
 ### Toegang tot Workfront Fusion for Pracsion
 
@@ -59,4 +59,4 @@ De uitdagingen zijn voor degenen die iets willen proberen dat andere concepten i
 
 De geleidelijke instructies worden verstrekt om u door de walkthrough oefeningen te helpen krijgen.
 
-Er is ook een [Workfront Fusion 2.0-community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) waar je vragen kunt plaatsen.
+Er is ook de gemeenschap van de Fusie 2.0 van de a [ Workfront ](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) waar u vragen kunt posten.

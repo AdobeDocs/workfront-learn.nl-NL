@@ -1,6 +1,6 @@
 ---
 title: De structuur van de gegevensexpressie leren
-description: Leer de standaardelementen die worden gebruikt bij het maken van expressies in Adobe [!DNL Workfront].
+description: Leer de standaardelementen die worden gebruikt wanneer het bouwen van uitdrukkingen in Adobe  [!DNL Workfront].
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User

@@ -1,6 +1,6 @@
 ---
-title: Abonnementen bijwerken en kopiëren in [!DNL Scenario Planner]
-description: Leer hoe u een abonnement bijwerkt of een abonnement kopieert in het dialoogvenster [!DNL  Workfront] [!DNL Scenario Planner].
+title: Abonnementen bijwerken en kopiëren in  [!DNL Scenario Planner]
+description: Leer hoe te om een plan bij te werken of een plan in te kopiëren  [!DNL  Workfront] [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -23,6 +23,6 @@ ht-degree: 0%
 In deze video leert u hoe u:
 
 * Een abonnement bijwerken in [!DNL Scenario Planner]
-* Abonnementen kopiëren in het dialoogvenster [!DNL Scenario Planner]
+* Abonnementen kopiëren in de [!DNL Scenario Planner]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on)

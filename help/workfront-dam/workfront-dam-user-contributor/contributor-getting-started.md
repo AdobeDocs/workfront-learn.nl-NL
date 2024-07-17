@@ -1,6 +1,6 @@
 ---
-title: Begrijpen [!UICONTROL Workfront DAM] als contribuant
-description: Leer het verschil tussen de drie [!UICONTROL Workfront DAM] gebruikersprofielen en navigeren [!UICONTROL Workfront DAM].
+title: '[!UICONTROL Workfront DAM] begrijpen als contribuant'
+description: Leer het verschil tussen de drie gebruikersprofielen van [!UICONTROL Workfront DAM] en hoe u door [!UICONTROL Workfront DAM] kunt navigeren.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# Begrijpen [!UICONTROL Workfront DAM] als contribuant
+# [!UICONTROL Workfront DAM] begrijpen als contribuant
 
 In deze video leert u:
 
-* Het verschil tussen de drie [!UICONTROL Workfront DAM] gebruikersprofielen
+* Het verschil tussen de drie gebruikersprofielen van [!UICONTROL Workfront DAM]
 * Navigeren [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335252/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Integratie in Workfront configureren
-description: Leer hoe u de [!UICONTROL Workfront DAM] integratie op het toegangsniveau van de systeembeheerder.
+description: Leer hoe u de [!UICONTROL Workfront DAM] -integratie inschakelt op het toegangsniveau van de systeembeheerder.
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 # Integratie in Workfront configureren
 
-De optie [!UICONTROL Workfront DAM] integratie van Workfront **[!UICONTROL Setup]** gebied. U hebt een [!UICONTROL Workfront] toegangsniveau van de systeembeheerder.
+Schakel de [!UICONTROL Workfront DAM] -integratie in vanuit het Workfront **[!UICONTROL Setup]** -gebied. U hebt een toegangsniveau van de [!UICONTROL Workfront] systeembeheerder nodig.
 
-![Een schermafbeelding van de [!UICONTROL Cloud Providers] configuratiepagina](assets/01-configure-the-integration-in-workfront.png)
+![ het schermschot van A van de [!UICONTROL Cloud Providers] configuratiepagina ](assets/01-configure-the-integration-in-workfront.png)
 
-1. Klikken **[!UICONTROL Setup]** in de [!UICONTROL Main Menu].
-1. Klik in het linkerdeelvenster op **[!UICONTROL Documents]** Selecteer vervolgens **[!UICONTROL Cloud Providers]**.
-1. Schakel het selectievakje naast [!UICONTROL Workfront DAM].
+1. Klik op **[!UICONTROL Setup]** in de [!UICONTROL Main Menu] .
+1. Klik in het linkerdeelvenster op **[!UICONTROL Documents]** en selecteer **[!UICONTROL Cloud Providers]** .
+1. Schakel het vakje naast [!UICONTROL Workfront DAM] in.
 1. Sla de wijziging op.
 
 <!--

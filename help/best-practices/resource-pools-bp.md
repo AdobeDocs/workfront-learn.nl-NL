@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -45,7 +45,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Stel alle vereisten voor bronnen in, zelfs als u de hulpprogramma&#39;s voor resourcebeheer in het begin niet gebruikt.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Het ingaan van de eerste vereisten van het middelbeheer in systeemmontages en het toevoegen van hen aan projectmalplaatjes in de aanvankelijke opstelling staat Workfront toe om gegevens, van het begin te vangen, zodat kunt u middeltendensen uiteindelijk zien om betere besluiten te nemen.
 
@@ -58,6 +58,6 @@ Het laat je ook nadenken over welke informatie je wilt vastleggen en hoe je die 
 
 Houd het aantal gebruikers binnen een middelpool aan een handelbare hoeveelheid.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Het beheren van een bronnenpool met veel gebruikers kan uitdagingen met zich meebrengen. Hoewel er geen grens aan hoeveel gebruikers aan een middelpool zou kunnen worden toegevoegd, hoe meer gebruikers er in een pool zijn, zou het meer middelbeheer een uitdaging kunnen worden. Het houden van het aantal gebruikers van een middelpool aan een handelbaarder bedrag kan u helpen meer controle over uw middelen krijgen en efficiënter zijn.

@@ -1,6 +1,6 @@
 ---
 title: Arrays walkthrough
-description: Eerdere doorlichtingsoefeningen bekijken waarbij eenvoudige en complexe arrays werden gebruikt in [!DNL Adobe Workfront Fusion].
+description: Herzie vorige analyseoefeningen waar de eenvoudige en complexe series in  [!DNL Adobe Workfront Fusion] werden gebruikt.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Bekijk vorige doorlichtingsoefeningen waar eenvoudige en complexe arrays werden gebruikt. We zullen bekijken hoe we deze gevonden hebben en hoe we de informatie zo nodig kunnen gebruiken met behulp van arrayfuncties.
 
-![Een afbeelding van een Fusion-scenario](assets/final-functional-bits-and-bobs-1.png)
+![ een beeld van een scenario van de Fusie ](assets/final-functional-bits-and-bobs-1.png)
 
 ## Arrays walkthrough
 
@@ -33,4 +33,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

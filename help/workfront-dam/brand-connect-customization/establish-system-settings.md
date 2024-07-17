@@ -1,6 +1,6 @@
 ---
 title: Systeeminstellingen vaststellen in [!UICONTROL Brand Connect]
-description: Leer hoe u systeeminstellingen kunt instellen in [!UICONTROL Brand Connect] van [!UICONTROL Workfront DAM].
+description: Leer hoe u systeeminstellingen kunt maken in [!UICONTROL Brand Connect] van [!UICONTROL Workfront DAM] .
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -18,24 +18,24 @@ ht-degree: 0%
 
 # Systeeminstellingen vaststellen in [!UICONTROL Brand Connect]
 
-De [!UICONTROL Brand Connect] met instellingen bepaalt u wie het portaal kan zien, wie inhoud naar het portaal kan publiceren en wie de richtlijnen voor het merk kan beheren.
+Met de instellingen van [!UICONTROL Brand Connect] bepaalt u wie het portaal kan zien, wie inhoud naar het portaal kan publiceren en wie de richtlijnen voor het merk kan beheren.
 
-Meld u aan om de instellingen te openen [!UICONTROL Workfront DAM].
+Meld u aan bij [!UICONTROL Workfront DAM] voor toegang tot de instellingen.
 
-1. Klik op de knop **instellingenpictogram** in de navigatiebalk en selecteer **[!UICONTROL Brand Connect]**. Of klik op **[!UICONTROL Brands]** in de navigatiebalk.
-1. Klik vervolgens op de knop **[!UICONTROL Edit]** in de rechterbovenhoek van het dialoogvenster [!UICONTROL Brand Connect] deelvenster. Als uw organisatie meerdere [!UICONTROL Brand Connects], zorg dat u de juiste bewerkt.
+1. Klik het **montagespictogram** in de navigatiebar en selecteer **[!UICONTROL Brand Connect]**. Of klik op **[!UICONTROL Brands]** in de navigatiebalk.
+1. Klik vervolgens op de optie **[!UICONTROL Edit]** rechtsboven in het deelvenster [!UICONTROL Brand Connect] . Als uw organisatie meerdere [!UICONTROL Brand Connects] heeft, moet u controleren of u de juiste organisatie bewerkt.
 
-![Een schermafbeelding van het deelvenster met Brand Connect-instellingen](assets/01-brand-portal-settings.png)
+![ A het schermschot van het Merk verbindt montagespaneel ](assets/01-brand-portal-settings.png)
 
-Praat met uw [!UICONTROL Workfront] als u vragen hebt over deze instellingen.
+Neem contact op met uw [!UICONTROL Workfront] -consultant als u vragen hebt over een van deze instellingen.
 
-* **[!UICONTROL Brand Connect]Titel**—Geef de naam [!UICONTROL Brand Connect] (of wijzig de naam).
-* **Wie kan dit portaal bekijken?**—Stel de groepen in die de [!UICONTROL Brand Connect]. Als u bijvoorbeeld de opdracht [!UICONTROL Logged In] groep, dan kunnen alle geregistreerde gebruikers het portaal zien. De mapmachtigingen zijn echter nog steeds van toepassing, dus ook al kan een gebruiker de portal zien, hij of zij heeft alleen toegang tot de middelen als de [!UICONTROL Logged In] groep kreeg machtigingen voor de map.
-* **Wie kan op dit portaal publiceren?**—Stel de groepen in die elementen kunnen publiceren in op de knop [!UICONTROL Brand Connect]. Dit zijn contributiegroepen. Ze kunnen alleen items publiceren waartoe ze toegang hebben.
-* **Wie kan de richtlijnen voor merken beheren?**—Stel de groepen in die de merkenrichtlijnen kunnen beheren. Het beheren van de richtlijnen is niet beperkt tot beheerders. U kunt een contributorgroep instellen om de richtlijnen te bewerken.
-* **Dit portaal weergeven in zoekprogramma&#39;s?**—Wilt u de [!UICONTROL Brand Connect] URL om te tonen wanneer mensen onderzoeken op Internet in werking stellen?
-* **Insluitbare koppelingen toestaan?**—Kan insluitbare koppelingen afkomstig zijn van de [!UICONTROL Brand Connect]? Hiermee voegt u een [!UICONTROL Get Links] aan de [!UICONTROL Share] menu dat insluitbare koppelingen voor het element bevat.
-* **Sociaal inschakelen/uitschakelen?**—Als social is ingeschakeld (selectievakje), kunnen gebruikers elementen leuk vinden en opmerkingen plaatsen.
-* **Downloaden en tellen inschakelen/uitschakelen?**—Als deze optie is ingeschakeld, kunnen gebruikers zien hoe vaak een element is gedownload en hoeveel opmerkingen het heeft.
-* **Elementen in eerste instantie verbergen**—Verberg de zoekfilters voor metagegevens die in het linkerdeelvenster van het dialoogvenster [!UICONTROL Assets] pagina.
-* **Label voor lichtbak**—Selecteer een label voor [!UICONTROL Lightboxes] — [!UICONTROL Lightbox], [!UICONTROL Collection], [!UICONTROL Favorites], of [!UICONTROL Favourites].
+* **[!UICONTROL Brand Connect]Titel** - noem [!UICONTROL Brand Connect] (of verander de naam).
+* **wie kan dit portaal bekijken?** - Stel de groepen in die de [!UICONTROL Brand Connect] kunnen weergeven. Als u bijvoorbeeld de groep [!UICONTROL Logged In] toevoegt, kunnen alle aangemelde gebruikers de portal zien. De mapmachtigingen zijn echter nog steeds van toepassing, dus ook al kan een gebruiker de portal zien, hij of zij heeft geen toegang tot de middelen tenzij de groep [!UICONTROL Logged In] machtigingen heeft gekregen voor de map.
+* **wie aan dit portaal kan publiceren?** - Stel de groepen die elementen kunnen publiceren in op [!UICONTROL Brand Connect] . Dit zijn contributiegroepen. Ze kunnen alleen items publiceren waartoe ze toegang hebben.
+* **wie kan merkrichtlijnen beheren?** - Stel de groepen in die de merkenrichtlijnen kunnen beheren. Het beheren van de richtlijnen is niet beperkt tot beheerders. U kunt een contributorgroep instellen om de richtlijnen te bewerken.
+* **toon dit portaal in onderzoeksmotoren?** - Wilt u de [!UICONTROL Brand Connect] URL weergeven wanneer mensen zoekopdrachten uitvoeren op internet?
+* **toestaan ingebedde verbindingen?** - Kunnen ingebedde verbindingen uit [!UICONTROL Brand Connect] komen? Hiermee voegt u een deelvenster [!UICONTROL Get Links] toe aan het menu [!UICONTROL Share] dat insluitbare koppelingen voor het element bevat.
+* **sociaal toelaten/onbruikbaar maken?** - Als sociaal is ingeschakeld (schakel het selectievakje in), kunnen gebruikers elementen leuk vinden en opmerkingen plaatsen.
+* **download en meningstelling toelaten/onbruikbaar maken?** - Als deze optie is ingeschakeld, kunnen gebruikers zien hoe vaak een element is gedownload en hoeveel opmerkingen het heeft.
+* **verberg facetten aanvankelijk** - verberg de filters van het meta-gegevensonderzoek die in het linkerpaneel op de [!UICONTROL Assets] pagina verschijnen.
+* **Lichtbaketiket** - selecteer een etiket voor [!UICONTROL Lightboxes] — [!UICONTROL Lightbox], [!UICONTROL Collection], [!UICONTROL Favorites], of [!UICONTROL Favourites].

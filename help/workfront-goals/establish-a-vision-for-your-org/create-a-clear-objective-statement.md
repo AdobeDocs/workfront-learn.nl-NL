@@ -12,7 +12,7 @@ exl-id: 95035fac-e434-4073-91e1-e16997a36a46
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -38,13 +38,13 @@ Deze verklaring is niet-technisch te leveren, betekenend dat het als gedragsbest
 
 Deze verklaring bestaat uit vier delen. Door elk onderdeel afzonderlijk aan te pakken, maakt u de intentie van de gezagvoerder duidelijk en rechtstreeks.
 
-**Deel 1: Een duidelijk resultaat van het bereiken van ons doel lijkt op...**
+**Deel 1: Een duidelijk resultaat van het bereiken van ons doel kijkt als...**
 Het invullen van deze zin biedt u de hoogste richtlijnen voor uw mensen en teams. Deze verklaring zal gerichter zijn dan uw opdracht en visies maar waarschijnlijk sommige gemeenschappelijke tonen delen. Beschrijf hoe succesvol uw team is.
 
-**Deel 2: Het belangrijkste wat dit team kan doen is...**
+**Deel 2: Het enige belangrijkste ding dit team kan doen is...**
 Het invullen van deze zin is de basis voor prioriteitstelling. Het stelt duidelijke verwachtingen dat er, als het er allemaal op aankomt, één ding moet worden bereikt. Dit te leveren product is meer dan waarschijnlijk het hoogtepunt van verwezenlijking over vele doelstellingen (zoals het lanceren van een nieuw product, het herbranden van uw bedrijf, het ingaan van een nieuwe markt, etc.).
 
-**Deel 3: Het team zal hun doel bereiken tegen ...**
+**Deel 3: Het team zal hun doel tegen... verwezenlijken**
 Wanneer je deze zin voltooit, begin je echt je strategische pijlers te stellen. Dit zijn waarschijnlijk de kerndoelen op het hoogste niveau die moeten worden bereikt om het uiteindelijke resultaat te sturen.
 
 **Deel 4: Onze operationele beperkingen omvatten..**

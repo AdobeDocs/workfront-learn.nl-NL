@@ -13,7 +13,7 @@ exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -29,16 +29,16 @@ In deze video leert u:
 
 ## Componenten rapporteren
 
-![Een afbeelding van het scherm om een filter te maken](assets/reporting-components-1.png)
+![ een beeld van het scherm om een filter ](assets/reporting-components-1.png) tot stand te brengen
 
-**A - Veldbron**
+**A - de bron van het Gebied**
 
 De opties voor de veldbron zijn afhankelijk van het geselecteerde objecttype. Vaak is de veldbron het item in Workfront waartoe een bepaalde informatie (ook bekend als de veldnaam) behoort. Soms is de veldbron hetzelfde als het objecttype.
 De veldbron bepaalt welke veldnamen beschikbaar zijn.
 
-Voorbeelden: [!UICONTROL Project], [!UICONTROL Task], [!UICONTROL Issue], [!UICONTROL Assigned To]
+Voorbeelden: [!UICONTROL Project] , [!UICONTROL Task] , [!UICONTROL Issue] , [!UICONTROL Assigned To]
 
-**B - Veldnaam**
+**B - de naam van het Gebied**
 
 Veldnamen zijn stukken informatie die beschikbaar zijn over wat u als veldbron hebt geselecteerd.
 
@@ -48,13 +48,13 @@ Met veldnamen worden de opties voor het waardeveld bepaald.
 
 Voorbeelden: [!UICONTROL Progress Status], [!UICONTROL Description], [!UICONTROL Planned Completion Date], Aangepaste formuliervelden
 
-**C - Filteraanduidingen**
+**C - de kwalificeertekens van de Filter**
 
 Met filteraanduidingen kunt u de mogelijke resultaten beperken die onder de geselecteerde veldbron en veldnaam kunnen worden weergegeven.
 
 Hiermee geeft u op hoe de veldbron en veldnaam betrekking hebben op het waardeveld.
 
-Voorbeelden: Gelijk, bevat, null, kleiner dan
+Voorbeelden: gelijk, Bevat, null, kleiner dan
 
 **D - Waarde**
 
@@ -68,5 +68,5 @@ Voorbeelden: Nieuw, Huidig, $$TODAYbw, Beschrijving
 
 >[!TIP]
 >
->Als u meer wilt weten over specifieke veldnamen in Workfront, raadpleegt u de [Woordenlijst met Adobe Workfront-terminologie](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
+>Voor hulp die specifieke gebiedsnamen in Workfront begrijpen, kijk in de [ Verklarende woordenlijst van de terminologie van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
 

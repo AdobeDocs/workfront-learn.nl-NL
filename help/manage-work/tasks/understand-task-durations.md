@@ -24,7 +24,7 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Wat een taakduur is in [!DNL Workfront]
+* Wat is de taakduur in [!DNL Workfront]
 * De invloed van de duur van de taken op de begin- en einddatum
 * Hoe duurfactor in projectchronologie
 * Aanbevelingen voor beste praktijken voor het gebruiken van taakduur

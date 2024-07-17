@@ -1,6 +1,6 @@
 ---
-title: Een kwalitatieve update uitvoeren in [!DNL Workfront Goals]
-description: Leer hoe u een kwalitatieve of schriftelijke update kunt maken in [!DNL-doelen].
+title: Een kwalitatieve update uitvoeren in  [!DNL Workfront Goals]
+description: Leer hoe u een kwalitatieve of schriftelijke update kunt maken in [!DNL   Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Een kwalitatieve update uitvoeren
 
-Kwalitatieve of schriftelijke updates kunnen worden uitgevoerd op meerdere gebieden van [!DNL Workfront Goals]. U kunt opmerkingen toevoegen aan doelen in het dialoogvenster [!UICONTROL Goal Details] het [!UICONTROL Check-in] of de [!UICONTROL Pulse] sectie. Hoewel het toevoegen van opmerkingen aan doelen op deze gebieden op dezelfde manier verloopt, zijn er verschillen in het bewerken, verwijderen of reageren op een opmerking bij het gebruik van een bepaald gebied. Wanneer u een opmerking in een van deze gebieden invoert, is de opmerking zichtbaar in alle gebieden waar de opmerkingen over het doel worden weergegeven.
+U kunt kwalitatieve of geschreven updates uitvoeren op meerdere gebieden van [!DNL Workfront Goals] . U kunt opmerkingen toevoegen aan doelen in het deelvenster [!UICONTROL Goal Details] , de sectie [!UICONTROL Check-in] of de sectie [!UICONTROL Pulse] . Hoewel het toevoegen van opmerkingen aan doelen op deze gebieden op dezelfde manier verloopt, zijn er verschillen in het bewerken, verwijderen of reageren op een opmerking bij het gebruik van een bepaald gebied. Wanneer u een opmerking in een van deze gebieden invoert, is de opmerking zichtbaar in alle gebieden waar de opmerkingen over het doel worden weergegeven.
 
 In deze video leert u hoe u:
 

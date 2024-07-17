@@ -1,6 +1,6 @@
 ---
 title: Beheerwalkthrough
-description: Leer hoe u kunt schakelen tussen verschillende organisaties of teams en gebruikers aan het systeem kunt toevoegen in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te tussen verschillende organisaties of teams schakelen en gebruikers aan het systeem in  [!DNL Adobe Workfront Fusion] toevoegen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer tussen verschillende organisaties of teams te schakelen en gebruikers aan het systeem toe te voegen.
 
-![Een afbeelding van een scenario met foutafhandeling](assets/workfront-fusion-administration-1.png)
+![ een beeld van een scenario met fout behandeling ](assets/workfront-fusion-administration-1.png)
 
 ## Beheerwalkthrough
 
@@ -36,9 +36,9 @@ In deze video leert u:
 
 >[!NOTE]
 >
->Als uw organisatie is aangemeld bij de Adobe Admin Console, raadpleegt u [Gebruikers aan Adobe Workfront Fusion toevoegen via de Adobe Admin Console](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html).
+>Als uw organisatie aan Adobe Admin Console is bezet, zie [ gebruikers aan de Fusie van Adobe Workfront door Adobe Admin Console ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html) toevoegen.
 
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

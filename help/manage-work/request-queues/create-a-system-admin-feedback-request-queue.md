@@ -14,7 +14,7 @@ doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een aanvraagwachtrij maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
->* [Een aanvraagstroom maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
+>* [ creeer een verzoekrij ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
+>* [ creeer een verzoekstroom ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* Of u bent reeds comfortabel met het creëren van een verzoekrij die een verpletterende regel en een douaneformulier gebruikt.
 
 
@@ -36,6 +36,6 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
-Leren hoe u de **Feedbackrapport van het team van Admin** gebruikt in de video, zie [Een taakrapport maken](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) zelfstudie en zoek naar de activiteit **Een feedbackrapport voor een beheerteam maken** volgt de video.
+Leren hoe te om het **team te creëren Admin terugkoppelt rapport** gebruikt in de video, [ creeer een taakrapport ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) leerprogramma en zoek de activiteit **om een admin team te creëren terugkoppelt rapport** na de video.
 
-Als u wilt leren hoe u een aangepast formulier maakt, raadpleegt u de [Een aangepast formulier maken en delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) zelfstudie.
+Leren hoe te om een douanevorm tot stand te brengen, zie [ creeer en deel een douanevorm ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) leerprogramma.

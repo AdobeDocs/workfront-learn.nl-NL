@@ -1,6 +1,6 @@
 ---
 title: Basisnavigatie begrijpen
-description: Leer hoe u naar de [!UICONTROL Analytics] en zie een overzicht van de werkkaarten en de personenteksten in Workfront.
+description: Leer hoe u naar het [!UICONTROL Analytics] -gebied kunt navigeren en een overzicht van de werkdiagrammen en personenteksten in Workfront kunt bekijken.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335057.png
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Basisnavigatie begrijpen
 
-Navigeren naar [!UICONTROL Analytics] in Workfront, gebruik [!UICONTROL Main Menu] knop.
+Gebruik de knop [!UICONTROL Main Menu] om naar [!UICONTROL Analytics] in Workfront te navigeren.
 
-![Een afbeelding om de [!UICONTROL Analytics] in de Workfront [!UICONTROL main menu]](assets/Navigate-NWE.png)
+![ Een afbeelding waarmee de functie [!UICONTROL Analytics] in de Workfront wordt gevonden [!UICONTROL main menu]](assets/Navigate-NWE.png)
 
 In deze video ziet u:
 

@@ -1,6 +1,6 @@
 ---
 title: Webhooks doorlopen
-description: Leer hoe u een webhaak gebruikt om een app te maken om te bepalen of een klant oud genoeg is om alcohol te kopen, allemaal in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om een webhaak te gebruiken om een app te creëren om te bepalen al dan niet een klant oud genoeg is om alcohol te kopen, allen in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Dit scenario leidt tot een gemakwinkel app zodat kunnen zij gemakkelijk bepalen al dan niet een klant oud genoeg is om alcohol te kopen. De kassier hoeft alleen de naam en geboortedatum van de klant EN een geverifieerde clienttoken te plaatsen in een URL die is opgegeven. Zodra ingegaan, zal dat ons scenario teweegbrengen om de aangewezen reactie te berekenen en het aan de aanvrager terug te keren.
 
-![Een beeld gebruikend de schakelaarmodule](assets/beyond-basic-modules-5.png)
+![ een beeld gebruikend de schakelaarmodule ](assets/beyond-basic-modules-5.png)
 
 ## Webhooks doorlopen
 
@@ -43,7 +43,7 @@ Als u de doorlichting wilt volgen, moet u de gratis Postman-toepassing downloade
 1. Kies formuliergegevens onder het subtabblad Autorisatie.
 1. Maak drie toetsen voor Naam, Verjaardatum en ClientToken.
 
-![Een beeld gebruikend de schakelaarmodule](assets/beyond-basic-modules-6.png)
+![ een beeld gebruikend de schakelaarmodule ](assets/beyond-basic-modules-6.png)
 
 ## Uw beurt
 
@@ -55,11 +55,11 @@ Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet 
 
 Maak een Workfront-webhaak die wacht op nieuwe updates die worden gemaakt en registreer vervolgens de datum, de naam van de persoon die de update heeft uitgevoerd en wat in de update staat. Stuur uzelf een e-mail met deze gegevens.
 
-**Tip**: Gebruik de triggermodule Workfront Watch Events om uw webhaak te maken. Ook in Workfront-updates worden notities genoemd.
+**Hint**: Gebruik de de trekkermodule van de Gebeurtenissen van het Horloge van Workfront om uw webhaak tot stand te brengen. Ook in Workfront-updates worden notities genoemd.
 
-**Uitdaging**: Kunt u de URL vinden en toevoegen waar de update is gemaakt, zodat u deze eenvoudig kunt openen?
+**Uitdaging**: Kan u URL vinden en toevoegen waar de update voor gemakkelijke toegang werd gemaakt?
 
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

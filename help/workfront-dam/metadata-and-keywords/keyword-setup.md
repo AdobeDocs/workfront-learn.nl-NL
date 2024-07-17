@@ -1,6 +1,6 @@
 ---
 title: Trefwoorden voor metagegevens instellen
-description: Leer meer over trefwoorden, hoe u een trefwoordenlijst instelt en hoe u een lijst met trefwoorden maakt en importeert in [!UICONTROL Workfront DAM].
+description: Leer meer over trefwoorden, hoe u een trefwoordenlijst instelt en hoe u een lijst met trefwoorden maakt en importeert in [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -44,12 +44,12 @@ Het is belangrijk om beste praktijken te schetsen om uw sleutelwoordinspanningen
 
 Een trefwoordstrategie helpt u een hoge mate van consistentie en nauwkeurigheid te bereiken met betrekking tot de manier waarop uw elementen worden gecodeerd.
 
-Houd rekening met gevallen wanneer u trefwoorden toevoegt om uw aandacht op de zaken te richten. Vul deze zin in wanneer u een trefwoord overweegt: &quot;**Hoe waarschijnlijk is het dat [persoon/rol invoegen] zal zoeken op [trefwoord invoegen] wanneer u op zoek bent naar [element invoegen]?**&quot;
+Houd rekening met gevallen wanneer u trefwoorden toevoegt om uw aandacht op de zaken te richten. Vul in deze zin wanneer het overwegen van een sleutelwoord: &quot;**hoe waarschijnlijk is het dat [ persoon/rol ] door [ sleutelwoord ] zal zoeken wanneer het zoeken naar [ tussenvoegsel activa ]?**&quot;
 
 Geef aan welke typen trefwoorden aan de elementen moeten worden toegevoegd. Een goede regel van duim met het toevoegen van sleutelwoorden is de volgende basisvragen te beantwoorden:
 
-* **Wie**—Voor wie is het doelmiddel?
-* **Wat**—Wat is het beoogde doel van het actief?
-* **Wanneer**—Waar is het geschapen en/of waar kan het worden gebruikt?
-* **Wanneer**—Wanneer is het actief gecreëerd en/of wanneer moet het worden gebruikt?
-* **Waarom**—Waarom werd het gecreeerd (voor een gebeurtenis, een brochure)?
+* **Who** - voor wie wordt de activa gericht voor?
+* **wat** - wat het voorgenomen doel van de activa is?
+* **waar** - waar werd de activa gecreeerd en/of waar kan het worden gebruikt?
+* **wanneer** - toen werd de activa gecreeerd en/of wanneer het zou moeten worden gebruikt?
+* **waarom** - waarom het (voor een gebeurtenis, een brochure) werd gecreeerd?

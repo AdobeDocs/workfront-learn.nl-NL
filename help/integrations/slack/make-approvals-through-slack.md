@@ -1,5 +1,5 @@
 ---
-title: Goedkeuringen maken via [!DNL Slack]
+title: Goedkeuringen maken via  [!DNL Slack]
 description: Leer hoe u goedkeuringen kunt maken via Slack
 activity: use
 feature: Workfront Integrations and Apps

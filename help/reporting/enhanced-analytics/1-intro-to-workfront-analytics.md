@@ -1,6 +1,6 @@
 ---
-title: Een ogenblik met Product over [!UICONTROL Enhanced Analytics]
-description: Ontdek hoe analyses tot stand zijn gekomen en de spannende mogelijkheden die dit mogelijk maakt met Joel Pettigrew, productmanager voor [!DNL Enhanced analytics].
+title: Een moment met Product over [!UICONTROL Enhanced Analytics]
+description: Leer hoe de analyses tot stand kwamen en de opwindende mogelijkheden het met Joel Pettigrew, productmanager voor  [!DNL Enhanced analytics] mogelijk maakt.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Een ogenblik met Product over [!UICONTROL Enhanced Analytics]
+# Een moment met Product over [!UICONTROL Enhanced Analytics]
 
-Bekijk deze video met Workfront Joel Pettigrew, productmanager voor [!DNL Enhanced analytics], om te leren hoe analyses tot stand zijn gekomen en welke spannende mogelijkheden het mogelijk maakt.
+Bekijk deze video met Workfront Joel Pettigrew, productmanager voor [!DNL Enhanced analytics] , om te leren hoe analyses tot stand zijn gekomen en welke spannende mogelijkheden het mogelijk maakt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on)

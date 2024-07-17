@@ -1,6 +1,6 @@
 ---
 title: Brand Portal begrijpen
-description: Leer hoe u toegang krijgt tot de Brand Portal in [!UICONTROL Workfront DAM], maakt u mappen, stelt u vervaldatums in voor afzonderlijke elementen en bewerkt u de instellingen van de elementen.
+description: Leer hoe u in [!UICONTROL Workfront DAM] toegang krijgt tot de Brand Portal, mappen kunt maken, vervaldatums voor afzonderlijke elementen kunt instellen en de instellingen voor elementen kunt bewerken.
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -30,9 +30,9 @@ In deze video leert u hoe u:
 
 ## Elementen
 
-Mappen hebben meerdere doelen in [!UICONTROL Workfront DAM]. In de eerste plaats zijn ze een middel om activa te organiseren. Ten tweede worden ze gebruikt om verschillende groepen gebruikers toegang te geven tot de elementen in de mappen.
+Mappen hebben in [!UICONTROL Workfront DAM] meerdere doeleinden. In de eerste plaats zijn ze een middel om activa te organiseren. Ten tweede worden ze gebruikt om verschillende groepen gebruikers toegang te geven tot de elementen in de mappen.
 
-Sommige gebruikers bladeren door de mappen om te zoeken naar de gewenste middelen in plaats van te zoeken. Een logische, doordachte omslagstructuur zal deze gebruikers naar de juiste plaats leiden. Sommige [!UICONTROL Workfront DAM] klanten organiseren mappen per afdeling, bestandstype, onderwerp, product, gebeurtenis of workflow. Maar wat voor de ene organisatie werkt, werkt misschien niet voor de andere.
+Sommige gebruikers bladeren door de mappen om te zoeken naar de gewenste middelen in plaats van te zoeken. Een logische, doordachte omslagstructuur zal deze gebruikers naar de juiste plaats leiden. Sommige klanten van [!UICONTROL Workfront DAM] organiseren mappen per afdeling, bestandstype, onderwerp, product, gebeurtenis of workflow. Maar wat voor de ene organisatie werkt, werkt misschien niet voor de andere.
 
 Met mappen geeft u ook aan hoe gebruikers toegang krijgen tot elementen. De gebruikers worden georganiseerd in groepen, en dan krijgen de groepen toestemming om tot de omslagen toegang te hebben. Machtigingen voor mappen kunnen per groep variëren: alleen weergave, elementen uploaden, elementen downloaden, elementen bewerken, enzovoort.
 

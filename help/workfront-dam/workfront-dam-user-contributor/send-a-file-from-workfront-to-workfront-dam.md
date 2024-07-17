@@ -1,6 +1,6 @@
 ---
 title: Een bestand verzenden als contribuant
-description: Meer informatie over het verzenden van een voltooid bestand in [!DNL Workfront] tot [!UICONTROL Workfront DAM].
+description: Leer hoe te over een voltooid dossier in  [!DNL Workfront]  naar [!UICONTROL Workfront DAM] te verzenden.
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -18,22 +18,22 @@ ht-degree: 0%
 
 # Een bestand verzenden als contribuant
 
-Wanneer u een voltooid bestand hebt in [!DNL Workfront], kunt u het verzenden naar [!UICONTROL Workfront DAM] met een paar klikken.
+Wanneer u een voltooid bestand in [!DNL Workfront] hebt, kunt u het met een paar klikken doorsturen naar [!UICONTROL Workfront DAM] .
 
-1. Aanmelden bij [!DNL Workfront].
-1. Ga naar de **[!UICONTROL Documents]** van de [!DNL Workfront] item waaraan het bestand is gekoppeld.
+1. Meld u aan bij [!DNL Workfront] .
+1. Navigeer naar de sectie **[!UICONTROL Documents]** van het [!DNL Workfront] -item waaraan het bestand is gekoppeld.
 1. Selecteer het document in de lijst.
-1. Klik vervolgens op de knop **[!UICONTROL Send To]** pictogram en selecteer **[!UICONTROL Workfront DAM]**.
+1. Klik vervolgens op het pictogram **[!UICONTROL Send To]** en selecteer **[!UICONTROL Workfront DAM]** .
 
-   ![Een afbeelding van de [!UICONTROL Share To] pictogram in [!DNL Workfront]](assets/04-send-to-wrkfront-dam.png)
+   ![ Een afbeelding van het [!UICONTROL Share To] pictogram in [!DNL Workfront]](assets/04-send-to-wrkfront-dam.png)
 
-1. Er wordt een venster weergegeven met de mappen waarin u machtigingen hebt [!UICONTROL Workfront DAM]. Selecteer de map waarin het bestand moet worden geplaatst.
+1. Er wordt een venster weergegeven met daarin de mappen waarvoor u machtigingen hebt in [!UICONTROL Workfront DAM] . Selecteer de map waarin het bestand moet worden geplaatst.
 
-   ![Een afbeelding van het venster met de mappen waarin u machtigingen hebt [!UICONTROL Workfront DAM]](assets/05-workfront-dam-folders.png)
+   ![ Een beeld van het venster dat de omslagen toont u binnen toestemmingen [!UICONTROL Workfront DAM]](assets/05-workfront-dam-folders.png) hebt
 
 1. Klik op **[!UICONTROL Save]**.
-1. De [!UICONTROL Documents] pagina wordt opnieuw geladen en nu een [!UICONTROL Workfront DAM] wordt naast de bestandsnaam weergegeven. Dit geeft aan naar welk bestand is verzonden [!UICONTROL DAM].
+1. De pagina [!UICONTROL Documents] wordt opnieuw geladen en nu verschijnt het pictogram [!UICONTROL Workfront DAM] naast de bestandsnaam. Dit geeft aan dat het bestand is verzonden naar [!UICONTROL DAM] .
 
-   ![Een afbeelding van de [!UICONTROL Workfront DAM] pictogram naast de bestandsnaam](assets/06-dam-logo.png)
+   ![ een beeld van het [!UICONTROL Workfront DAM] pictogram dat naast filename ](assets/06-dam-logo.png) verschijnt
 
-1. Klik nu op de bestandsnaam om het item te openen in [!UICONTROL Workfront DAM] zodat kunt u de juiste metagegevens en trefwoorden toevoegen.
+1. Klik nu op de bestandsnaam om het item te openen in [!UICONTROL Workfront DAM] , zodat u de juiste metagegevens en trefwoorden kunt toevoegen.

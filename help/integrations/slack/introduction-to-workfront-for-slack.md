@@ -1,6 +1,6 @@
 ---
-title: Workfront begrijpen voor [!DNL Slack]
-description: Leer hoe u een inleiding krijgt in wat u van andere zult leren [!DNL Workfront] voor video's over Slacks.
+title: Workfront for  [!DNL Slack] begrijpen
+description: Leer hoe te om een inleiding in te krijgen wat u van andere  [!DNL Workfront]  voor de video's van de Slack zult leren.
 activity: use
 feature: Workfront Integrations and Apps,Get Started with Workfront
 type: Tutorial
@@ -17,15 +17,15 @@ ht-degree: 0%
 
 ---
 
-# Workfront begrijpen voor [!DNL Slack]
+# Workfront for [!DNL Slack] begrijpen
 
 In deze video zult u:
 
-* Ontdek een inleiding over wat je van andere leert [!DNL Workfront] for [!DNL Slack] video&#39;s.
+* Ontdek een inleiding over wat u zult leren van andere [!DNL Workfront] for [!DNL Slack] video&#39;s.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Voor informatie over hoe te vormen [!UICONTROL Workfront for Slack], zie [Adobe Workfront for Slack](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=en).
+>Voor informatie over hoe te om [!UICONTROL Workfront for Slack] te vormen, zie [ Adobe Workfront voor Slack ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=en).
 

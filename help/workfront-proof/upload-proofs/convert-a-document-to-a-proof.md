@@ -1,6 +1,6 @@
 ---
 title: Een document converteren naar een proefdruk
-description: Leer hoe u een proefdruk maakt van een document dat al bestaat in [!DNL  Workfront], voegt u een workflow toe aan een proefdruk en voegt u na het maken van de proefdruk een workflow toe of bewerkt u deze.
+description: Leer hoe te om een proef van een document te produceren dat reeds in  [!DNL  Workfront] bestaat, een werkschema aan een proef toe te voegen, en een werkschema toe te voegen of uit te geven na proefverwezenlijking.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In deze video leert u hoe u:
 
-* Een proefdruk maken van een document dat zich al in [!DNL Workfront]
+* Een proefdruk maken van een document dat al in [!DNL Workfront] staat
 * Een workflow toevoegen tijdens het genereren van de proefdruk
 * Een workflow toevoegen of bewerken nadat de proefdruk is gemaakt
 
@@ -31,7 +31,7 @@ In deze video leert u hoe u:
 
 ## Wie kan documenten uploaden?
 
-Uw systeembeheerder bepaalt in welk formaat-document of proef-u dossiers kunt uploaden in [!DNL Workfront]. Sommige gebruikers kunnen alleen documenten uploaden, sommige kunnen alleen proefdrukken uploaden of sommige gebruikers kunnen beide uploaden. Uw machtigingen zijn gebaseerd op uw rol in de proefdrukworkflow.
+De systeembeheerder bepaalt in welke indeling (document of proefdruk) u bestanden kunt uploaden naar [!DNL Workfront] . Sommige gebruikers kunnen alleen documenten uploaden, sommige kunnen alleen proefdrukken uploaden of sommige gebruikers kunnen beide uploaden. Uw machtigingen zijn gebaseerd op uw rol in de proefdrukworkflow.
 
 Als u vindt dat deze instellingen moeten worden aangepast, neemt u contact op met de systeembeheerder.
 

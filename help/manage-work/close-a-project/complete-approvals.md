@@ -1,6 +1,6 @@
 ---
 title: Goedkeuring voltooien
-description: Leer hoe u onvolledige goedkeuringen kunt identificeren en oplossen zodat u uw project kunt sluiten in [!DNL  Workfront].
+description: Leer hoe te om onvolledige goedkeuringen te identificeren en hen op te lossen zodat kunt u uw project in  [!DNL  Workfront] sluiten.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -22,16 +22,16 @@ ht-degree: 0%
 
 De taken en geven goedkeuringen uit maken deel uit van vele werkschema&#39;s. Maar onopgeloste goedkeuringen zullen u verhinderen de projectstatus aan Voltooid te plaatsen.
 
-Op de [!UICONTROL Task] selecteert u een [!UICONTROL View] die de [!UICONTROL Status] kolom. Een snelle blik onderaan die kolom zal tonen als er een onvolledige goedkeuring op een taak met &quot;[!UICONTROL - Pending Approval]&quot; na de naam van de status.
+Selecteer in de sectie [!UICONTROL Task] van uw project een [!UICONTROL View] die de kolom [!UICONTROL Status] bevat. Een snelle blik onderaan die kolom zal tonen als er een onvolledige goedkeuring op een taak met &quot;[!UICONTROL - Pending Approval]&quot;na de naam van de status is.
 
-![Project met onvolledige goedkeuring](assets/approval-pending.png)
+![ Project die onvolledige goedkeuring tonen ](assets/approval-pending.png)
 
 U hebt een aantal opties:
 
-* **Voltooi de goedkeuring —** Dit kan betekenen dat anderen moeten herinneren aan de openstaande goedkeuring. U kunt zien wie als fiatteur door de taak te openen en op het lusje van Goedkeuringen te klikken wordt toegewezen.
-* **De goedkeuring verwijderen —** Als de goedkeuring niet nodig is, zou het gemakkelijker kunnen zijn om het enkel te schrappen. Uw vermogen om dit te doen hangt van uw af [!DNL Workfront] machtigingen.
-* **Wijzig de status —** Als goedkeuring niet nodig is, kunt u een status selecteren waaraan geen goedkeuring is gekoppeld. Zorg gewoon dat de status gelijk is aan Voltooien.
+* **voltooi de goedkeuring —** dit kan het herinneren van anderen aan de opmerkelijke goedkeuring betekenen. U kunt zien wie als fiatteur door de taak te openen en op het lusje van Goedkeuringen te klikken wordt toegewezen.
+* **verwijder de goedkeuring -** als de goedkeuring niet nodig is, zou het gemakkelijker kunnen zijn om het enkel te schrappen. Uw vermogen om dit te doen hangt van uw [!DNL Workfront] toestemmingen af.
+* **verander de status -** als de goedkeuring niet nodig is, kon u een status selecteren die geen goedkeuring in bijlage heeft. Zorg gewoon dat de status gelijk is aan Voltooien.
 
-![Project met taakfiatteurs](assets/task-approvers.png)
+![ Project die taakgoedkeuraars ](assets/task-approvers.png) tonen
 
-Als uw organisatie problemen gebruikt om problemen te volgen, orden te veranderen, of andere gebeurtenissen tijdens projecten, volg de zelfde stappen op [!UICONTROL Issues] van uw project.
+Als uw organisatie problemen gebruikt om problemen te volgen, orden te veranderen, of andere gebeurtenissen tijdens projecten, volg de zelfde stappen op de [!UICONTROL Issues] sectie van uw project.

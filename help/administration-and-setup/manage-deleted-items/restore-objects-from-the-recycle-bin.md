@@ -12,7 +12,7 @@ jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -25,23 +25,23 @@ Wanneer het object wordt verwijderd met de prullenbak, plaatst Workfront het obj
 
 ## Een object herstellen
 
-1. Selecteer **Instellen** in het gebied **Hoofdmenu**.
-1. Klikken **Prullenbak** in het linkerdeelvenster.
-1. Selecteren **Onlangs verwijderd**.
+1. Selecteer het **gebied van de Opstelling** in het **Belangrijkste Menu**.
+1. Klik **KringloopBak** in het linkerpaneel.
+1. Selecteer **onlangs schrapte**.
 
-![Onlangs verwijderd gedeelte van prullenbak in gebied Setup](assets/admin-fund-recycle-bin-1.png)
+![ onlangs Geschrapte sectie van de Bak van de Recycling in het gebied van de Opstelling ](assets/admin-fund-recycle-bin-1.png)
 
 Elk herstelbaar object heeft een tab om het gemakkelijker te maken het item te vinden dat moet worden teruggezet.
 
 1. Klik op de tab van het gewenste object.
 1. Schakel het selectievakje naast de objecten die u wilt herstellen in.
-1. Klik op de knop **Herstellen** knop.
+1. Klik **herstellen** knoop.
 
-![Items die zijn geselecteerd in de prullenbak](assets/admin-fund-recycle-bin-2.png)
+![ Punten die in de Bak van de Recycling worden geselecteerd ](assets/admin-fund-recycle-bin-2.png)
 
-De objecten die worden hersteld, worden kort weergegeven in een [!UICONTROL In Progress] sectie. Nadat het scherm is vernieuwd, worden een of meer objecten niet meer op het scherm weergegeven omdat het is hersteld. De objecten worden weergegeven op de plaatsen waar ze zich voorheen bevonden [!DNL Workfront], die u kunt verifiëren op de knop [!UICONTROL Recently Restored] scherm.
+Het object of de objecten die worden hersteld, worden kort weergegeven in een [!UICONTROL In Progress] -sectie. Nadat het scherm is vernieuwd, worden een of meer objecten niet meer op het scherm weergegeven omdat het is hersteld. De items worden weergegeven op de positie waar ze zich eerder in [!DNL Workfront] bevonden. U kunt ze controleren op het [!UICONTROL Recently Restored] -scherm.
 
-![Onlangs teruggezette sectie van de Prullenbak in het gebied van de Opstelling](assets/admin-fund-recycle-bin-3.png)
+![ onlangs Herstelde sectie van de Bak van de Kringloop in het gebied van de Opstelling ](assets/admin-fund-recycle-bin-3.png)
 
 De beheerders van de groep kunnen een project herstellen dat met de groep wordt geassocieerd zij, samen met om het even welke taken, kwesties, of documenten verbonden aan het project leiden.
 

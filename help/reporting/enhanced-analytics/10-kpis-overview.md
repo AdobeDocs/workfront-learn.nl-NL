@@ -31,6 +31,6 @@ In deze video leert u:
 
 KPIs verstrekt niet alleen waardevolle informatie voor wat in het heden gebeurt, maar zij geven gebruikers de macht om veranderingen in activiteit in tijd of het verschil tussen portefeuilles, programma&#39;s, projecteigenaars, of een ander gebruikt filter te vergelijken.
 
-![Een afbeelding die twee browsertabbladen naast elkaar weergeeft](assets/section-2-0.png)
+![ een beeld dat twee browser lusjes naast elkaar toont ](assets/section-2-0.png)
 
 U kunt bijvoorbeeld analyses in twee browsertabbladen opnemen om KPI&#39;s te vergelijken.

@@ -1,6 +1,6 @@
 ---
 title: Dieper naar de navigatie
-description: Leer hoe u snel kunt zien hoeveel tijd werknemers besteden aan elk project in [!UICONTROL Enhanced Analytics].
+description: Leer hoe u snel kunt zien hoeveel tijd workers besteden aan elk project in [!UICONTROL Enhanced Analytics] .
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -38,7 +38,7 @@ Aan de hand van deze informatie kunt u bepalen:
 * Als gebruikers zich richten op de juiste zaken.
 * Hoeveel de reikwijdte van een project veranderde in die periode wanneer een specifiek project wordt geselecteerd.
 
-![Een afbeelding met een projectloopvlak met nummers op de gebieden die in de onderstaande opsommingstekens worden beschreven](assets/section-2-7.png)
+![ een beeld dat een projectlooppas met aantallen op gebieden toont die in hieronder kogels worden beschreven ](assets/section-2-7.png)
 
 Op het diagram kunt u zien:
 

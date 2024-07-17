@@ -1,6 +1,6 @@
 ---
 title: Trefwoordtaxonomie inschakelen en afdwingen
-description: Leer om de sleutelwoordtaxonomie toe te laten en af te dwingen, wanneer de gebruikers hun eigen sleutelwoorden kunnen ingaan en opstellings onderzoeksfacetten in [!UICONTROL Workfront DAM].
+description: Leer hoe u de trefwoordtaxonomie kunt inschakelen en afdwingen, wanneer gebruikers hun eigen trefwoorden kunnen invoeren en zoekfacetten kunnen instellen in [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -23,7 +23,7 @@ In deze video leert u hoe u:
 
 * Toegang verlenen tot de trefwoordtaxonomie
 * Het gebruik van de trefwoordtaxonomie afdwingen
-* Begrijpen wanneer [!UICONTROL Workfront DAM] gebruikers kunnen hun eigen trefwoorden invoeren
+* Begrijpen wanneer [!UICONTROL Workfront DAM] -gebruikers hun eigen trefwoorden kunnen invoeren
 * Zoekfacetten instellen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on)

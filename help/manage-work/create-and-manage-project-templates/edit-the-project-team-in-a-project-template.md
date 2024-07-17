@@ -14,7 +14,7 @@ doc-type: video
 exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Hoe wordt onbedoeld vermeden, inclusief **non** leden van het projectteam in een team van het malplaatjeproject.
+* Hoe te om onbedoeld met inbegrip van **te vermijden** projectteamleden in een team van het malplaatjeproject.
 * Hoe te om het team van het malplaatjeproject uit te geven.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)

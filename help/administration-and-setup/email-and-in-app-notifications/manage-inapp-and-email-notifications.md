@@ -20,66 +20,66 @@ ht-degree: 6%
 
 # Gebeurtenismeldingen in de app en e-mailen beheren
 
-E-mail maakt deel uit van het dagelijks leven op het werk en op een paar dagen is de hoeveelheid e-mail die je krijgt overweldigend. Met [!DNL Workfront]systeembeheerders kunnen ervoor zorgen dat iedereen relevante en nuttige e-mails ontvangt over het werk waarmee ze zijn betrokken.
+E-mail maakt deel uit van het dagelijks leven op het werk en op een paar dagen is de hoeveelheid e-mail die je krijgt overweldigend. Met [!DNL Workfront] kunnen systeembeheerders er echter voor zorgen dat iedereen relevante en nuttige e-mails ontvangt over het werk waarmee ze zijn betrokken.
 
 Workfront kan verschillende soorten berichten naar gebruikers verzenden. Sommige van deze meldingen worden op systeemniveau beheerd en zijn van invloed op alle gebruikers. Sommige meldingen kunnen zo worden ingesteld dat ze direct e-mailberichten genereren in een dagelijkse samenvatting. Of schakel e-mailberichten uit om alleen berichten te genereren in Workfront.
 
 ## Gebeurtenismeldingen
 
-Een gebeurtenis is vergelijkbaar met een statuswijziging, een opmerking die is geplaatst of een toewijzing die is uitgevoerd en die een melding in de app kan activeren [!DNL Workfront].
+Een gebeurtenis is vergelijkbaar met een statuswijziging, een opmerking die is geplaatst of een toewijzing die is uitgevoerd en die een melding in de app in [!DNL Workfront] kan activeren.
 
-![Lijst met meldingen](assets/admin-fund-user-notifications-01.png)
+![ lijst van het Bericht ](assets/admin-fund-user-notifications-01.png)
 
 U kunt echter bepalen voor welke gebeurtenissen u e-mailmeldingen wilt ontvangen door de opties in uw voorkeuren in of uit te schakelen.
 
-Als u deze wijzigingen wilt aanbrengen, klikt u op uw naam in het menu [!UICONTROL Main Menu].
+Als u deze wijzigingen wilt aanbrengen, klikt u op uw naam in het dialoogvenster [!UICONTROL Main Menu] .
 
-![Gebruikersnaam in [!UICONTROL Main Menu]](assets/admin-fund-user-notifications-02.png)
+![ Gebruikersnaam in [!UICONTROL Main Menu]](assets/admin-fund-user-notifications-02.png)
 
-Klikken [!UICONTROL Edit] van de [!UICONTROL More] -menu.
+Klik op [!UICONTROL Edit] in het menu [!UICONTROL More] .
 
-![Menu op pagina met gebruikersprofielen](assets/admin-fund-user-notifications-03.png)
+![ Menu op pagina van het gebruikersprofiel ](assets/admin-fund-user-notifications-03.png)
 
-Klikken [!UICONTROL Notifications] in de [!UICONTROL Edit Person] pop-upvenster.
+Klik op [!UICONTROL Notifications] in het pop-upvak [!UICONTROL Edit Person] .
 
-![[!UICONTROL Edit Person] venster](assets/admin-fund-user-notifications-04.png)
+![[!UICONTROL Edit Person] window ](assets/admin-fund-user-notifications-04.png)
 
 Vanaf hier kunt u bepalen welke meldingen u direct, dagelijks of helemaal niet wilt ontvangen. Wijzigingen die u hier aanbrengt, gelden specifiek voor u en zijn niet van invloed op andere gebruikers in Workfront.
 
 **[!UICONTROL Daily]**
 
-Standaard zijn e-mails zo ingesteld dat ze direct worden verzonden. U kunt echter wel de e-mailmeldingsfrequentie wijzigen van [!UICONTROL Instant] tot [!UICONTROL Daily]en zorgt u ervoor dat u de informatie krijgt die u nodig hebt, wanneer u die wilt.
+Standaard zijn e-mails zo ingesteld dat ze direct worden verzonden. U kunt echter wel de berichtfrequentie voor e-mailberichten van [!UICONTROL Instant] naar [!UICONTROL Daily] wijzigen, zodat u de benodigde informatie krijgt, wanneer u deze nodig hebt.
 
-![[!UICONTROL Notification] deel van [!UICONTROL Edit Person] venster](assets/admin-fund-user-notifications-05.png)
+![[!UICONTROL Notification] sectie van [!UICONTROL Edit Person] window ](assets/admin-fund-user-notifications-05.png)
 
-Met de dagelijkse optie verzendt u een overzicht van de gebeurtenissen van de dag in één e-mail. Gebruikers ontvangen één e-mail voor elke groep die ze in het dialoogvenster [!UICONTROL Notifications] sectie.
+Met de dagelijkse optie verzendt u een overzicht van de gebeurtenissen van de dag in één e-mail. Gebruikers krijgen één e-mail voor elke groep die ze in de sectie [!UICONTROL Notifications] zien.
 
-Bijvoorbeeld de [!UICONTROL Information about Projects I Own] de sectie zal één dagelijkse e-mail produceren, [!UICONTROL Action Needed] e-mail wordt dagelijks gegenereerd.
+Met de sectie [!UICONTROL Information about Projects I Own] wordt bijvoorbeeld dagelijks één e-mail gegenereerd, met de sectie [!UICONTROL Action Needed] wordt dagelijks één e-mail gegenereerd, enzovoort.
 
-![[!UICONTROL Daily Digest] e-mailen voor [!UICONTROL Information about Projects I Own]](assets/admin-fund-user-notifications-06.png)
+![[!UICONTROL Daily Digest] email for [!UICONTROL Information about Projects I Own]](assets/admin-fund-user-notifications-06.png)
 
-![[!UICONTROL Daily Digest] e-mailen voor [!UICONTROL Action Needed]](assets/admin-fund-user-notifications-07.png)
+![[!UICONTROL Daily Digest] email for [!UICONTROL Action Needed]](assets/admin-fund-user-notifications-07.png)
 
 Selecteer niet alleen de optie voor dagelijks verzenden, maar stel ook een tijdstip in waarop deze e-mails moeten worden verzonden. Afhankelijk van wat het beste werkt, kunnen samenvattingse-mails worden verzonden voordat u &#39;s ochtends of vlak voordat u de dag verlaat aan het werk gaat.
 
-![[!UICONTROL Email Daily Digest after] vervolgkeuzemenu in het dialoogvenster [!UICONTROL Edit Person] venster](assets/admin-fund-user-notifications-08.png)
+![[!UICONTROL Email Daily Digest after] drop-down menu in het [!UICONTROL Edit Person] venster ](assets/admin-fund-user-notifications-08.png)
 
-**Helemaal niet**
+**helemaal niet**
 
 De laatste optie is om de e-mailmeldingen volledig uit te schakelen.
 
-![Geselecteerde melding uitgeschakeld [!UICONTROL Edit Person] venster](assets/admin-fund-user-notifications-09.png)
+![ Geselecteerd bericht dat in [!UICONTROL Edit Person] venster ](assets/admin-fund-user-notifications-09.png) wordt uitgezet
 
-Als u dit besluit, weet u dat hoewel u geen e-mail ontvangt, het werk nog wordt toegewezen, op, en binnen bijgewerkt [!DNL Workfront]. Als u alle meldingen uitschakelt, ontbreekt het wellicht aan belangrijke informatie die u moet weten.
+Als u besluit dit te doen, weet u dat hoewel u geen e-mailberichten ontvangt, het werk nog steeds wordt toegewezen, commentaar krijgt en binnen [!DNL Workfront] wordt bijgewerkt. Als u alle meldingen uitschakelt, ontbreekt het wellicht aan belangrijke informatie die u moet weten.
 
-Er zijn enkele gevallen waarin [!DNL Workfront] heeft gezien dat gebruikers e-mailberichten uitschakelen. Als u bijvoorbeeld het grootste deel van uw werk via de [!DNL Workfront] mobiele app, kunt u uw e-mailmeldingen uitschakelen en alleen via de app meldingen ontvangen.
+In [!DNL Workfront] zijn er enkele gevallen waarin gebruikers e-mailmeldingen hebben uitgeschakeld. Als u bijvoorbeeld het grootste deel van uw werk doet via de mobiele app van [!DNL Workfront] , kunt u uw e-mailmeldingen uitschakelen en alleen via de app meldingen ontvangen.
 
-Ongeacht de [!UICONTROL Event Notifications] u besluit te ontvangen, zijn de berichten belangrijk voor het succes van het werk dat voor de doelstellingen van uw organisatie wordt gedaan.
+Ongeacht de [!UICONTROL Event Notifications] die u wilt ontvangen, zijn meldingen belangrijk voor het welslagen van het werk dat wordt uitgevoerd voor de doelstellingen van uw organisatie.
 
 
 ## Recommendations
 
-Er zijn een paar meldingen dat [!DNL Workfront] Aanbevolen wordt om deze optie te laten controleren, of het nu gaat om een directe e-mail of een dagelijkse samenvatting.
+[!DNL Workfront] raadt u aan een aantal meldingen dat u wilt laten controleren, hetzij voor een directe e-mail, hetzij voor een dagelijkse controlesamenvatting.
 
 Voor de meeste gebruikers:
 

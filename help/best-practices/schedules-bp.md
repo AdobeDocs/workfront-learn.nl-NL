@@ -39,7 +39,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 * Voeg een herinnering toe aan de kalender van de Adobe Workfront-systeembeheerder om de schema&#39;s elk jaar op een bepaald tijdstip bij te werken.
 
 
-Raadpleeg voor instructies over het maken en beheren van schud [Planningen maken en beheren](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) zelfstudie.
+Voor instructies op om schud te creëren en te beheren, zie [ programma&#39;s ](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) leerprogramma&#39;s creëren en beheren.
 
 </br>
 </br>
@@ -52,7 +52,7 @@ Beperk het aantal programma&#39;s dat u in Adobe Workfront maakt.
 
 
 
-**Daarom:**
+**hier is waarom**
 
 Maak geen tientallen planningen voor verschillende groepen, teams of personen. Minder programma&#39;s betekent minder onderhoud door de systeem- of groepsbeheerders.
 
@@ -75,13 +75,13 @@ De totale arbeidstijd van elke werkdag volgens het schema moet gelijk zijn aan h
 
 
 
-**Daarom:**
+**hier is waarom**
 
 Als de totale werkuren niet overeenkomen, kan dit leiden tot schijnbaar onjuiste datum- en tijdberekeningen in de tijdlijn en rapporten van uw project.
 
 Bijvoorbeeld, als de systeemvoorkeur acht uren in een dag is en het programma dat aan een project wordt toegewezen slechts zeven werkuren per dag heeft, zult u merken dat een taak met een eendagduur meer dan één dag duurt te voltooien, omdat het probeert om in de acht uren te passen.
 
-**Opmerking**: De algemene projectinstellingen van het systeem worden ingesteld in Setup > Projectvoorkeuren > Berekeningen van tijdlijn > Typische uren per werkdag.
+**Nota**: De systeem globale projectmontages worden gedaan in Opstelling > de Voorkeur van het Project > de Berekeningen van de Chronologie > Typische uren per het werkdag.
 
 </br>
 </br>
@@ -91,6 +91,6 @@ Bijvoorbeeld, als de systeemvoorkeur acht uren in een dag is en het programma da
 
 Voeg een herinnering toe aan de kalender van de Adobe Workfront-systeembeheerder om de schema&#39;s elk jaar op een bepaald tijdstip bij te werken.
 
-**Daarom:**
+**hier is waarom**
 
 Werk de schema&#39;s in je Workfront-exemplaar bij met nationale feestdagen, feestdagen van het bedrijf en andere dagen dat gebruikers niet meer aan het werk zullen zijn. Doe dit elk jaar op een bepaald tijdstip, hetzij aan het eind van het jaar of wanneer de vakantieprogramma&#39;s door personeel worden vrijgegeven, zodat de projecttermijnen, middelplanning, enz., nauwkeurige gebruikersbeschikbaarheid weerspiegelen.

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Bronbeheerinstellingen voor gebruikers
 
-Als het erop aankomt om te begrijpen welke middelen beschikbaar zijn, zijn er verscheidene dingen die op elke gebruiker binnen moeten worden toegepast [!DNL Workfront].
+Wanneer u wilt begrijpen welke bronnen beschikbaar zijn, moet u verschillende dingen op elke gebruiker in [!DNL Workfront] toepassen.
 
 In deze videozelfstudie leert u over instellingen voor:
 

@@ -1,6 +1,6 @@
 ---
 title: Toegang tot vorige versies, analyse
-description: Ontdek hoe u vorige versies kunt herstellen nadat u veranderingen in uw scenario hebt aangebracht en hen bewaard in [!DNL Adobe Workfront Fusion].
+description: Ontdek hoe u vorige versies kunt herstellen nadat u veranderingen in uw scenario hebt aangebracht en hen bewaard in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -37,24 +37,24 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Toevoegen aan uw terminologie
 
-![Een afbeelding van een controlerecord en een aangepaste webhamodule](assets/understand-the-basics-3.png)
+![ een beeld van een horlogeverslag en een module van de douane webhaak ](assets/understand-the-basics-3.png)
 
 ### Triggermodules
 
 De modules van de trekker kunnen slechts als eerste module worden gebruikt en kunnen nul, één, of meerdere bundels terugkeren. Deze worden afzonderlijk verwerkt in volgende modules, tenzij ze worden geaggregeerd.
 
-**Opiniepeilingtrigger (klok op trigger)**—Speciale mogelijkheden om de laatste verwerkte record bij te houden.
+**Opiniepeilend Trekker (klok op Trekker)** - speciale mogelijkheden om spoor van het laatste verwerkte verslag te houden.
 
-**Instant Trigger (bliksemschicht op Trigger)**—Direct geactiveerd op basis van de webhaak.
+**Onmiddellijke Trekker (bliksemschicht op Trekker)** - onmiddellijk teweeggebracht gebaseerd op webhaak.
 
-![Een afbeelding van een record en een zoekmodule maken](assets/understand-the-basics-4.png)
+![ een beeld van creeer verslag en een onderzoeksmodule ](assets/understand-the-basics-4.png)
 
 ### Handelingen en zoekmodules
 
-**Handeling**—Gebruikt om (creeer, las, Update, en Schrapping) verrichtingen CRUD uit te voeren
+**Actie** - Gebruikt om (creeer, Gelezen, Update, en Schrapping) verrichtingen CRUD uit te voeren
 
-**Zoekopdrachten**—Gebruikt om naar nul, één, of meer verslagen te zoeken en deze als bundels terug te keren, die individueel in verdere modules zullen worden verwerkt, tenzij bijeengevoegd.
+**zoekt** - gebruikt aan onderzoek naar nul, één, of meer verslagen en keert deze als bundels terug, die individueel in verdere modules, tenzij bijeengevoegd zullen worden verwerkt.
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

@@ -1,6 +1,6 @@
 ---
 title: De metagegevens instellen
-description: Leer hoe u een metagegevensschema maakt, de verschillende typen metagegevens begrijpt, bestaande metagegevensvelden gebruikt en meer in [!UICONTROL Workfront DAM].
+description: Leer hoe u een metagegevensschema maakt, de verschillende typen metagegevens begrijpt, bestaande metagegevensvelden gebruikt en meer in [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -30,11 +30,11 @@ In deze video leert u hoe u:
 
 ## Best practices voor metagegevens
 
-Metagegevens zijn de belangrijkste drijfveer voor het zoeken naar middelen in [!UICONTROL Workfront DAM]. Het verbetert niet alleen de doorzoekbaarheid, maar kan ook worden gebruikt om belangrijke gegevens over een element bij te houden, zoals copyright, locatie, afbeeldingsbron en nog veel meer.
+Metagegevens zijn het belangrijkste stuurprogramma voor elementzoekopdrachten in [!UICONTROL Workfront DAM] . Het verbetert niet alleen de doorzoekbaarheid, maar kan ook worden gebruikt om belangrijke gegevens over een element bij te houden, zoals copyright, locatie, afbeeldingsbron en nog veel meer.
 
 Hier volgen enkele aanbevolen procedures om u te helpen aan de slag te gaan met uw metagegevens:
 
-* Voeg altijd eigenaar- of kredietgegevens aan uw activa toe ter identificatie buiten [!UICONTROL Workfront DAM].
+* Voeg altijd eigenaar- of kredietgegevens aan uw elementen toe ter identificatie buiten [!UICONTROL Workfront DAM] .
 * Voeg gebruiksvoorwaarden voor door rechten beheerde middelen toe om misbruik te voorkomen.
 * Voeg metagegevens toe aan uw elementen zodra u deze uploadt.
 * Voer vooraf bepaalde dropdown menu&#39;s voor algemeen gebruikte gegevens uit om inconsistenties te verhinderen.
@@ -52,4 +52,4 @@ Kijk naar de workflow met uw middelen bij het ontwikkelen van de metagegevensstr
 * Hoe vaak worden de middelen gecontroleerd op juiste metagegevens?
 * Wie is verantwoordelijk voor de metagegevenscontroles?
 
-Het toevoegen van metagegevens kan tijdrovend en vervelend zijn. Gestructureerde en consistente metagegevens vormen echter de basis voor de opbouw van een [!UICONTROL Workfront DAM] dat zeer doorzoekbaar is en gemakkelijk kan worden doorzocht.
+Het toevoegen van metagegevens kan tijdrovend en vervelend zijn. Gestructureerde en consistente metagegevens vormen echter de basis voor het maken van een [!UICONTROL Workfront DAM] -bestand dat in hoge mate doorzoekbaar is en eenvoudig kan worden doorzocht.

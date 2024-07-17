@@ -1,6 +1,6 @@
 ---
 title: Overzicht van oefeningen voor Universal-connectors
-description: Leer hoe u de kracht van universele connectors kunt benutten, verbinding kunt maken met een externe API en informatie kunt extraheren uit een array, allemaal in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om in de macht van universele schakelaars te onttrekken, met een externe API te verbinden, en informatie uit een serie, allen in  [!DNL Adobe Workfront Fusion] te halen.
 activity: use
 team: Technical Marketing
 type: Tutorial

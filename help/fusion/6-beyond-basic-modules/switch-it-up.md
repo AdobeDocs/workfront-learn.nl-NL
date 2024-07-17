@@ -1,6 +1,6 @@
 ---
 title: Omhoog schakelen
-description: Leer welke schakelaarfuncties en schakelaarmodules zijn en wanneer een schakelaarfunctie versus een schakelaarmodule binnen gebruiken [!DNL Adobe Workfront Fusion].
+description: Leer welke schakelaarfuncties en schakelaarmodules zijn en wanneer om een schakelaarfunctie vs een schakelaarmodule in  [!DNL Adobe Workfront Fusion] te gebruiken.
 activity: use
 team: Technical Marketing
 type: Tutorial

@@ -20,18 +20,18 @@ ht-degree: 0%
 
 [!DNL Workfront] raadt u aan de bestaande probleemstatus in uw systeem te wijzigen voordat u nieuwe statussen gaat maken. Zo beperkt u het aantal statussen dat moet worden behouden.
 
-1. Klikken **[!UICONTROL Setup]** in de **[!UICONTROL Main Menu]**.
-1. Breid uit **[!UICONTROL Project Preferences]** in het linkerdeelvenster van het menu.
-1. Selecteren **[!UICONTROL Statuses]**.
-1. Selecteer **[!UICONTROL Issues]** tab.
-1. Zorg ervoor dat het veld rechtsboven is ingesteld op [!UICONTROL System Statuses]. Dit zorgt ervoor dat de nieuwe status wereldwijd beschikbaar is voor alle [!DNL Workfront] -instantie.
-1. Selecteren **[!UICONTROL Master List]** om alle uitgiftestatussen te zien. Hier maakt of wijzigt u een status.
+1. Klik op **[!UICONTROL Setup]** in de **[!UICONTROL Main Menu]** .
+1. Vouw de sectie **[!UICONTROL Project Preferences]** in het linkermenu uit.
+1. Selecteer **[!UICONTROL Statuses]** .
+1. Selecteer de tab **[!UICONTROL Issues]** .
+1. Zorg ervoor dat het veld rechtsboven is ingesteld op [!UICONTROL System Statuses] . Dit zorgt ervoor dat de nieuwe status wereldwijd beschikbaar is voor uw [!DNL Workfront] -instantie.
+1. Selecteer **[!UICONTROL Master List]** om alle uitgiftestatussen weer te geven. Hier maakt of wijzigt u een status.
 1. Klik op **[!UICONTROL Add a New Status]**.
 1. Vul de velden naar wens in voor uw organisatie: naam, beschrijving, kleur, staat gelijk aan, sleutel enz.
 1. Controleer de vakjes voor het type van kwestie deze status kan worden gebruikt met.
 1. Klik op **[!UICONTROL Save]**.
 
-![Nieuw statusvenster ingeschakeld [!UICONTROL Statuses] page](assets/admin-fund-create-issue-status.png)
+![ Nieuw statusvenster op [!UICONTROL Statuses] pagina ](assets/admin-fund-create-issue-status.png)
 
 ## Uitgiftestatus en groepsbeheerders
 
@@ -39,13 +39,13 @@ Groepbeheerders kunnen uitgavestatussen maken en aanpassen voor de groepen die z
 
 De beheerders van de groep kunnen bestaande statussen uitgeven als de systeembeheerder hen heeft gevormd om aanpassing toe te staan.
 
-Systeembeheerders kunnen statussen voor groepen beheren door de groepsnaam in de rechterbovenhoek van het dialoogvenster [!UICONTROL Statuses] venster.
+Systeembeheerders kunnen statussen voor groepen beheren door de groepsnaam in de rechterbovenhoek van het [!UICONTROL Statuses] -venster te selecteren.
 
-![Menu Groepslijst op [!UICONTROL Statuses] page](assets/admin-fund-change-group-master-list.png)
+![ het lijstmenu van de Groep op [!UICONTROL Statuses] pagina ](assets/admin-fund-change-group-master-list.png)
 
-Groepbeheerders kunnen in het dialoogvenster [!UICONTROL Groups] in de [!UICONTROL Setup] gebied, hun groep openen door de naam te klikken en dan te selecteren [!UICONTROL Statuses] in het linkerdeelvenstermenu. Selecteer het tabblad Problemen.
+Groepbeheerders kunnen in de sectie [!UICONTROL Groups] in het [!UICONTROL Setup] -gebied klikken, hun groep openen door op de naam te klikken en vervolgens [!UICONTROL Statuses] in het menu van het linkerdeelvenster te selecteren. Selecteer het tabblad Problemen.
 
-![[!UICONTROL Statuses] deel van [!UICONTROL Group] page](assets/admin-fund-group-issue-statuses.png)
+![[!UICONTROL Statuses] sectie van [!UICONTROL Group] page ](assets/admin-fund-group-issue-statuses.png)
 
 <!---
 For detailed information on how managing statuses can be done by group administrators, see these articles:

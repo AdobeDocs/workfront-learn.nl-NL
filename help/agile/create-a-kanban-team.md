@@ -9,7 +9,7 @@ thumbnail: create-kanban-team.png
 exl-id: 01573905-514d-4df6-b2b6-1c92585e56fc
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -22,26 +22,26 @@ Ze hebben een alternatief voor Scrum. Het heet Kanban.
 
 Kanban werkt voor teams die niet willen definiëren waaraan ze werken binnen de tijdlijn die een op scrum gebaseerde herhaling vereist. In plaats daarvan, laat Kanban teams toe om onophoudelijk door hun achterstand te werken.
 
-Laten we het Creative Marketing-team van een Scrum-team overschakelen op een Kanban-team [1]. Breng deze wijziging aan in de sectie Gietijzer van de Team-instellingen.
+Laten wij het Creatieve Team van de Marketing van een team van het Trommel aan een team Kanban [ 1 ] schakelen. Breng deze wijziging aan in de sectie Gietijzer van de Team-instellingen.
 
-Nadat u de methodologie verandert, moet u specificeren hoeveel verhalen een team Kanban in een tijd in elke kolom kan hebben door de &quot;grens van het WIP aan te passen.&quot; [2]. WIP staat voor werk in uitvoering. Het aantal u verkiest om hier te zetten hangt af van hoeveel actieve punten het team kan behandelen. Het zal op storyboard van het team tonen helpen hen herinneren als zij al dan niet oververdeeld zijn. U (en elk lid van het team met bewerkingsrechten) kunt de WIP-limiet ook rechtstreeks vanaf het storyboard wijzigen.
+Nadat u de methodologie verandert, moet u specificeren hoeveel verhalen een team Kanban in een tijd in elke kolom kan hebben door de &quot;grens van het WIP aan te passen.&quot; [ 2 ]. WIP staat voor werk in uitvoering. Het aantal u verkiest om hier te zetten hangt af van hoeveel actieve punten het team kan behandelen. Het zal op storyboard van het team tonen helpen hen herinneren als zij al dan niet oververdeeld zijn. U (en elk lid van het team met bewerkingsrechten) kunt de WIP-limiet ook rechtstreeks vanaf het storyboard wijzigen.
 
-![Team Settings page](assets/teamspage-01.png)
+![ pagina van de montages van het Team ](assets/teamspage-01.png)
 
 U kunt statuskolommen slepen en neerzetten om ze in de gewenste volgorde te plaatsen.
 
-![Team Settings page](assets/teamspage-02.png)
+![ pagina van de montages van het Team ](assets/teamspage-02.png)
 
-Kanban-teams kunnen er ook voor kiezen om het volgende artikel automatisch op de achtergrond weer te geven wanneer een artikel is voltooid [zie nummer 3 in bovenste afbeelding]. Dit zal teams helpen die een ononderbroken het werkcyclus verkiezen.
+Kanban de teams kunnen ook verkiezen om het volgende verhaal op de achterstand automatisch op storyboard te hebben verschijnen wanneer een verhaal [ aantal 3 in hoogste beeld ] wordt voltooid ziet. Dit zal teams helpen die een ononderbroken het werkcyclus verkiezen.
 
 
 In de onderstaande afbeelding ziet u hoe het eruitziet wanneer een nieuw artikel automatisch op het storyboard wordt weergegeven wanneer een artikel is voltooid.
 
-![Team Settings page](assets/teamspage-03.png)
+![ pagina van de montages van het Team ](assets/teamspage-03.png)
 
 Om uw voltooide werk efficiënter te beheren, blijven de verhalen standaard 14 dagen op het bord.
 
-![Team Settings page](assets/teampage-04.png)
+![ pagina van de montages van het Team ](assets/teampage-04.png)
 
 Indien nodig, kan die instelling worden aangepast aan tussen 1 en 30 dagen in het venster met teaminstellingen.
 

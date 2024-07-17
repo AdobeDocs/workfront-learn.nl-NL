@@ -26,11 +26,11 @@ Leer hoe u apps van het type iteratie gebruikt en acties uitvoert op elke bundel
 
 Kijk naar een specifiek project in Workfront en bekijk dan alle taken binnen dat project. U zult de module van het verhogingshulpmiddel gebruiken om het aantal taken binnen het project te tellen. Tot slot zult u de Vastgestelde veranderlijke module gebruiken om het Aantal Kinderen van het Aantal Open Kwesties af te trekken om een numerieke waarde voor elk van de taakbundels te produceren.
 
-![Inleiding tot iterators Image 1](../12-exercises/assets/introduction-to-iterators-walkthrough-1.png)
+![ Inleiding aan iteratorBeeld 1 ](../12-exercises/assets/introduction-to-iterators-walkthrough-1.png)
 
 ## Te volgen stappen
 
-**Lees een project en verwante taken.**
+**las een project en verwante taken.**
 
 1. Start een nieuw scenario. Noem het &quot;Inleiding aan herhaling.&quot;
 1. Kies Workfront als de triggermodule. Een record lezen.
@@ -48,7 +48,7 @@ Kijk naar een specifiek project in Workfront en bekijk dan alle taken binnen dat
 
    + Klik op de uitvoeringcontrole en u ziet één bundel als input (het project) en 28 bundels als output (de taken).
 
-   **Aantal en proces herhaalde bundels.**
+   **Telling en proces herhaalde bundels.**
 
 1. Voeg een andere module toe na Gelezen Verwante Verslagen. Kies een module voor de functiegereedschappen van Toename.
 
@@ -58,9 +58,9 @@ Kijk naar een specifiek project in Workfront en bekijk dan alle taken binnen dat
 1. Voeg een module voor de variabele Set toe. Stel de naam van de variabele in op Willekeurig pad.
 1. Trek in het veld Waarde variabele het aantal open onderliggende items af van het aantal open opTasks.
 
-   **Het moet er als volgt uitzien:**
+   **het zou als dit moeten kijken:**
 
-   ![Inleiding tot iterators Image 2](../12-exercises/assets/introduction-to-iterators-walkthrough-2.png)
+   ![ Inleiding aan iteratorBeeld 2 ](../12-exercises/assets/introduction-to-iterators-walkthrough-2.png)
 
 1. Wijzig de naam van deze module Willekeurige wiskunde.
 1. Sla het scenario op en klik eenmaal op Uitvoeren.

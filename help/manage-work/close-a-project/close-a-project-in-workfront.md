@@ -1,6 +1,6 @@
 ---
 title: Een project sluiten
-description: Leer welke informatie te herzien, en waarom het belangrijk is om bijgewerkte gegevens te hebben, in een project alvorens het te sluiten in [!DNL  Workfront].
+description: Leer welke informatie te herzien, en waarom het belangrijk is om bijgewerkte gegevens, in een project te hebben alvorens het in  [!DNL  Workfront] te sluiten.
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In deze video leert u meer over:
 
-* Informatie die moet worden gecontroleerd in [!DNL Workfront] voordat u een project sluit
+* Informatie die moet worden gecontroleerd in [!DNL Workfront] voordat een project wordt gesloten
 * Waarom het belangrijk is om bijgewerkte gegevens te hebben
 * U kunt vragen stellen om u te helpen toekomstige projecten te verbeteren
 

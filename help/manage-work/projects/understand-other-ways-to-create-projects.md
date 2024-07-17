@@ -1,6 +1,6 @@
 ---
 title: Leer vier manieren om een project te maken
-description: Leer hoe u een project maakt van een sjabloon, een geheel nieuw project maakt, een bestaand project kopieert of een [!DNL Microsoft Project] bestand.
+description: Leer hoe te om een project van een malplaatje tot stand te brengen, een project van kras tot stand te brengen, een bestaand project te kopiëren, of a  [!DNL Microsoft Project]  dossier in te voeren.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335084.jpeg
@@ -27,7 +27,7 @@ In deze video leert u hoe u:
 * Een project maken op basis van een sjabloon
 * Een geheel nieuw project maken
 * Een bestaand project kopiëren
-* Een [!DNL Microsoft Project] file
+* Een [!DNL Microsoft Project] -bestand importeren
 
 >[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 

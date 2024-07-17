@@ -1,6 +1,6 @@
 ---
 title: De metagegevensterminologie controleren
-description: Meer informatie over de metagegevens, de vragen die u moet stellen bij het ontwikkelen van een metagegevensstrategie en meer in [!UICONTROL Workfront DAM].
+description: Leer meer over de metagegevens, de vragen die u moet stellen bij het ontwikkelen van een metagegevensstrategie en meer in [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial

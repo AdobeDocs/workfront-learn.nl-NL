@@ -1,6 +1,6 @@
 ---
 title: Een IF-tekstexpressie maken
-description: Leer wat een IF-expressie doet en hoe u deze in een berekend veld kunt gebruiken in [!DNL Workfront].
+description: Leer wat een uitdrukking IF doet en hoe te om het op een berekend gebied in  [!DNL Workfront] te gebruiken.
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User

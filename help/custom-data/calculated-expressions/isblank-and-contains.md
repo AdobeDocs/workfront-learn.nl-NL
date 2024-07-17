@@ -1,6 +1,6 @@
 ---
 title: De expressies ISBLANK en CONTAINS gebruiken
-description: Leer hoe u de expressies ISBLANK en CONTAINS in het berekende veld Adobe gebruikt en maakt [!DNL Workfront].
+description: Leer hoe te om de uitdrukkingen ISBLANK te gebruiken en tot stand te brengen en CONTAINS op een berekend gebied in Adobe  [!DNL Workfront].
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -22,19 +22,19 @@ Zowel CONTAINS als ISBLANK uitdrukkingen worden gebruikt om eenvoudige waar of v
 
 Bijvoorbeeld, om te zien of heeft een project een beschrijving, gebruik de uitdrukking ISBLANK. Als het beschrijvingsveld leeg is, retourneert de expressie de waarde true. Als het beschrijvingsveld niet leeg is, wordt de waarde false geretourneerd.
 
-![Werklastverdelingsmechanisme met gebruiksrapport](assets/isblank01.png)
+![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/isblank01.png)
 
 Als u wilt zoeken naar een specifieke waarde in de beschrijving, bijvoorbeeld &quot;liefdadigheidsgebeurtenis&quot;, gebruikt u de tekstexpressie CONTAINS. Als in de beschrijving &quot;liefdadigheidsgebeurtenis&quot; wordt gevonden, wordt in het berekende veld &quot;true&quot; weergegeven. Er wordt &quot;false&quot; weergegeven als er geen &quot;liefdadigheidsgebeurtenis&quot; wordt gevonden.
 
-![Werklastverdelingsmechanisme met gebruiksrapport](assets/isblank02.png)
+![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/isblank02.png)
 
 ## ISBLANK
 
 De ISBLANK-tekstexpressie bevat de naam van de expressie en één gegevenspunt.
 
-**ISBLANK({data point})**
+**ISBLANK ({gegevenspunt})**
 
-![Werklastverdelingsmechanisme met gebruiksrapport](assets/isblank03.png)
+![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/isblank03.png)
 
 In het voorbeeld hierboven—waar u wilt weten of het project een beschrijving heeft—zou de expressie zijn:
 
@@ -44,19 +44,19 @@ ISBLANK({description})
 
 De tekstexpressie CONTAINS bevat de naam van de expressie, het woord of de woordgroep waarin u zoekt en het veld waarin u wilt zoeken.
 
-**CONTAINS(&quot;frase&quot;),{fields})**
+**BEVAT (&quot;uitdrukking&quot;, {fields})**
 
 Zorg ervoor dat u aanhalingstekens plaatst rond het woord of de woordgroep waarnaar u zoekt, anders is de uitdrukking niet geldig.
 
-In het bovenstaande voorbeeld (waarin wordt gezocht naar &quot;liefdadigheidsgebeurtenis&quot; in de projectomschrijving) zou de expressie als volgt zijn:
+In het bovenstaande voorbeeld (waarin wordt gezocht naar &quot;liefdadigheidsgebeurtenis&quot; in de projectbeschrijving) zou de expressie als volgt zijn:
 
-**CONTAINS(&quot;liefdadigheidsgebeurtenis&quot;,{description})**
+**BEVAT (&quot;liefdadigheidsgebeurtenis&quot;, {description})**
 
-![Werklastverdelingsmechanisme met gebruiksrapport](assets/isblank04.png)
+![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/isblank04.png)
 
-**Opmerking**: De expressie CONTAINS is hoofdlettergevoelig. Als &#39;Charity Event&#39; bijvoorbeeld een hoofdletter is in het beschrijvingsveld, maakt u die zin in de expressie met een hoofdletter.
+**Nota**: De BEVAT uitdrukking is gevoelig geval. Als &#39;Charity Event&#39; bijvoorbeeld een hoofdletter is in het beschrijvingsveld, maakt u die zin in de expressie met een hoofdletter.
 
-**CONTAINS(&quot;Charity Event&quot;,{description})**
+**BEVAT (&quot;de Gebeurtenis van het Aard&quot;, {description})**
 
 Zowel zijn ISBLANK als CONTAINS uitdrukkingen goed om te gebruiken als u kijkt om te zien of is een waarde aanwezig. Het kan echter nuttiger zijn om te weten wat de waarde is, om deze te zien of om een of andere vorm van descriptor te hebben om een beter inzicht te verschaffen.
 

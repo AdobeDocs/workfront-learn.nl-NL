@@ -34,7 +34,7 @@ Door standaardfilters, -weergaven en/of -groepen voor gebruikers in te stellen, 
 
 Als systeem of groepsbeheerder, kunt u bepalen wat de gebruikers aanvankelijk zien wanneer het bekijken van een lijst van projecten, taken, kwesties, enz., door een standaardfilter, een mening, en/of groepering door een lay-outmalplaatje te plaatsen.
 
-![Lay-outsjabloon [!UICONTROL Lists] venster](assets/admin-fund-layout-template-default-lists-1-1.JPG)
+![ het malplaatje van de Lay-out [!UICONTROL Lists] venster ](assets/admin-fund-layout-template-default-lists-1-1.JPG)
 
 >[!NOTE]
 >
@@ -43,14 +43,14 @@ Als systeem of groepsbeheerder, kunt u bepalen wat de gebruikers aanvankelijk zi
 
 Als u een standaardlijst wilt instellen, kunt u:
 
-* Houd de muis boven een reeds vermelde optie en klik op [!UICONTROL Set as default].
+* Houd de muis boven een optie die al wordt vermeld en klik op [!UICONTROL Set as default] .
 
-![Lay-outsjabloon [!UICONTROL Lists] venster met [!UICONTROL Set as default] visible](assets/admin-fund-layout-template-default-lists-1-2.JPG)
+![ het malplaatje van de Lay-out [!UICONTROL Lists] venster met [!UICONTROL Set as default] zichtbaar ](assets/admin-fund-layout-template-default-lists-1-2.JPG)
 
-* U kunt ook een aangepast filter, aangepaste weergave of groep toevoegen en het selectievakje naast [!UICONTROL Set default].
+* U kunt ook een aangepast filter, aangepaste weergave of groep toevoegen en het selectievakje naast [!UICONTROL Set default] inschakelen.
 
-![[!UICONTROL Add an existing View] venster](assets/admin-fund-layout-template-default-lists-1-3.JPG)
+![[!UICONTROL Add an existing View] window ](assets/admin-fund-layout-template-default-lists-1-3.JPG)
 
-Als u klaar bent, ziet u de [!UICONTROL Default] tag.
+Zodra u klaar bent, ziet u de tag [!UICONTROL Default] .
 
-![[!UICONTROL Default] tag naast lijstoptie](assets/admin-fund-layout-template-default-lists-1-4.JPG)
+![[!UICONTROL Default] naast lijstoptie ](assets/admin-fund-layout-template-default-lists-1-4.JPG)

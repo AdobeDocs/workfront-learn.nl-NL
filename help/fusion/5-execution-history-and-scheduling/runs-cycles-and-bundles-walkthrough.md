@@ -1,6 +1,6 @@
 ---
 title: De looppas, cycli, en bundels loopt door
-description: Leer hoe te om verschillende scenario configuraties te gebruiken om het gebruiken van looppas en cycli in te onderzoeken [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om verschillende scenario configuraties te gebruiken om het gebruiken van looppas en cycli in  [!DNL Adobe Workfront Fusion] te onderzoeken.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 De praktijk met verschillende scenario configuraties om het gebruiken van looppas en cycli te onderzoeken.
 
-![Een afbeelding van de instellingen voor uitvoering en cycli](assets/execution-history-and-scheduling-6.png)
+![ een beeld van looppas en cyclusmontages ](assets/execution-history-and-scheduling-6.png)
 
 ## De looppas, cycli, en bundels loopt door
 
@@ -34,4 +34,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

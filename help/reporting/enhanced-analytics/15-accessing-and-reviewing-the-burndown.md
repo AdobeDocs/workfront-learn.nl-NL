@@ -1,6 +1,6 @@
 ---
 title: Begrijp de toegang tot van en het herzien van de burndown grafiek
-description: Leer hoe te om tot de burndown grafiek toegang te hebben en het verband tussen resterende uren, projectvoorwaarde, en projectsnelheid binnen te begrijpen [!UICONTROL Enhanced Analytics].
+description: Leer hoe te om tot de burndown grafiek toegang te hebben en het verband tussen resterende uren, projectvoorwaarde, en projectsnelheid in [!UICONTROL Enhanced Analytics] te begrijpen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -37,7 +37,7 @@ Aan de hand van deze informatie kunt u bepalen:
 * Hoe problemen die zich voordeden (ongeplande werkzaamheden) de geplande werkzaamheden hebben beïnvloed.
 * Welke gebeurtenissen uw project voorbij de geplande voltooiingsdatum verlengden.
 
-![Een afbeelding met een uitvouwdiagram met nummers op de gebieden die in de onderstaande opsommingstekens worden beschreven](assets/section-2-9.png)
+![ een beeld dat een burndown grafiek met aantallen op gebieden toont die in hieronder kogels worden beschreven ](assets/section-2-9.png)
 
 Op het diagram kunt u zien:
 

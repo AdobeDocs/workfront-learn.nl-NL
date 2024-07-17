@@ -1,6 +1,6 @@
 ---
 title: Een aanvraagstroom maken
-description: Leer hoe te vormen [!DNL  Workfront] de rijonderwerpen, onderwerpgroepen, en het verpletteren van regels helpen verzoek en het werkopname beheren.
+description: Leer hoe te om  [!DNL  Workfront]  rijonderwerpen, onderwerpgroepen te vormen, en het verpletteren van regels helpen verzoek en het werkopname beheren.
 activity: deploy
 feature: Work Management
 type: Tutorial

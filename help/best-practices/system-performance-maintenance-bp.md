@@ -8,7 +8,7 @@ jira: KT-10927
 exl-id: c3f32975-96f4-4e62-8c3a-5b985b45bbbf
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -30,7 +30,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 </br>
 </br>
 
-## Aanbevolen werkwijzen voor systeemprestaties en -onderhoud
+## Beste werkwijzen voor systeemprestaties en onderhoud
 
 * Opmerkingen bij de release van het product bekijken vóór de releasedatum.
 
@@ -63,7 +63,7 @@ Opmerkingen bij de release van het product bekijken vóór de releasedatum.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 In de release ziet u welke nieuwe functies en gereedschappen beschikbaar zijn voor het Workfront-systeem. Door deze notities te bekijken en met de nieuwe functionaliteit in de Sandbox-voorvertoningsomgeving te spelen, hebt u de kans om fouten met nieuwe verbeteringen op te sporen, te gebruiken en op te lossen voordat deze worden vrijgegeven voor productie.
 
@@ -76,9 +76,9 @@ Maak verschillende typen uitzonderingsrapporten die ontbrekende of onjuiste gege
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
-Deze rapporten bevatten onder andere informatie over de gebruikers die moeten worden gedeactiveerd, welke projecten een voltooiingspercentage van 100% aangeven, maar niet zijn gemarkeerd als voltooid, welke sjablonen nooit zijn gebruikt, enzovoort.
+Deze rapporten bevatten onder andere informatie over de gebruikers die moeten worden gedeactiveerd, welke projecten een voltooiingspercentage van 100% aangeven, maar die niet zijn gemarkeerd als voltooid, welke sjablonen nooit zijn gebruikt, enzovoort.
 
 
 
@@ -97,6 +97,6 @@ Houd projecten kort.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Telkens als u sparen een project, of een taak binnen het project, is er een chronologieberekening die loopt om alle gebiedsdelen bij te werken. Afhankelijk van het aantal taken in uw project, kan de herberekening lange tijd vergen te lopen.

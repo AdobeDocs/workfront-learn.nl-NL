@@ -27,37 +27,37 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Activiteit: Een diagram toevoegen aan een rapport
+## Activiteit: voeg een grafiek aan een rapport toe
 
 Het einde van het kwartaal nadert en u wilt zien hoe recent voltooide projecten zich aan hun budget hebben gekleed. Maak een rapport met de geplande kosten ten opzichte van de werkelijke kosten voor projecten. U wilt alleen projecten zien die in het laatste kwartaal zijn voltooid. Voeg een kleurengrafiek van de combinatiekolom toe gebruikend douanekleuren.
 
 ## Antwoord
 
-1. Selecteren **[!UICONTROL Reports]** van de **[!UICONTROL Main Menu]**.
-1. Klik op de knop **[!UICONTROL New Report]** en selecteert u **[!UICONTROL Project]**.
-1. In de **[!UICONTROL Columns (View)]** tabblad, klikt u op **[!UICONTROL Add Column]**.
-1. Selecteren [!UICONTROL Project] > [!UICONTROL Planned Cost] en vat deze kolom samen met **[!UICONTROL Sum]**.
-1. Klikken **[!UICONTROL Add Column]** opnieuw.
-1. Selecteren [!UICONTROL Project] > [!UICONTROL Actual Cost] en vat deze kolom samen met **[!UICONTROL Sum]**.
+1. Selecteer **[!UICONTROL Reports]** in het menu **[!UICONTROL Main Menu]** .
+1. Klik op het menu **[!UICONTROL New Report]** en selecteer **[!UICONTROL Project]** .
+1. Klik op het tabblad **[!UICONTROL Columns (View)]** op **[!UICONTROL Add Column]** .
+1. Selecteer [!UICONTROL Project] > [!UICONTROL Planned Cost] en vat deze kolom samen met **[!UICONTROL Sum]** .
+1. Klik nogmaals op **[!UICONTROL Add Column]** .
+1. Selecteer [!UICONTROL Project] > [!UICONTROL Actual Cost] en vat deze kolom samen met **[!UICONTROL Sum]** .
 
-   ![Een beeld van het scherm om kolommen aan een rapport toe te voegen](assets/chart-report-columns.png)
+   ![ een beeld van het scherm om kolommen aan een rapport toe te voegen ](assets/chart-report-columns.png)
 
-1. In de **[!UICONTROL Groupings]** tab, stel het rapport in op groeperen op [!UICONTROL Project] > [!UICONTROL Name].
+1. Stel op het tabblad **[!UICONTROL Groupings]** het rapport in op groeperen met [!UICONTROL Project] > [!UICONTROL Name] .
 
-   ![Een beeld van het scherm om groepen aan een rapport toe te voegen](assets/chart-report-groupings.png)
+   ![ een beeld van het scherm om groeperingen aan een rapport toe te voegen ](assets/chart-report-groupings.png)
 
-1. In de **[!UICONTROL Filters]** twee filterregels toevoegen:
+1. Voeg op het tabblad **[!UICONTROL Filters]** twee filterregels toe:
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Complete]
    * [!UICONTROL Project] >[!UICONTROL  Actual Completion Date] > [!UICONTROL Last Quarter]
 
-   ![Een afbeelding van het scherm om filters toe te voegen aan een rapport](assets/chart-report-filters.png)
+   ![ een beeld van het scherm om filters aan een rapport toe te voegen ](assets/chart-report-filters.png)
 
-1. In de **[!UICONTROL Chart]** tab, kiest u **[!UICONTROL Column]** voor het diagramtype.
-1. Voor de [!UICONTROL Left (Y) Axis]kiest u [!UICONTROL Project] > [!UICONTROL Planned Cost].
-1. Voor de [!UICONTROL Bottom (X) Axis]kiest u [!UICONTROL Project] > [!UICONTROL Name].
-1. Klik op de knop **[!UICONTROL Combination Chart]** en selecteert u [!UICONTROL Project] > [!UICONTROL Actual Cost] in de **[!UICONTROL Value]** veld.
-1. Klik op de pijl naast het kleurvak om het dialoogvenster [!UICONTROL Actual Cost] kleur. Selecteer een van de kleuren die wordt weergegeven of klik op het vak in de rechterbenedenhoek om het kleurenpalet weer te geven.
-1. Klikken op **[!UICONTROL Save + Close]**. Wanneer ertoe aangezet voor een rapportnaam, noem het &quot;Gepland vs Ware Kosten door Project Voltooid Laatste Kwartaal.&quot;
+1. Kies op het tabblad **[!UICONTROL Chart]** de optie **[!UICONTROL Column]** voor het diagramtype.
+1. Kies voor de [!UICONTROL Left (Y) Axis] de optie [!UICONTROL Project] > [!UICONTROL Planned Cost] .
+1. Kies voor de [!UICONTROL Bottom (X) Axis] de optie [!UICONTROL Project] > [!UICONTROL Name] .
+1. Klik op de knop **[!UICONTROL Combination Chart]** en selecteer [!UICONTROL Project] > [!UICONTROL Actual Cost] in het veld **[!UICONTROL Value]** .
+1. Klik op de pijl naast het kleurvak om de [!UICONTROL Actual Cost] -kleur te wijzigen. Selecteer een van de kleuren die wordt weergegeven of klik op het vak in de rechterbenedenhoek om het kleurenpalet weer te geven.
+1. Klik op **[!UICONTROL Save + Close]** . Wanneer ertoe aangezet voor een rapportnaam, noem het &quot;Gepland vs Ware Kosten door Project Voltooid Laatste Kwartaal.&quot;
 
-   ![Een beeld van het scherm om een grafiek aan een rapport toe te voegen](assets/chart-report-chart.png)
+   ![ een beeld van het scherm om een grafiek aan een rapport toe te voegen ](assets/chart-report-chart.png)

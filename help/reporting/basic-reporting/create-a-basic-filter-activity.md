@@ -22,28 +22,28 @@ ht-degree: 1%
 
 ## Activiteit 1 - Alle projecten in de marketingportefeuille
 
-In deze activiteit zult u een projectfilter creëren genoemd &quot;Alle projecten in de portefeuille van de Marketing&quot;in [!UICONTROL Legacy filter] ervaring. Dit zal u alle projecten in de portefeuille genoemd &quot;Portfolio van de Marketing&quot;ongeacht hun status tonen.
+In deze activiteit zult u een projectfilter genoemd &quot;Alle projecten in de portefeuille van de Marketing&quot;in de [!UICONTROL Legacy filter] ervaring creëren. Dit zal u alle projecten in de portefeuille genoemd &quot;Portfolio van de Marketing&quot;ongeacht hun status tonen.
 
 Hieronder vindt u stapsgewijze instructies.
 
 ### Antwoord op Activiteit 1
 
-![Een afbeelding van het scherm om een nieuw filter te maken](assets/basic-filter-activity-1.png)
+![ een beeld van het scherm om een nieuw filter ](assets/basic-filter-activity-1.png) tot stand te brengen
 
-1. Ga naar de [!UICONTROL Projects] gebied van de [!UICONTROL Main Menu]. Dit toont u een lijst van projecten.
-1. Klik op de knop **[!UICONTROL Filter]** en selecteert u [!UICONTROL Legacy Filters].
-1. Selecteren **[!UICONTROL New Filter]**.
+1. Navigeer naar het [!UICONTROL Projects] -gebied vanuit [!UICONTROL Main Menu] . Dit toont u een lijst van projecten.
+1. Klik op het menu **[!UICONTROL Filter]** en selecteer [!UICONTROL Legacy Filters] .
+1. Selecteer **[!UICONTROL New Filter]** .
 1. Geef het filter de naam &quot;Alle projecten in het marketingportfolio&quot;.
 1. Klik op **[!UICONTROL Add Filter Rule]**.
-1. In de [!UICONTROL Start typing field name] veld, typ &quot;[!UICONTROL portfolio name]&quot;. Selecteer vervolgens [!UICONTROL Name] onder de [!UICONTROL Portfolio] veldbron.
-1. Laat de [!UICONTROL Equal] -operator zoals deze is.
-1. Typ &quot;[!UICONTROL marketing]&quot; in de [!UICONTROL Start typing name] veld.
-1. Selecteren [!UICONTROL Marketing Portfolio] er wordt aangenomen dat u een portfolio met die naam hebt waarop u wilt filteren. Als u niet gewoon de functie voor het vooruitgaan van tekst gebruikt om het gewenste portfolio te zoeken.
+1. Typ &quot;[!UICONTROL portfolio name]&quot; in het veld [!UICONTROL Start typing field name] . Selecteer vervolgens [!UICONTROL Name] onder de veldbron van [!UICONTROL Portfolio] .
+1. Laat de operator [!UICONTROL Equal] ongewijzigd.
+1. Typ &quot;[!UICONTROL marketing]&quot; in het veld [!UICONTROL Start typing name] .
+1. Selecteer [!UICONTROL Marketing Portfolio] ervan uitgaande dat u een portfolio met die naam hebt waarop u wilt filteren. Als u niet gewoon de functie voor het vooruitgaan van tekst gebruikt om het gewenste portfolio te zoeken.
 1. Klik op **[!UICONTROL Save Filter]**.
 
 ## Activiteit 2 - Projecten waarvan ik eigenaar ben en die deze maand aflopen
 
-In deze video maakt u een projectfilter met de naam &quot;Projecten waarvan ik eigenaar ben en die deze maand worden gesloten&quot; in het dialoogvenster [!UICONTROL Legacy filter] ervaring. Als u veel projecten in de gaten houdt, kunt u met dit filter inzoomen op de projecten die binnenkort gesloten zullen worden.
+In deze video maakt u een projectfilter met de naam &quot;Projecten waarvan ik eigenaar ben en die deze maand afsluiten&quot; in de [!UICONTROL Legacy filter] -ervaring. Als u veel projecten in de gaten houdt, kunt u met dit filter inzoomen op de projecten die binnenkort gesloten zullen worden.
 
 Hieronder vindt u stapsgewijze instructies.
 
@@ -51,22 +51,22 @@ Hieronder vindt u stapsgewijze instructies.
 
 ### Antwoord op Activiteit 2
 
-![Een afbeelding van het scherm om een nieuw filter te maken](assets/basic-filter-activity-updated-6-15-21.png)
+![ een beeld van het scherm om een nieuw filter ](assets/basic-filter-activity-updated-6-15-21.png) tot stand te brengen
 
-1. Ga naar de [!UICONTROL Projects] gebied van de [!UICONTROL Main Menu]. Dit toont u een lijst van projecten.
-1. Klik op de knop **[!UICONTROL Filter]** en selecteert u [!UICONTROL Legacy Filters].
-1. Selecteren **[!UICONTROL New Filter]**.
+1. Navigeer naar het [!UICONTROL Projects] -gebied vanuit [!UICONTROL Main Menu] . Dit toont u een lijst van projecten.
+1. Klik op het menu **[!UICONTROL Filter]** en selecteer [!UICONTROL Legacy Filters] .
+1. Selecteer **[!UICONTROL New Filter]** .
 1. Geef uw filter de naam &quot;Projecten waarvan ik eigenaar ben en die deze maand worden gesloten&quot;.
 1. Klik op **[!UICONTROL Add Filter Rule]**.
-1. In de [!UICONTROL Start typing field name] veld, typ &quot;owner&quot;. Selecteer vervolgens [!UICONTROL Owner ID] onder de [!UICONTROL Project] veldbron.
-1. Laat de [!UICONTROL Equal] -operator zoals deze is.
-1. Typ ‘$’ in het dialoogvenster [!UICONTROL Start typing name] veld.
-1. Selecteren [!UICONTROL $$USER.ID]. Dit is de vervanging voor het programma geopende gebruiker.
-1. Klikken [!UICONTROL Add Filter Rule] opnieuw.
-1. In de [!UICONTROL Start typing field name] veld, begin met typen &quot;Is voltooid&quot;. Selecteer vervolgens [!UICONTROL Is Complete] onder het veld Project.
-1. Laat de [!UICONTROL Equal] -operator zoals deze is.
+1. Typ in het veld [!UICONTROL Start typing field name] &quot;owner&quot;. Selecteer vervolgens [!UICONTROL Owner ID] onder de veldbron van [!UICONTROL Project] .
+1. Laat de operator [!UICONTROL Equal] ongewijzigd.
+1. Typ ‘$’ in het veld [!UICONTROL Start typing name] .
+1. Selecteer [!UICONTROL $$USER.ID] . Dit is de vervanging voor het programma geopende gebruiker.
+1. Klik nogmaals op [!UICONTROL Add Filter Rule] .
+1. Typ &quot;Is voltooid&quot; in het veld [!UICONTROL Start typing field name] . Selecteer vervolgens [!UICONTROL Is Complete] onder de bron van het veld Project.
+1. Laat de operator [!UICONTROL Equal] ongewijzigd.
 1. Selecteer &quot;Onwaar&quot;.
-1. Klikken [!UICONTROL Add Filter Rule] opnieuw.
-1. In de [!UICONTROL Start typing field name] veldtype &quot;geplande&quot;, selecteer vervolgens [!UICONTROL Planned Completion Date] onder de [!UICONTROL Project] veldbron.
-1. Wijzig de [!UICONTROL Equal] operator to [!UICONTROL This Month].
+1. Klik nogmaals op [!UICONTROL Add Filter Rule] .
+1. Typ in het veld [!UICONTROL Start typing field name] het veldtype &quot;geplande&quot; en selecteer vervolgens [!UICONTROL Planned Completion Date] onder de veldbron [!UICONTROL Project] .
+1. Wijzig de operator [!UICONTROL Equal] in [!UICONTROL This Month] .
 1. Klik op **[!UICONTROL Save Filter]**.

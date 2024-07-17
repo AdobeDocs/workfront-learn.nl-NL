@@ -1,6 +1,6 @@
 ---
 title: Cursusintroductie
-description: Leer hoe u het budget van een project kunt gebruiken, kosten en opbrengsten kunt bijhouden en uitgaven kunt verwerken in [!DNL  Workfront].
+description: Leer hoe te om het budget van een project te gebruiken, kosten en opbrengst te volgen, en uitgaven in  [!DNL  Workfront] te behandelen.
 activity: use
 feature: Work Management
 type: Tutorial
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 In deze video leert u hoe u:
 
-* De begroting van een project gebruiken
+* Een projectbudget gebruiken
 * Trackkosten en -inkomsten
 * Verhandelingskosten
 

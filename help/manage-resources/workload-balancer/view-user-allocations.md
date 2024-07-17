@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Gebruikerstoewijzingen weergeven in het dialoogvenster [!DNL Workload Balancer]
+# Toewijzingen van gebruikers weergeven in de [!DNL Workload Balancer]
 
 In deze video leert u hoe u:
 

@@ -1,6 +1,6 @@
 ---
 title: De beste werkwijzen voor metagegevens en trefwoorden
-description: Leer hoe u metagegevens en trefwoorden kunt gebruiken in [!UICONTROL Workfront DAM] om een middel te beschrijven om de doorzoekbaarheid van de activa van uw organisatie te verhogen.
+description: Leer hoe u in [!UICONTROL Workfront DAM] metagegevens en trefwoorden kunt gebruiken om elementen te beschrijven waarmee u de zoekbaarheid van de middelen van uw organisatie kunt vergroten.
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 Metagegevens zijn alle gegevens die worden gebruikt om een element te beschrijven. Metagegevensvelden hebben een naam en gebruikers kunnen de gegevens in veel van deze velden bewerken of wijzigen. Sommige metagegevensvelden worden gevuld door de toepassing of het apparaat waaruit het element afkomstig is en kunnen niet worden bewerkt.
 
-Het gebruik van consistente metagegevens vergroot de doorzoekbaarheid van de elementen van uw organisatie. Plus, elementen die zijn gedownload van [!UICONTROL Workfront DAM] hun metagegevens behouden, wat een andere beschermingslaag voor uw elementen biedt als deze worden verlaten [!UICONTROL Workfront DAM].
+Het gebruik van consistente metagegevens vergroot de doorzoekbaarheid van de elementen van uw organisatie. Bovendien behouden de elementen die u hebt gedownload van [!UICONTROL Workfront DAM] hun metagegevens. Dit biedt een andere beschermingslaag voor uw elementen als deze uit [!UICONTROL Workfront DAM] worden verwijderd.
 
 Hier volgen enkele tips en trucs voor het ondersteunen van de inspanningen van uw organisatie op het gebied van metagegevens:
 
-* Voeg altijd eigenaar- of kredietgegevens aan uw activa toe ter identificatie buiten [!UICONTROL Workfront DAM].
+* Voeg altijd eigenaar- of kredietgegevens aan uw elementen toe ter identificatie buiten [!UICONTROL Workfront DAM] .
 * Voeg gebruiksvoorwaarden voor door rechten beheerde middelen toe om misbruik te voorkomen.
 * Voeg metagegevens toe aan uw elementen zodra u deze uploadt.
 * Voer vooraf bepaalde dropdown menu&#39;s voor algemeen gebruikte gegevens uit om inconsistenties te verhinderen.
@@ -36,7 +36,7 @@ Hier volgen enkele tips en trucs voor het ondersteunen van de inspanningen van u
 
 ## Metagegevensstrategie
 
-Uw organisatie heeft waarschijnlijk een strategie voor metagegevens ontwikkeld. Als u elementen uploadt naar [!UICONTROL Workfront DAM]moet u het proces van uw organisatie leren met betrekking tot:
+Uw organisatie heeft waarschijnlijk een strategie voor metagegevens ontwikkeld. Als u elementen uploadt naar [!UICONTROL Workfront DAM] , moet u het proces van uw organisatie leren met betrekking tot:
 
 * Wie is verantwoordelijk voor het toevoegen van metagegevens.
 * Welke metagegevens zijn vereist.
@@ -50,7 +50,7 @@ Trefwoorden zijn een subset van metagegevens. Trefwoorden zijn doorgaans algemen
 
 Trefwoorden kunnen worden doorzocht, dus het is belangrijk dat trefwoorden consistent op elementen worden ingevoerd.
 
-Uw organisatie kan een sleutelwoordtaxonomie uitvoeren, die een gecontroleerde lijst van sleutelwoorden is u van kunt kiezen wanneer het uitgeven van activa in [!UICONTROL Workfront DAM].
+Uw organisatie kan een sleutelwoordtaxonomie uitvoeren, die een gecontroleerde lijst van sleutelwoorden is u van kunt kiezen wanneer het uitgeven van activa in [!UICONTROL Workfront DAM] kunt kiezen.
 
 Houd rekening met deze tips als uw organisatie het mogelijk maakt handmatig trefwoorden in te voeren.
 

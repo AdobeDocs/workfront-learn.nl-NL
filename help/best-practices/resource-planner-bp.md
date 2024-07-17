@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -45,7 +45,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Stel Workfront in om de informatie vast te leggen die nodig is voor het gebruik van de tools voor resourcebeheer.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Uw aanvankelijke systeemmontages zouden programma&#39;s, geplande uren, middelpools, baanrollen moeten omvatten die aan gebruikers worden toegewezen, en andere het werkvoorwerpen omdat deze montages voor de Planner van het Middel en andere hulpmiddelen van het middelbeheer essentieel zijn om nauwkeurige informatie te verstrekken.
 
@@ -58,13 +58,13 @@ Hoewel uw organisaties zouden kunnen vinden dat het uitvoeren van middelbeheer e
 
 Moedig projecteigenaars aan om de project-vlakke Planner van het Middel te gebruiken om de hoeveelheid middelen te schatten zij voor het project zullen nodig hebben.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Voor het begroten van toewijzingen voor één enkel project, kunnen de projecteigenaars de project-vlakke Planner van het Middel gebruiken aangezien zij het meest vertrouwd met de hoeveelheid tijd nodig om het werk te voltooien, evenals met de middelen nodig om dit te doen. Dit is niet alleen een grote manier om uw baanrollen, hun beschikbaarheid, en algemene toewijzing aan projecten te beheren maar ook om informatie in de systeem-vlakke Planner van het Middel te delen.
 
-Wanneer u middelen op het projectniveau begroot, wordt deze informatie automatisch weerspiegeld in de systeem-vlakke Planner van het Middel om zichtbaarheid tussen de mensen te verlenen die het werk (d.w.z., projectmanagers) leiden en de mensen die de organisatie (d.w.z., managers, C-vlakke persoon, middelmanager, enz.) personeel. Hierdoor kunnen verschillende gebruikers een &quot;groter beeld&quot; krijgen van de manier waarop bronnen in meerdere projecten op systeemniveau worden beheerd.
+Wanneer u middelen op het projectniveau begroot, wordt deze informatie automatisch weerspiegeld in de systeem-vlakke Planner van het Middel om zichtbaarheid tussen de mensen te verstrekken die het werk (d.w.z., projectmanagers) leiden en de mensen die de organisatie (d.w.z., managers, C-vlakke persoon, middelmanager, enz.) personeel. Hierdoor kunnen verschillende gebruikers een &quot;groter beeld&quot; krijgen van de manier waarop bronnen in meerdere projecten op systeemniveau worden beheerd.
 
-**Opmerking**: De functie Bronnen bevindt zich in twee delen van Workfront, afhankelijk van het feit of u uw middelen wilt begroten voor één of meerdere projecten.
+**Nota**: De Planner van het Middel wordt gevonden in twee gebieden van Workfront, afhankelijk van of u uw middelen voor enkel één project of veelvoudige projecten wilt begroten.
 
 Heb toegang tot de Planner van het Middel van een individueel project door naar het BedrijfsGeval van het project te gaan > het Leiden van het Middel > het Bewerken van het Middel en details aan de Groepen van Middelen toe te voegen om het begroten van middelen te beginnen.
 Begrotingsmiddelen voor meerdere projecten via Workfront Main Menu > Resource > Planner (dit wordt standaard weergegeven).

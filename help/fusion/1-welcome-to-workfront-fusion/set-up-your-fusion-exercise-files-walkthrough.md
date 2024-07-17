@@ -1,6 +1,6 @@
 ---
 title: Workfront Fusion-oefenbestanden instellen
-description: Leer hoe u de oefenbestanden kunt downloaden en uploaden naar een map in Workfront, in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om de oefendossiers te downloaden en deze dossiers te uploaden in een omslag in Workfront, in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Leer hoe u uw Fusion-inspanningsbestanden instelt.
 
-1. Download de [Fusion-inspanningsbestanden](/help/assets/fusion-exercise-files.zip).
+1. Download de [ uitoefeningsdossiers van de Fusie ](/help/assets/fusion-exercise-files.zip).
 
 1. Bekijk de video voor informatie over het uploaden van deze bestanden naar een map in Workfront.
 

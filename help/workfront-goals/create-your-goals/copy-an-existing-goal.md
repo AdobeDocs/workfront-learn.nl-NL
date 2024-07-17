@@ -1,6 +1,6 @@
 ---
 title: Een bestaand doel kopiëren
-description: Leer hoe u een bestaand doel kopieert in [!DNL Workfront Goals].
+description: Leer hoe te om een bestaand doel in  [!DNL Workfront Goals] te kopiëren.
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -36,27 +36,27 @@ Hieronder volgen enkele zaken die u in overweging kunt nemen voordat u doelstell
 
 ## Een doel kopiëren
 
-1. Klik op de naam van een doel om het dialoogvenster **[!UICONTROL Goal Details]** deelvenster.
-1. Klik op het pictogram met drie punten en selecteer vervolgens **[!UICONTROL Copy]**.
+1. Klik op een doelnaam om het deelvenster **[!UICONTROL Goal Details]** te openen.
+1. Klik op het pictogram met drie punten en selecteer vervolgens **[!UICONTROL Copy]** .
 1. Werk om het even welke volgende informatie voor het gekopieerde doel bij:
-   * **Nieuw doel**—Dit is de naam van het nieuwe doel. De standaardwaarde is de naam van het oorspronkelijke doel.
-   * **Periode**—De periode waarin u het doel wilt bereiken. Selecteer een tijdsperiode in het keuzemenu of klik op Aangepaste datums definiëren om een aangepaste tijdsperiode aan te geven. De standaardperiode is altijd het huidige kwartaal.
-   * **Eigenaar**—De eigenaar van het doel. Dit kan een gebruiker, een team, een groep, of een bedrijf zijn. Het gebrek is de eigenaar van het originele doel.
-   * **Beschrijving**—Aanvullende informatie over het doel.
+   * **Nieuw Doel** - dit is de naam van het nieuwe doel. De standaardwaarde is de naam van het oorspronkelijke doel.
+   * **Periode** - de tijdperiode waarin u het doel wilt bereiken. Selecteer een tijdsperiode in het keuzemenu of klik op Aangepaste datums definiëren om een aangepaste tijdsperiode aan te geven. De standaardperiode is altijd het huidige kwartaal.
+   * **Eigenaar** - de eigenaar van het doel. Dit kan een gebruiker, een team, een groep, of een bedrijf zijn. Het gebrek is de eigenaar van het originele doel.
+   * **Beschrijving** - Aanvullende informatie over het doel.
 
-1. Controleer de **[!UICONTROL Copy results]** als er resultaten aan het oorspronkelijke doel zijn toegevoegd en u deze naar het nieuwe doel wilt kopiëren. De resultaten van het gekopieerde doel hebben de zelfde eigenaar, de namen, en de gemeten waarden zoals de resultaten van het originele doel.
+1. Schakel het selectievakje **[!UICONTROL Copy results]** in als er resultaten zijn toegevoegd aan het oorspronkelijke doel en u deze naar het nieuwe doel wilt kopiëren. De resultaten van het gekopieerde doel hebben de zelfde eigenaar, de namen, en de gemeten waarden zoals de resultaten van het originele doel.
 
 1. Klik op **[!UICONTROL Save]**. Het gekopieerde doel wordt opgeslagen met een status Concept.
 
-   ![Een afbeelding van de [!UICONTROL Goal Details] in [!DNL Workfront Goals] met de [!UICONTROL Copy] option](assets/03-workfront-goals-copy-a-goal.png)
+   ![ een beeld van het [!UICONTROL Goal Details] paneel in [!DNL Workfront Goals] met de [!UICONTROL Copy] optie ](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Klikken **[!UICONTROL Activate]**, die de doelstatus in Actief bijwerkt. Het doel moet een bijbehorende activiteit hebben of resulteren in &quot;activeren.&quot;
+1. Klik op **[!UICONTROL Activate]** om de doelstatus bij te werken naar Actief. Het doel moet een bijbehorende activiteit hebben of resulteren in &quot;activeren.&quot;
 
-1. Klik op de knop **X** in de rechterbovenhoek van het [!UICONTROL Goal Details] om het te sluiten.
+1. Klik **X** in het hoger-recht van het [!UICONTROL Goal Details] paneel om het te sluiten.
 
 Als u een doel kopieerde dat niet in een vorige tijdspanne werd voltooid en aan het in de volgende tijdspanne wilt blijven werken, doe het volgende:
 
-1. Ga naar het oorspronkelijke doel in het dialoogvenster **[!UICONTROL Goal List]**, **[!UICONTROL Check-in]** deel, of **[!UICONTROL Pulse]** sectie.
+1. Ga naar het oorspronkelijke doel in de sectie **[!UICONTROL Goal List]** , **[!UICONTROL Check-in]** of **[!UICONTROL Pulse]** .
 1. Commentaar op het doel om erop te wijzen werd het gekopieerd en een huidiger doel werd gecreeerd.
-1. Sluit het oorspronkelijke doel om de vooruitgang te behouden die tijdens de oorspronkelijke periode is geboekt. Klik op het pictogram met drie punten in het dialoogvenster **[!UICONTROL Goal Details]** en selecteert u **[!UICONTROL Close]** in het menu.
-1. Werk de [!UICONTROL Initial] de waarde van het nieuwe resultaat die overeenkomt met de **[!UICONTROL Target]** De waarde van het vorige resultaat, zodat uw nieuwe doelvooruitgang begint te berekenen vanaf het punt dat in de vorige periode werd bereikt.
+1. Sluit het oorspronkelijke doel om de vooruitgang te behouden die tijdens de oorspronkelijke periode is geboekt. Klik op het pictogram met drie punten in het deelvenster **[!UICONTROL Goal Details]** en selecteer **[!UICONTROL Close]** in het menu.
+1. Werk de [!UICONTROL Initial] -waarde van het nieuwe resultaat bij zodat deze overeenkomt met de **[!UICONTROL Target]** -waarde van het vorige resultaat, zodat de voortgang van het nieuwe doel begint te berekenen vanaf het punt dat in de vorige periode is bereikt.

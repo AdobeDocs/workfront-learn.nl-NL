@@ -29,7 +29,7 @@ In deze video leert u hoe u:
 
 >[!TIP]
 >
->Gebruik de het gebiedsbron en naam van de Gebruikers van de Taak > van identiteitskaart wanneer het bouwen van filters die taak bekijken of taakinformatie uitgeven.  Bij deze optie wordt gekeken naar alle gebruikers die aan de taak of uitgave zijn toegewezen, niet alleen naar de &quot;eigenaar&quot; of de primaire ontvanger.
+>Gebruik de het gebiedsbron en naam van de Gebruikers van de Taak > van identiteitskaart wanneer het bouwen van filters die taak bekijken of taakinformatie uitgeven.  Bij deze optie wordt naar alle   gebruikers die zijn toegewezen aan de taak of uitgave, niet alleen de &quot;eigenaar&quot; of de primaire ontvanger.
 
 >[!TIP]
 >
@@ -47,11 +47,11 @@ Deze week hebt u wat extra tijd, dus u wilt zien of er iemand in uw team is die 
 
 U bent fantastisch om uw teamgenoten te helpen! Als het filter is ingesteld zoals in de onderstaande afbeelding, vindt u taken:
 
-* Dat is nog niet voltooid (en heeft dus geen [!UICONTROL Complete] status of status die gelijk is aan [!UICONTROL Complete]);
-* In projecten met een [!UICONTROL Current] status (u wilt immers geen taken zoeken voor projecten die nog niet zijn gestart);
+* die nog niet zijn voltooid (dit houdt in dat ze geen [!UICONTROL Complete] -status of -status hebben die gelijk is aan [!UICONTROL Complete] );
+* die zich bevinden in projecten met een [!UICONTROL Current] -status (u wilt immers geen taken zoeken voor projecten die nog niet zijn gestart);
 * die aan iemand in uw huisteam worden toegewezen, zoals die door de teammontages van Workfront wordt bepaald;
 * En die een voltooiingsdatum van enige tijd deze week hebben (deze regel gebruikte het vooraf gebouwde datumfilter om &quot;deze week&quot;te bepalen).
 
-![Een afbeelding van het scherm om een taakfilter te maken met een op de gebruiker gebaseerde jokerteken](assets/user-wildcard-exercise-answer.png)
+![ een beeld van het scherm om een taakfilter met een op gebruiker-gebaseerde vervanging ](assets/user-wildcard-exercise-answer.png) tot stand te brengen
 
 Mogelijk moet u extra filters toevoegen als u de lijst een beetje meer wilt beperken. U kunt bijvoorbeeld een filterregel toevoegen die een specifiek programma of portfolio bekijkt waarvan uw team werkt.

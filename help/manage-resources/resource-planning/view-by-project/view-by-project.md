@@ -18,36 +18,36 @@ ht-degree: 0%
 
 ---
 
-# Weergeven op project in de [!DNL Resource Planner]
+# Op project weergeven in de [!DNL Resource Planner]
 
 In deze video zult u:
 
-* Zie [!UICONTROL View by Project]weergave
+* Zie [!UICONTROL View by Project] weergave
 * Leer hoe de middelinformatie in deze mening wordt getoond
 
 >[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on)
 
 Voor de Mening door de optie van het Project, is het gebrek om de Begroeide kolom te tonen, die het geschatte aantal middelen nodig voor een project van een bedrijfscase trekt, als het is ingevuld. Dit betekent ook de Netto kolom is, door gebrek, gebruikend de aantallen van de Beoogde kolom om u te vertellen hoeveel middelen worden verlaten.
 
-Het is echter mogelijk dat uw organisatie geen gebruik maakt van bedrijfscase of deze kan gebruiken om deze bedragen te schatten. In plaats daarvan gebruikt u de geplande uren die al voor een project zijn ingevoerd. Via de optie Aanpassen kunt u kiezen welke kolommen in de gekozen weergave worden weergegeven en hoe u de kolom Net wilt berekenen.
+Het is echter mogelijk dat uw organisatie geen gebruik maakt van zakelijke gevallen of deze kan gebruiken om deze bedragen te schatten. In plaats daarvan gebruikt u de geplande uren die al voor een project zijn ingevoerd. Via de optie Aanpassen kunt u kiezen welke kolommen in de gekozen weergave worden weergegeven en hoe u de kolom Net wilt berekenen.
 
 Om de kolommen te veranderen die verschijnen en de Netto kolomberekening zodat is het gebaseerd op geplande uren:
 
 * Klik op het vervolgkeuzemenu Uren en selecteer Aanpassen.
 
-![Optie aanpassen in vervolgkeuzemenu](assets/NetHours01.png)
+![ pas optie in dropdown menu aan ](assets/NetHours01.png)
 
 * In het Customize getoonde metriekvakje, bepaal welke kolommen verschijnen en controleer het vakje naast Geplande (PLN) waarden van het Gebruik in NETTO berekeningen.
 
-![Gebruik geplande waarden in de optie voor NETTO-berekeningen](assets/NetHours02.png)
+![ Gebruik geplande waarden in NETTO berekeningsoptie ](assets/NetHours02.png)
 
-**Opmerking**: U kunt de kolommen en de berekeningen voor de verschillende meningstypes in de Planner van het Middel uitgeven door een optie op de linkerkant van de doos te selecteren.
+**Nota**: U kunt de kolommen en de berekeningen voor de verschillende meningstypes in de Planner van het Middel uitgeven door een optie op de linkerkant van de doos te selecteren.
 
-![Tekstopties weergeven](assets/NetHours03.jpg)
+![ het typeopties van de Mening ](assets/NetHours03.jpg)
 
 * Nadat u op Opslaan hebt geklikt, wordt het vak gesloten en wordt het scherm vernieuwd.
 
-![Hulpprogramma voor bronnenplanner](assets/NetHours04.jpg)
+![ hulpmiddel van de de planner van het Middel ](assets/NetHours04.jpg)
 
 De Planner van het Middel toont wat u over uw vraag en aanbod zonder complexe spreadsheets en round-robin mededeling moet weten.
 

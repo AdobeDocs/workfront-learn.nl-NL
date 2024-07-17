@@ -1,6 +1,6 @@
 ---
 title: Beste praktijken - de Balancer van de werkbelasting
-description: Ontdek de aanbevelingen met best practices van Adobe Workfront-experts over het instellen, beheren en gebruiken van Workload Balancer.
+description: Bekijk de aanbevelingen van Adobe Workfront-experts over het instellen, beheren en gebruiken van de Workload Balancer.
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -58,7 +58,7 @@ Gebruik de werklastbalans om te controleren of de persoon die u toewijst aan een
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 De Balancer van de Werklast verstrekt een duidelijke, visuele afbeelding van middeloverallocatie en onderbenutting zodat kunt u gemakkelijk zien welke teamleden de bandbreedte hebben om de taak of de kwestie op tijd te voltooien.
 
@@ -80,6 +80,6 @@ Planningen en taakrollen koppelen aan gebruikersprofielen.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Voor de meest nauwkeurige informatie over de vaardigheden en beschikbaarheid van uw bronnen wordt aangeraden om planningen en taakrollen te koppelen aan uw gebruikersprofielen in Workfront. Deze informatie wordt gebruikt door verscheidene hulpmiddelen van het middelbeheer van Workfront.

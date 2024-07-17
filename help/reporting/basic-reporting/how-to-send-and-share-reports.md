@@ -13,7 +13,7 @@ exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -34,22 +34,22 @@ Verzend elke maandag om 5.00 uur een rapport als spreadsheet van Excel. Dit is e
 
 ## Antwoord
 
-![Een afbeelding van het scherm om herhaalde rapportleveringen in te stellen](assets/send-a-report.png)
+![ een beeld van het scherm aan opstelling die rapportleveringen herhalen ](assets/send-a-report.png)
 
-1. Bekijk om het even welk rapport u hebt gecreeerd, en kies **[!UICONTROL Send Report]** van de **[!UICONTROL Report Actions]** -menu.
-1. Klik op de knop **[!UICONTROL Repeating Deliveries]** tab.
-1. Plaats uw e-mailadres in de **[!UICONTROL Send to]** veld.
+1. Geef een rapport weer dat u hebt gemaakt en kies **[!UICONTROL Send Report]** in het menu **[!UICONTROL Report Actions]** .
+1. Klik op de tab **[!UICONTROL Repeating Deliveries]** .
+1. Plaats uw e-mailadres in het veld **[!UICONTROL Send to]** .
 1. Geef een e-mailonderwerp op.
 1. Wijzig de indeling in Excel.
-1. Set **[!UICONTROL Repeats]** tot [!UICONTROL Weekly].
-1. Stel de [!UICONTROL Time] tot 5.00 uur
-1. Set [!UICONTROL Repeats On] tot maandag.
+1. Stel **[!UICONTROL Repeats]** in op [!UICONTROL Weekly] .
+1. Stel de waarde [!UICONTROL Time] in op 5 uur.
+1. Stel [!UICONTROL Repeats On] in op maandag.
 1. Klik op **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
->Let op de nieuwe herhaalde levering in de [!UICONTROL Repeating Deliveries] aan de rechterkant. U kunt meerdere leveringen voor een rapport instellen en deze worden hier weergegeven.
+>Let op uw nieuwe herhaalde levering in het deelvenster [!UICONTROL Repeating Deliveries] aan de rechterkant. U kunt meerdere leveringen voor een rapport instellen en deze worden hier weergegeven.
 
 **DELETE A LEVERING**
 
-Selecteer de zojuist gemaakte levering en klik op Verwijderen (naast de knop **[!UICONTROL Save]** ).
+Selecteer de levering die u net hebt gemaakt en klik op Verwijderen (naast de knop **[!UICONTROL Save]** ).

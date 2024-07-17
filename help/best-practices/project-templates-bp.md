@@ -67,7 +67,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Gebruik sjablonen wanneer u projecten maakt.
 
-**Daarom:**
+**hier is waarom**
 
 Projectsjablonen verwijderen het giswerk voor projectmanagers (en anderen die projecten maken) over de taken die een project moet bevatten, de structuur van de tijdlijn, enz. Sjablonen zijn de meest effectieve manier om het maken van projecten te versnellen.
 
@@ -82,7 +82,7 @@ Deze consistentie over projecten resulteert in nauwkeurigere gegevens, die essen
 
 Stel een naamgevingsconventie in voor projectsjablonen.
 
-**Daarom:**
+**hier is waarom**
 
 Met consistente naamgeving kunt u sjablonen gemakkelijker vinden. Het helpt ook projectmanagers en anderen die projecten creëren selecteren het juiste malplaatje wanneer er gelijkaardig genoemde malplaatjes over veelvoudige teams of afdelingen zijn.
 
@@ -93,7 +93,7 @@ Met consistente naamgeving kunt u sjablonen gemakkelijker vinden. Het helpt ook 
 
 Vestig een uitgezochte groep gebruikers die projectmalplaatjes kunnen maken en bijwerken.
 
-**Daarom:**
+**hier is waarom**
 
 Het hebben van goed-gebouwde, verenigbare projectmalplaatjes is zeer belangrijk aan goed werkbeheer en nauwkeurige rapportering. Beperk het aantal gebruikers dat sjablonen kan bewerken om onbedoelde of niet-goedgekeurde wijzigingen te voorkomen.
 
@@ -104,13 +104,13 @@ Het hebben van goed-gebouwde, verenigbare projectmalplaatjes is zeer belangrijk 
 
 Het Delen van het Project van het gebruik op een projectmalplaatje om toegang tot projecten automatisch te verlenen die gebruikend dat malplaatje worden gecreeerd.
 
-**Daarom:**
+**hier is waarom**
 
 Toegang tot specifieke projecten wordt verleend via het project zelf. Als de zelfde groep mensen altijd toegang tot projecten nodig heeft die met een specifiek malplaatje worden gecreeerd, voeg hen onder de optie van het Delen van het Project op het malplaatje toe. Niet alleen kunt u toegang tot projecten controleren zodra zij worden gecreeerd, stroomlijnt dit scalability inspanningen als de toestemmingen in de toekomst moeten veranderen.
 
-Voor instructies op hoe te om projecten te delen die gebruikend een malplaatje worden gecreeerd zie het hoofdstuk geëtiketteerd &quot;hoe te projecten te delen die gebruikend een malplaatje&quot;worden gecreeerd in [Een projectsjabloon delen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html).
+Voor instructies op hoe te om projecten te delen die gebruikend een malplaatje worden gecreeerd zie het hoofdstuk &quot;hoe te projecten delen die worden gecreeerd gebruikend een malplaatje&quot;in [ Deel een projectmalplaatje ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html).
 
-**Opmerking**: Sjabloon delen geeft toegang tot de sjabloon zelf. Een gebruiker moet minstens de toestemmingen van de Mening hebben om projecten met het malplaatje te maken.
+**Nota**: Het Delen van het malplaatje verleent toegang tot het malplaatje zelf. Een gebruiker moet minstens de toestemmingen van de Mening hebben om projecten met het malplaatje te maken.
 
 </br>
 </br>
@@ -119,7 +119,7 @@ Voor instructies op hoe te om projecten te delen die gebruikend een malplaatje w
 
 Wijs baanrollen of teams aan taken toe, niet individuen.
 
-**Daarom:**
+**hier is waarom**
 
 Wanneer een individuele gebruiker posities verandert of de organisatie verlaat, zult u projectmalplaatjes manueel moeten bijwerken die die persoon omvatten. Dit vergt tijd op een deel van het systeem of de groepsbeheerders of projectmanagers.
 
@@ -134,7 +134,7 @@ Bovendien worden de baanrollen gebruikt door het middel planningshulpmiddelen va
 
 Vermijd te korrelig worden wanneer het creëren van taken in een projectmalplaatje. Beperk het aantal taken in een projectmalplaatje tot degenen noodzakelijk om het werk te voltooien.
 
-**Daarom:**
+**hier is waarom**
 
 De over-gecompliceerde projectmalplaatjes resulteren in een slechte ervaring voor gebruikers-project managers, middelmanagers, teamleden, en meer. Te veel taken maken de tijdlijn van het project moeilijk te beheren, waarbij overlappende taakdeadlines en meerdere taken zijn toegewezen aan dezelfde functies of personen.
 
@@ -146,7 +146,7 @@ De over-gecompliceerde projectmalplaatjes resulteren in een slechte ervaring voo
 
 Gebruik de taakbeschrijving om de kleine stappen van de taak te vangen, eerder dan het neer te breken in veelvoudige taken.
 
-**Daarom:**
+**hier is waarom**
 
 Als de veelvoudige taken in een rij aan de zelfde baanrol/individu worden toegewezen, is dat een aanwijzing die taken zouden kunnen worden gecombineerd. Door te veel taken aan een gebruiker toe te wijzen, kunnen ze het gevoel krijgen dat er meer werk moet worden voltooid, wat invloed kan hebben op Workfront-adoptie.
 
@@ -157,7 +157,7 @@ Als de veelvoudige taken in een rij aan de zelfde baanrol/individu worden toegew
 
 Zorg ervoor dat de sjabloontaken taakduur, geplande uren en voorgangers bevatten.
 
-**Daarom:**
+**hier is waarom**
 
 Deze drie dingen-duur, geplande uren, en predecessors-zijn de bouwstenen van de chronologie van het project. Dit zijn de sleutel tot het weten hoe lang het werk zal duren en wanneer het moet worden gedaan. Hulpprogramma&#39;s voor bronnenbeheer in Workfront gebruiken tijdsduur en geplande uren, plus taakroltoewijzingen, om de resourcecapaciteit, beschikbaarheid en meer te berekenen.
 
@@ -171,13 +171,13 @@ Als u niet zeker bent hoe te om duur of geplande uren voor het eerst te schatten
 
 Configureer projectdetails vooraf en koppel douaneformulieren op het malplaatje.
 
-**Daarom:**
+**hier is waarom**
 
 Zorg ervoor dat de informatie die standaard voor alle projecten is, is ingevuld in de projectsjabloon. Dit helpt niet alleen de creatie van projecten te versnellen, het verzekert noodzakelijke informatie daar is en dat het over projecten verenigbaar is.
 
 Voeg projectdouaneformulieren die verzoeken douaneformulieren aan om voorgelegde informatie te trekken wanneer het omzetten van het verzoek in een project gebruikend het malplaatje.
 
-Voor instructies over hoe te om een douaneformulier aan een voorwerp als een projectmalplaatje vast te maken, zie [Een aangepast formulier aan een object koppelen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html).
+Voor instructies op hoe te om een douanevorm aan een voorwerp als een projectmalplaatje vast te maken, zie [ een douanevorm aan een voorwerp ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html) vastmaken.
 
 </br>
 </br>
@@ -186,11 +186,11 @@ Voor instructies over hoe te om een douaneformulier aan een voorwerp als een pro
 
 Projectsjablonen regelmatig controleren en bijwerken.
 
-**Daarom:**
+**hier is waarom**
 
 Naarmate processen en teams veranderen, moeten de projectsjablonen worden bijgewerkt. Vestig een regelmatige toestemming, zoals driemaandelijks, om te controleren en te zien welke malplaatjes niet actief worden gebruikt. U kunt deze deactiveren, zodat ze zich nog steeds in Workfront bevinden, maar niet in de lijsten met sjabloonselectie worden weergegeven.
 
-Voor instructies over hoe te om een projectmalplaatje te deactiveren, zie [Een projectsjabloon deactiveren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+Voor instructies op hoe te om een projectmalplaatje te deactiveren, zie [ een projectmalplaatje ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html) deactiveren.
 
 </br>
 </br>
@@ -200,7 +200,7 @@ Voor instructies over hoe te om een projectmalplaatje te deactiveren, zie [Een p
 Controleer de sjablonen om te controleren of deze alle benodigde informatie bevatten voordat u ze deelt en anderen ze gaan gebruiken.
 
 
-**Daarom:**
+**hier is waarom**
 
 Omdat de malplaatjes opnieuw en opnieuw zullen worden gebruikt om projecten te maken, zult u willen ervoor zorgen alles opstelling behoorlijk en volledig is. Dit leidt tot consistentie in alle projecten en tot nauwkeurige gegevens voor rapportage.
 
@@ -212,7 +212,7 @@ Naast taakinstellingen zoals duur en geplande uren, kunt u onder andere de volge
 * Portfolio en programma
 * Mijlpad en stappen
 * Goedkeuringsprocessen
-* Zorg ervoor dat gebruikers die taken aan projecten hebben toegewezen, Contribute-toegang hebben tot het project
+* Zorg ervoor dat gebruikers die taken aan projecten zijn toegewezen, Contribute-toegang hebben tot het project
 * Brongroepen
 * Herinneringsmeldingen
 * Schema
@@ -228,11 +228,11 @@ Naast taakinstellingen zoals duur en geplande uren, kunt u onder andere de volge
 
 Wanneer u de optie van de Wijze van het Programma op een malplaatje aanpast, herzie en werk de taakbeperkingen bij.
 
-**Daarom:**
+**hier is waarom**
 
 Het mengen van verschillende taakbeperkingen op een project kan onverwachte en verwarrende geplande datumberekeningen veroorzaken. Bijvoorbeeld, wanneer de Datum van het Begin voor de optie van de Wijze van het Programma wordt geselecteerd, worden om het even welke die taken in dat project worden gecreeerd toegewezen zo spoedig mogelijk taakbeperking door gebrek. Als u later de optie van de Wijze van het Programma op de Datum van de Voltooiing overschakelt, dan hebben om het even welke gecreeerde taken een ZO laat Mogelijke taakbeperking door gebrek. Als u een onopzettelijke combinatie van taken met elk van deze beperkingen hebt, kan dit leiden tot verwarring tussen de geplande datums in de projecttijdlijn.
 
-Voor een beter begrip van taakbeperkingen en hoe u deze kunt gebruiken, raadpleegt u [Werken en beheren van de soorten duur en taakbeperkingen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Om taakcontraints beter te begrijpen en hoe te om hen te gebruiken, zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html) begrijpen en beheren.
 
 </br>
 </br>
@@ -241,10 +241,10 @@ Voor een beter begrip van taakbeperkingen en hoe u deze kunt gebruiken, raadplee
 
 Controleer het projectteam op het malplaatje en verwijder gebruikers die niet met het project zullen werken.
 
-**Daarom:**
+**hier is waarom**
 
 Wanneer u een malplaatje van een bestaand project creeert, tenzij u de Duidelijke toewijzingsoptie tijdens verwezenlijking kiest, brengt Workfront de mensen over die taken/kwesties op het project in de sectie van Mensen werden toegewezen. En terwijl u met uw malplaatje werkt, kunt u deze mensen willen verwijderen die eerder werk werden toegewezen of een taak veranderen u op het malplaatje aanbracht.
 
 Al deze gebruikers zullen als deel van het projectteam, in de Mensen en het Plannen van secties van het project worden vermeld. Dientengevolge, zullen zij aan alle projecten worden verspreid die van dat malplaatje worden gecreeerd. Dit kon verwarring voor de gebruiker veroorzaken omdat als deel van het projectteam, zij berichten over activiteit op het project ontvangen, het project in de Projecten zien I op lijst, en toestemmingen aan het project en zijn taken, kwesties en documenten verkrijgen.
 
-Voor instructies op hoe te om het projectteam in een projectmalplaatje uit te geven, zie [Bewerk het projectteam in een projectsjabloon](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).
+Voor instructies op hoe te om het projectteam in een projectmalplaatje uit te geven, zie [ het projectteam in een projectmalplaatje ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html) uitgeven.

@@ -1,6 +1,6 @@
 ---
-title: Hoe te om Uren op Werk binnen te registreren [!UICONTROL Home]
-description: Leer hoe u zich bij werktoewijzingen aanmeldt in [!DNL  Workfront]. Begrijp waarom het registreren tijd bij uw organisatie kan worden vereist.
+title: Hoe kan ik uren aan werk inloggen in [!UICONTROL Home]
+description: Leer hoe te om tijd op het werktaken in  [!DNL  Workfront] te registreren. Begrijp waarom het registreren tijd bij uw organisatie kan worden vereist.
 feature: Work Management
 type: Tutorial
 role: User
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Aanmelden van het aantal uren dat is gewerkt in [!DNL Workfront] [!UICONTROL Home]
+# Uren aanmelden bij werk in [!DNL Workfront] [!UICONTROL Home]
 
 In deze video leert u:
 
@@ -32,7 +32,7 @@ In deze video leert u:
 Een paar opties met betrekking tot logboektijd hangen af van hoe uw systeembeheerder opstelling Workfront.
 
 * Mogelijk kunt u de tijd in de toekomst al dan niet vastleggen.
-* Mogelijk moet u een uurtype selecteren in het keuzemenu, zodat u specifieker kunt zijn over de manier waarop u de tijd hebt doorgebracht. Dit uurtype kan ook erop wijzen of uw tijd factureerbaar of niet factureerbaar was. Zorg dat u het uurtype selecteert voordat u de tijd invoert en klik op de knop [!UICONTROL Log Time] knop.
+* Mogelijk moet u een uurtype selecteren in het keuzemenu, zodat u specifieker kunt zijn over de manier waarop u de tijd hebt doorgebracht. Dit uurtype kan ook erop wijzen of uw tijd factureerbaar of niet factureerbaar was. Selecteer het uurtype voordat u de tijd invoert en klik op de knop [!UICONTROL Log Time] .
 
 <!---
 learn more URLs

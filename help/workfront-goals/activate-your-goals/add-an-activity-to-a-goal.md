@@ -1,6 +1,6 @@
 ---
 title: Voeg een activiteit en een project aan een doel toe
-description: Leer hoe u een doel activeert door een activiteit of een project toe te voegen in [!DNL Workfront Goals].
+description: Leer hoe te om een doel te activeren door een activiteit of een project in  [!DNL Workfront Goals] toe te voegen.
 activity: use
 feature: Workfront Goals
 type: Tutorial

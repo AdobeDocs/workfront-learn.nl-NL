@@ -1,6 +1,6 @@
 ---
 title: Voortgang bijhouden vanaf de projecttijdlijn
-description: Leer hoe u de voortgang van het werk kunt bijhouden vanaf de projecttijdlijn in [!DNL  Workfront] het gebruiken van percent volledig, status, taken, of beperkingen.
+description: Leer hoe te om de vooruitgang van het werk van de projectchronologie in  [!DNL  Workfront]  te volgen gebruikend percent volledig, status, taken, of beperkingen.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,14 +13,14 @@ jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
 # Voortgang bijhouden vanaf de projecttijdlijn
 
-Zorg ervoor dat de taken vooruitgang boeken op de manier waarop ze projectdeadlines moeten halen. Terwijl u door de [!UICONTROL Task] list, er zijn verschillende functies in [!DNL  Workfront] waarmee u de voortgang en de status van het werk kunt volgen.
+Zorg ervoor dat de taken vooruitgang boeken op de manier waarop ze projectdeadlines moeten halen. Terwijl u de [!UICONTROL Task] -lijst doorzoekt, bevat [!DNL  Workfront] verschillende functies waarmee u de voortgang en status van het werk kunt controleren.
 
 ## Percentage voltooid
 
@@ -31,17 +31,17 @@ Het percentage voltooide werktaken wordt soms gebruikt om te meten hoe het werk 
 >Hoewel het percentage voltooide werktaken handmatig moet worden bijgewerkt, wordt het percentage voltooid van een bovenliggende taak berekend door Workfront op basis van het percentage voltooid en de duur of de geplande uren van elke onderliggende taak. Dit betekent dat je een betere procentuele volledige nauwkeurigheid krijgt als je grote taken opsplitst in kleinere subtaken.
 
 
-![Lijst met projecttaken weergeven [!UICONTROL Percent Complete] kolom](assets/planner-fund-task-percent-complete.png)
+![ de taaklijst die van het Project [!UICONTROL Percent Complete] kolom ](assets/planner-fund-task-percent-complete.png) toont
 
 Er zijn drie keer wanneer het percentage voltooide automatisch verandert:
 
-* Wanneer de taak [!UICONTROL Status] is ingesteld op Voltooien, verandert het percentage dat is voltooid in 100.
-* Als de taak [!UICONTROL Status] Als u terugdraait naar New, wordt het percentage voltooid teruggezet naar 0.
+* Als de taak [!UICONTROL Status] is ingesteld op Voltooien, wordt het percentage dat is voltooid, gewijzigd in 100.
+* Als de taak [!UICONTROL Status] terugdraait naar Nieuw, wordt het percentage voltooid teruggezet op 0.
 * In een oudertaak wanneer het percentage voltooide van een kindtaak verandert.
 
 ## Status
 
-Inclusief de [!UICONTROL Status] kolom in een [!UICONTROL View] snel te zien welke taken zijn gestart , welke in uitvoering zijn en welke voltooid zijn . U kunt zelfs voorwaardelijke opmaak instellen in een [!UICONTROL View] om elke status een kleur te geven, zodat de informatie gemakkelijker kan worden ontcijferd.
+Neem de kolom [!UICONTROL Status] op in een [!UICONTROL View] om snel te zien welke taken zijn gestart, welke actief zijn en welke voltooid zijn. U kunt zelfs voorwaardelijke opmaak instellen in een [!UICONTROL View] om elke status te kleuren, zodat de informatie eenvoudiger te ontcijferen is.
 
 ## Taaktoewijzingen
 
@@ -51,8 +51,8 @@ Terwijl u het project bekijkt, controleert u de taaktoewijzingen. Misschien is h
 
 Soms worden de taakbeperkingen veranderd en je realiseert het niet. Restricties kunnen het gedrag van uw tijdlijn beïnvloeden, dus u moet ervoor zorgen dat deze zijn ingesteld op de gewenste manier.
 
-![Lijst met projecttaken met de taakbeperkingskolom](assets/planner-fund-task-constraint.png)
+![ de taaklijst van het Project die de kolom van de taakbeperking toont ](assets/planner-fund-task-constraint.png)
 
-Een aangepaste weergave maken die de opdracht [!UICONTROL Task Constraint] kolom om deze informatie in uw takenlijst te zien. Als u het project van een begindatum plant, wilt u uw taken hebben [!UICONTROL As Soon As Possible] ([!UICONTROL ASAP]) beperking.
+Maak een aangepaste weergave die de kolom [!UICONTROL Task Constraint] bevat om deze informatie weer te geven in uw takenlijst. Als u het project van een begindatum plant, wilt u uw taken de [!UICONTROL As Soon As Possible] ([!UICONTROL ASAP]) beperking hebben.
 
-Zie voor meer informatie over taakbeperkingen [Werken en beheren van de soorten duur en taakbeperkingen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html).
+Voor meer details over taakbeperkingen zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html) begrijpen en beheren.

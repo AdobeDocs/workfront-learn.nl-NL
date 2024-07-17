@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Een project plannen - revisie
 
-Uw [!DNL  Workfront] projecten die snel en in werking stellen door een projectmalplaatje te gebruiken. Plan uw project door zich eerst op deze vijf gebieden te concentreren:
+U kunt uw [!DNL  Workfront] -projecten snel uitvoeren met een projectsjabloon. Plan uw project door zich eerst op deze vijf gebieden te concentreren:
 
 1. Taken
 1. Duur
@@ -26,7 +26,7 @@ Uw [!DNL  Workfront] projecten die snel en in werking stellen door een projectma
 1. Predecessors
 1. Toewijzingen
 
-Als alles is ingesteld, wijzigt u de projectstatus in Huidig om het project live te zetten. Naarmate het project vordert, wilt u het werk bijhouden dat wordt uitgevoerd, problemen die zich voordoen, vragen die moeten worden beantwoord en meer. Onthoud ... u kunt al die informatie vinden en beheren in [!DNL Workfront]!
+Als alles is ingesteld, wijzigt u de projectstatus in Huidig om het project live te zetten. Naarmate het project vordert, wilt u het werk bijhouden dat wordt uitgevoerd, problemen die zich voordoen, vragen die moeten worden beantwoord en meer. Onthoud ... u kunt al die informatie vinden en beheren in [!DNL Workfront] .
 
 <!---
 footer urls for the LP

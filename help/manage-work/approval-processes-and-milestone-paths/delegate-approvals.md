@@ -45,26 +45,26 @@ U kunt de taken en de kwesties delegeren die aan u aan andere gebruikers worden 
 
 ### Het inschakelen van taken en het delegeren van taken
 
-Alvorens het kan worden gebruikt, moeten de taak en de uitgiftedelegatie door een groep of systeembeheerder worden toegelaten. Dit wordt gedaan in [!UICONTROL Setup > Project Preferences > Tasks & Issues > Delegation]. Als u dit inschakelt, kunnen alle gebruikers met een Revisie- of hogere licentie hun toegewezen taken en problemen delegeren.
+Alvorens het kan worden gebruikt, moeten de taak en de uitgiftedelegatie door een groep of systeembeheerder worden toegelaten. Dit gebeurt in [!UICONTROL Setup > Project Preferences > Tasks & Issues > Delegation] . Als u dit inschakelt, kunnen alle gebruikers met een Revisie- of hogere licentie hun toegewezen taken en problemen delegeren.
 
-![Schermafbeelding tonen [!UICONTROL Setup] preferenties voor delegatie](assets/delegation-1.png)
+![ Schermafbeelding die [!UICONTROL Setup] voorkeur voor delegatie ](assets/delegation-1.png) toont
 
 ### Hoe te om taak te delegeren en taken uit te geven
 
-Navigeren naar [!UICONTROL Home] en klik op [!UICONTROL Delegate], dan specificeer de gebruiker u al uw toegewezen taken aan en de datumwaaier delegeert. U kunt elke gebruiker aanwijzen met een licentie voor Revisie of hoger.
+Navigeer naar [!UICONTROL Home] en klik op [!UICONTROL Delegate] en geef vervolgens de gebruiker op waaraan u al uw toegewezen taken gedelegeerd en het datumbereik. U kunt elke gebruiker aanwijzen met een licentie voor Revisie of hoger.
 
-![Screenshot met het tabblad Delegatie in [!UICONTROL Home]](assets/delegation-2.png)
+![ Screenshot die het delegatielusje in [!UICONTROL Home]](assets/delegation-2.png) toont
 
 ### Hoe te om te weten te komen of is een taak of een kwestie gedelegeerd
 
 U kunt zien wanneer taken of problemen zijn gedelegeerd in [!UICONTROL Home] of in de taak- of probleemweergave.
 
-![Schermafbeelding met gedelegeerde taaktoewijzing in [!UICONTROL Home]](assets/delegation-4.png)
-![Screenshot die gedelegeerde taak in de taakweergave weergeeft](assets/delegation-3.png)
+![ Screenshot die gedelegeerde taak in [!UICONTROL Home]](assets/delegation-4.png) toont
+![ Schermafbeelding die gedelegeerde taaktoewijzing in de taakmening tonen ](assets/delegation-3.png)
 
 ### E-mailmeldingen die van toepassing zijn op gedelegeerde werkzaamheden
 
 Uw groep of systeembeheerder kan e-mailmeldingen inschakelen die u laten weten wanneer u uw taken en problemen hebt gedelegeerd en wanneer de taken en problemen van iemand aan u zijn gedelegeerd.
 
-![Schermafbeelding tonen [!UICONTROL Setup] e-mailmeldingsopties voor delegatie](assets/delegation-5.png)
-![Screenshot met een e-mail met werkdelegatie](assets/delegation-6.png)
+![ Schermafbeelding die [!UICONTROL Setup] opties van het e-mailbericht voor delegatie tonen ](assets/delegation-5.png)
+![ Schermafbeelding die een e-mail van de het werkdelegatie toont ](assets/delegation-6.png)

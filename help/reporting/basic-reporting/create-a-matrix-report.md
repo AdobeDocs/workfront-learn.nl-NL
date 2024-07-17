@@ -35,20 +35,20 @@ U wilt dat de aanvraagrijen op de rijgroepen verschijnen. De status wordt weerge
 
 ## Antwoord
 
-1. Selecteren **[!UICONTROL Reports]** van de **[!UICONTROL Main Menu]**.
-1. Klik op de knop **[!UICONTROL New Report]** en selecteert u **[!UICONTROL Issue]**.
-1. Ga naar de **[!UICONTROL Groupings]** en klik op **[!UICONTROL Switch to Matrix Grouping]**.
-1. Voor [!UICONTROL Row Groupings], selecteert u **[!UICONTROL Project]** > **[!UICONTROL Name]**.
-1. Voor [!UICONTROL Column Grouping], selecteert u **[!UICONTROL Issue]** > **[!UICONTROL Status]**.
+1. Selecteer **[!UICONTROL Reports]** in het menu **[!UICONTROL Main Menu]** .
+1. Klik op de optie **[!UICONTROL New Report]** en selecteer **[!UICONTROL Issue]** .
+1. Ga naar de tab **[!UICONTROL Groupings]** en klik op **[!UICONTROL Switch to Matrix Grouping]** .
+1. Selecteer voor [!UICONTROL Row Groupings] **[!UICONTROL Project]** > **[!UICONTROL Name]** .
+1. Selecteer voor [!UICONTROL Column Grouping] **[!UICONTROL Issue]** > **[!UICONTROL Status]** .
 
-   ![Een beeld van het scherm om een nieuw punt tot stand te brengen rapporteert groepering](assets/matrix-report-groupings.png)
+   ![ een beeld van het scherm om een nieuw kwestie tot stand te brengen rapport groeperen ](assets/matrix-report-groupings.png)
 
-1. Ga naar de **[!UICONTROL Filters]** tab.
+1. Ga naar de tab **[!UICONTROL Filters]** .
 1. Om ervoor te zorgen u slechts verzoeken in actieve verzoekrijen ziet, voeg de volgende filterregels toe:
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Equal] > [!UICONTROL Current]
-   * [!UICONTROL Queue Definition] > [!UICONTROL Is Public] > [!UICONTROL Not Equal] > [!UICONTROL None] (Dit is hoe wij weten een project eigenlijk een verzoekrij is, door de Definitie van de Rij die aan één van de openbare opties wordt toegewezen.)
+   * [!UICONTROL Queue Definition] > [!UICONTROL Is Public] > [!UICONTROL Not Equal] > [!UICONTROL None] (zo weten we dat een project in feite een aanvraagwachtrij is, waarbij de Wachtrijdefinitie wordt toegewezen aan een van de openbare opties.)
 
-1. Klikken op **[!UICONTROL Save + Close]**. Wanneer ertoe aangezet voor een rapportnaam, typ in &quot;Verzoeken door Status en de Rij van het Verzoek.&quot;
+1. Klik op **[!UICONTROL Save + Close]** . Wanneer ertoe aangezet voor een rapportnaam, typ in &quot;Verzoeken door Status en de Rij van het Verzoek.&quot;
 
-   ![Een beeld van het scherm om een nieuw filter van het uitgifterapport tot stand te brengen](assets/matrix-report-filters.png)
+   ![ een beeld van het scherm om een nieuw filter van het uitgiftenrapport tot stand te brengen ](assets/matrix-report-filters.png)

@@ -1,6 +1,6 @@
 ---
 title: De expressie CONCAT gebruiken in een berekend veld
-description: Leer hoe u de CONCAT-expressie in een berekend veld in Adobe gebruikt [!DNL Workfront].
+description: Leer hoe te om de uitdrukking VAN HET CONCAT op een berekend gebied in Adobe  [!DNL Workfront] te gebruiken.
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User

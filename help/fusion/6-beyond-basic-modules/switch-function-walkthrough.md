@@ -1,6 +1,6 @@
 ---
 title: Schakelen tussen functieanalyses
-description: Leer hoe te om de functie van de Schakelaar te gebruiken om één waarde aan een andere binnen een modulegebied in te zetten [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om de functie van de Schakelaar te gebruiken om één waarde aan een andere binnen een modulegebied in  [!DNL Adobe Workfront Fusion] om te zetten.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Voor eenvoudige gegevensveranderingen, gebruik de functie van de Schakelaar om één waarde in een modulegebied om te zetten in een andere. In deze oefening, verander de twee-letterige sleutel in de daadwerkelijke naam voor de Status van de Voortgang van het project die in een e-mail wordt verzonden.
 
-![Een afbeelding die de schakelfunctie gebruikt](assets/beyond-basic-modules-3.png)
+![ een beeld dat de schakelaarfunctie ](assets/beyond-basic-modules-3.png) gebruikt
 
 ## Schakelen tussen functieanalyses
 
@@ -34,4 +34,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

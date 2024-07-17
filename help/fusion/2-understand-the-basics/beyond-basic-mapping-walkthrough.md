@@ -1,6 +1,6 @@
 ---
 title: Buiten basisanalyse van toewijzingen
-description: Wijzig enkele projectvelden in het scenario dat u eerder hebt gemaakt met de formules in het deelvenster Toewijzing in [!DNL Adobe Workfront Fusion].
+description: Verander sommige projectgebieden in het scenario u eerder gebruikend de formules van het kaartpaneel in  [!DNL Adobe Workfront Fusion] creeerde.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Verander de projectnaam, de geplande begindatum, en de prioriteit van het &quot;Aanvankelijke scenario ontwerp&quot;u in de eerste analyse gebruikend de formules van het kaartpaneel creeerde.
 
-![Een afbeelding van het Fusion-scenario](assets/understand-the-basics-1.png)
+![ een beeld van het scenario van de Fusie ](assets/understand-the-basics-1.png)
 
 ## Buiten basisanalyse van toewijzingen
 
@@ -49,8 +49,8 @@ Creeer een taak in elk project u als deel van de vorige analyse creeerde.
 * Stel de geplande uren in op 10% van de betrouwbaarheidsscore in uren.
 * Stel de taakbeperking zo snel mogelijk in.
 
-**Uitdaging:** Als de projectkleur rood is, wijst u de taak toe aan Rick Kuvec. Als de projectkleur geel is, wijs de taak aan Mary Smith toe. Als de projectkleur Groen is, wijs de taak aan Blankenship toe.
+**Uitdaging:** als de projectkleur Rood is, wijs de taak aan Rick Kuvec toe. Als de projectkleur geel is, wijs de taak aan Mary Smith toe. Als de projectkleur Groen is, wijs de taak aan Blankenship toe.
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

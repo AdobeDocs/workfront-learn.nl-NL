@@ -21,11 +21,11 @@ ht-degree: 0%
 
 # Voorgangers voor meerdere projecten begrijpen
 
-Predecessors voor verschillende projecten zijn een eenvoudige manier om afhankelijkheden tussen taken in verschillende projecten tot stand te brengen. Een bouwbedrijf kan bijvoorbeeld een project hebben dat **Bouw de Weg van de Toegang tot de Ontwikkeling van de Huisvesting Summerhill** en een ander project genaamd **Model Home maken in Summerhill**. Door de eerste taak binnen te maken **Modelstartpagina samenstellen** u hebt een voorganger van de laatste taak in een ander project **Toegangsweg bouwen**, zorgt u ervoor dat de toegangsweg op zijn plaats is alvorens u begint het huis te bouwen. Omdat de taken aan elkaar zijn gekoppeld, als **Toegangsweg bouwen** de schuifregelaars van het project **Modelstartpagina samenstellen** de geplande begindatum zal automatisch dienovereenkomstig verschuiven.
+Predecessors voor verschillende projecten zijn een eenvoudige manier om afhankelijkheden tussen taken in verschillende projecten tot stand te brengen. Bijvoorbeeld, kan een bouwbedrijf een project genoemd hebben **de Weg van de Toegang van de Bouwstijl aan de Ontwikkeling van de Huisvesting Summerhill**, en een ander project genoemd **ModelHuis van de Bouwstijl in Summerhill**. Door de eerste taak in **bouwt ModelHuis** een dwars projectvoorganger van de laatste taak in **bouwt de Weg van de Toegang**, zorgt u ervoor de toegangsweg op zijn plaats is alvorens u begint het huis te bouwen. Omdat de taken verbonden zijn, als **de wegglijders van de Toegang van de Bouwstijl** project, **bouwt ModelHuis** geplande begindatum automatisch dienovereenkomstig zal glijden.
 
 >[!PREREQUISITES]
 >
->* [Leren om taken uit te voeren](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
+>* [ leer aan opeenvolgingstaken ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Of u bent al comfortabel met voorgangers in uw projecten
 
 
@@ -37,4 +37,4 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on)
 
-Leren hoe u de **Predecessors en opvolgers voor meerdere projecten** en de **Predecessors en opvolgers voor meerdere projecten** rapport gebruikt in de video, zie [De standaardtekstmodus voor weergaven begrijpen](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en) zelfstudie en zorg dat u de vereiste zelfstudies hebt die daar worden vermeld, als dat nodig is.
+Leer hoe te om tot het **dwars-project predecessors en de opvolgers** mening en **dwars-project predecessors en opvolgers** rapport te leiden dat in de video wordt gebruikt, [ basistekstwijze voor meningen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en) leerprogramma begrijpen en zeker zijn en de voorwaarde daar vermelde leerprogramma&#39;s nemen, als u moet.

@@ -20,9 +20,9 @@ ht-degree: 0%
 
 ## Vragen die moeten worden gesteld voordat u overschakelt
 
-Voordat u begint met het aannemen van Agile, moeten we een aantal vragen bekijken die u helpen te bepalen of het al dan niet de juiste pasvorm heeft.
+Voordat u begint met het aannemen van Agile, moeten we een aantal vragen bekijken die u helpen te bepalen of dit de juiste oplossing is.
 
-De eerste vraag is: worden de producten of de eigenschapverhogingen van uw bedrijf toegestaan? Moet u de focus of richting van dat product midden in het proces kunnen veranderen? Met andere woorden, start u een project zonder alle details te kennen van hoe het eindproduct eruit zal zien op basis van het milieu, toekomstige technologische vooruitgang of toekomstige behoeften die op dit moment niet duidelijk zijn?
+De eerste vraag die moet worden gesteld is: is het leveren van product of eigenschapverhogingen toegestaan bij uw bedrijf? Moet u de focus of richting van dat product midden in het proces kunnen veranderen? Met andere woorden, start u een project zonder alle details te kennen van hoe het eindproduct eruit zal zien op basis van het milieu, toekomstige technologische vooruitgang of toekomstige behoeften die op dit moment niet duidelijk zijn?
 
 Als u op de bovenstaande vragen ja kunt antwoorden, ziet een overgang naar Google er tot nu toe goed uit. Hier is de tweede reeks vragen, geconcentreerd op de infrastructuur van uw team:
 
@@ -42,7 +42,7 @@ Als u op de bovenstaande vragen ja kunt antwoorden, ziet een overgang naar Googl
 
 * Zijn zij bereid en in staat om samen te werken en constructief kwesties te bespreken wanneer zij op de proppen komen?
 
-* Hebt u individuen die de rol van productmanager of de Trommel master kunnen nemen als het gebruiken van die stijl van Agile?
+* Hebt u individuen die de rol van productmanager of de meester van de Trommel als het gebruiken van die stijl van Agile kunnen nemen?
 
 
 Dit soort vragen moet worden gesteld en behandeld als u van mening bent dat bepaalde aspecten van een team de rode vlaggen kunnen opwerpen als belemmeringen voor de acceptatie van mobiele telefoons. Alhoewel niet alles het omvatten, zou dit het gesprek moeten krijgen alvorens binnen te duiken.
@@ -55,7 +55,7 @@ Als u zich op een comfortabele manier verder wilt gaan met Agile, kunt u beginne
 
 ## Wat u moet zien als u Agile begint
 
-Nadat u de stappen voor de overgang hebt uitgevoerd en ervoor hebt gezorgd dat iedereen vertrouwd is met de nieuwe stijl van werken, kunt u de voortgang en het succes van de stappen controleren en volgen. Als ze worstelen om op dezelfde snelheid te lopen als voorheen, wat kan die problemen dan veroorzaken? Als het team artikelen met de huidige status niet bijwerkt, zijn die statussen dan duidelijk gedefinieerd?
+Nadat u de stappen voor de overgang hebt uitgevoerd en ervoor hebt gezorgd dat iedereen vertrouwd is met de nieuwe stijl van werken, kunt u de voortgang en het succes van de stappen controleren en volgen. Als ze worstelen om op dezelfde snelheid te lopen als voorheen, wat kan dan de oorzaak zijn van die problemen? Als het team artikelen met de huidige status niet bijwerkt, zijn die statussen dan duidelijk gedefinieerd?
 
 Het volgen van de vooruitgang of het succes van een nieuw Agile-team zal zeer nuttig zijn om het team vertrouwen te geven in de veranderingen die zij verwerken. Bovendien zal het hebben van deze metriek helpen de voordelen rechtvaardigen om een team aan Gelijkheid over te brengen wanneer in hoger-niveauvergaderingen.
 

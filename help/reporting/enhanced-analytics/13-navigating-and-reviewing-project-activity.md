@@ -1,6 +1,6 @@
 ---
 title: Begrijp navigeren en het herzien projectactiviteit
-description: Leer hoe u projecten kunt vergelijken op basis van gebruikers die zijn aangemeld, wijzigingen in de taakstatus en taken die zijn voltooid in [!UICONTROL Enhanced Analytics].
+description: Leer hoe u projecten kunt vergelijken op basis van gebruikers die zijn aangemeld, wijzigingen in de taakstatus en taken die zijn voltooid in [!UICONTROL Enhanced Analytics] .
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -37,7 +37,7 @@ Aan de hand van deze informatie kunt u bepalen:
 * De activiteit van één project in vergelijking met andere projecten.
 * Welke gebruikers werken aan een project en met welke frequentie.
 
-![Een afbeelding waarin de projectactiviteit wordt weergegeven met nummers op gebieden die worden beschreven in de onderstaande opsommingstekens](assets/section-2-5.png)
+![ een beeld dat projectactiviteit met aantallen op gebieden toont die in hieronder kogels worden beschreven ](assets/section-2-5.png)
 
 Op het diagram kunt u zien:
 

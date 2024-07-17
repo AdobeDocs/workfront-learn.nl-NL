@@ -1,6 +1,6 @@
 ---
 title: Begrijp raadplegende begeleiding
-description: Leer hoe u aanbevelingen kunt doen om uw organisatie te helpen efficiënter te werken door [!UICONTROL Enhanced Analytics] in Workfront.
+description: Leer hoe u aanbevelingen kunt doen om uw organisatie te helpen efficiënter te werken met [!UICONTROL Enhanced Analytics] in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png

@@ -1,6 +1,6 @@
 ---
 title: Toegang tot geselecteerde gebruikers verlenen aan doelen
-description: Leer hoe u toegangsniveaus kunt bewerken op basis van het type licentie voor uw gebruikers in [!DNL Workfront Goals].
+description: Leer hoe te om toegangsniveaus volgens vergunningstype voor uw gebruikers in  [!DNL Workfront Goals] uit te geven.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -25,10 +25,10 @@ In deze video leert u hoe u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 
-Systeembeheerders kunnen bijhouden hoeveel [!DNL Workfront Goals] de vergunningen zijn gebruikt via **[!UICONTROL Setup]** gebied Workfront.
+Systeembeheerders kunnen bijhouden hoeveel [!DNL Workfront Goals] -licenties zijn gebruikt in het **[!UICONTROL Setup]** -gebied van Workfront.
 
-1. Breid uit **[!UICONTROL System]** in het menu van het linkerdeelvenster.
+1. Vouw de optie **[!UICONTROL System]** in het menu van het linkerdeelvenster uit.
 1. Klik op **[!UICONTROL Licenses]**.
-1. U kunt het totale aantal van zien [!DNL Workfront Goals] licenties en hoeveel licenties zijn toegewezen via toegangsniveaus.
+1. U kunt het totale aantal [!DNL Workfront Goals] licenties zien en het aantal licenties dat via toegangsniveaus is toegewezen.
 
-![Een schermafbeelding van het aantal [!DNL Workfront Goals] licenties in het gedeelte Instellingen van [!DNL Workfront]](assets/02-workfront-goals-licenses.png)
+![ Een schermafbeelding van het aantal [!DNL Workfront Goals] -licenties in het gedeelte Instellingen van [!DNL Workfront]](assets/02-workfront-goals-licenses.png)

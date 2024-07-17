@@ -1,6 +1,6 @@
 ---
 title: Proefversies weergeven en vergelijken
-description: Leer hoe u proefversies kunt openen, identificeren, markeren, opmerkingen plaatsen en vergelijken in [!DNL  Workfront].
+description: Leer hoe te om, prijsverhoging te openen identificeren, commentaar op, en vergelijkingsproefversies in  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

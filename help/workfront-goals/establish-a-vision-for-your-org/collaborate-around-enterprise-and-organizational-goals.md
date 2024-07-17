@@ -12,7 +12,7 @@ exl-id: 777cd503-96a3-4fc6-b0a8-429f72bc9bb0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ In deze video leert u hoe u:
 
 * Samenwerken met uw team
 * Bepaal wat u en uw team moeten doen om het doel op hoofdniveau te verwezenlijken
-* Verfijn uw objecthiërarchie van Sectie 2: Een visie en strategie ontwikkelen
+* Verfijn uw objecthiërarchie uit Sectie 2: Vestig een visie en een strategie
 
 >[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on)
 
@@ -31,6 +31,6 @@ In deze video leert u hoe u:
 Pro-tips graphic
 -->
 
-* Als leiders en werkmanagers de top-level doelstellingen proberen te begrijpen en te segmenteren, overweeg de vraag: Wat moeten u en/of uw teams bereiken om de verwezenlijking van dit top-level doel te drijven?
+* Als leiders en werkmanagers de top-level doelstellingen proberen te begrijpen en te segmenteren, overweeg de vraag: wat moet u en/of uw teams bereiken om de verwezenlijking van dit top-level doel te drijven?
 * Gelabelde doelstellingen moeten een noodzakelijk resultaat zijn dat moet worden bereikt om de verwezenlijking van de ouder te stimuleren of mogelijk te maken.
 * Maak geen complexe objecthiërarchieën die moeilijk te volgen zijn of die te veel lagen bevatten. Een goede duimregel is om uw doelhiërarchie met betrekking tot het werkingsgebied van de doelzetters te houden, en slechts een hiërarchie te bouwen aan de diepte u bereid en in staat bent te leiden.

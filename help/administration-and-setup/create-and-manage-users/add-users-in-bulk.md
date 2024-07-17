@@ -19,27 +19,27 @@ ht-degree: 0%
 
 # Gebruikers bulksgewijs toevoegen
 
-Het toevoegen van gebruikers één voor één kan tijdrovend en overweldigend zijn. [!DNL Workfront] staat een systeembeheerder toe om veelvoudige gebruikers tezelfdertijd toe te voegen gebruikend de de invoereigenschap.
+Het toevoegen van gebruikers één voor één kan tijdrovend en overweldigend zijn. Met [!DNL Workfront] kan een systeembeheerder meerdere gebruikers tegelijk toevoegen met de functie Importeren.
 
-![[!UICONTROL Import People] menuoptie](assets/admin-fund-adding-users-5.png)
+![[!UICONTROL Import People] menuoptie ](assets/admin-fund-adding-users-5.png)
 
-1. Selecteren **[!UICONTROL Users]** van de [!UICONTROL Main Menu].
-1. Selecteer de pijl op de **[!UICONTROL New Person]** en selecteert u **[!UICONTROL Import People]**.
+1. Selecteer **[!UICONTROL Users]** in het menu [!UICONTROL Main Menu] .
+1. Selecteer de pijl op de knop **[!UICONTROL New Person]** en selecteer **[!UICONTROL Import People]** .
 1. Het venster dat opent, begeleidt u door het creëren van een spreadsheet van de gebruikers om in te voeren.
-1. Download het voorbeeldbestand, dat een [!DNL Excel] spreadsheet.
+1. Download het voorbeeldbestand, een [!DNL Excel] spreadsheet.
 1. Werk het spreadsheet met gebruikersinformatie (voornaam, achternaam, e-mailadres, toegangsniveau) bij volgens de instructies in het dossier zelf.
-1. Selecteer **[!UICONTROL Choose File]** zodra de gebruikerslijst is opgeslagen.
+1. Selecteer de knop **[!UICONTROL Choose File]** als de gebruikerslijst eenmaal is opgeslagen.
 1. Navigeer naar het spreadsheetbestand van de gebruiker en selecteer het.
 
-![Het venster Personen importeren](assets/admin-fund-adding-users-6.png)
+![ het venster van Mensen van de Invoer ](assets/admin-fund-adding-users-6.png)
 
-De geïmporteerde gebruikers worden weergegeven in de [!UICONTROL Users] lijst. Bewerk indien nodig de informatie over individuele of meerdere gebruikers.
+De geïmporteerde gebruikers worden weergegeven in de lijst [!UICONTROL Users] . Bewerk indien nodig de informatie over individuele of meerdere gebruikers.
 
-![Lijst met gebruikers](assets/admin-fund-adding-users-7.png)
+![ lijst van Gebruikers ](assets/admin-fund-adding-users-7.png)
 
-## Gebruikers importeren: De start gebruiken
+## Gebruikers importeren: starten gebruiken
 
-[!DNL Workfront] verstrekt een schopstartmalplaatje om gegevens in het systeem in te voeren. Deze kan ook worden gebruikt voor het importeren van gebruikers. Voordat u de start gebruikt, [!DNL Workfront] raadt u aan samen te werken met uw [!DNL Workfront] adviseur, aangezien er overwegingen zijn zou u op de hoogte moeten zijn van.
+[!DNL Workfront] biedt een sjabloon voor het starten van een toepassing waarmee gegevens in het systeem kunnen worden geïmporteerd. Deze kan ook worden gebruikt voor het importeren van gebruikers. Voordat u de trap-start gebruikt, raadt [!DNL Workfront] u aan samen te werken met uw [!DNL Workfront] -consultant, omdat u rekening moet houden met bepaalde aspecten.
 
 <!---
 paragraph below needs URL to article
@@ -47,7 +47,7 @@ paragraph below needs URL to article
 
 Zie Gegevens importeren in Workfront via Kick-Start voor meer informatie.
 
-![[!UICONTROL Import Data] ([!UICONTROL Kick-Starts]) venster in [!UICONTROL Setup] gebied](assets/admin-fund-adding-users-8.png)
+![[!UICONTROL Import Data] ([!UICONTROL Kick-Starts]) venster in [!UICONTROL Setup] gebied ](assets/admin-fund-adding-users-8.png)
 
 <!--
 Learn more URLs

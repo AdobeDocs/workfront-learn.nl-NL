@@ -42,7 +42,7 @@ Neem een andere kalendergroep op met de naam &quot;Onvolledige problemen&quot;, 
 1. Stel de optie Op in de kalender in en geef het veld alleen op Einddatum weer.
 1. Stel de optie Overschakelen naar werkelijke datums in als het veld beschikbaar is in op Nee.
 
-   ![Een afbeelding van het scherm om items aan een kalender toe te voegen](assets/calendar-activity-1.png)
+   ![ een beeld van het scherm om punten aan een kalender toe te voegen ](assets/calendar-activity-1.png)
 
 1. In wat wilt u toevoegen aan de kalender? selecteert u Taken.
 1. Voeg drie filterregels toe:
@@ -53,7 +53,7 @@ Neem een andere kalendergroep op met de naam &quot;Onvolledige problemen&quot;, 
 
 1. Klik op Opslaan.
 
-   ![Een afbeelding van het scherm om items aan een kalender toe te voegen](assets/calendar-activity-2.png)
+   ![ een beeld van het scherm om punten aan een kalender toe te voegen ](assets/calendar-activity-2.png)
 
 1. Maak een tweede groep door op Toevoegen aan kalender te klikken.
 1. Klik onder deze groep op Geavanceerde items toevoegen.
@@ -71,6 +71,6 @@ Neem een andere kalendergroep op met de naam &quot;Onvolledige problemen&quot;, 
 
 1. Klik op Opslaan.
 
-   ![Een afbeelding van het scherm om items aan een kalender toe te voegen](assets/calendar-activity-3.png)
+   ![ een beeld van het scherm om punten aan een kalender toe te voegen ](assets/calendar-activity-3.png)
 
 Omdat u $$USER.ID in de filters gebruikte, kunt u deze kalender met anderen delen en zullen zij hun eigen onvolledige taken en kwesties zien.

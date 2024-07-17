@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -30,7 +30,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 </br>
 </br>
 
-## Aangepaste tips voor formulieren
+## Aangepaste aanbevolen procedures voor formulieren
 
 * Diagram een aangepast formulier—op een whiteboard of een vel papier—voordat u het maakt in Adobe Workfront.
 
@@ -38,7 +38,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 * Maak een aangepast formulier voor het bijhouden van gegevens over externe klanten of leveranciers die u als bedrijf aan uw Workfront-systeem hebt toegevoegd.
 
-* Maak één &#39;algemeen&#39; of &#39;universeel&#39; aangepast formulier dat gemeenschappelijke velden en berekende velden bevat, in plaats van de afzonderlijke velden op meerdere formulieren aan te passen. Hierdoor kunt u op consistente wijze bedrijfsbrede informatie verzamelen.
+* Maak één &#39;algemeen&#39; of &#39;universeel&#39; aangepast formulier dat gemeenschappelijke velden en berekende velden bevat, in plaats van de afzonderlijke velden op meerdere formulieren aan te passen. Hierdoor kunt u op consistente wijze informatie voor de hele onderneming verzamelen.
 
 * Voeg sectie-einden toe aan een aangepast formulier om het formulier overzichtelijk en begrijpelijk te houden.
 
@@ -77,7 +77,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Diagram een aangepast formulier—op een whiteboard of een vel papier—voordat u het maakt in Adobe Workfront.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Zorg ervoor dat u velden hebt voor alle vereiste informatie en dat de velden zodanig zijn ingedeeld dat gebruikers het formulier gemakkelijk kunnen invullen. Door een diagramming van het formulier te maken kunt u ook bepalen of bepaalde velden kunnen worden verborgen of weergegeven met behulp van weergavelogica.
 
@@ -88,7 +88,7 @@ Zorg ervoor dat u velden hebt voor alle vereiste informatie en dat de velden zod
 
 Koppel douaneformulieren aan een projectmalplaatje als de projecten die met dat malplaatje worden gemaakt altijd bepaalde douaneformulieren in bijlage vereisen. U kunt zelfs velden invullen die zelden worden gewijzigd of die specifieke informatie vereisen.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Op deze manier is het formulier al bijgevoegd en is een deel van de informatie al ingevuld. Hierdoor wordt het maken van projecten versneld en worden deze aangepaste velden correct en volledig ingevuld voor alle toepasselijke projecten.
 
@@ -99,7 +99,7 @@ Op deze manier is het formulier al bijgevoegd en is een deel van de informatie a
 
 Maak een aangepast formulier voor het bijhouden van gegevens over externe klanten of leveranciers die u als bedrijf aan uw Workfront-systeem hebt toegevoegd.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Gebruik het aangepaste formulier om het adres, de naam van de primaire contactpersoon enz. bij te houden, zodat het gemakkelijk toegankelijk is in Workfront. U kunt deze aangepaste formuliergegevens ook opnemen in rapporten.
 
@@ -108,9 +108,9 @@ Gebruik het aangepaste formulier om het adres, de naam van de primaire contactpe
 
 **Beste praktijken**
 
-Maak één &#39;algemeen&#39; of &#39;universeel&#39; aangepast formulier dat gemeenschappelijke velden en berekende velden bevat, in plaats van de afzonderlijke velden op meerdere formulieren aan te passen. Hierdoor kunt u op consistente wijze bedrijfsbrede informatie verzamelen.
+Maak één &#39;algemeen&#39; of &#39;universeel&#39; aangepast formulier dat gemeenschappelijke velden en berekende velden bevat, in plaats van de afzonderlijke velden op meerdere formulieren aan te passen. Hierdoor kunt u op consistente wijze informatie voor de hele onderneming verzamelen.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Een &quot;algemeen&quot; formulier maakt het onderhoud van deze velden eenvoudiger, omdat ze allemaal op één plaats leven. U kunt één formulier bijwerken, in plaats van deze afzonderlijke velden op verschillende formulieren te laten leven, die u vervolgens afzonderlijk moet bijwerken.
 
@@ -121,7 +121,7 @@ Een &quot;algemeen&quot; formulier maakt het onderhoud van deze velden eenvoudig
 
 Voeg sectie-einden toe aan een aangepast formulier om het formulier overzichtelijk en begrijpelijk te houden.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Door gerelateerde informatie in secties te groeperen kunnen gebruikers door het formulier navigeren.
 
@@ -132,11 +132,11 @@ Door gerelateerde informatie in secties te groeperen kunnen gebruikers door het 
 
 Houd aangepaste formulieren korter om ervoor te zorgen dat het formulier volledig wordt ingevuld en u alle benodigde informatie krijgt.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Lange formulieren kunnen intimiderend zijn voor gebruikers en er vaak toe leiden dat het formulier niet volledig wordt ingevuld. Dit resulteert op zijn beurt in onvolledige toewijzingsinformatie en onnauwkeurige gegevens voor rapportage.
 
-Als een aangepast formulier veel velden bevat, plaatst u verwante velden indien mogelijk naast elkaar, zodat de gebruiker minder schuift. U kunt ook logica overslaan gebruiken om velden te verbergen die niet hoeven te worden ingevuld of om logica weer te geven om specifieke velden weer te geven.
+Als een aangepast formulier veel velden bevat, plaatst u verwante velden indien mogelijk naast elkaar, zodat de gebruiker minder hoeft te schuiven. U kunt ook logica overslaan gebruiken om velden te verbergen die niet hoeven te worden ingevuld of om logica weer te geven om specifieke velden weer te geven.
 
 </br>
 </br>
@@ -145,7 +145,7 @@ Als een aangepast formulier veel velden bevat, plaatst u verwante velden indien 
 
 Gebruik vooraf gedefinieerde aangepaste veldopties, zoals keuzerondjes en vervolgkeuzemenu&#39;s, om de antwoordopties te beperken door van gebruikers te vereisen dat zij uit specifieke opties kiezen.
 
-**Daarom**
+**hier is waarom**
 
 Als een vooraf gedefinieerd veld wordt gebruikt, klikken gebruikers gewoon op een vak of selecteren ze een optie in een menu om ervoor te zorgen dat alle antwoorden op die vraag identiek zijn.
 
@@ -158,7 +158,7 @@ Consistente, nauwkeurige gegevens zijn van essentieel belang voor een nauwkeurig
 
 Zorg ervoor dat de veldlabels duidelijk zijn geformuleerd en beschrijvend zijn.
 
-**Daarom**
+**hier is waarom**
 
 Op deze manier begrijpt de persoon die het aangepaste formulier invult welke informatie wordt gevraagd.
 
@@ -169,7 +169,7 @@ Op deze manier begrijpt de persoon die het aangepaste formulier invult welke inf
 
 Voeg in het veld Instructies informatie toe op aangepaste velden om aan te geven welke gegevens de invuller van het veld moet invoeren.
 
-**Daarom**
+**hier is waarom**
 
 Deze informatie verschijnt als pop-up wanneer u over? Pictogram naast een veld op een aangepast formulier. Geef op welke gegevens in het veld moeten worden ingevoerd, inclusief de vereiste opmaak voor tekstvelden.
 
@@ -182,7 +182,7 @@ Als u de gebruiker meer details geeft, kunt u extra gesprekken, e-mails en verwa
 
 Gebruik weergavelogica om benodigde velden weer te geven wanneer een ander veld op een bepaalde manier wordt ingevuld. Gebruik logica overslaan in aangepaste formulieren om velden te verbergen die geen betrekking hebben op het type aanvraag.
 
-**Daarom**
+**hier is waarom**
 
 Als u alleen de vereiste velden weergeeft of velden verbergt die dat niet zijn, maakt u een beter aangepast formulier en minder verwarring voor gebruikers bij het invullen van aangepaste formulieren. Dit draagt ook bij aan een over het algemeen kortere vorm, die gebruikers minder intimidert en een hoger reactieniveau bevordert.
 
@@ -195,9 +195,9 @@ Met behulp van weergaverelogica kunt u ook het aantal aangepaste formulieren dat
 
 Knip het aantal berekeningen af dat op een aangepast formulier moet worden uitgevoerd door de berekende informatie uit een ander formulier te halen.
 
-**Daarom**
+**hier is waarom**
 
-U hebt bijvoorbeeld een berekend veld met de naam &quot;Aantal activa&quot; op een uitgifteformulier waarin het aantal elementen wordt berekend dat aan het item is gekoppeld. Dit wordt gebruikt op een verzoekrij. U hebt deze informatie nodig om naar het project over te dragen wanneer het verzoek wordt omgezet. Maak een kopie van het uitgifteformulier en sla dit op als een projectformulier. Voeg vervolgens de naam van het berekende veld voor de uitgave toe aan het berekeningsvak van het projectformulier. In dit voorbeeld voert u in het berekende veld voor het projectformulier met de naam &quot;Aantal elementen&quot; letterlijk het woord &quot;Aantal elementen&quot; in. Zo voorkomt u dat Workfront probeert deze berekening opnieuw uit te voeren voor het project en gebruikt u in plaats daarvan de waarde uit het aangepaste formulier voor de uitgave.
+U hebt bijvoorbeeld een berekend veld met de naam &quot;Aantal Assets&quot; op een uitgifteformulier dat het aantal elementen berekent dat aan het item is gekoppeld. Dit wordt gebruikt op een verzoekrij. U hebt deze informatie nodig om naar het project over te dragen wanneer het verzoek wordt omgezet. Maak een kopie van het uitgifteformulier en sla dit op als een projectformulier. Voeg vervolgens de naam van het berekende veld voor de uitgave toe aan het berekeningsvak van het projectformulier. In dit voorbeeld voert u in het berekende veld voor het projectformulier met de naam &quot;Aantal Assets&quot; letterlijk het woord &quot;Aantal Assets&quot; in. Zo voorkomt u dat Workfront probeert deze berekening opnieuw uit te voeren voor het project en gebruikt u in plaats daarvan de waarde uit het aangepaste formulier voor de uitgave.
 
 </br>
 </br>
@@ -206,11 +206,11 @@ U hebt bijvoorbeeld een berekend veld met de naam &quot;Aantal activa&quot; op e
 
 Gebruik, indien van toepassing, bestaande velden uit de veldbibliotheek die hetzelfde doel hebben.
 
-**Daarom**
+**hier is waarom**
 
 Twee velden in Workfront kunnen niet dezelfde naam hebben. Als het veld een algemene naam heeft, is er een kans dat het veld al bestaat. Controleer de veldbibliotheek voordat u nieuwe velden maakt om te zien of het veld al bestaat.
 
-Wanneer u velden gebruikt die u niet hebt gemaakt, moet u niet vergeten dat wijzigingen in dit veld invloed hebben op ALLE aangepaste formulieren waarvan het veld deel uitmaakt. Als u een berekening moet wijzigen of het veldtype moet wijzigen (bijvoorbeeld tekst in keuzerondjes), moet u een nieuw veld maken en het een andere naam geven dan het origineel. (Houd er rekening mee dat meerdere velden met vergelijkbare namen verwarrend kunnen zijn voor gebruikers.)
+Wanneer u velden gebruikt die u niet hebt gemaakt, moet u niet vergeten dat wijzigingen in dit veld invloed hebben op ALLE aangepaste formulieren waarvan het veld deel uitmaakt. Als u een berekening moet wijzigen of het veldtype moet wijzigen (bijvoorbeeld tekst in keuzerondjes), moet u een nieuw veld maken en dit een andere naam geven dan het origineel. (Houd er rekening mee dat meerdere velden met vergelijkbare namen verwarrend kunnen zijn voor gebruikers.)
 
 </br>
 </br>
@@ -219,7 +219,7 @@ Wanneer u velden gebruikt die u niet hebt gemaakt, moet u niet vergeten dat wijz
 
 Gebruik de vereiste velden om ervoor te zorgen dat informatie die essentieel is voor uw proces of organisatie, wordt vastgelegd.
 
-**Daarom**
+**hier is waarom**
 
 Onvolledige gegevens op een aangepast formulier kunnen het werk vertragen en de rapportage beïnvloeden. De vereiste veldindicator (een rood * naast de veldnaam) herinnert gebruikers eraan dat specifieke informatie wordt vereist alvorens het aangepaste formulier te bewerken en vervolgens op te slaan of officieel een aanvraag in te dienen.
 
@@ -232,7 +232,7 @@ De vereiste velden moeten echter spaarzaam en zorgvuldig worden gebruikt. Als u 
 
 Wees voorzichtig bij het wijzigen van veldnamen op een aangepast formulier, aangezien dit invloed kan hebben op berekende velden die naar dat veld aanroepen.
 
-**Daarom**
+**hier is waarom**
 
 Wanneer u de naam van een veld wijzigt, moet de naam worden bijgewerkt op de plaats waar deze wordt gebruikt in een berekend aangepast veld op een aangepast formulier of in een berekening die in de tekstmodus is ingebouwd. Als u de naam van een veld wijzigt, kunnen berekeningen worden afgebroken en kan dit leiden tot onjuiste informatie.
 
@@ -243,7 +243,7 @@ Wanneer u de naam van een veld wijzigt, moet de naam worden bijgewerkt op de pla
 
 U kunt aangepaste formulieren en velden regelmatig controleren, bijvoorbeeld eenmaal per kwartaal, als onderdeel van uw reguliere Workfront-systeemonderhoud.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Aangepaste formulieren en velden zijn niet handig als ze niet de gegevens verzamelen die uw organisatie nodig heeft om werk af te ronden.
 
@@ -260,7 +260,7 @@ Voordat u handelingen uitvoert met deze overbodige formulieren, moet u eerst lez
 
 U moet overbodige aangepaste formulieren deactiveren in plaats van deze te verwijderen.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Wanneer u een aangepast formulier verwijdert, verwijdert u alle aangepaste gegevens die via dat aangepaste formulier zijn ingevoerd.
 Als u een aangepast formulier deactiveert, blijven alle bijbehorende historische gegevens behouden. Dit betekent dat u deze gegevens kunt blijven rapporteren.
@@ -274,7 +274,7 @@ Als u het formulier deactiveert, voorkomt u ook dat het wordt weergegeven in ver
 
 Verberg aangepaste velden die u niet meer nodig hebt op een aangepast formulier onder een sectie-einde. Dan maak die sectie zichtbaar slechts aan systeembeheerders.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Wanneer u een bestaand aangepast veld verwijdert, wordt dit niet alleen uit een aangepast formulier verwijderd, maar worden alle gegevens in dat veld ook verwijderd, waar dat aangepaste veld ook wordt gebruikt. Dit betekent dat historische gegevens, die nodig kunnen zijn voor rapporten, worden verwijderd.
 
@@ -288,7 +288,7 @@ U voorkomt gegevensverlies door het onnodige veld in het aangepaste formulier ze
 Beperk het aantal personen dat aangepaste formulieren kan maken in uw Workfront-exemplaar.
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Als u een groep personen selecteert die aangepaste formulieren kunnen maken, kunt u het aantal aangepaste formulieren instellen dat in een Workfront-exemplaar wordt gemaakt.
 

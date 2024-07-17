@@ -1,6 +1,6 @@
 ---
 title: Geavanceerde samenvoegingsanalyse
-description: Leer hoe u een webservice kunt aanroepen om details over meerdere landen te retourneren en om de populatie, gegroepeerd per subregio, te identificeren in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om de Webdienst te roepen om details over veelvoudige landen terug te keren en bevolking te identificeren, gegroepeerd door subregio, allen in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Bel een webservice om details over meerdere landen te retourneren en de totale bevolking van alle landen, gegroepeerd per subregio, te identificeren.
 
-![Een afbeelding van het Fusion-scenario](assets/iteration-and-aggregation-3.png)
+![ een beeld van het scenario van de Fusie ](assets/iteration-and-aggregation-3.png)
 
 ## Geavanceerde samenvoegingsanalyse
 
@@ -43,7 +43,7 @@ Wanneer een module meerdere bundels uitvoert, voert elke module daarna elke bund
 
 Om dit te verhinderen, voeg een aggregator na een module toe die potentieel veelvoudige bundels produceert.
 
-U zult een schaduw rond om het even welk segment in uw scenario van een zien **beginiterator** aan de **end-aggregator**. Zo kunt u deze segmenten gemakkelijk herkennen in uw Workfront Fusion-scenario.
+U zult een schaduw rond om het even welk segment in uw scenario van a **begin-iterator** aan **eind-aggregator** zien. Zo kunt u deze segmenten gemakkelijk herkennen in uw Workfront Fusion-scenario.
 
 ## Uw beurt
 
@@ -53,10 +53,10 @@ U zult een schaduw rond om het even welk segment in uw scenario van een zien **b
 
 Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet verstrekt.
 
-Creeer een nieuw scenario aan som alle uren het programma geopende taken in projecten in de marketing portefeuille. Vervolgens verzendt u een e-mail met de tekst &quot;Uw projectteam {Projectnaam} heeft {samengevat uren} van de totale {geplande uren} die u hebt gepland, en plaatst u op {percentage} van het plan.&quot;
+Creeer een nieuw scenario aan som alle uren het programma geopende taken in projecten in de marketing portefeuille. Vervolgens verzendt u een e-mail met de tekst &quot;Uw projectteam {Projectnaam} heeft zich {samengevat uren} van het totaal van de {geplande uren} geplande uren aangemeld, waarmee u zich op {percentage} van het plan bevindt.&quot;
 
-**Uitdaging:** Kijk of je hetzelfde kunt doen, maar alleen voor uren die dit jaar zijn geregistreerd.
+**Uitdaging:** zie of kunt u het zelfde ding maar voor uren doen dat slechts dit jaar wordt geregistreerd.
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

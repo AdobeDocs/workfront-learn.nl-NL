@@ -1,6 +1,6 @@
 ---
 title: Werken met JSON-analyse
-description: Leer hoe u JSON kunt maken en parseren in een scenario dat uw ontwerpbehoeften ondersteunt in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om JSON binnen een scenario tot stand te brengen en te ontleden om uw ontwerpbehoeften in  [!DNL Adobe Workfront Fusion] te steunen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer hoe u JSON kunt maken en parseren in een scenario dat uw ontwerpbehoeften ondersteunt.
 
-![Een afbeelding van een Fusion-scenario](assets/final-functional-bits-and-bobs-2.png)
+![ een beeld van een scenario van de Fusie ](assets/final-functional-bits-and-bobs-2.png)
 
 ## Arrays walkthrough
 
@@ -38,4 +38,4 @@ In deze video leert u hoe u:
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

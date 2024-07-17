@@ -1,6 +1,6 @@
 ---
 title: Doeluitlijning verwijderen
-description: Leer hoe u uitlijning van doelen kunt verwijderen in [!DNL Workfront Goals].
+description: Leer hoe te om doelgroepering in  [!DNL Workfront Goals] te verwijderen.
 activity: use
 team: Technical Marketing
 feature: Workfront Goals
@@ -21,10 +21,10 @@ ht-degree: 0%
 Wat gebeurt er als de afstemming tussen doelen niet langer zinvol is? U kunt de doeluitlijning verwijderen.
 
 1. Ga naar een ouderdoel dat aan een kinddoel wordt gericht.
-1. Klik om het dialoogvenster [!UICONTROL Progress indicators] deelvenster.
+1. Klik om het deelvenster [!UICONTROL Progress indicators] te openen.
 1. Klik checkbox naast het kinddoel u van het ouderdoel wilt losmaken.
 1. Klik op het pictogram X naast het potloodpictogram.
 
-![Een schermafbeelding van de [!UICONTROL Remove alignment] optie in [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
+![ Een schermafbeelding van de optie [!UICONTROL Remove alignment] in [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
 
 Het doel wordt een zelfstandig doel en de vooruitgang ervan beïnvloedt niet langer de vooruitgang van het oorspronkelijke hoofddoel. Vergeet niet activiteiten of resultaten toe te voegen aan de doelen om de voortgang te meten en deze naar een actieve status te verplaatsen.

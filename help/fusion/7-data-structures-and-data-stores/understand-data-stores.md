@@ -1,6 +1,6 @@
 ---
 title: Gegevensopslag begrijpen
-description: Leer hoe u gegevensopslagruimten gebruikt als een permanente gegevensset en hoe gegevensstructuren een gegevensopslag ondersteunen in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om gegevensopslag als blijvende gegevensreeks te gebruiken en hoe de gegevensstructuren een gegevensopslag in  [!DNL Adobe Workfront Fusion] steunen.
 activity: use
 team: Technical Marketing
 type: Tutorial

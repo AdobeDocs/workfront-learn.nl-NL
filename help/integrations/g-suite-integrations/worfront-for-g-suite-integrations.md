@@ -1,6 +1,6 @@
 ---
 title: Verbeter uw werkschema met de Integratie van de Reeks
-description: Leer hoe u een e-mailbericht naar een [!DNL Workfront] taak of uitgave, weergave en update [!DNL Workfront] werken vanuit Gmail en goedkeuren [!DNL Workfront] werk van Gmail.
+description: Leer hoe te om een e-mail in a  [!DNL Workfront]  taak of kwestie om te zetten,  [!DNL Workfront]  werk van Gmail te bekijken en bij te werken, en  [!DNL Workfront]  werk van Gmail goed te keuren.
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -12,7 +12,7 @@ exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
 doc-type: video
 source-git-commit: aa552b484b467509c0c75fa581e16401a172b5c7
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -29,4 +29,4 @@ In deze video leert u hoe u:
 
 ## Adobe Workfront for G Suite installeren
 
-Voor instructies over het installeren van de nieuwste versie raadpleegt u: [Adobe Workfront for G Suite installeren](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html).
+Voor instructies op hoe te om de recentste versie te installeren zie: [ installeer Adobe Workfront voor de Reeks van G ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-g-suite/install-workfront-for-gsuite.html).

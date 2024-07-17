@@ -1,6 +1,6 @@
 ---
-title: De vormgeving aanpassen van [!UICONTROL Brand Connect]
-description: Meer informatie over [!UICONTROL Brand Connect] wordt gebruikt voor en hoe te toegang [!UICONTROL Brand Connect] instellingen in [!UICONTROL Workfront DAM].
+title: De vormgeving van [!UICONTROL Brand Connect] aanpassen
+description: Leer meer over waarvoor [!UICONTROL Brand Connect] wordt gebruikt en hoe u toegang krijgt tot [!UICONTROL Brand Connect] -instellingen in [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 ---
 
-# De vormgeving aanpassen van [!UICONTROL Brand Connect]
+# De vormgeving van [!UICONTROL Brand Connect] aanpassen
 
 In deze video leert u:
 
-* Wat [!UICONTROL Brand Connect] wordt gebruikt voor
-* Toegang krijgen [!UICONTROL Brand Connect] instellingen in [!UICONTROL Workfront DAM]
+* Waarvoor wordt [!UICONTROL Brand Connect] gebruikt
+* Toegang krijgen tot [!UICONTROL Brand Connect] -instellingen in [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335241/?quality=12&learn=on)

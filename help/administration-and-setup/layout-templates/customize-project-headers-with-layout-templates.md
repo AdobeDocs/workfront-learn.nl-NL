@@ -1,5 +1,5 @@
 ---
-title: Projectkopballen met de Malplaatjes van de Lay-out aanpassen
+title: Projectkoppen aanpassen met lay-outsjablonen
 description: Leer om gebieden aan projectkopballen toe te voegen en te verwijderen door lay-outmalplaatjes.
 feature: System Setup and Administration
 activity: deploy

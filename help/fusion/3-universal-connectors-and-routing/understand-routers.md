@@ -1,6 +1,6 @@
 ---
 title: Begrijp routers
-description: Leer welke routers zijn en waarom om hen te gebruiken, hoe de bundels van gegevens onderaan routerwegen overgaan, en hoe te om routers, allen binnen toe te voegen en te gebruiken [!DNL Adobe Workfront Fusion].
+description: Leer welke routers zijn en waarom om hen te gebruiken, hoe de bundels van gegevens routerwegen omlaag overgaan, en hoe te om routers toe te voegen en te gebruiken, allen in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

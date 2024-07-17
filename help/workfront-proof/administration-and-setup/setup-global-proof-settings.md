@@ -1,6 +1,6 @@
 ---
 title: Algemene proefdrukinstellingen instellen
-description: Leer hoe u standaardproefdrukrollen voor gebruikers instelt; standaardinstellingen voor proefdrukken van account; en standaardproefdrukinstellingen voor proefdrukken.
+description: Leer hoe u standaardproefdrukrollen voor gebruikers instelt, accountinstellingen voor standaardproefdrukken en proefdrukinstellingen voor proefdrukken.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Algemene proefdrukinstellingen instellen
 
-De systeeminstellingen voor proefdrukken starten [!DNL Workfront] door algemene standaardinstellingen in te stellen die van invloed zijn op gebruikers. Als u deze standaardinstellingen nu instelt, zorgt u ervoor dat de gebruikers die u maakt, over de minimale instellingen beschikken die nodig zijn om de proefdrukmogelijkheden te gebruiken...Bovendien bespaart u tijd terwijl u door de proefinstellingen werkt.
+Start de systeeminstellingen voor proefdrukken in [!DNL Workfront] door algemene standaardinstellingen op te geven die van invloed zijn op gebruikers. Als u deze standaardinstellingen nu instelt, zorgt u ervoor dat de gebruikers die u maakt, over de minimale instellingen beschikken die nodig zijn om de proefdrukmogelijkheden te gebruiken...en bespaart u tijd wanneer u de proefdrukinstellingen doorloopt.
 
 * Standaardproefdrukrollen toewijzen
 * Standaardinstellingen voor accounts instellen

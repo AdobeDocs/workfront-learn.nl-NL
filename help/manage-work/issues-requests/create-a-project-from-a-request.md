@@ -29,19 +29,19 @@ In deze video leert u hoe u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on)
 
-## Wat u moet weten over de [!UICONTROL Options] sectie
+## Wat u moet weten over de sectie [!UICONTROL Options]
 
-De [!UICONTROL Options] de sectie kan door de systeembeheerder worden verborgen als zij u de gebreken willen gebruiken zij hebben geplaatst. Als de [!UICONTROL Options] wordt weergegeven, hier wat de opties betekenen:
+De sectie [!UICONTROL Options] kan door de systeembeheerder worden verborgen als zij u de gebreken willen gebruiken zij hebben geplaatst. Als de sectie [!UICONTROL Options] wel wordt weergegeven, betekent dit wat de opties betekenen:
 
-**Behoud de oorspronkelijke kwestie en koppel zijn resolutie aan dit project**
+**houd de originele kwestie en verbind zijn resolutie aan dit project**
 
-Als deze optie is geselecteerd, wordt het oorspronkelijke probleem gemarkeerd als opgelost wanneer het project is voltooid. Als deze optie **niet** geselecteerd, wordt de oorspronkelijke uitgave verwijderd bij het maken van het project.
+Als deze optie is geselecteerd, wordt het oorspronkelijke probleem gemarkeerd als opgelost wanneer het project is voltooid. Als deze optie **niet** wordt geselecteerd, zal de originele kwestie op projectverwezenlijking worden geschrapt.
 
-**Toestaan (naam van gebruiker) dat toegang tot dit project wordt verkregen**
+**staat (de naam van de gebruiker) toe om toegang tot dit project** te hebben
 
-Als deze optie is geselecteerd, krijgt de persoon die het verzoek heeft ingediend (of namens wie het verzoek is ingediend) automatisch toegangsrechten voor het nieuwe project nadat het is gemaakt. Als deze optie **niet** worden geselecteerd, krijgen zij niet automatisch rechten.
+Als deze optie is geselecteerd, krijgt de persoon die het verzoek heeft ingediend (of namens wie het verzoek is ingediend) automatisch toegangsrechten voor het nieuwe project nadat het is gemaakt. Als deze optie **niet** wordt geselecteerd, zullen zij automatisch geen rechten worden gegeven.
 
-![Een afbeelding van een projectscherm met conversieopties](assets/conversion-options.png)
+![ een beeld van een projectscherm dat omzettingsopties toont ](assets/conversion-options.png)
 
 
 ## Informatie bijhouden tijdens het conversieproces
@@ -58,7 +58,7 @@ Als u een aangepast formulier opneemt in een projectsjabloon, wordt het automati
 
 Om de efficiency van uw werk te verhogen en het gemakkelijker te maken om kwesties in een snel-afgehandelde milieu om te zetten, hebt u de capaciteit om een kwestie in een taak of een project van om het even welke voorwaardenlijst in een project, een rapport, of een dashboard om te zetten. Selecteer een probleem en klik op het menu met drie punten dat wordt weergegeven.
 
-![Een afbeelding van een projectiescherm met opties voor het converteren van problemen](assets/convert-from-a-list.png)
+![ een beeld van een projectscherm dat de opties van de probleemomzetting toont ](assets/convert-from-a-list.png)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

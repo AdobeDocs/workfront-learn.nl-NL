@@ -1,6 +1,6 @@
 ---
-title: Abonnementsgegevens bijwerken in [!DNL Scenario Planner]
-description: Leer hoe u de rol, het budget of de kostengegevens van een baan wijzigt of bijwerkt nadat u een abonnement of initiatief hebt gemaakt in het dialoogvenster [!DNL Scenario Planner].
+title: Plan-informatie bijwerken in  [!DNL Scenario Planner]
+description: Leer hoe te om baanrol, begroting, of kosteninformatie te veranderen of bij te werken nadat een plan of een initiatief in  [!DNL Scenario Planner] wordt gecreeerd.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# De rol, het budget en de kostengegevens van de functies aanpassen [!DNL Scenario Planner]
+# De rol-, begrotings- en kostengegevens van taken aanpassen in de [!DNL Scenario Planner]
 
 In deze video leert u hoe u:
 

@@ -1,6 +1,6 @@
 ---
 title: Wie uploadt de proefversies?
-description: De persoon die verantwoordelijk is voor het uploaden van proefversies in [!DNL  Workfront] kan variëren. Leer van gemeenschappelijke gebruiksgevallen om de ideale opstelling bij uw organisatie te identificeren.
+description: De persoon verantwoordelijk voor het uploaden van proefversies in  [!DNL  Workfront]  kan variëren. Leer van gemeenschappelijke gebruiksgevallen om de ideale opstelling bij uw organisatie te identificeren.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -25,6 +25,6 @@ Mogelijk bent u bijvoorbeeld een creatieve ontwerper die zojuist correcties heef
 
 Als redacteur van het exemplaar, kunt u het originele dossier van het bewijs van de tekst voor de recentste e-mailcampagne hebben gedownload. Nadat u het bestand in de oorspronkelijke toepassing hebt bewerkt, moet u het gecorrigeerde bestand uploaden, zodat het door anderen in het team kan worden geopend.
 
-De mogelijkheid om een proefdruk te uploaden is afhankelijk van de instellingen voor uw proefdrukmachtiging en de instellingen voor de afzonderlijke proefdruk. Neem contact op met uw [!DNL Workfront] de beheerder van de proefdruk of systeembeheerder.
+De mogelijkheid om een proefdruk te uploaden is afhankelijk van de instellingen voor uw proefdrukmachtiging en de instellingen voor de afzonderlijke proefdruk. Neem contact op met de [!DNL Workfront] proefbeheerder of systeembeheerder als u versies moet uploaden maar dit niet kunt.
 
 Vraag uw team of organisatie om meer informatie over uw rol in het proefdrukproces.

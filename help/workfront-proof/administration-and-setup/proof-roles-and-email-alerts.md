@@ -1,6 +1,6 @@
 ---
 title: Rollen en e-mailwaarschuwingen controleren
-description: Leer hoe u de juiste proefdrukrollen en e-mailwaarschuwingen inschakelt, zodat proefontvangers toegang hebben tot proefdrukken en inzicht krijgen in het werk dat wordt uitgevoerd in [!DNL  Workfront].
+description: Leer hoe te om juiste proefdrukrollen en e-mailalarm toe te laten zodat hebben de proefontvangers toegang tot proef en zicht in het werk dat in  [!DNL  Workfront] wordt gedaan.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -23,26 +23,26 @@ Dankzij de proefdrukrollen en e-mailwaarschuwingen kunt u de proefdrukworkflow v
 
 Laten we eens kijken naar een aantal basistevetoepassingen:
 
-* **Proefrol —** Hiermee definieert u wat een gebruiker kan doen met een proefdruk (bijv. opmerking, markering, goedkeuring, enz.).
-* **E-mailwaarschuwing —** E-mails die naar mensen worden verzonden in de proefwerkstroom wanneer er activiteit is op de proefdruk.
+* **rol van het Bewijs -** bepaalt wat een gebruiker met een proef (b.v., commentaar, prijsverhoging, keurt goed, enz.) kan doen.
+* **e-mailalarm —** E-mails die naar mensen in het proefdrukwerkschema worden verzonden wanneer er activiteit op de proef is.
 
-![Een afbeelding van de [!UICONTROL New Proof] met [!UICONTROL Proof role] en [!UICONTROL Email alerts] gemarkeerde kolommen.](assets/proof-roles-and-email-alerts.png)
+![ een beeld van het [!UICONTROL New Proof] venster met de [!UICONTROL Proof role] en [!UICONTROL Email alerts] benadrukte kolommen.](assets/proof-roles-and-email-alerts.png)
 
 Uw beheerder van het proefdruksysteem kan standaardproefdrukrollen en e-mailalarm voor de proefdrukgebruikers van uw organisatie plaatsen. Deze informatie kan bovendien worden ingebouwd in proefwerkstroomsjablonen (ook wel geautomatiseerde werkstroomsjablonen genoemd).
 
 Het kan echter voorkomen dat u deze gegevens handmatig moet instellen tijdens het uploaden van een proefdruk.
 
-[!DNL Workfront] geeft deze algemene aanbevelingen wanneer het toewijzen van proefdrukrollen aan proefontvangers:
+[!DNL Workfront] biedt de volgende algemene aanbevelingen wanneer u proefdrukrollen toewijst aan proefontvangers:
 
-* **Revisor en fiatteur —** Deze gebruikers kunnen zowel opmerkingen maken over bewijzen als een beslissing nemen (zoals goedgekeurd of afgewezen) op een bewijs. Gebruik deze proefdrukrol voor de belangrijkste interne en externe belanghebbenden in het evaluatieproces.
-* **Recensent —** Sommige mensen in uw proefwerkstroom hoeven alleen opmerkingen te maken. Deze rol is ideaal voor hen. De revisorrol kan ook worden toegewezen aan [!DNL Workfront] gebruikers die proofs hoofdzakelijk uploaden of dienen als proef eigenaar maar anders geen deel van het proefdrukproces uitmaken.
-* **Alleen-lezen —** Ideaal voor ontvangers die alleen de bewijzen hoeven te zien. [!UICONTROL Read Only] geeft toegang tot de weergave en staat geen opmerkingen toe.
+* **Recensent &amp; fiatteur -** Deze gebruikers kunnen zowel commentaren op proef maken als een besluit (zoals goedgekeurd of verworpen) op een bewijs nemen. Gebruik deze proefdrukrol voor de belangrijkste interne en externe belanghebbenden in het evaluatieproces.
+* **Recensent —** Sommige mensen in uw proefwerkschema moeten slechts commentaren maken, is deze rol ideaal voor hen. De revisorrol kan ook worden toegewezen aan [!DNL Workfront] -gebruikers die in eerste instantie proefdrukken uploaden of als eigenaar van een proefdruk fungeren, maar die anders geen deel uitmaken van het proefdrukproces.
+* **las slechts —** Ideaal voor ontvangers die slechts de proef hoeven te zien. [!UICONTROL Read Only] geeft toegang tot de weergave en staat geen opmerkingen toe.
 
 [!DNL Workfront] biedt de volgende algemene aanbevelingen wanneer u e-mailwaarschuwingen toewijst aan proefontvangers:
 
-* **Definitief besluit —** Dit stuurt een e-mail wanneer de laatste persoon een beslissing neemt over het bewijs. Wijs dit toe aan de persoon die de proefdrukwerkstroom controleert. Dit kan een proefdrukmanager, eigenaar van proefdrukken, maker van proefdrukken, projectmanager of andere [!DNL Workfront] gebruiker. [!DNL Workfront] Deze waarschuwing wordt aanbevolen wanneer een basisworkflow wordt gebruikt, zodat de persoon die het bewijs controleert weet dat alle beslissingen zijn genomen.
-* **Besluiten —** Hierdoor worden waarschuwingen verzonden, aangezien elke belanghebbende een besluit neemt over de bewijskracht. Deze optie is het beste als u een geautomatiseerde workflow gebruikt, met verschillende beslissingen. Wijs dit toe aan de persoon die de proefdrukworkflow controleert. Dit kan een proefdrukmanager, eigenaar van proefdrukken, maker van proefdrukken, projectmanager of andere [!DNL Workfront] gebruiker.
-* **Uitgeschakeld —** Gebruik deze optie voor gebruikers die een proefdruk maken van gasten om het aantal e-mails dat ze over de proefdruk ontvangen, te beperken. Ontvangers krijgen nog steeds een melding over nieuwe proefdrukken, nieuwe versies en late proefdrukken, plus [!DNL Workfront] gebruikers ontvangen directe berichten die in een proefdrukcommentaar zijn gemaakt met @username en gastontvangers met @e-mailadres.
+* **Definitief besluit —** dit verzendt een e-mail wanneer de laatste persoon een besluit over het bewijs neemt. Wijs dit toe aan de persoon die de proefdrukwerkstroom controleert. Dit kan een proefdrukmanager, eigenaar van proefdrukken, maker van proefdrukken, projectmanager of andere [!DNL Workfront] gebruiker zijn. [!DNL Workfront] raadt deze waarschuwing aan als u een standaardworkflow gebruikt, zodat de persoon die de proefdruk controleert weet dat alle beslissingen zijn genomen.
+* **Besluiten —** dit verzendt alarm aangezien elke het proefdrukken werkschemabelanghebbende een besluit over de proef neemt. Deze optie is het beste als u een geautomatiseerde workflow gebruikt, met verschillende beslissingen. Wijs dit toe aan de persoon die de proefdrukworkflow controleert. Dit kan een proefdrukmanager, eigenaar van proefdrukken, maker van proefdrukken, projectmanager of andere [!DNL Workfront] gebruiker zijn.
+* **Gehandicapten —** Gebruik dit voor gastproefproefgebruikers om het aantal e-mails te beperken zij over de proef ontvangen. Ontvangers krijgen nog steeds een melding over nieuwe proefdrukken, nieuwe versies en recente proefdrukken, plus [!DNL Workfront] -gebruikers ontvangen directe berichten die in een proefdrukopmerking zijn gemaakt met @username en gastontvangers met @e-mailadres.
 
 ## Uw beurt
 

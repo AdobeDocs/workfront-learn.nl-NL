@@ -1,6 +1,6 @@
 ---
-title: Een scenario publiceren
-description: Bepaal welk scenario het beste voor uw organisatie het gebruiken werkt [!DNL Scenario Planner]. Learn how to publish the scenario and turn the plan into a [!DNL Workfront] project.
+title: Hoe te om een Scenario te Publish
+description: Bepaal welk scenario het beste voor uw organisatie gebruikend  [!DNL Scenario Planner]. Learn how to publish the scenario and turn the plan into a [!DNL Workfront]  project werkt.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Een scenario publiceren
 
-Als u hebt bepaald welk scenario het beste aansluit bij de behoeften van uw organisatie en de doelstellingen, kunt u dat plan omzetten in de [!DNL Workfront] [!DNL Scenario Planner] in te leveren werkzaamheden, of projecten, in [!DNL Workfront].
+Nadat u hebt bepaald welk scenario het beste aansluit bij de behoeften van uw organisatie en haar doelstellingen, kunt u dat plan in de [!DNL Workfront] [!DNL Scenario Planner] omzetten in te leveren werk, of projecten, in [!DNL Workfront] .
 
-Houd de muis boven een scenario-kaart en selecteer de optie [!UICONTROL Go to Publish] die wordt weergegeven. Van de [!UICONTROL Publish initiatives] pagina, selecteer om het even welke initiatieven u als project wilt publiceren en dan klikken [!UICONTROL Publish initiatives] aan de onderkant.
+Houd de muis boven een scenario-kaart en selecteer de knop [!UICONTROL Go to Publish] die wordt weergegeven. Selecteer op de pagina [!UICONTROL Publish initiatives] de initiatieven die u als een project wilt publiceren en klik op de knop [!UICONTROL Publish initiatives] onder aan.
 
-Deze initiatieven worden nu omgezet in projecten die u kunt vinden in de [!UICONTROL Projects] gebied onder de oorspronkelijke initiatiefnamen. Deze initiatieven zijn nu lopende projecten die waar nodig kunnen worden gewijzigd en geactiveerd. Een nieuwe [!DNL Scenario Planner] wordt weergegeven in het gebied [!UICONTROL Project Details] een gedeelte dat informatie bevat over de functies van het initiatief dat het project heeft gegenereerd en de duur ervan.
+Deze initiatieven worden nu geconverteerd naar projecten die u onder de oorspronkelijke initiatiefnamen in het gebied [!UICONTROL Projects] kunt vinden. Deze initiatieven zijn nu lopende projecten die waar nodig kunnen worden gewijzigd en geactiveerd. In de [!UICONTROL Project Details] -sectie wordt een nieuw [!DNL Scenario Planner] -gebied weergegeven dat informatie bevat over de taakrollen van het initiatief dat het project heeft gegenereerd en de duur ervan.

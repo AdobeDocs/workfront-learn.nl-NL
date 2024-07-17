@@ -1,6 +1,6 @@
 ---
 title: Scenario-instructies
-description: Meer informatie over scenario-instructies, modulehulplijnen, bestandslijn en webhaakhulplijnen vindt u in [!DNL Adobe Workfront Fusion].
+description: Leer over scenarioGrails, modulebegeleiding, dossier guardrails, en WebHaakrails, allen in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -33,6 +33,6 @@ In deze video leert u meer over:
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
 
-[Adobe Workfront Fusion-prestatiehandleidingen](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
+[ de prestatiesbegeleiding van de Fusie van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)

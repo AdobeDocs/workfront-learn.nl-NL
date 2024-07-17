@@ -1,6 +1,6 @@
 ---
 title: LEFT-/RIGHT-expressies maken
-description: Leer hoe u de LEFT/RIGHT-expressies in een berekend veld in Adobe gebruikt [!DNL Workfront].
+description: Leer hoe te om de uitdrukkingen LEFT/RIGHT op een berekend gebied in Adobe  [!DNL Workfront] te gebruiken.
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User

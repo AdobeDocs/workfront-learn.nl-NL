@@ -1,6 +1,6 @@
 ---
 title: Metagegevenstoewijzing instellen
-description: Leer hoe u metagegevenstoewijzing instelt voor [!UICONTROL Workfront DAM].
+description: Leer hoe u metagegevenstoewijzing instelt voor [!UICONTROL Workfront DAM] .
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -18,33 +18,33 @@ ht-degree: 0%
 
 # Metagegevenstoewijzing instellen
 
-[!DNL Workfront]-gerelateerde informatie over een actief kan van [!DNL Workfront] in [!UICONTROL Workfront DAM] met het actief. De optie voor het toewijzen van metagegevens in het dialoogvenster [!DNL Workfront] [!UICONTROL Setup] het gebied maakt deze overdracht van informatie mogelijk .
+Aan [!DNL Workfront] gerelateerde informatie over een element kan met het element worden overgebracht van [!DNL Workfront] naar [!UICONTROL Workfront DAM] . Met de optie voor het toewijzen van metagegevens in het gebied [!DNL Workfront] [!UICONTROL Setup] kunt u deze gegevens overbrengen.
 
-Praat met uw [!DNL Workfront] consultant voor aanbevelingen voor beste praktijken voor het instellen van de metagegevenstoewijzing.
+Bespreek de aanbevelingen van uw [!DNL Workfront] consultant voor de beste praktijken voor het instellen van de metagegevenstoewijzing.
 
-U moet een [!DNL Workfront] beheerder en [!UICONTROL Workfront DAM] beheerder om metagegevenstoewijzing in te stellen. Voordat u kunt starten, moet u eerst verbinding maken met uw [!DNL Workfront] en [!UICONTROL Workfront DAM] rekeningen.
+U moet een [!DNL Workfront] beheerder en een [!UICONTROL Workfront DAM] beheerder zijn om meta-gegevenstoewijzing op te zetten. Voordat u kunt starten, moet u verbinding maken met uw [!DNL Workfront] - en [!UICONTROL Workfront DAM] -accounts.
 
 ## Connect-accounts
 
-1. Aanmelden bij [!DNL Workfront].
-1. Een project, taak of uitgave openen en op de knop **[!UICONTROL Documents]** tab.
-1. Klik op de knop **[!UICONTROL Add New]** en selecteert u **[!UICONTROL From Workfront DAM]** in het keuzemenu.
-1. Voer uw aanmeldingsnaam en wachtwoord in het dialoogvenster [!UICONTROL Workfront DAM] machtigingsvak dat wordt weergegeven.
-1. Klik op Volgende **[!UICONTROL Yes]** geven [!DNL Workfront] toegang tot de [!UICONTROL DAM] account.
-1. Vernieuw indien nodig de pagina om de toegang tot [!UICONTROL Workfront DAM].
+1. Meld u aan bij [!DNL Workfront] .
+1. Open een project, taak of uitgave en klik op het tabblad **[!UICONTROL Documents]** .
+1. Klik op de knop **[!UICONTROL Add New]** en selecteer **[!UICONTROL From Workfront DAM]** in de vervolgkeuzelijst.
+1. Voer in het machtigingsvak [!UICONTROL Workfront DAM] dat wordt weergegeven uw aanmeldingsnaam en wachtwoord in.
+1. Klik vervolgens op **[!UICONTROL Yes]** om [!DNL Workfront] toegang te geven tot de [!UICONTROL DAM] -account.
+1. Vernieuw indien nodig de pagina om de toegang tot [!UICONTROL Workfront DAM] bij te werken.
 
-Als deze verbinding tot stand is gebracht, kunt u nu metagegevens toewijzen tussen de twee systemen. Controleer of u de vereiste metagegevensvelden al hebt gemaakt in [!UICONTROL Workfront DAM] voordat u begint met toewijzen.
+Als deze verbinding tot stand is gebracht, kunt u nu metagegevens toewijzen tussen de twee systemen. Controleer of u de benodigde metagegevensvelden al hebt gemaakt in [!UICONTROL Workfront DAM] voordat u begint met toewijzen.
 
 ## Toewijzing instellen
 
-1. Aanmelden bij [!DNL Workfront].
-1. Selecteren **[!UICONTROL Setup]** van de [!UICONTROL Main Menu].
-1. Breid uit **[!UICONTROL Documents]** in het linkerdeelvenstermenu.
-1. Klik vervolgens op **[!UICONTROL Metadata Mapping]**.
-1. Typ in het veld Workfront de veldbron van het dialoogvenster [!DNL Workfront] te koppelen veld.
-1. Selecteer vervolgens het overeenkomende of het gewenste doel **[!UICONTROL Workfront DAM]** metagegevensveld.
-1. Klik op de knop **[!UICONTROL Add Mapping]** knop.
-1. U ziet de [!UICONTROL Workfront Field Source] en [!UICONTROL Workfront DAM Target Field] in het diagram onder aan het venster.
+1. Meld u aan bij [!DNL Workfront] .
+1. Selecteer **[!UICONTROL Setup]** in het menu [!UICONTROL Main Menu] .
+1. Vouw de sectie **[!UICONTROL Documents]** in het menu van het linkerdeelvenster uit.
+1. Klik vervolgens op **[!UICONTROL Metadata Mapping]** .
+1. Typ in het veld Workfront de veldbron van het veld [!DNL Workfront] dat u wilt toewijzen.
+1. Selecteer vervolgens het bijbehorende metagegevensveld of het metagegevensveld van het doel **[!UICONTROL Workfront DAM]** .
+1. Klik op **[!UICONTROL Add Mapping]** .
+1. U ziet de [!UICONTROL Workfront Field Source] en [!UICONTROL Workfront DAM Target Field] in het diagram onder in het venster.
 1. Herhaal deze bewerking voor alle gewenste metagegevensvelden.
 
-![Een schermafbeelding van de [!UICONTROL Metadata Mapping] scherm in [!DNL Workfront]](assets/01-metadata-mapping.png)
+![ Een schermafbeelding van het [!UICONTROL Metadata Mapping] scherm in [!DNL Workfront]](assets/01-metadata-mapping.png)

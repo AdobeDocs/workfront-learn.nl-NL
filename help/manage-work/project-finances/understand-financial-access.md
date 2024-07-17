@@ -19,22 +19,22 @@ ht-degree: 0%
 
 # Begrijp financiële toegang
 
-Als uw organisatie financiële gegevens vastlegt met [!DNL Workfront], als systeembeheerder, is het uw verantwoordelijkheid om te beschermen en te beheren wie toegang heeft om die informatie te bekijken en uit te geven.
+Als uw organisatie financiële gegevens vastlegt met [!DNL Workfront] als systeembeheerder, is het uw verantwoordelijkheid om te beschermen en te beheren wie toegang heeft om die informatie te bekijken en te bewerken.
 
 Er zijn twee dingen nodig voor een gebruiker om financiële informatie te bekijken of te bewerken:
 
-1. Toegangsrechten moeten worden ingeschakeld in de [!UICONTROL Access Level].
+1. Toegangsrechten moeten zijn ingeschakeld in de [!UICONTROL Access Level] .
 2. Toestemming om deze toegangsrechten te gebruiken moet per object worden verleend.
 
 Een gebruiker kan bijvoorbeeld rechten krijgen om financiële gegevens in zijn toegangsniveau te bekijken, maar hij kan alleen financiële gegevens bekijken over een taak die met hem wordt gedeeld en hij kan financieel worden bekeken in het delen van die taak.
 
-Het is dus mogelijk voor een gebruiker met [!UICONTROL Access Level] het recht om financiële gegevens te bekijken zodat financiële gegevens op bepaalde objecten kunnen worden bekeken en niet op andere, afhankelijk van de individuele opties voor delen van die objecten. Geen enkele gebruiker kan echter financiële gegevens over een object bekijken, tenzij hij het recht heeft dat hem in zijn [!UICONTROL Access Level].
+Het is dus mogelijk dat een gebruiker met [!UICONTROL Access Level] -rechten financiële gegevens kan bekijken voor bepaalde objecten en niet voor andere, afhankelijk van de individuele opties voor delen van die objecten. Nochtans kan geen gebruiker financiële gegevens over om het even welk voorwerp bekijken tenzij zij het recht hebben die aan hen in hun [!UICONTROL Access Level] wordt gegeven.
 
 ## [!UICONTROL Access Level] instellingen
 
-Algehele toegang tot financiële gegevens wordt eerst verleend door [!DNL Workfront] licentietype.
+Globale toegang tot financiële gegevens wordt eerst verleend door het type [!DNL Workfront] licentie.
 
-**[!UICONTROL Plan]licenties kunnen:**
+**[!UICONTROL Plan]-licenties kunnen:**
 
 * Factureringsrecords beheren
 * Rol- en kostenfacturering beheren en bekijken
@@ -42,40 +42,40 @@ Algehele toegang tot financiële gegevens wordt eerst verleend door [!DNL Workfr
 * Kosten beheren
 * Financiën weergeven en bewerken
 
-**[!UICONTROL Work]licenties kunnen:**
+**[!UICONTROL Work]-licenties kunnen:**
 
 * Kosten beheren
 * Financiën weergeven
 
-**[!UICONTROL Review]licenties kunnen:**
+**[!UICONTROL Review]-licenties kunnen:**
 
 * Financiën weergeven
 
-**Machtigingen kunnen worden gewijzigd door de [!UICONTROL Access Level]. De drie opties voor toegang tot financiële gegevens zijn:**
+**de Toestemmingen kunnen door [!UICONTROL Access Level] worden gewijzigd. De drie opties voor financiële gegevenstoegang zijn:**
 
 * [!UICONTROL No Access] — De gebruiker kan geen financiële informatie zien.
 * [!UICONTROL View] — De gebruiker kan de informatie controleren en delen.
-* [!UICONTROL Edit] — De gebruiker kan de gegevens maken, bewerken, verwijderen en delen. (Alleen beschikbaar voor een licentie voor abonnementen.)
+* [!UICONTROL Edit] — De gebruiker kan de gegevens maken, bewerken, verwijderen en delen. (Alleen beschikbaar voor een abonnement.)
 
-![Een afbeelding waarin de algemene opties voor financiële gegevens worden weergegeven op een toegangsniveau](assets/setting-up-finances-8.png)
+![ een beeld dat de algemene opties van de Gegevens van de Financiële in een toegangsniveau toont ](assets/setting-up-finances-8.png)
 
-Houd er rekening mee dat de [!UICONTROL View] en [!UICONTROL Edit] opties hebben aanvullende instellingen voor een [!UICONTROL Plan] licentie. Klik op de versnelling op de knop [!UICONTROL View] knop voor deze opties:
+Het is belangrijk om te weten dat de opties [!UICONTROL View] en [!UICONTROL Edit] aanvullende instellingen hebben voor een [!UICONTROL Plan] -licentie. Klik op de knop [!UICONTROL View] voor de volgende opties:
 
 **[!UICONTROL View]**
 
-* Rollen en kosten weergeven
+* Rol- en kostenfacturering weergeven
 * Facturering van gebruikers en kostentarieven weergeven
 
-![Een afbeelding met opties in de weergave Financiële gegevens in een toegangsniveau](assets/setting-up-finances-9.png)
+![ een beeld dat de de meningsopties van de Gegevens in een toegangsniveau toont ](assets/setting-up-finances-9.png)
 
 **[!UICONTROL Edit]**
 
-Deze twee opties zijn beschikbaar in het kader van de [!UICONTROL Edit] , samen met:
+Deze twee opties zijn beschikbaar onder de optie [!UICONTROL Edit] , samen met:
 
 * Rollenfacturering en kostentarieven bewerken
 * Facturering van gebruikers en kostentarieven bewerken
 
-![Een afbeelding met opties voor het bewerken van financiële gegevens in een toegangsniveau](assets/setting-up-finances-10.png)
+![ een beeld dat Financiële Gegevens toont geeft opties in een toegangsniveau uit ](assets/setting-up-finances-10.png)
 
 >[!NOTE]
 >

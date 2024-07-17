@@ -23,7 +23,7 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Hoe de taken in a gestructureerd zijn [!DNL Workfront] project
+* Hoe taken worden gestructureerd in een [!DNL Workfront] -project
 
 >[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on)
 

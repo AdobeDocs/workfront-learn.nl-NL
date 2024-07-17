@@ -1,6 +1,6 @@
 ---
 title: Eerste analyse van het scenario ontwerp
-description: Leer hoe te om omslagen en nieuwe scenario's tot stand te brengen, de scenarioontwerper te gebruiken en een basisscenario in te creëren [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om omslagen en nieuwe scenario's tot stand te brengen, de scenarioontwerper te gebruiken, en een basisscenario in  [!DNL Adobe Workfront Fusion] tot stand te brengen.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Maak een nieuw project in Workfront voor elke rij in het CSV-bestand van de projectlijst.
 
-![Een afbeelding van het Fusion-scenario](assets/understand-the-basics-1.png)
+![ een beeld van het scenario van de Fusie ](assets/understand-the-basics-1.png)
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
@@ -37,4 +37,4 @@ In deze video leert u hoe u:
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

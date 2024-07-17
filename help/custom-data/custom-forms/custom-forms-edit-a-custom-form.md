@@ -26,10 +26,10 @@ ht-degree: 0%
 U kunt gegevens op een aangepast formulier bewerken nadat het formulier aan een object is gekoppeld.
 
 1. Navigeer naar het object waarvan u de gegevens in het aangepaste formulier wilt bewerken.
-1. Klikken [Objecttype] **[!UICONTROL Details]** in het linkerdeelvenster.
+1. Klik [ type van Objecten ] **[!UICONTROL Details]** in het linkerpaneel.
 1. Vouw het aangepaste formulier uit door op de pijl naast de naam te klikken.
-1. Klik op één veld in het aangepaste formulier om naar de bewerkingsmodus in dat veld te gaan. U kunt ook op de knop [!UICONTROL Edit] in de rechterbovenhoek om alle aangepaste formulieren te bewerken of om secties van aangepaste formulieren te bewerken.
+1. Klik op één veld in het aangepaste formulier om naar de bewerkingsmodus in dat veld te gaan. U kunt ook op het pictogram [!UICONTROL Edit] in de rechterbovenhoek klikken om alle aangepaste formulieren te bewerken of om secties van de aangepaste formulieren te bewerken.
 1. Typ gegevens in één aangepast veld, zelfs als de vereiste velden in andere aangepaste formulieren voor het object nog niet zijn ingevuld.
 1. Klik op **[!UICONTROL Save Changes]**.
 
-![Het venster Taakdetails met een aangepast formulier dat wordt bewerkt](assets/custom-forms-edit-a-custom-form.jpg)
+![ het venster van de Details van de Taak die een douaneformulier tonen wordt uitgegeven ](assets/custom-forms-edit-a-custom-form.jpg)

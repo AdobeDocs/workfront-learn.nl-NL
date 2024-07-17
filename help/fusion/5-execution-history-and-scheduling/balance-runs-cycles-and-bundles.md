@@ -1,6 +1,6 @@
 ---
 title: Afloopbewerkingen, cycli en bundels uitbalanceren
-description: Leer in welke balanceringsuitvoeringen, cycli en bundels de balancering wordt uitgevoerd [!DNL Adobe Workfront Fusion].
+description: Leer wat het in evenwicht brengen looppas, cycli, en bundels in  [!DNL Adobe Workfront Fusion] is.
 activity: use
 team: Technical Marketing
 type: Tutorial

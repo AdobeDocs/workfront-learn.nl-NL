@@ -1,6 +1,6 @@
 ---
 title: Begrijp scenario het plannen
-description: Leer welk scenario het plannen, cycli, en looppas binnen zijn [!DNL Adobe Workfront Fusion].
+description: Leer welk scenario het plannen, de cycli, en de looppas in  [!DNL Adobe Workfront Fusion] zijn.
 activity: use
 team: Technical Marketing
 type: Tutorial

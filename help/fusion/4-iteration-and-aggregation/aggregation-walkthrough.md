@@ -1,6 +1,6 @@
 ---
 title: Samentellwalkthrough
-description: Leer hoe u de geplande uren samenvoegt voor elke werktaak in een project en een e-mail naar uzelf stuurt met deze informatie, allemaal in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om de geplande uren op elke het werk taak in een project samen te voegen en een e-mail naar zich met die info, allen in  [!DNL Adobe Workfront Fusion] te verzenden.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Gebruikend het &quot;Inleiding aan herhaling&quot;scenario u in de laatste analyse bouwde, voegt de geplande uren op elke het werk taak in het project samen en verzendt een e-mail naar zich met die informatie.
 
-![Een afbeelding van het Fusion-scenario](assets/iteration-and-aggregation-2.png)
+![ een beeld van het scenario van de Fusie ](assets/iteration-and-aggregation-2.png)
 
 ## Samentellwalkthrough
 
@@ -36,4 +36,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

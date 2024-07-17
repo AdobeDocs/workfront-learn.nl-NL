@@ -1,6 +1,6 @@
 ---
 title: De achterstand vergroten
-description: Leer hoe u artikelen kunt onderverdelen in kleinere artikelen, de prioriteit van artikelen kunt wijzigen op de achtergrond en kunt vaststellen dat artikelen klaar zijn om te worden herhaald.
+description: Leer hoe u artikelen kunt onderverdelen in kleinere artikelen, de prioriteit van artikelen kunt wijzigen op de achtergrond en kunt vaststellen dat artikelen klaar zijn om in een herhaling te worden geplaatst.
 feature: Agile
 role: Admin, User
 level: Intermediate
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # De achterstand vergroten
 
-Leer hoe u artikelen kunt onderverdelen in kleinere artikelen, de prioriteit van artikelen kunt wijzigen op de achtergrond en kunt vaststellen dat artikelen klaar zijn om te worden herhaald.
+Leer hoe u artikelen kunt onderverdelen in kleinere artikelen, de prioriteit van artikelen kunt wijzigen op de achtergrond en kunt vaststellen dat artikelen klaar zijn om in een herhaling te worden geplaatst.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on)

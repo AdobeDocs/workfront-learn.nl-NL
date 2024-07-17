@@ -1,6 +1,6 @@
 ---
 title: Inleiding van cursussen voor voorraadbeheer
-description: Meer informatie [!DNL  Workfront] verzoekrijen kunnen vraagbeheer centraliseren.
+description: Leer hoe  [!DNL  Workfront]  verzoekrijen vraagbeheer kunnen centraliseren.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Introductie van cursus Wachtrijbeheer
 
-Leer in deze video hoe [!DNL  Workfront] verzoekrijen kunnen vraagbeheer centraliseren.
+In deze video leert u hoe aanvraagwachtrijen in [!DNL  Workfront] het vraagbeheer kunnen centraliseren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on)

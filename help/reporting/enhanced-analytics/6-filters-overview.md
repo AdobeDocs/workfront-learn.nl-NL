@@ -1,6 +1,6 @@
 ---
 title: Filters begrijpen
-description: Leer hoe u een filter kunt toevoegen op basis van algemene projectvelden en hoe u een filter kunt toevoegen met een aangepast formulier, allemaal in [!UICONTROL Enhanced Analytics].
+description: Leer hoe u een filter toevoegt op basis van algemene projectvelden en hoe u een filter toevoegt met een aangepast formulier, allemaal in [!UICONTROL Enhanced Analytics] .
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -31,7 +31,7 @@ In deze video leert u:
 
 >[!NOTE]
 >
->Niet alle aangepaste formuliervelden kunnen als filters worden gebruikt in [!DNL Analytics]. U kunt selectievakjes, vervolgkeuzemenu&#39;s, keuzerondjes, datums, tekst en nummervelden gebruiken als filters. Kies eerst de naam van het formulier en vervolgens de beschikbare velden.
+>Niet alle aangepaste formuliervelden kunnen als filters worden gebruikt in [!DNL Analytics] . U kunt selectievakjes, vervolgkeuzemenu&#39;s, keuzerondjes, datums, tekst en nummervelden gebruiken als filters. Kies eerst de naam van het formulier en vervolgens de beschikbare velden.
 
 ## Tekstfilters voor personen
 
@@ -39,7 +39,7 @@ De grafieken van Mensen zijn gebaseerd op huisteams. Zij tonen de activiteit van
 
 ## Aanvullende overwegingen
 
-* In de werkgrafieken worden alleen de **eerste 50 projecten** zijn zichtbaar. Pagina over om extra groepen van 50 te zien. Nochtans, berekenen de vier KPIs tegen alle projecten binnen de datumwaaier. Als uw projectlijst groter is dan 50 en u de volledige lijst wilt tegelijkertijd zien, blijf toevoegend filters om de juiste ondergroep van projecten te krijgen.
-* De zoekresultaten worden weergegeven nadat u ten minste hebt getypt **drie letters** van uw zoekterm.
-* U kunt **elk filter slechts eenmaal toevoegen**. Als u bijvoorbeeld eerst Voorwaarde hebt toegevoegd en een specifieke Voorwaarde hebt geselecteerd, kunt u het veld Voorwaarde niet opnieuw toevoegen om een andere optie te kiezen. U moet het filter verwijderen en opnieuw toevoegen met alle criteria. De uitzondering hierop is het filter Aangepast formulier.
+* In de grafieken van het Werk, slechts zijn de **eerste 50 projecten** zichtbaar. Pagina over om extra groepen van 50 te zien. Nochtans, berekenen de vier KPIs tegen alle projecten binnen de datumwaaier. Als uw projectlijst groter is dan 50 en u de volledige lijst wilt tegelijkertijd zien, blijf toevoegend filters om de juiste ondergroep van projecten te krijgen.
+* De resultaten van het onderzoek beginnen te verschijnen nadat u minstens **drie brieven** van uw onderzoekstermijn hebt getypt.
+* U kunt **elk filter slechts eenmaal** toevoegen. Als u bijvoorbeeld eerst Voorwaarde hebt toegevoegd en een specifieke Voorwaarde hebt geselecteerd, kunt u het veld Voorwaarde niet opnieuw toevoegen om een andere optie te kiezen. U moet het filter verwijderen en opnieuw toevoegen met alle criteria. De uitzondering hierop is het filter Aangepast formulier.
 * Verwijder een filter door op de X naast de filter boven in het venster te klikken.

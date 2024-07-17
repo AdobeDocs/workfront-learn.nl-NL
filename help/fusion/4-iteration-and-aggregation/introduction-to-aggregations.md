@@ -1,6 +1,6 @@
 ---
 title: Inleiding tot aggregaties
-description: Leer welke aggregators zijn, hoe te om aggregators te gebruiken, en de verschillende types van aggregators in [!DNL Adobe Workfront Fusion].
+description: Leer welke aggregators zijn, hoe te om aggregators te gebruiken, en de verschillende types van aggregators in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

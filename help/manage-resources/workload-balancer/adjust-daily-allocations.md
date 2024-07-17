@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Dagelijkse toewijzingen aanpassen in het dialoogvenster [!DNL Workload Balancer]
+# Dagelijkse toewijzingen aanpassen in de [!DNL Workload Balancer]
 
 In deze video leert u hoe u:
 
 * Toegewezen uren of percentages opnieuw verdelen
-* Werk opnieuw toewijzen van de ene gebruiker aan de andere gebruiker
+* Werk opnieuw toewijzen van de ene gebruiker aan de andere
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on)

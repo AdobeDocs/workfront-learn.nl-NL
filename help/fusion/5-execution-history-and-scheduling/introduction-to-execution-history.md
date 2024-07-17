@@ -1,6 +1,6 @@
 ---
 title: Inleiding tot uitvoeringsgeschiedenis
-description: Leer hoe de uitvoeringshistorie u helpt en problemen oplost in [!DNL Adobe Workfront Fusion].
+description: Leer hoe de uitvoeringsgeschiedenis u helpt steunen en problemen oplossen in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

@@ -40,14 +40,14 @@ Groepeer het probleemrapport op basis van:
 
 ## Antwoord
 
-![Een afbeelding van het scherm om een nieuwe groep te maken](assets/grouping-exercise.png)
+![ een beeld van het scherm om een nieuwe groepering ](assets/grouping-exercise.png) te creëren
 
-1. Ga in een uitgiftenlijstrapport naar de **[!UICONTROL Grouping]** en selecteert u **[!UICONTROL New Grouping]**.
+1. Ga in een uitgiftenlijstrapport naar het menu **[!UICONTROL Grouping]** en selecteer **[!UICONTROL New Grouping]** .
 1. Geef uw groepering de naam &quot;Request Queue, Queue Topic, Priority.&quot;
 1. Klik op **[!UICONTROL Add Grouping]**.
-1. In de [!UICONTROL First By] veld. type &quot;projectnaam&quot; en selecteer vervolgens **[!UICONTROL Name]** onder het veld Project.
+1. In het veld [!UICONTROL First By] . Typ &quot;projectnaam&quot; en selecteer vervolgens **[!UICONTROL Name]** onder de bron van het veld Project.
 1. Klik op **[!UICONTROL Add another Grouping]**.
-1. In de [!UICONTROL And then by] veld, typ &quot;wachtrij&quot; en selecteer **[!UICONTROL Name]** onder de [!UICONTROL Queue Topic] veldbron.
+1. Typ in het veld [!UICONTROL And then by] &quot;queue&quot; en selecteer vervolgens **[!UICONTROL Name]** onder de veldbron [!UICONTROL Queue Topic] .
 1. Klik op **[!UICONTROL Add another Grouping]**.
-1. In de [!UICONTROL And then by] veld, typ &quot;prioriteit&quot; en selecteer vervolgens **[!UICONTROL Priority]** onder de [!UICONTROL Issue] veldbron.
-1. Klik op **[!UICONTROL Save Grouping]**
+1. Typ in het veld [!UICONTROL And then by] &quot;priority&quot; en selecteer vervolgens **[!UICONTROL Priority]** onder de veldbron [!UICONTROL Issue] .
+1. Klikken **[!UICONTROL Save Grouping]**

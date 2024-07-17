@@ -1,6 +1,6 @@
 ---
 title: Navigeren door de proefdrukviewer
-description: Leer hoe u een proefdruk verplaatst, inzoomt of uitzoomt op de inhoud, de miniatuurkolom gebruikt, proefdrukopmerkingen filtert en meer in het dialoogvenster [!DNL  Workfront] viewer controleren.
+description: Leer hoe te om een proef te bewegen rond, binnen te zoemen of uit op de inhoud, de duimnagelkolom, de commentaren van de filterproefdruk, en meer in de  [!DNL  Workfront]  het proefdrukken kijker te gebruiken.
 activity: use
 feature: Workfront Proof
 type: Tutorial

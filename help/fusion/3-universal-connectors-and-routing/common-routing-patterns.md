@@ -1,6 +1,6 @@
 ---
 title: Gemeenschappelijke verpletterende patronen
-description: Leer het verschil wederzijds exclusief en niet-exclusieve routerwegen in [!DNL Adobe Workfront Fusion].
+description: Leer het verschil wederzijds exclusief en niet-exclusieve routerwegen in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Inleiding tot projecttijdlijnen
-description: Leer welke elementen—zoals datumtypen en taakbeperkingen—worden gebruikt bij het samenstellen en beheren van projecttijdlijnen in [!DNL  Workfront].
+description: Leer welke elementen-zulke zoals datumtypes en taak beperkingen-worden gebruikt wanneer het bouwen van en het beheren van projectchronologie in  [!DNL  Workfront].
 activity: use
 feature: Work Management
 type: Tutorial
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Tijdlijnen van project: Cursusintroductie
 
-In deze video leert u welke elementen (zoals datumtypen en taakbeperkingen) worden gebruikt wanneer u projecttijdlijnen maakt en beheert in [!DNL  Workfront].
+In deze video leert u welke elementen (zoals datumtypen en taakbeperkingen) worden gebruikt bij het maken en beheren van projecttijdlijnen in [!DNL  Workfront] .
 
 >[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on)

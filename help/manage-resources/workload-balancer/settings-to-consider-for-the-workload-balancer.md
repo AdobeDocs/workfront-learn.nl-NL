@@ -1,6 +1,6 @@
 ---
 title: In overweging te nemen instellingen voor werklastverdeling
-description: Bekijk welke instellingen u wilt gebruiken wanneer u in de afzonderlijke werklasten van uw gebruikers duikt.
+description: Kijk welke instellingen u in overweging wilt nemen wanneer u in de afzonderlijke werklasten van uw gebruikers duikt.
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -28,7 +28,7 @@ Er zijn een aantal instellingen voor werklastbalans die u in de afzonderlijke we
 
 U kunt deze in- of uitschakelen via het pictogram Instellingen werklastverdeling.
 
-![Pictogram voor werklastverdeling](assets/STC_01.png)
+![ de montagespictogram van de Balans van de Werkbelasting ](assets/STC_01.png)
 
 ## Uren opnemen uit uitgaven
 
@@ -36,13 +36,13 @@ Standaard worden in Workload Balancer alleen taken weergegeven. Gebruikers kunne
 
 Voor een beter inzicht in de volledige werklast van een gebruiker raadt Workfront aan om problemen op te nemen in de lijst met toegewezen gebruikerswerk.
 
-Controleer gewoon de optie Inclusief uren van uitgaven in het gedeelte Werklastverdeling.
+Controleer gewoon de optie Inclusief uren van uitgaven in het gedeelte Instellingen werklastverdeling.
 
-![omvat uren van kwesties](assets/STC_02.png)
+![ omvat uren van kwesties ](assets/STC_02.png)
 
 In het gedeelte Toegewezen werk worden de problemen weergegeven als lichte maroon-balken.
 
-![problemen markeren](assets/STC_03.png)
+![ kwesties benadrukken ](assets/STC_03.png)
 
 ### Projectdatums
 
@@ -50,15 +50,15 @@ Een andere optie die beschikbaar is via de instellingen voor werklastverdeling i
 
 De standaardinstelling toont toegewezen werk op basis van de geplande datums die in het project zijn ingevoerd.
 
-![toegewezen werk met tijdkader](assets/STC_04.png)
+![ toegewezen werk met tijdkader ](assets/STC_04.png)
 
 Omdat de geplande datums zijn gebaseerd op de voortgang en voltooiing van eerdere taken in het project, kunt u in real-time een weergave krijgen van het tijdstip waarop een taak wordt gestart of voltooid. Dit is vooral handig wanneer u naar werklasten kijkt.
 
-![real time-frame](assets/STC_05.png)
+![ echt - tijdkader ](assets/STC_05.png)
 
 U kunt schakelen tussen het weergeven van geplande en geplande datums met de optie Geprojecteerde datums weergeven in de instellingen voor werklastverdeling.
 
-![voorspelde data weergeven](assets/STC_06.png)
+![ tonen geprojecteerde data ](assets/STC_06.png)
 
 ### Voltooide taken
 
@@ -66,4 +66,4 @@ Voltooide taken worden samen met de taken die momenteel worden uitgevoerd of op 
 
 Schakel de optie Voltooid werk tonen uit in de instellingen voor werklastverdeling.
 
-![voltooide werkzaamheden tonen](assets/STC_07.png)
+![ tonen voltooid werk ](assets/STC_07.png)

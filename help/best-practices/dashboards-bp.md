@@ -8,7 +8,7 @@ jira: KT-10909
 exl-id: fd4cd3d4-9343-4f33-919a-9c390f42411a
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -34,7 +34,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 * Voeg dashboards aan lay-outmalplaatjes toe.
 
-* Vermijd overbelasting van dashboards met teveel rapporten.
+* Vermijd overbelasting van dashboards met te veel rapporten.
 
 * Maak een dashboard de homepage in Workfront voor de managers van uw organisatie.
 
@@ -51,7 +51,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Voeg dashboards aan lay-outmalplaatjes toe.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Dashboards en lay-outsjablonen hebben vaak iets gemeen: ze zijn ontworpen om een bepaalde groep gebruikers te helpen bij het voltooien van hun werk. Het delen van dashboards door lay-outmalplaatjes helpt systeem en groepsbeheerders snel dashboards verspreiden en ervoor zorgen de gebruikers alle hulpmiddelen hebben zij nodig-van de noodzakelijke secties van Workfront aan een rapport hebben dat hun recentste taken toont.
 
@@ -60,9 +60,9 @@ Dashboards en lay-outsjablonen hebben vaak iets gemeen: ze zijn ontworpen om een
 
 **Beste praktijken**
 
-Vermijd overbelasting van dashboards met teveel rapporten.
+Vermijd overbelasting van dashboards met te veel rapporten.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Meer informatie is niet altijd beter. Te veel rapporten op een dashboard maken het voor de gebruiker moeilijk om te vinden wat zij zoeken.
 
@@ -75,7 +75,7 @@ Bovendien kunnen het aantal en de complexiteit van de rapporten de prestaties va
 
 Maak een dashboard de homepage in Workfront voor de managers van uw organisatie.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Als je directeuren of managers hebt die Workfront gebruiken om rapporten te bekijken, en het dashboard het eerste ding maken dat ze zien wanneer ze zich aanmelden bij Workfront, dan hebben ze direct zicht op de voortgang van het werk.
 
@@ -86,6 +86,6 @@ Als je directeuren of managers hebt die Workfront gebruiken om rapporten te beki
 
 Pas de kolommen aan die zichtbaar zijn in een rapport wanneer dit deel uitmaakt van een dashboard.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
-Standaard worden naast elkaar rapporten op een dashboard slechts één kolom weergegeven. Afhankelijk van de kolomnaam of de gegevens die worden weergegeven, passen drie of vier kolommen mogelijk. Schakel de optie &quot;Deze kolom tonen wanneer zich op een dashboard bevindt&quot; in voor kolommen die u wilt weergeven wanneer het rapport zich in een configuratie naast elkaar bevindt op een dashboard.
+Standaard worden naast elkaar rapporten op een dashboard slechts één kolom weergegeven. Afhankelijk van de kolomnaam of de gegevens die worden weergegeven, passen drie of vier kolommen mogelijk. Schakel de optie &quot;Deze kolom tonen wanneer zich op een dashboard bevindt&quot; in voor kolommen die u wilt weergeven wanneer het rapport zich in een zijdelingse configuratie op een dashboard bevindt.

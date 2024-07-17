@@ -1,6 +1,6 @@
 ---
 title: Filters gebruiken
-description: Leer hoe u filters kunt gebruiken tussen modules en binnen een module en de uitvoeringsgeschiedenis kunt controleren, allemaal in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om filters tussen modules en binnen een module te gebruiken, en herzie uitvoeringsgeschiedenis, allen in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

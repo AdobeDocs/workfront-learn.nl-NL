@@ -1,6 +1,6 @@
 ---
 title: Merkrichtlijnen maken in Brand Connect
-description: Leer welke richtlijnen voor merken gelden en hoe u een pagina met richtlijnen voor merken maakt in Brand Connect for [!UICONTROL Workfront DAM].
+description: Leer welke richtlijnen voor merken gelden en hoe u een pagina met richtlijnen voor merken maakt in Brand Connect for [!UICONTROL Workfront DAM] .
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -22,6 +22,6 @@ ht-degree: 0%
 In deze video leert u:
 
 * Richtlijnen voor merken
-* Een pagina met richtlijnen voor merken maken in [!UICONTROL Brand Connect]
+* Een pagina met merkenrichtlijnen maken in [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on)

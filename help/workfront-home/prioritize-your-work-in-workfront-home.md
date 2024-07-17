@@ -1,6 +1,6 @@
 ---
-title: Hoe u prioriteit geeft aan het werken in [!UICONTROL Home]
-description: Leer hoe u objecten kunt markeren in het dialoogvenster [!UICONTROL Work List] als prioritaire toewijzingen op de startpagina. Vervolgens filtert u de lijst om uw werk met prioriteit weer te geven in [!DNL  Workfront].
+title: Prioriteit geven aan werk in [!UICONTROL Home]
+description: Leer hoe u items in de [!UICONTROL Work List] kunt markeren als prioritaire toewijzingen op de startpagina. Dan filter de lijst om uw prioritaire werk in  [!DNL  Workfront] te zien.
 feature: Work Management
 type: Tutorial
 role: User
@@ -23,6 +23,6 @@ ht-degree: 0%
 In deze video leert u hoe u:
 
 * Werk markeren als prioritaire toewijzingen
-* Filter de [!UICONTROL Work List] alleen prioritaire werkzaamheden
+* Filter de [!UICONTROL Work List] om alleen de prioritaire taak te zien
 
 >[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
-title: Inzicht in de achterliggende visie [!UICONTROL Workfront Goals]
-description: Meer informatie over [!DNL Workfront Goals] in [!DNL  Workfront] van het productteam.
+title: De achterliggende visie begrijpen [!UICONTROL Workfront Goals]
+description: Leer over  [!DNL Workfront Goals]  in  [!DNL  Workfront]  van het team van het Product.
 activity: use
 feature: Workfront Goals,Get Started with Workfront
 type: Tutorial

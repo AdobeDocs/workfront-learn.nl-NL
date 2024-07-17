@@ -1,6 +1,6 @@
 ---
 title: Onvolledige uitvoeringen begrijpen
-description: Leer welke onvolledige uitvoeringen zijn en hoe u een fout kunt verwerken die leidt tot een onvolledige uitvoering in [!DNL Adobe Workfront Fusion].
+description: Leer welke onvolledige uitvoeringen zijn en hoe te om een fout te behandelen die in een onvolledige uitvoering in  [!DNL Adobe Workfront Fusion] resulteert.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -45,4 +45,4 @@ Als een fout op een andere module voorkomt en er geen route van de foutenmanager
 
 ## Meer informatie? We raden het volgende aan:
 
-[Workfront Fusion-documentatie](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

@@ -1,6 +1,6 @@
 ---
-title: Toegang krijgen [!UICONTROL Enhanced Analytics]
-description: Leer hoe systeem- en groepsbeheerders toegang verlenen aan [!UICONTROL Enhanced Analytics] via een lay-outsjabloon.
+title: Toegang krijgen tot [!UICONTROL Enhanced Analytics]
+description: Leer hoe systeem- en groepsbeheerders via een lay-outsjabloon toegang verlenen tot [!UICONTROL Enhanced Analytics] .
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 # Verbeterde analysemogelijkheden openen
 
-Net als de meeste andere functies in Workfront hebt u toegang tot [!UICONTROL Enhanced Analytics] in het hoofdmenu. Maar [!UICONTROL Analytics] staat niet standaard in het hoofdmenu.
+Net als de meeste andere functies in Workfront hebt u toegang tot [!UICONTROL Enhanced Analytics] via het hoofdmenu. Maar [!UICONTROL Analytics] staat standaard niet in het hoofdmenu.
 
-![Een afbeelding van het hoofdmenu ](assets/analytics-on-main-menu.png)
+![ Een afbeelding van het hoofdmenu ](assets/analytics-on-main-menu.png)
 
 Als u het daar niet ziet, zal uw systeem of groepsbeheerder het voor u moeten toevoegen. Ze doen dat in een lay-outsjabloon. In de onderstaande video wordt uitgelegd hoe u dit doet.
 
@@ -37,4 +37,4 @@ In deze video leert u hoe systeem- en groepsbeheerders toegang verlenen tot [!UI
 
 >[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
 
-Iedereen met een Workfront-licentie (in [!UICONTROL Workfront Business] plannen of hoger) hebben toegang tot [!UICONTROL Analytics] zodra het aan het lay-outmalplaatje wordt toegevoegd worden zij toegewezen. Nochtans, zult u slechts de projecten en gebruikersinformatie zien als toegestaan door uw Workfront toegangsniveau en de het delen toestemmingen op specifieke projecten en gebruikers.
+Iedereen met een Workfront-licentie (in [!UICONTROL Workfront Business] -plannen of hoger) heeft toegang tot [!UICONTROL Analytics] nadat deze is toegevoegd aan de lay-outsjabloon die eraan is toegewezen. Nochtans, zult u slechts de projecten en gebruikersinformatie zien als toegestaan door uw Workfront toegangsniveau en de het delen toestemmingen op specifieke projecten en gebruikers.

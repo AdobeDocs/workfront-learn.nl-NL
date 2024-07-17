@@ -30,7 +30,7 @@ Deze meldingen zijn een extra manier om de werkzaamheden vlot te laten verlopen.
 
 Nadat de herinnering is gemaakt en beschikbaar is voor u, moet deze worden gekoppeld aan het item waarover u de herinnering wilt verzenden.
 
-![[!UICONTROL Reminder Notification] in de [!UICONTROL Edit Task] venster](assets/admin-fund-user-notifications-17.png)
+![[!UICONTROL Reminder Notification] in het [!UICONTROL Edit Task] venster ](assets/admin-fund-user-notifications-17.png)
 
 >[!TIP]
 >

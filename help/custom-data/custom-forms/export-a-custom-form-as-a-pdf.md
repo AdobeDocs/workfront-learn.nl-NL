@@ -19,18 +19,18 @@ ht-degree: 0%
 
 # Een aangepast formulier exporteren als een PDF
 
-Het vastleggen van unieke gegevens van een organisatie is een essentieel onderdeel van het werkbeheer. Aangepaste formulieren worden hiervoor doorgaans gebruikt. Als u aangepaste formulieren kunt exporteren, kunt u ze gemakkelijk verspreiden en delen. U kunt aangepaste formulieren exporteren uit projecten, taken of problemen wanneer u het formulier opent in het dialoogvenster [!UICONTROL Details] van de objecten.
+Het vastleggen van unieke gegevens van een organisatie is een essentieel onderdeel van het werkbeheer. Aangepaste formulieren worden hiervoor doorgaans gebruikt. Als u aangepaste formulieren kunt exporteren, kunt u ze gemakkelijk verspreiden en delen. U kunt aangepaste formulieren exporteren uit projecten, taken of problemen wanneer u het formulier opent in de sectie [!UICONTROL Details] van de objecten.
 
-U kunt ook de [!UICONTROL Overview] in de geëxporteerde PDF.
+U kunt ook het gebied [!UICONTROL Overview] in de geëxporteerde PDF opnemen.
 
 Als u bijvoorbeeld een aangepast formulier met de naam Video Marketing Information wilt exporteren dat is gekoppeld aan een project:
 
-1. Klik op de knop **[!UICONTROL Export]** pictogram. Alle aangepaste formulieren die aan het project zijn gekoppeld, worden weergegeven in het keuzemenu, inclusief de knop [!UICONTROL Overview] sectie.
+1. Klik op het pictogram **[!UICONTROL Export]** . Alle aangepaste formulieren die aan het project zijn gekoppeld, worden weergegeven in de vervolgkeuzelijst, inclusief de sectie [!UICONTROL Overview] .
 1. Selecteer in de lijst Informatie over videomarmering.
-1. Klikken **[!UICONTROL Export]** onder aan de lijst.
+1. Klik op **[!UICONTROL Export]** onder aan de lijst.
 
-![Exportopties voor aangepaste formulieren](assets/custom-forms-export-1.png)
+![ de opties van de vormuitvoer van de Douane ](assets/custom-forms-export-1.png)
 
 Er wordt een opgemaakt PDF-bestand gedownload.
 
-![Voorbeeld van geëxporteerd aangepast formulier](assets/custom-forms-export-2.png)
+![ Steekproef van uitgevoerde douanevorm ](assets/custom-forms-export-2.png)

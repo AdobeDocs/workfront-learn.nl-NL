@@ -1,6 +1,6 @@
 ---
 title: Workflows proefdrukken als onderdeel van projecttijdlijnen
-description: Leer aanbevelingen voor het mengen van een overzicht en goedkeuringsproces met een projectchronologie in [!DNL  Workfront].
+description: Leer aanbevelingen voor het mengen van een overzicht en goedkeuringsproces met een projectchronologie in  [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

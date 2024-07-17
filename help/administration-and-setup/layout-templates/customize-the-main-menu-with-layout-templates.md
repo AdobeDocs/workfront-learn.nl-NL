@@ -1,6 +1,6 @@
 ---
-title: De [!UICONTROL Main Menu] met lay-outsjablonen
-description: Leer hoe u een lay-outsjabloon kunt gebruiken om de [!UICONTROL Main Menu].
+title: De [!UICONTROL Main Menu] aanpassen met lay-outsjablonen
+description: Leer hoe u een lay-outsjabloon kunt gebruiken om de [!UICONTROL Main Menu] aan te passen.
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# De [!UICONTROL Main Menu] met lay-outsjablonen
+# De [!UICONTROL Main Menu] aanpassen met lay-outsjablonen
 
 In deze video leert u hoe u:
 
 * Stel de [!UICONTROL Main Menu]
-* Items verwijderen uit het dialoogvenster [!UICONTROL Main Menu]
+* Items verwijderen uit de [!UICONTROL Main Menu]
 * Items toevoegen aan de [!UICONTROL Main Menu]
 
 

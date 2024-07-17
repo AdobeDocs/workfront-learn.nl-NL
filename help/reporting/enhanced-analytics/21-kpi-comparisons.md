@@ -1,6 +1,6 @@
 ---
 title: Begrijp een KPI-vergelijkingscase
-description: Leer hoe u KPI's kunt vergelijken in [!UICONTROL Enhanced Analytics] van het huidige datumbereik tot een eerder datumbereik, en hoe KPI's met twee verschillende filters te vergelijken.
+description: Leer hoe u KPI's in [!UICONTROL Enhanced Analytics] kunt vergelijken van het huidige datumbereik tot een eerder datumbereik en hoe u KPI's kunt vergelijken met twee verschillende filters.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png

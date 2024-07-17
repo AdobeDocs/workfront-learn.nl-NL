@@ -24,22 +24,22 @@ ht-degree: 0%
 
 De eerste standaardinstelling die moet worden voltooid, bepaalt de standaardproefrol die wordt toegewezen wanneer nieuwe gebruikers worden gemaakt of personen een proefdruk openen.
 
-Proefrollen bepalen wat een gebruiker met een proef-enkel blik het kan doen, commentaren maken, het goedkeuren, etc. [!DNL Workfront] Het verdient aanbeveling standaardinstellingen voor de proefdrukrol in te stellen voor alle gebruikers, zodat ontvangers sneller en gemakkelijker aan proefdrukken kunnen worden toegevoegd en werkstromen sneller en eenvoudiger kunnen worden ingesteld.
+Proefrollen bepalen wat een gebruiker met een proef-enkel blik het kan doen, commentaren maken, het goedkeuren, etc. [!DNL Workfront] raadt aan standaardinstellingen voor de proefdrukrol in te stellen voor alle gebruikers, zodat ontvangers sneller en eenvoudiger aan proefdrukken kunnen worden toegevoegd en werkstromen sneller en eenvoudiger kunnen worden ingesteld.
 
-![U kunt proefdrukrollen selecteren bij het uploaden van een proefdruk](assets/proof-system-setups-proof-role-example.png)
+![ de rollen van het proef kunnen worden geselecteerd wanneer het uploaden van een proef ](assets/proof-system-setups-proof-role-example.png)
 
 Deze standaardproefrol kan echter worden gewijzigd wanneer afzonderlijke proefdrukken worden geüpload, zodat iedereen in staat is de rol te vervullen die hij in het beoordelings- en goedkeuringsproces nodig heeft.
 
 
 ## Standaardproefdrukrollen instellen
 
-1. Selecteren **Instellen** van de [!UICONTROL Main Menu].
-1. Selecteren **Revisie en goedkeuring** in het linkermenu.
-1. Klik op de knop naast de gewenste standaardproefrol voor beide nieuwe [!DNL Workfront] gebruikers en gebruikers van gastproefdrukken voor &quot;aangewezen ontvangers&quot; — iedereen die aan het proefdrukwerkschema wordt toegevoegd, of manueel of door een werkschemamalplaatje.
-1. Klik op de knop naast de gewenste standaardproefrol voor beide nieuwe [!DNL Workfront] gebruikers en gebruikers van gastproefdrukken voor &quot;niet-ontvankelijke&quot;gebruikers. Deze zijn over het algemeen [!DNL Workfront] gebruikers die toegang hebben tot een proefdruk, maar die geen van de personen zijn die aan de werkstroom zijn toegewezen.
+1. Selecteer **Opstelling** van [!UICONTROL Main Menu].
+1. Selecteer **Overzicht &amp; Goedkeuring** van het linkermenu.
+1. Klik op de knop naast de gewenste standaardproefdrukrol voor zowel nieuwe [!DNL Workfront] gebruikers als gebruikers van gastproefdrukken voor &quot;aangewezen ontvangers&quot; — iedereen die handmatig of via een werkstroomsjabloon aan de proefdrukworkflow wordt toegevoegd.
+1. Klik op de knop naast de gewenste standaardproefdrukrol voor nieuwe [!DNL Workfront] -gebruikers en gebruikers van gastproefdrukken voor &quot;niet-ontvangende&quot; gebruikers. Dit zijn doorgaans [!DNL Workfront] -gebruikers die toegang hebben tot een proefdruk, maar die geen van de personen zijn die aan de workflow zijn toegewezen.
 1. Sla de wijzigingen op.
 
-![Revisie- en goedkeuringsinstellingen in Workfront](assets/proof-system-setups-workfront-defaults.png)
+![ Overzicht en de montages van de Goedkeuring in Workfront ](assets/proof-system-setups-workfront-defaults.png)
 
 Bedenk wat de meeste gebruikers en gasten van uw account verwachten als ze aan een proefwerkstroom worden toegevoegd. Dit moet uw standaardinstelling zijn.
 
@@ -47,4 +47,4 @@ Bedenk wat de meeste gebruikers en gasten van uw account verwachten als ze aan e
 
 | Beste praktijken | Daarom: |
 |---|---|
-| Gebruik alleen-lezen of Revisor voor de instelling Rollen voor niet-ontvangers die een proefdruk van een document openen in Workfront. | Voor alle andere opties voor deze instelling moet een proefdrukbeslissing worden genomen, waardoor de proefdrukworkflow kan worden verwijderd. Over het algemeen geldt dat mensen die niet aan de proefdrukworkflow worden toegevoegd, alleen de proefdrukproef moeten bekijken of opmerkingen moeten maken, de proefdrukproef niet moeten goedkeuren. De opties Alleen-lezen of Reviewer zijn dus de beste keuze. <br> <br>Opmerking: deze instelling vindt u in Workfront Main Menu > Setup > Review and Approval. |
+| Gebruik alleen-lezen of Revisor voor de instelling Rollen voor niet-ontvangers die een proefdruk van een document openen in Workfront. | Voor alle andere opties voor deze instelling moet een proefdrukbeslissing worden genomen, waardoor de proefdrukworkflow kan worden verwijderd. Over het algemeen geldt dat mensen die niet aan de proefdrukworkflow worden toegevoegd, alleen de proefdrukproef moeten bekijken of opmerkingen moeten maken, de proefdrukproef niet moeten goedkeuren. De opties Alleen-lezen of Reviewer zijn dus de beste keuze. <br> <br> Nota: Deze het plaatsen wordt gevonden in het Hoofdmenu van Workfront > Opstelling > Overzicht en Goedkeuring. |

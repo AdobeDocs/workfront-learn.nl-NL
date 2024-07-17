@@ -1,6 +1,6 @@
 ---
-title: Zoeken in Workfront via [!DNL Slack]
-description: Meer informatie over zoeken [!DNL Workfront] door Slack
+title: Zoeken in Workfront via  [!DNL Slack]
+description: Leer hoe te om  [!DNL Workfront]  door Slack te zoeken
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Zoeken [!DNL Workfront] doorheen [!DNL Slack]
+# Zoeken [!DNL Workfront] tot en met [!DNL Slack]
 
 In deze video leert u hoe u:
 
-* Zoeken [!DNL Workfront] doorheen [!DNL Slack]
+* Zoeken [!DNL Workfront] tot en met [!DNL Slack]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Ontdek de voordelen van proefdrukken
-description: Ontdek wat proefdrukken is en de voordelen van digitale proefdrukken in [!DNL  Workfront].
+description: Leer wat het proef en de voordelen van het gebruiken van digitale proef in  [!DNL  Workfront] is.
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -23,18 +23,18 @@ ht-degree: 0%
 In deze video leert u:
 
 * Wat is proefdrukken?
-* De voordelen van digitale proefdrukken in [!DNL Workfront]
+* Voordelen van het gebruik van digitale proefdrukken in [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on)
 
 ## Proofingterminologie
 
-Voordat u naar proefinstellingen gaat in [!DNL  Workfront], vertrouwd te raken met de gebruikte terminologie die specifiek voor bewijs geldt. Deze termen worden in deze zelfstudie vaak gebruikt.
+Voordat u in [!DNL  Workfront] naar proefdrukinstellingen gaat, moet u de gebruikte terminologie voor proefdrukspecifieke talen leren kennen. Deze termen worden in deze zelfstudie vaak gebruikt.
 
-* **Proef —** Digitale versie van een bestand dat kan worden gereviseerd, gemarkeerd en goedgekeurd via [!DNL Workfront's] proefversie.
-* **Proefworkflow —** Proces om, een proef binnen te creëren te verpletteren en te leiden [!DNL Workfront]. De stappen die worden gevolgd om deze acties te voltooien.
-* **Proefsjabloon of sjabloon voor geautomatiseerde workflow —** Vooraf opgemaakte workflowstappen die snel op een proefdruk kunnen worden toegepast. Neem revisoren, fiatteurs, proofrollen, e-mailwaarschuwingen en deadlines op.
-* **Proefrol —** Hiermee definieert u wat een gebruiker kan doen met een proefdruk (bijv. opmerking, markering, goedkeuring, enz.)
-* **E-mailwaarschuwing —** Melding wanneer er activiteit is op het bewijs.
-* **Proefgebruiker —** Iemand met een [!DNL Workfront] Een abonnement- of werklicentie die digitale proefdrukken kan uploaden, reviseren, goedkeuren, beheren, enzovoort.
+* **Bewijs —** Digitale versie van een dossier dat kan worden herzien, worden duidelijk, en door [!DNL Workfront's] proefdrukkijker worden goedgekeurd.
+* **werkschema van het Bewijs —** Proces om, een proef binnen [!DNL Workfront] tot stand te brengen te verpletteren en te leiden. De stappen die worden gevolgd om deze acties te voltooien.
+* **malplaatje van het Bewijs of geautomatiseerd werkschemamalplaatje —** Vooraf opgemaakte werkschemastappen die snel op een proef kunnen worden toegepast. Neem revisoren, fiatteurs, proofrollen, e-mailwaarschuwingen en deadlines op.
+* **rol van het Bewijs -** bepaalt wat een gebruiker met een proef (b.v., commentaar, prijsverhoging, goedkeuren, enz.) kan doen
+* **e-mailalarm —** Bericht wanneer er activiteit op de proef is.
+* **Proefgebruiker —** Iemand met een [!DNL Workfront] Plan of vergunning van het Werk die, digitale proeven kan uploaden, herzien, goedkeuren, beheren, enz.
 

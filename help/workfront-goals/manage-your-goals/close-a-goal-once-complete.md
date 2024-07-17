@@ -1,6 +1,6 @@
 ---
 title: Een doel sluiten zodra dit is voltooid
-description: Leer hoe u een doel sluit in [!DNL-doelen].
+description: Leer hoe u een doel kunt sluiten in [!DNL   Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial

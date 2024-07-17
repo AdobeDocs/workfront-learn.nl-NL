@@ -13,7 +13,7 @@ exl-id: b7f8ccb5-457f-4d89-bb57-5d9d6e169191
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -53,4 +53,4 @@ Tot de dingen die groepsbeheerders in Workfront kunnen doen behoren:
 
 Als systeem- of groepsbeheerder kunt u subgroepen maken binnen de groepen en subgroepen die u beheert. Die subgroepen kunnen hun eigen groepsbeheerders worden toegewezen.
 
-**Opmerking**: Er geldt een limiet van 14 niveaus voor subgroepen in één groep.
+**Nota**: Er is een grens van 14 niveaus van subgroepen onder één groep.

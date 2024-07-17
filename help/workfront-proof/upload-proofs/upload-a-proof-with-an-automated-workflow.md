@@ -13,7 +13,7 @@ exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -34,12 +34,12 @@ In deze video leert u:
 
 De instellingen onder aan het venster voor het uploaden van proefdrukken zijn optioneel. Vraag uw organisatie daarom of en hoe u deze instellingen gebruikt.
 
-![Een afbeelding van de [!UICONTROL New Proof]met [!UICONTROL Stage settings] gemarkeerd.](assets/additional-proof-workflow-settings.png)
+![ een beeld van het [!UICONTROL New Proof] venster met [!UICONTROL Stage settings] benadrukte.](assets/additional-proof-workflow-settings.png)
 
-* **[!UICONTROL Lock stage]—** Zo voorkomt u dat personen in deze werkstroomfase opmerkingen maken of beslissingen wijzigen nadat hun werkstroom is voltooid.
-* **[!UICONTROL Transfer primary decision rights to]—** Versnelt het testproces door een primaire besluitvormer aan te wijzen. Wanneer ingesteld, [!DNL Workfront] erkent het bewijsbesluit van deze persoon als het besluit. Zodra die persoon zijn beslissing heeft genomen, is het stadium voorbij en zijn er geen andere beslissingen nodig.
-* **[!UICONTROL Require only one decision for this stage]—** Een andere manier om het proefdrukproces te stroomlijnen is slechts één besluit over het bewijs te eisen. Als dit is ingeschakeld, hoeveel fiatteurs u in die fase ook hebt, als een van hen een besluit neemt, is die fase voltooid.
-* **[!UICONTROL Make this stage private]—** Opmerkingen over proefdrukken zijn standaard zichtbaar voor iedereen in alle stadia. Vermijd proefontvangers in andere fasen om opmerkingen te zien die tijdens dit stadium zijn gemaakt door op het vakje te klikken.
+* **[!UICONTROL Lock stage]—** Hiermee voorkomt u dat personen in deze werkstroomfase opmerkingen maken of beslissingen wijzigen nadat hun werkstroom is voltooid.
+* **[!UICONTROL Transfer primary decision rights to]—** versnelt het proofingproces door een primaire besluitvormer aan te wijzen. Wanneer deze optie is ingesteld, herkent [!DNL Workfront] de bewijsbeslissing van deze persoon als de beslissing. Zodra die persoon zijn beslissing heeft genomen, is het stadium voorbij en zijn er geen andere beslissingen nodig.
+* **[!UICONTROL Require only one decision for this stage]—** Een andere manier om het proofingproces te stroomlijnen is door slechts één besluit over de proef te vereisen. Als dit is ingeschakeld, hoeveel fiatteurs u in die fase ook hebt, als een van hen een besluit neemt, is die fase voltooid.
+* **[!UICONTROL Make this stage private]—** Opmerkingen over proefdrukken zijn standaard zichtbaar voor iedereen in alle fasen. Vermijd proefontvangers in andere fasen om opmerkingen te zien die tijdens dit stadium zijn gemaakt door op het vakje te klikken.
 
 Onder aan het venster voor het uploaden van proefdrukken staan verschillende proefdrukinstellingen die de beveiliging van uw proefdrukken beïnvloeden, zoals het vereisen van een aanmeldingsnaam om de proefdruk weer te geven.
 
@@ -47,7 +47,7 @@ Onder aan het venster voor het uploaden van proefdrukken staan verschillende pro
 Learn more about these in the Proof settings section of the Configure a proof article.
 -->
 
-![Een afbeelding van de [!UICONTROL Proof settings] in het venster voor het uploaden van proefdrukken.](assets/additional-proof-workflow-settings-2.png)
+![ een beeld van de [!UICONTROL Proof settings] sectie van het proefupload venster.](assets/additional-proof-workflow-settings-2.png)
 
 <!--
 ### Learn more
@@ -64,9 +64,9 @@ Learn more about these in the Proof settings section of the Configure a proof ar
 
 U ziet dat u op de lijst met proefontvangers staat, omdat u de proefdruk uploadt. Hierdoor hebt u ook de eigenaar van de proefdruk, die u bewerkingsrechten voor de proefdruk geeft, zodat u onder andere de workflowinstellingen kunt wijzigen of een nieuwe versie kunt uploaden.
 
-![Een afbeelding van het venster voor het uploaden van proefdrukken met de eigenaar van de proefdruk gemarkeerd in de lijst met ontvangers.](assets/proof-owner.png)
+![ een beeld van het proefupload venster met de proefeigenaar die in de lijst van ontvangers wordt benadrukt.](assets/proof-owner.png)
 
-Als u de proefdruk alleen uploadt maar de workflow door iemand anders wordt beheerd, kunt u de eigenaar van de proefdruk wijzigen door op de knop [!UICONTROL Owner] en hun naam invoeren. Dit wordt aanbevolen als iemand anders dan de oorspronkelijke uploader een versie uploadt.
+Als u de proefdruk alleen uploadt maar de workflow door iemand anders wordt beheerd, kunt u de eigenaar van de proefdruk wijzigen door op de koppeling [!UICONTROL Owner] te klikken en de naam ervan in te voeren. Dit wordt aanbevolen als iemand anders dan de oorspronkelijke uploader een versie uploadt.
 
 ## Uw beurt
 

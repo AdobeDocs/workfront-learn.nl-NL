@@ -1,5 +1,5 @@
 ---
-title: Best Practice - Text mode reporting
+title: Beste praktijken - de wijzerapportage van de Tekst
 description: Bekijk de aanbevelingen van Adobe Workfront-experts over het instellen, beheren en gebruiken van Workfront-rapportage voor tekstmodus.
 feature: Reports and Dashboards
 role: Admin, Leader, User
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 ---
 
-# Best Practice - Text mode reporting
+# Beste praktijken - de wijzerapportage van de Tekst
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -47,7 +47,7 @@ Gebruik waar mogelijk in de kolommen van het lijstrapport expressies van waarden
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 De uitdrukkingen van de de wijzewaarde van de tekst worden berekend op het tijdstip dat het rapport in werking wordt gesteld en worden opnieuw berekend wanneer het rapport wordt verfrist. Dit betekent dat u altijd over actuele gegevens en nauwkeurige rapporten beschikt.
 
@@ -65,6 +65,6 @@ Zet berekeningen die in een berekening van de tekstwijze in de beschrijving van 
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
-Door berekeningen in de tekstmodus op te nemen in de beschrijving van het rapport, kunnen anderen begrijpen hoe de berekening is gemaakt en welke informatie het moet weergeven. Het herinnert ook systeembeheerders hoe het rapport werd gebouwd, voor het geval de updates in de toekomst nodig zijn.
+Als u berekeningen van de tekstmodus opneemt in de beschrijving van het rapport, kunnen anderen beter begrijpen hoe de berekening is gemaakt en welke informatie het rapport moet weergeven. Het herinnert ook systeembeheerders hoe het rapport werd gebouwd, voor het geval de updates in de toekomst nodig zijn.

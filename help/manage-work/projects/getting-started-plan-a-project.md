@@ -1,6 +1,6 @@
 ---
 title: Aan de slag met het plannen van een project
-description: Leer de vijf belangrijkste componenten van een project, wat de status betekent, hoe [!UICONTROL View] kan u helpen relevante informatie zien, en hoe te om de begin of vervaldatum te plaatsen.
+description: Leer de vijf hoofdcomponenten van een project, wat de status betekent, hoe een [!UICONTROL View] u kan helpen relevante informatie zien en hoe u de begin- of einddatum kunt instellen.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335086.jpeg
@@ -25,7 +25,7 @@ In deze video leert u:
 
 * De vijf belangrijkste onderdelen van een project
 * Wat de status van de Planning aangeeft
-* Hoe a [!UICONTROL View] kan u helpen de informatie zien u nodig hebt
+* Hoe een [!UICONTROL View] u kan helpen de informatie zien u nodig hebt
 * De begin- of einddatum instellen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)

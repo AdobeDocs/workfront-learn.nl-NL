@@ -1,6 +1,6 @@
 ---
-title: Taken toewijzen via [!DNL Slack]
-description: Leer hoe u taken toewijst in [!DNL Workfront] doorheen [!DNL Slack]
+title: Taken toewijzen via  [!DNL Slack]
+description: Leer hoe te om taken in  [!DNL Workfront]  door  [!DNL Slack] toe te wijzen
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial

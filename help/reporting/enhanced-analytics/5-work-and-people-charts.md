@@ -1,6 +1,6 @@
 ---
 title: Werken en personentabellen begrijpen
-description: In [!UICONTROL Enhanced Analytics], werkdiagrammen laten u activiteit vanuit het project- en taakperspectief zien, terwijl Personengrafieken u activiteit vanuit het perspectief van een huisteam tonen.
+description: In [!UICONTROL Enhanced Analytics], tonen de Grafieken van het Werk u activiteit vanuit het project en taakperspectief, terwijl de grafieken van Mensen u activiteit vanuit het perspectief van een huisteam tonen.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -26,7 +26,7 @@ Selecteer het type analytische diagrammen dat u wilt weergeven (Werk of Personen
 
 ## Werkdiagrammen
 
-![Een afbeelding om de [!UICONTROL Analytics] in de [!DNL Workfront Classic]](assets/section-1-1.png)
+![ Een beeld van het vinden van de [!UICONTROL Analytics] eigenschap in [!DNL Workfront Classic]](assets/section-1-1.png)
 
 Wanneer u naar de werkdiagrammen gaat, ziet u standaard:
 
@@ -42,7 +42,7 @@ De Burndown en de Taken in vluchtgrafieken verschijnen wanneer u neer in de gege
 
 ## Personengrafieken
 
-![Een afbeelding om de [!UICONTROL Analytics] in de [!DNL Workfront Classic]](assets/section-1-2.png)
+![ Een beeld van het vinden van de [!UICONTROL Analytics] eigenschap in [!DNL Workfront Classic]](assets/section-1-2.png)
 
 Personengrafieken bestaan uit:
 

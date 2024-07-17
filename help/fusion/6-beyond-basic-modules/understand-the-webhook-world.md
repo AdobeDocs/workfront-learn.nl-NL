@@ -1,6 +1,6 @@
 ---
 title: De wereld van de webhaak begrijpen
-description: Leer hoe u webhooks gebruikt als triggers en hoe u wachtrijen maakt voor binnenkomende gegevens met webhooks, allemaal in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om webhooks als trekkers te gebruiken, en hoe te om rijen voor inkomende gegevens met webhooks tot stand te brengen, allen in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

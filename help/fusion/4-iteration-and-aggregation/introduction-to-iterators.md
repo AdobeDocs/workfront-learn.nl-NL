@@ -1,6 +1,6 @@
 ---
 title: Inleiding tot iterators
-description: Leer hoe iteratie en aggregatie worden gebruikt, en over verschillende soorten iterators in [!DNL Adobe Workfront Fusion].
+description: Leer hoe de herhaling en de samenvoeging worden gebruikt, en over verschillende types van iterators in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Navigeren en projecten evalueren
-description: Leer hoe u het vliegplandiagram leest in [!UICONTROL Enhanced Analytics].
+description: Leer hoe u het overzicht met vliegplannen leest in [!UICONTROL Enhanced Analytics] .
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -29,7 +29,7 @@ In deze video leert u:
 
 ## Vluchtschema
 
-![Een afbeelding van een vliegplandiagram met getallen die overeenkomen met de onderliggende opsommingstekens](assets/section-2-1.png)
+![ een beeld van een grafiek van het vliegplan met aantallen passende hieronder kogels ](assets/section-2-1.png)
 
 Op het diagram ziet u:
 
@@ -53,23 +53,23 @@ Aan de hand van deze informatie over uw projecten kunt u bepalen:
 
 De projectvoorwaarde is een visuele weergave van hoe het project vordert. Workfront bepaalt de voorwaarde die op vooruitgangsstatus van taken binnen het project wordt gebaseerd.
 
-![Een afbeelding van mogelijke voortgangsstatussen](assets/section-2-2.png)
+![ een beeld van mogelijke vooruitgangsstatussen ](assets/section-2-2.png)
 
 De voorwaarde van een project kan worden geplaatst:
 
-* **Handmatig**, door gebruikers met toegang om het project te beheren, wanneer het de voorwaardetype van het project aan hand wordt geplaatst. Dit staat u toe om de voorwaarde van het project onafhankelijk van de kritieke weg te plaatsen.
-* **Automatisch**, door Workfront, wanneer het voorwaardetype van het project aan de Status van de Voortgang wordt geplaatst.
+* **manueel**, door gebruikers met toegang om het project te beheren, wanneer het de voorwaardetype van het project aan hand wordt geplaatst. Dit staat u toe om de voorwaarde van het project onafhankelijk van de kritieke weg te plaatsen.
+* **automatisch**, door Workfront, wanneer het voorwaardetype van het project aan de Status van de Voortgang wordt geplaatst.
 
 Workfront raadt u aan het voorwaardetype in te stellen op Progress Status zodat u een duidelijke indicatie hebt van de werkelijke voortgang van het project, op basis van de voortgang van uw taken.
 
-![Een afbeelding van mogelijke voortgangsstatussen](assets/section-2-3.png)
+![ een beeld van mogelijke vooruitgangsstatussen ](assets/section-2-3.png)
 
 Wanneer ingesteld op Voortgangsstatus, kan de projectvoorwaarde:
 
-* **Op doel**—Wanneer de vooruitgangsstatus van de laatste taak op de kritieke weg op Tijd is, zal de voorwaarde van het project op Doel zijn. Het project is op schema om op schema te eindigen.
-* **Risico**—Wanneer de vooruitgangsstatus van de laatste taak op de kritieke weg Achter of Op Risico is, dan is de voorwaarde van het project Op Risico. Het project is op schema om laat te eindigen maar is nog niet laat.
-* **In problemen**—Wanneer de vooruitgangsstatus van de laatste taak op de kritieke weg te laat is, dan is de voorwaarde van het project in Problemen. De vervaldatum ligt in het verleden en het project is nu te laat.
+* **op doel** - wanneer de vooruitgangsstatus van de laatste taak op de kritieke weg op Tijd is, zal de voorwaarde van het project op Doel zijn. Het project is op schema om op schema te eindigen.
+* **bij Risico** - wanneer de vooruitgangsstatus van de laatste taak op de kritieke weg achter of bij Risico is, dan is de voorwaarde van het project Op Risico. Het project is op schema om laat te eindigen maar is nog niet laat.
+* **in Problemen** - wanneer de vooruitgangsstatus van de laatste taak op de kritieke weg te laat is, dan is de voorwaarde van het project in Problemen. De vervaldatum ligt in het verleden en het project is nu te laat.
 
 >[!NOTE]
 >
->De voorwaarden kunnen voor uw milieu worden aangepast, zodat kunt u meer dan drie opties vinden of de namen kunnen verschillend zijn dan hierboven. Raadpleeg het artikel voor meer informatie over het aanpassen van voorwaarden [Een aangepaste voorwaarde maken of bewerken](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).
+>De voorwaarden kunnen voor uw milieu worden aangepast, zodat kunt u meer dan drie opties vinden of de namen kunnen verschillend zijn dan hierboven. Voor informatie over het aanpassen van voorwaarden, zie het artikel [ creeer of geef een douanevoorwaarde ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en) uit.

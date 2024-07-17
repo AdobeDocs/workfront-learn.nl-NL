@@ -21,17 +21,17 @@ ht-degree: 0%
 
 Workfront beschikt over veel goede tools om u te helpen uw werk te voltooien. Maar teveel van een goede zaak kan overweldigend zijn.
 
-![Home- en hoofdmenu](assets/what-are-layout-templates-01.png)
+![ Huis en HoofdMenu ](assets/what-are-layout-templates-01.png)
 
 Met lay-outsjablonen kunnen systeembeheerders en groepsbeheerders de gebruikerservaring aanpassen en deze gebruikers de gelegenheid geven zich te richten op wat voor hen belangrijk is.
 
-![Home- en hoofdmenu](assets/what-are-layout-templates-02.png)
+![ Huis en HoofdMenu ](assets/what-are-layout-templates-02.png)
 
 Bijvoorbeeld, registreert de meerderheid van uw organisatie geen tijd. Het consultantteam factureert echter wel klanten, zodat ze tijd moeten inloggen om een correcte facturering te garanderen. Met een lay-outmalplaatje, kunnen timesheets voor hen worden verborgen die hen niet nodig hebben en voor hen tonen die.
 
-![Home- en hoofdmenu](assets/what-are-layout-templates-03.png)
+![ Huis en HoofdMenu ](assets/what-are-layout-templates-03.png)
 
-![Home- en hoofdmenu](assets/what-are-layout-templates-04.png)
+![ Huis en HoofdMenu ](assets/what-are-layout-templates-04.png)
 
 
 ## Voordat u gaat bouwen

@@ -1,5 +1,5 @@
 ---
-title: Beste praktijken - de Planner van het Scenario
+title: Best practice - Scenario Planner
 description: Ontdek de aanbevelingen van de beste praktijken van de deskundigen van Adobe Workfront over het hulpmiddel van de Planner van het Scenario.
 feature: Workfront Scenario Planner
 role: Admin, Leader, User
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 ---
 
-# Beste praktijken - de Planner van het Scenario
+# Best practice - Scenario Planner
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -49,7 +49,7 @@ Maak en vergelijk meerdere scenario&#39;s op hoog niveau om te helpen door uw or
 
 
 
-**Daarom**
+**hier is waarom**
 
 Door veelvoudige scenario&#39;s, op een hoog niveau te bekijken en te vergelijken, kunt u de middelen nauwkeurig evalueren nodig om uw doelstellingen te verwezenlijken. U kunt ervoor zorgen dat uw organisatie voldoende personeel heeft, dat uw budget op de juiste wijze wordt verdeeld en dat de juiste doelen op het gewenste moment worden bereikt.
 
@@ -66,7 +66,7 @@ Houd scenario&#39;s tot een minimum beperkt.
 
 
 
-**Daarom**
+**hier is waarom**
 
 Hoewel u vele scenario&#39;s in een initiatief kunt tot stand brengen, adviseert het om die tot een minimum te beperken. Dit zal vergelijkingsscenario&#39;s gemakkelijker maken wanneer het bekijken van hen in kaartformaat en de levering van de gekozen scenario&#39;s handelbaarder.
 
@@ -77,7 +77,7 @@ Hoewel u vele scenario&#39;s in een initiatief kunt tot stand brengen, adviseert
 
 Schets of pas maandelijks de vereiste baanrollen of Vaste kosteninformatie aan.
 
-**Daarom**
+**hier is waarom**
 
 Door de vereiste functies en kosten van het initiatief up-to-date te houden, worden de berekeningen van de initiatieven in het scenario zo nauwkeurig mogelijk gehouden. Op deze manier kunt u uw personele middelen en uren toewijzen aan uw prioritaire projecten en eenvoudig zien wat u nodig hebt om te weten over uw vraag en aanbod.
 

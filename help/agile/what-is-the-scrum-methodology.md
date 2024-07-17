@@ -18,13 +18,13 @@ ht-degree: 0%
 
 # Wat is de methode van de Trommel en hoe werkt het?
 
-De methode Scrum omvat het flexibiliteitsmodel, maar verschilt van andere methoden in die zin dat het rollen heeft gedefinieerd voor diegenen die deel uitmaken van het team — zoals de eigenaar van het product, Master scum, enz. — en gedefinieerde praktijken om werkzaamheden te definiëren en te voltooien.
+De methode Scrum omvat het flexibiliteitsmodel maar verschilt van andere methoden in die zin dat het rollen heeft gedefinieerd voor diegenen die deel uitmaken van het team — zoals Product Owner, Scum Master, enz. — en gedefinieerde praktijken om werkzaamheden te definiëren en te voltooien.
 
 ## Overzicht van het scrubteam
 
-Wanneer u besluit of u wilt overschakelen naar Scrum, moet u de structuur van uw teams bekijken om te zien of deze gemakkelijk kunnen worden overgedragen naar de nieuwe methode. Een team van de Trommel heeft drie soorten leden: een eigenaar van het product, een master scrum en teamleden.
+Wanneer u besluit of u wilt overschakelen naar Scrum, moet u de structuur van uw teams bekijken om te zien of deze gemakkelijk kunnen worden overgedragen naar de nieuwe methode. Een team van de Trommel heeft drie soorten leden: een producteigenaar, een rummeester, en teamleden.
 
-![Teamleden scrubben](assets/scrumteammembers-01.png)
+![ de teamleden van het Trommel ](assets/scrumteammembers-01.png)
 
 ### Eigenaars van producten
 
@@ -61,7 +61,7 @@ Zodra ze hun belangrijkste verhalen hebben gemaakt, moeten ze hun achterstand we
 
 * Hiermee worden de vereisten en acceptatiecriteria verduidelijkt voor een artikel dat als gereed moet worden beschouwd.
 
-* Schatting hoeveel inspanning het team moet uitbreiden om elk verhaal en de achterstand te voltooien. Dit kan in uren of in punten worden gedaan. Met punten kunt u zien hoe hard of complex het artikel is in plaats van de tijd te plannen die nodig is voor elke component van het artikel.
+* Schatting van de hoeveelheid inspanning het team moet uitbreiden om elk verhaal en de achterstand te voltooien. Dit kan in uren of in punten worden gedaan. Met punten kunt u zien hoe hard of complex het artikel is in plaats van de tijd te plannen die nodig is voor elke component van het artikel.
 
 
 ### Interferentieplanning
@@ -94,11 +94,11 @@ Als een team de drie primaire vragen in hun status beantwoordt, is het belangrij
 
 Met behulp van een storyboard verplaatsen teams hun artikelen door statuskolommen om te tonen wanneer de werkitems Nieuw, Bezig of Voltooid zijn.
 
-![Storyboard](assets/storyboard-01.png)
+![ Storyboard ](assets/storyboard-01.png)
 
 
 ### Burndown-grafiek
 
 Een burndown grafiek kan worden gebruikt om te controleren als het team artikelen aan een snel genoeg tarief, of snelheid voltooit. In afzonderlijke iteraties of in de volledige productrelease kunt u Burndown-grafieken gebruiken.
 
-![Burndown-grafiek](assets/burndown-01.png)
+![ Grafiek Burndown ](assets/burndown-01.png)

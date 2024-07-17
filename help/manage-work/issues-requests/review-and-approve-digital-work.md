@@ -1,6 +1,6 @@
 ---
 title: Digitale werkzaamheden beoordelen en goedkeuren
-description: Leer hoe u goedkeuringen voor projecten, taken, problemen, documenten en proefdrukken kunt zoeken en maken in [!DNL Workfront Home].
+description: Leer hoe te om goedkeuringen voor projecten, taken, kwesties, documenten, en proeven in  [!DNL Workfront Home] te vinden en te maken.
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -33,7 +33,7 @@ In deze video leert u hoe u:
 
 >[!NOTE]
 >
->Documenten, proefdrukken en werkitems (projecten, taken en problemen) waarvoor goedkeuring is vereist, kunt u in projecten en aangepaste rapporten vinden naast [!DNL Workfront Home].
+>Documenten, proefdrukken en werkitems (projecten, taken en problemen) waarvoor goedkeuring is vereist, kunt u in projecten en aangepaste rapporten vinden, naast [!DNL Workfront Home] .
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

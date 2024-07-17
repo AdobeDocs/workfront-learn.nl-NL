@@ -1,6 +1,6 @@
 ---
 title: DATEDIFF- en WEEKDAYDIFF-expressies maken
-description: Leer hoe u de DATEDIFF-expressies in een berekend veld in Adobe kunt gebruiken en maken [!DNL Workfront].
+description: Leer hoe te om de uitdrukkingen te gebruiken en tot stand te brengen DATEDIFF op een berekend gebied in Adobe  [!DNL Workfront].
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -27,4 +27,4 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on)
 
-**Opmerking**: De WEEKDAYDIFF-gegevensexpressie houdt GEEN rekening met de feestdagen die door uw organisatie zijn opgegeven.
+**Nota**: De WEEKDAYDIFF gegevensuitdrukking houdt GEEN rekening met vakanties die door uw organisatie worden gespecificeerd.

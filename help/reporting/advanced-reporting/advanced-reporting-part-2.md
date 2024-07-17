@@ -13,7 +13,7 @@ exl-id: c5f98bfd-5cdd-4471-9795-9bdc9bd1f5e3
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ In deze video leert u:
 
 * Een diepgaande studie van de weergaven van de tekstmodus
 * Meer informatie over de structuur van de tekstmodus
-* Hoe te om berekende gebieden van douanegegevens en berekende kolommen tot stand te brengen
+* Hoe te om berekende gebieden van douanegegevens en berekende kolommen te creëren
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12&learn=on)
 

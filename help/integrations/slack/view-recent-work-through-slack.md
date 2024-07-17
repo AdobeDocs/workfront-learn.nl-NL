@@ -1,5 +1,5 @@
 ---
-title: Recente werk weergeven via [!DNL Slack]
+title: Recent werk weergeven via  [!DNL Slack]
 description: Leer hoe u recent werk kunt bekijken via Slack
 activity: use
 feature: Workfront Integrations and Apps
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Recente werk weergeven via [!DNL Slack]
+# Recent werk weergeven via [!DNL Slack]
 
 In deze video leert u hoe u:
 
-* Recente werk weergeven via [!DNL Slack]
+* Recent werk weergeven via [!DNL Slack]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on)

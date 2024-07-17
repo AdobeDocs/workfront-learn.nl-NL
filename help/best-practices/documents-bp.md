@@ -1,6 +1,6 @@
 ---
 title: Beste praktijken - Documenten
-description: Ontdek de aanbevelingen met best practices van Adobe Workfront-experts over het instellen, beheren en gebruiken van documenten in Workfront.
+description: Ontdek de aanbevelingen van Adobe Workfront-experts over het instellen, beheren en gebruiken van documenten in Workfront.
 feature: Digital Content and Documents
 role: Admin, Leader, User
 level: Beginner
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -43,6 +43,6 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Schakel de uit-van-de-doos documentintegratie van Workfront als u derdeopslagsystemen van de documentopslag gebruikt.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Dankzij de standaard op de cloud provider gebaseerde documentintegratie van Workfront kunt u bestanden koppelen aan Workfront-objecten. Dit betekent dat u geen kopie van een document hoeft te exporteren en te uploaden naar Workfront, waardoor meerdere versies van een bestand rondzweven.

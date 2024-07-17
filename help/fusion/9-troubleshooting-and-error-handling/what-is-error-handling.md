@@ -1,6 +1,6 @@
 ---
 title: Wat is foutafhandeling?
-description: Leer enkele gangbare fouttypen en hoe het systeem deze standaard verwerkt, en leer vervolgens hoe u aangepaste foutafhandeling kunt toepassen in [!DNL Adobe Workfront Fusion].
+description: Leer sommige gemeenschappelijke foutentypes en hoe het systeem hen door gebrek behandelt, dan leren hoe te om douanefout behandeling in  [!DNL Adobe Workfront Fusion] toe te passen.
 activity: use
 team: Technical Marketing
 type: Tutorial

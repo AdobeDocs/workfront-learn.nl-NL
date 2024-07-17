@@ -1,5 +1,5 @@
 ---
-title: Beste praktijken - de rollen van de Baan
+title: Beste praktijken - de rollen van de Taak
 description: Ontdek de aanbevelingen met best practices van Adobe Workfront-experts over het instellen, beheren en gebruiken van Workfront-taakrollen.
 feature: People Teams and Groups
 role: Admin, Leader, User
@@ -8,16 +8,16 @@ jira: KT-10912
 exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
 
-# Beste praktijken - de rollen van de Baan
+# Beste praktijken - de rollen van de Taak
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -34,7 +34,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 * Gebruik naamconventies voor functies die in de hele organisatie worden gebruikt.
 
-* Wijs taken aan baanrollen toe wanneer het creëren van projectmalplaatjes.
+* Taken toewijzen aan taakrollen bij het maken van projectsjablonen.
 
 * Maak geen taakrollen op basis van taaktitels.
 
@@ -51,7 +51,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 
 Gebruik naamconventies voor functies die in de hele organisatie worden gebruikt.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Taakrollen zijn globaal. Als u taakrollen met dezelfde naam wilt onderscheiden en beheren in verschillende groepen binnen uw organisatie, is naamgevingsconventies de beste methode. Gebruik een naamgevingsconventie die aan uw wensen voldoet, maar vergeet niet deze eenvoudig te houden.
 
@@ -60,9 +60,9 @@ Taakrollen zijn globaal. Als u taakrollen met dezelfde naam wilt onderscheiden e
 
 **Beste praktijken**
 
-Wijs taken aan baanrollen toe wanneer het creëren van projectmalplaatjes.
+Taken toewijzen aan taakrollen bij het maken van projectsjablonen.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Wanneer individuele gebruikers aan taken in projectmalplaatjes worden toegewezen, kan dit het bemannen kwesties veroorzaken wanneer een gebruiker rollen verschuift of de organisatie verlaat. Dit maakt onderhoud van het malplaatje, en project, meer tijdrovend.
 
@@ -75,7 +75,7 @@ Bovendien kunt u met de functies die aan taken zijn toegewezen, uw bronbehoeften
 
 Maak geen taakrollen op basis van taaktitels.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 De rollen van de baan vertegenwoordigen de vaardigheid die een gebruiker bezit om een taak te voltooien. Taaktitels geven niet altijd de vaardigheidsset of het type werk van de gebruiker weer.
 
@@ -86,7 +86,7 @@ De rollen van de baan vertegenwoordigen de vaardigheid die een gebruiker bezit o
 
 Zorg er bij het maken van taakrollen voor dat u ze niet te korrelig maakt.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 U kunt een gebruiker met veelvoudige baanrollen associëren, maar u kunt geen baanrol voor elke vaardigheid nodig hebben een gebruiker heeft. Baseer de baanrollen op uw behoeften om taken en het gewenste niveau van detail toe te wijzen u in de rapporten van het middelbeheer nodig hebt.
 
@@ -97,7 +97,7 @@ U kunt een gebruiker met veelvoudige baanrollen associëren, maar u kunt geen ba
 
 Maak alleen vergelijkbare functies wanneer een duidelijk onderscheid nodig is.
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 In de meeste gevallen is het niet nodig dat meerdere taakrollen dezelfde vaardigheden vertegenwoordigen. Nochtans, zult u veelvoudige baanrollen nodig hebben als:
 

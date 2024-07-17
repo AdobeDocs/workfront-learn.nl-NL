@@ -1,6 +1,6 @@
 ---
-title: Heb toegang tot uw aan-doe lijst door [!DNL Slack]
-description: Leer hoe u toegang krijgt tot uw lijst met taken in [!DNL Workfront]
+title: Heb toegang tot uw aan-doe lijst door  [!DNL Slack]
+description: Leer hoe te om tot uw tot-doe lijst in  [!DNL Workfront] toegang te hebben
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Heb toegang tot uw aan-doe lijst door [!DNL Slack]
+# Toegang tot uw to-do lijst via [!DNL Slack]
 
 In deze video leert u hoe u:
 
-* Toegang tot uw lijst van te doen binnen [!DNL Workfront]
+* Toegang tot uw to-do lijst in [!DNL Workfront]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on)

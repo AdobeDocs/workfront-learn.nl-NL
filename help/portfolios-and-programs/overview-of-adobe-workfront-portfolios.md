@@ -28,19 +28,19 @@ Het denken van en het plannen van projecten is niet te moeilijk taak-het is een 
 
 Een portefeuille is een inzameling van projecten die voor de zelfde middelen, begroting, programma, en prioriteit voltooien. Een marketingbureau kan bijvoorbeeld een portfolio gebruiken om alle projecten voor een bepaalde klant te groeperen.
 
-Ga naar de **[!UICONTROL Portfolios]** van de [!UICONTROL Main Menu]klikt u vervolgens op de naam van een portfolio om het te openen.
+Navigeer vanuit [!UICONTROL Main Menu] naar de sectie **[!UICONTROL Portfolios]** en klik op een portfolionaam om deze te openen.
 
-U kunt de **[!UICONTROL New Project]** om eenvoudig een bestaand project aan het portfolio toe te voegen. U kunt ook rechtstreeks in het portfolio een nieuw project maken.
+Met de knop **[!UICONTROL New Project]** kunt u eenvoudig een bestaand project toevoegen aan het portfolio. U kunt ook rechtstreeks in het portfolio een nieuw project maken.
 
-![Een afbeelding van het vervolgkeuzemenu voor het dialoogvenster [!UICONTROL New Project] knop](assets/01-portfolio-management3.png)
+![ een beeld van het drop-down menu voor de [!UICONTROL New Project] knoop ](assets/01-portfolio-management3.png)
 
 Zodra de projecten aan de portefeuille worden toegevoegd, kunt u de summiere informatie in de paginakopbal gebruiken om een mening op hoog niveau te krijgen van hoe deze inzameling van projecten, of positief of negatief, aan de algemene doelstellingen van de portefeuille bijdragen.
 
-![Een afbeelding van de samenvattingsgegevens van het portfolio in de paginakoptekst](assets/02-portfolio-management1.png)
+![ een beeld van de summiere informatie van de portefeuille in de paginakopbal ](assets/02-portfolio-management1.png)
 
-U kunt het programma voor het optimaliseren van portfolio&#39;s gebruiken (ook bekend als [!UICONTROL Portfolio Optimizer]) om projecten prioriteit te geven op basis van de nettowaarde, uitlijning, kosten, risico en rendement.
+Met het hulpprogramma voor het optimaliseren van portfolio&#39;s (ook wel [!UICONTROL Portfolio Optimizer] genoemd) kunt u projecten prioriteren op basis van de nettowaarde, uitlijning, kosten, risico en investeringsrendement.
 
-![Een afbeelding van het prioriteren van projecten in een portfolio](assets/03-portfolio-management2.png)
+![ een beeld om projecten in een portefeuille voorrang te geven ](assets/03-portfolio-management2.png)
 
 ## Toegang tot portfolio&#39;s
 
@@ -48,29 +48,29 @@ Om met portefeuilles te werken, moet u een vergunning van het Plan in Workfront 
 
 Wanneer een portfolio wordt gemaakt, heeft alleen de maker of manager van het portfolio toegang tot dit portfolio. U kunt anderen toegang tot het portfolio geven door het te delen. Dit geeft ook toegang tot alle programma&#39;s en projecten binnen de portefeuille.
 
-Open het portfolio en klik op het menu met drie punten. Selecteer vervolgens **[!UICONTROL Sharing]**. Voeg de individuen, de teams, de baanrollen, de groepen, of de bedrijven toe die toegang zouden moeten hebben. Dan bepaal welk type van toegang elk zou moeten hebben-leiden of mening.
+Open het portfolio en klik op het menu met drie punten en selecteer vervolgens **[!UICONTROL Sharing]** . Voeg de individuen, de teams, de baanrollen, de groepen, of de bedrijven toe die toegang zouden moeten hebben. Dan bepaal welk type van toegang elk zou moeten hebben-leiden of mening.
 
-![Een afbeelding van de [!UICONTROL Sharing] in een [!DNL Workfront] portfolio](assets/04-portfolio-management11.png)
+![ een beeld van de [!UICONTROL Sharing] optie in a [!DNL Workfront] portefeuille ](assets/04-portfolio-management11.png)
 
 ## Een portfolio maken
 
-Klik op **[!UICONTROL Portfolios]** in het hoofdmenu.
+Klik op **[!UICONTROL Portfolios]** in het hoofdmenu om een portfolio te maken.
 
-![Een afbeelding van het hoofdmenu ](assets/create-portfolio-1.png)
+![ Een afbeelding van het hoofdmenu ](assets/create-portfolio-1.png)
 
-Klik in het gebied Portfolio&#39;s op **[!UICONTROL New Portfolio]**.
+Klik in het gebied Portfolio&#39;s op **[!UICONTROL New Portfolio]** .
 
-![Een afbeelding van het gebied Portfolio&#39;s ](assets/create-portfolio-2.png)
+![ Een afbeelding van het gebied Portfolio&#39;s ](assets/create-portfolio-2.png)
 
-Geef een naam op voor het portfolio en klik op **[!UICONTROL New Project]** om een project aan de portefeuille toe te voegen. U kunt op verschillende manieren een nieuw project maken, net als bij de **[!UICONTROL Projects]** gebied. Elk nieuw project dat u vanaf hier maakt, behoort tot dit portfolio. U kunt ook klikken op **[!UICONTROL Existing Project]** om een of meer bestaande projecten in een lijst te selecteren.
+Geef een naam op voor het portfolio en klik op **[!UICONTROL New Project]** om een project toe te voegen aan het portfolio. U kunt op verschillende manieren een nieuw project maken, net als in het **[!UICONTROL Projects]** -gebied. Elk nieuw project dat u vanaf hier maakt, behoort tot dit portfolio. U kunt ook op **[!UICONTROL Existing Project]** klikken om een of meer bestaande projecten in een lijst te selecteren.
 
-![Een afbeelding van het nieuwe projectmenu ](assets/create-portfolio-3.png)
+![ Een beeld van het nieuwe projectmenu ](assets/create-portfolio-3.png)
 
 ## Een programma maken binnen een portfolio
 
-Selecteer de **[!UICONTROL Programs]** tab, klik vervolgens op **[!UICONTROL New Program]** om een nieuw programma in dit portfolio te maken of klik op **[!UICONTROL Existing Program]** bestaande programma&#39;s uit andere portfolio&#39;s te stelen.
+Selecteer het tabblad **[!UICONTROL Programs]** en klik vervolgens op **[!UICONTROL New Program]** om een nieuw programma in dit portfolio te maken of klik op **[!UICONTROL Existing Program]** om bestaande programma&#39;s uit andere portfolio&#39;s te stelen.
 
-![Een afbeelding van het nieuwe programmamenu ](assets/create-portfolio-4.png)
+![ Een afbeelding van het nieuwe programmamenu ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic

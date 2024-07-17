@@ -12,7 +12,7 @@ jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -29,27 +29,27 @@ add URL link in the note at the top of the LP
 
 >[!NOTE]
 >
->Vanwege een gefaseerde implementatie is de functionaliteit waarmee systeem- en groepsbeheerders gebeurtenismeldingen kunnen beheren, tijdelijk niet beschikbaar voor sommige [!DNL Workfront] klanten. Volg dit artikel voor updates met betrekking tot de release: Configuratie van gebeurtenismeldingen voor groepen ontgrendelen.
+>Vanwege een gefaseerde implementatie is de functionaliteit waarmee systeem- en groepsbeheerders gebeurtenismeldingen kunnen beheren, tijdelijk niet beschikbaar voor sommige [!DNL Workfront] -klanten. Volg dit artikel voor updates met betrekking tot de release: ontgrendel de configuratie van gebeurtenismeldingen voor groepen.
 
-Systeembeheerders bepalen welke meldingen gebruikers moeten ontvangen via [!DNL Workfront].
+Systeembeheerders bepalen welke meldingen gebruikers moeten ontvangen via [!DNL Workfront] .
 
-![[!UICONTROL Email Notifications] in het [!UICONTROL Setup] gebied](assets/admin-fund-notifications-1.png)
+![[!UICONTROL Email Notifications] in het [!UICONTROL Setup] gebied ](assets/admin-fund-notifications-1.png)
 
-De [!UICONTROL Event Notifications] lijst wordt gegroepeerd op type. Voor elke vermelde gebeurtenismelding worden vijf gegevens weergegeven:
+De lijst [!UICONTROL Event Notifications] wordt gegroepeerd op type. Voor elke vermelde gebeurtenismelding worden vijf gegevens weergegeven:
 
-* **[!UICONTROL Active]—** De [!UICONTROL Active] kunt u een melding in- of uitschakelen op systeemniveau.
-* **[!UICONTROL Name]—** Dit is de naam van het bericht binnen [!DNL Workfront].
-* **[!UICONTROL Description]—** De beschrijving geeft een korte uitleg van de maatregelen die zijn genomen om een aanmelding te doen ontstaan of die moeten worden genomen naar aanleiding van het ontvangen van de kennisgeving.
-* **[!UICONTROL Email Subject]—** Wat wordt op de onderwerpregel aan de gebruiker weergegeven wanneer het e-mailbericht naar gebruikers wordt verzonden.
+* **[!UICONTROL Active]—** Met de kolom [!UICONTROL Active] kunt u een melding in- of uitschakelen op systeemniveau.
+* **[!UICONTROL Name]—** Dit is de naam van de melding binnen [!DNL Workfront] .
+* **[!UICONTROL Description]—** De beschrijving verstrekt een korte verklaring van welke actie plaatsvond om een bericht teweeg te brengen of in antwoord op het ontvangen van het bericht moet worden genomen.
+* **[!UICONTROL Email Subject]—** Wat zal aan de gebruiker in de onderwerpregel worden getoond wanneer e-mail naar gebruikers wordt verzonden.
 * **[!UICONTROL Group Access]—** Ontgrendel berichten zodat zij door groepsbeheerders kunnen worden beheerd.
 
 ## Meldingen inschakelen
 
-Als u meldingen op algemeen systeemniveau wilt beheren, moet u ervoor zorgen dat op de zoekbalk [!UICONTROL System Event Notifications].
+Als u meldingen op algemeen systeemniveau wilt beheren, moet u ervoor zorgen dat op de zoekbalk staat [!UICONTROL System Event Notifications] .
 
 Schakel een specifiek bericht in om het beschikbaar te maken voor alle gebruikers door op de schakelknop te klikken, zodat het blauwe wordt weergegeven. Als het blauw verborgen is, is de melding uitgeschakeld.
 
-![[!UICONTROL Active] kolom op [!UICONTROL Email Notifications] page](assets/admin-fund-notifications-2.png)
+![[!UICONTROL Active] column on [!UICONTROL Email Notifications] page ](assets/admin-fund-notifications-2.png)
 
 Zodra een gebeurtenisbericht wordt aangezet, worden de berichten verzonden onmiddellijk wanneer de gebeurtenis voorkomt.
 
@@ -57,7 +57,7 @@ Zodra een gebeurtenisbericht wordt aangezet, worden de berichten verzonden onmid
 
 De beheerders van de groep kunnen toestemming, door systeembeheerders worden verleend, om de berichtlijst verder aan te passen die op hoe hun groepen en subgroups functioneren en wat hun werkschema&#39;s zijn.
 
-![[!UICONTROL Group Access] kolom op [!UICONTROL Email Notifications] page](assets/ganotifications_01.png)
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page ](assets/ganotifications_01.png)
 
 Om groepsbeheerders de mogelijkheid te geven om meldingen voor hun groepen en subgroepen te beheren, moeten de meldingen op systeemniveau worden ontgrendeld.
 
@@ -69,11 +69,11 @@ Om groepsbeheerders de mogelijkheid te geven om meldingen voor hun groepen en su
 
 * U kunt meerdere meldingen tegelijk ontgrendelen door het selectievakje links van elke melding in te schakelen en op het pictogram Ontgrendelen op de werkbalk boven de lijst te klikken.
 
-![[!UICONTROL Group Access] kolom op [!UICONTROL Email Notifications] page](assets/ganotifications_02.png)
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page ](assets/ganotifications_02.png)
 
 Vergrendel een ontgrendeld bericht door op de schakeloptie te klikken, zodat de grijstint wordt weergegeven. Meerdere meldingen vergrendelen door de selectievakjes in te schakelen en op het pictogram Ontgrendelen op de werkbalk te klikken.
 
-![[!UICONTROL Group Access] kolom op [!UICONTROL Email Notifications] page](assets/ganotifications_03.png)
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page ](assets/ganotifications_03.png)
 
 Ontgrendelde berichten worden weergegeven voor groepsbeheerders op hoofdniveau om te bepalen of dat bericht nodig is voor hun groepen en subgroepen. Subgroepen erven de berichtconfiguraties van hun hoogste oudergroep. ﻿
 
@@ -82,15 +82,15 @@ Ontgrendelde berichten worden weergegeven voor groepsbeheerders op hoofdniveau o
 
 Zodra de systeembeheerder ontgrendelde meldingsopties heeft, kunnen de groepbeheerders de meldingen van een groep beheren vanaf de afzonderlijke pagina Groep door op Gebeurtenismeldingen in het menu van het linkerdeelvenster te klikken. Vervolgens kunt u meldingsopties activeren of deactiveren.
 
-![[!UICONTROL Group Access] kolom op [!UICONTROL Email Notifications] page](assets/managegroupnotifications_01.png)
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page ](assets/managegroupnotifications_01.png)
 
 Systeembeheerders kunnen zo nodig de meldingen van een groep beheren via de pagina Meldingen door de groepsnaam in te voeren in de zoekbalk boven in het venster.
 
-![[!UICONTROL Group Access] kolom op [!UICONTROL Email Notifications] page](assets/managegroupnotifications_02.png)
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page ](assets/managegroupnotifications_02.png)
 
 ## Pro-tips
 
-Sommige meldingen [!DNL Workfront] raadt u aan uw gebruikers ter beschikking te stellen.
+Er zijn enkele meldingen die [!DNL Workfront] aanbeveelt om deze beschikbaar te maken voor uw gebruikers.
 
 Voor de meeste gebruikers:
 

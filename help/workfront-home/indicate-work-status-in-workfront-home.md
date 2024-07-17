@@ -1,6 +1,6 @@
 ---
 title: De status van toegewezen werk wijzigen in [!UICONTROL Home]
-description: Leer hoe u de status van toewijzingen wijzigt om aan te geven dat het werk in uitvoering is vanuit de [!UICONTROL Home] pagina. Begrijp waarom status belangrijk is in [!DNL  Workfront].
+description: Leer hoe u de status van toewijzingen wijzigt om aan te geven dat werk wordt uitgevoerd vanaf de pagina [!UICONTROL Home] . Begrijp waarom de status in  [!DNL  Workfront] belangrijk is.
 feature: Work Management
 type: Tutorial
 role: User
@@ -23,19 +23,19 @@ ht-degree: 0%
 In deze video leert u:
 
 * Het doel van de status in [!DNL  Workfront]
-* Hoe de status van werktoewijzingen wijzigen
+* Hoe de status van werktoewijzingen te wijzigen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on)
 
 ## Opstarten versus eraan werken
 
-Tijdens het bekijken van uw werktoewijzingen in [!UICONTROL Home]kan het zijn dat u een knop ziet die [!UICONTROL Start Task] of [!UICONTROL Start Issue].
+Wanneer u uw werktoewijzingen in [!UICONTROL Home] bekijkt, ziet u mogelijk een knop met de tekst [!UICONTROL Start Task] of [!UICONTROL Start Issue] .
 
-![[!DNL Workfront] [!UICONTROL Home] pagina waarop de knop staat [!UICONTROL Start Task].](assets/worker-fundamentals-1.png)
+![[!DNL Workfront] [!UICONTROL Home] pagina waar de knop staat [!UICONTROL Start Task] . ](assets/worker-fundamentals-1.png)
 
-Wanneer u op [!UICONTROL Start Task]Hiermee wijzigt u automatisch de status van uw taak in Bezig (of een status die in uw organisatie gelijk is).
+Wanneer u op [!UICONTROL Start Task] klikt, verandert dit automatisch de status van uw taak in Bezig (of een status die het equivalent is bij uw organisatie).
 
-Sommige teams kunnen een [!UICONTROL Work On It] in plaats daarvan. In dat geval accepteert u de toewijzing, maar bent u nog niet begonnen met het bewerken van het item. De status van de taak verandert niet.
+Sommige teams kunnen in plaats daarvan een knop [!UICONTROL Work On It] zien. In dat geval accepteert u de toewijzing, maar bent u nog niet begonnen met het bewerken van het item. De status van de taak verandert niet.
 
 De naam en functionaliteit van de knop worden bepaald door uw systeem- of groepsbeheerder en op de workflows en processen van uw organisatie.
 

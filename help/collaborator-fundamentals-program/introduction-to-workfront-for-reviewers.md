@@ -1,6 +1,6 @@
 ---
-title: Inleiding tot [!DNL Workfront] voor revisoren
-description: Meer weten over het gebruik van een Revisielicentie voor gebruikers [!DNL  Workfront].
+title: Inleiding aan  [!DNL Workfront]  voor Revisoren
+description: Leer hoe de gebruikers met een vergunning van het Overzicht  [!DNL  Workfront] kunnen gebruiken.
 activity: use
 type: Tutorial
 team: Technical Marketing
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # Inleiding tot [!DNL Workfront] voor revisoren
 
-In deze video leert u hoe u kunt gebruiken [!DNL  Workfront] met een Revisielicentie.
+In deze video leert u hoe u [!DNL  Workfront] kunt gebruiken met een revisielicentie.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on)

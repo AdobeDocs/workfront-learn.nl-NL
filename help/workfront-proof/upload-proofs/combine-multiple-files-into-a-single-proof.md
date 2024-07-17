@@ -1,6 +1,6 @@
 ---
 title: Meerdere bestanden combineren tot één proefdruk
-description: Leer hoe u het proefdrukproces kunt stroomlijnen door meerdere bestanden te combineren tot één proefdruk in [!DNL  Workfront].
+description: Leer hoe te om het proefdrukproces te stroomlijnen door veelvoudige dossiers in één enkele proef in  [!DNL  Workfront] te combineren.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -12,7 +12,7 @@ jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
 source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -29,27 +29,27 @@ Oplossing-hebben één persoon alle PDF uploadt en hen combineren in één enkel
 
 Proefdrukken combineren:
 
-1. Open de [!UICONTROL Documents] deel van het project, de taak of het afgeven van het bewijs moet worden bijgevoegd.
+1. Open de [!UICONTROL Documents] -sectie van het project, de taak of geef de proefdruk op als bijlage.
 2. Sleep de bestanden naar het uploadgebied of blader naar de bestanden. [!DNL Workfront] ondersteunt het combineren van maximaal 50 bestanden.
-3. Schakel de optie voor [!UICONTROL Combine all compatible files into a single proof].
+3. Schakel de optie voor [!UICONTROL Combine all compatible files into a single proof] in of uit.
 4. Voer een naam in voor de gecombineerde proefdruk. Dit is verplicht.
 5. Desgewenst kunt u de volgorde wijzigen waarin de bestanden worden gecombineerd met slepen en neerzetten in de lijst met uploads.
 6. Ontvangers van bewijsstukken toevoegen, een deadline instellen, enzovoort.
-7. Klikken [!UICONTROL Create Proof] om het uploaden te voltooien.
+7. Klik op [!UICONTROL Create Proof] om het uploaden te voltooien.
 
-![Een afbeelding van de [!UICONTROL New proof] venster met de lijst met geüploade bestanden en [!UICONTROL Single proof] gemarkeerde secties.](assets/combine-proofs.png)
+![ een beeld van het [!UICONTROL New proof] venster met de geuploade dossiers lijst en [!UICONTROL Single proof] benadrukte secties.](assets/combine-proofs.png)
 
-Als de proefdruk eenmaal is geüpload, ziet u deze als een ZIP-bestand in het dialoogvenster [!UICONTROL Documents] tab.
+Zodra de proefdruk is geüpload, ziet u deze als een ZIP-bestand op het tabblad [!UICONTROL Documents] .
 
-Er is niets anders nodig om het gecombineerde bestand weer te geven. Alleen klikken [!UICONTROL Open Proof] zoals gewoonlijk wordt de proefdruk geopend in de proefviewer.
+Er is niets anders nodig om het gecombineerde bestand weer te geven. Klik op [!UICONTROL Open Proof] zoals gewoonlijk en de proefdruk wordt geopend in de proefdrukviewer.
 
-![Een afbeelding van de proefdrukviewer met een proefdruk van meerdere pagina&#39;s zichtbaar.](assets/combine-proofs-2.png)
+![ een beeld van de proefkijker met zichtbaar een multi-paginaproef.](assets/combine-proofs-2.png)
 
 ## Hoe zit het met het combineren van videobestanden?
 
 Het combineren van bestanden is helaas niet mogelijk wanneer rijke mediabestanden, zoals video&#39;s, animaties en interactieve URL&#39;s in de lijst staan.
 
-![Een afbeelding met een foutbericht waarin u wordt uitgelegd, kunt u videobestanden niet combineren.](assets/combine-proofs-error.png)
+![ een beeld van foutenmelding die u verklaart kan videodossiers niet combineren.](assets/combine-proofs-error.png)
 
 
 ## Uw beurt

@@ -8,7 +8,7 @@ jira: KT-10906
 exl-id: 0d1ddaed-8daa-40e5-8384-c052ec36fbdc
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '1431'
+source-wordcount: '1434'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ## Wat is een &quot;beste praktijk&quot; van Adobe Workfront?
 
-De beste praktijken zijn richtsnoeren die een efficiënte, efficiënte manier van handelen vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kan met succes over uw organisatie worden herhaald.
+De beste praktijken zijn richtlijnen die een efficiënte, efficiënte actie vertegenwoordigen; gemakkelijk door u en de gebruikers bij uw bedrijf worden aangenomen; en kunnen met succes over uw organisatie worden herhaald.
 
 Houd er bij het beoordelen van deze aanbevelingen rekening mee dat sommige Workfront-best practices universeel zijn, terwijl andere specifieker voor het onderwerp kunnen zijn. Gebruik deze aanbevolen procedures als een raamwerk voor hulp bij het instellen en gebruiken van Workfront-systemen.
 
@@ -69,7 +69,7 @@ Identificeer de belangrijkste rapportagecategorieën en -behoeften voordat u org
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Als u weet welke meetgegevens u zoekt en welke informatie u in Workfront wilt verzamelen over gebruikers en het werk dat u doet, kunt u zich richten op het samenstellen van uw organisatorische eenheden om aan deze behoeften te voldoen.
 
@@ -82,7 +82,7 @@ Evalueer regelmatig uw bestaande organisatiestructuur van Workfront om ervoor te
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Naarmate uw organisatie groeit of wanneer Workfront zich uitbreidt binnen uw organisatie, zult u nieuwe en verschillende manieren vinden om de efficiëntie van het proces te verbeteren en om de relatie tussen gebruikers en het werk te verbeteren. Zo kan periodiek het evalueren van hoe de organisatorische eenheden worden gestructureerd u de kans geven om te weten of die structuur nog werkt of of of het moet worden bijgewerkt.
 
@@ -96,7 +96,7 @@ Controleer uw gebruikersbasis driemaandelijks, of minstens om de zes maanden.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Aangezien uw organisatie Workfront in tijd gebruikt en gebruik van het hulpmiddel verhoogt, bouwt de informatie op het systeem op. Hieronder vallen het aantal gebruikers, het aantal gebruikte licenties, het aantal bedrijven, groepen of teams dat is gecreëerd, enzovoort.
 
@@ -117,7 +117,7 @@ Gebruikers identificeren en trainen om groepsbeheerders te zijn.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Selecteer mensen met een sterk inzicht in Adobe Workfront en hoe hun groepen systeem-gebruiken en die de tijd hebben aan het zijn van een groepsbeheerder te wijden.
 
@@ -139,9 +139,9 @@ Normaal gesproken is slechts één bedrijf nodig voor uw interne gebruikers.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
-Een Workfront-bedrijf zou voor de hele organisatie moeten zijn, en niet alleen voor het bedrijfsleven. Als u uw interne gebruikers in verschillende bedrijven splitst, kan dat problemen veroorzaken met de machtigingen om in Workfront te werken. Een Workfront-groep heeft de voorkeur voor het organiseren van interne gebruikers.
+Een Workfront-bedrijf zou voor de hele organisatie moeten zijn, en niet alleen voor het bedrijfsleven. Als u uw interne gebruikers in verschillende bedrijven splitst, kan dat problemen veroorzaken met de machtigingen om in Workfront te werken. Een Workfront-groep is de voorkeursmethode voor het organiseren van interne gebruikers.
 
 </br>
 </br>
@@ -152,7 +152,7 @@ Maak bedrijven voor externe klanten of leveranciers die u wilt bijhouden in uw W
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Als u een bedrijf met externe leveranciers maakt, kunt u deze leveranciers toestaan naar Workfront te gaan om de voortgang te bekijken van de inhoud of het product dat voor hen wordt gemaakt en hun toegang te beperken terwijl ze zich in het systeem bevinden.
 
@@ -170,7 +170,7 @@ Houd de groepen van Workfront tot een minimum beperkt en correleer hen met de af
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Groepen zijn vooral nodig door afdelingen die hun werk in Workfront beheren. De marketingafdeling heeft bijvoorbeeld een eigen groep nodig, maar gebruikers van andere afdelingen die alleen in Workfront zijn om werk aan te vragen, kunnen in de standaardgroep worden geplaatst.
 
@@ -183,9 +183,9 @@ Gebruik groepen om de afdelingsstructuur en teams te vertegenwoordigen om de wer
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
-Een huisgroep is een vereist gebied voor zowel gebruikers als projecten. Dit biedt een goede manier om gebruikers en het werk op hoog niveau waarbij zij betrokken zijn, te organiseren en hierover te rapporteren.
+Een huisgroep is een vereist gebied voor zowel gebruikers als projecten. Dit biedt een goede manier om gebruikers en het werk op hoog niveau waarbij zij betrokken zijn, te organiseren en hierover verslag uit te brengen.
 
 
 
@@ -200,7 +200,7 @@ Gebruik groepsbeheerders om systeembeheerders te helpen gebruikers en instelling
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Systeembeheerders hebben toegang tot alles in Workfront, inclusief algemene systeeminstellingen. De beheerders van de montageengroep kunnen tot toegang hebben worden gecontroleerd door de systeembeheerder en zijn slechts op die specifieke groep van toepassing.
 
@@ -218,7 +218,7 @@ Groepbeheerders toestaan hun eigen subgroepen te maken.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Groepbeheerders kunnen hun eigen subgroepen maken en beheren. Hoewel een systeembeheerder subgroepen kan tot stand brengen, kan het delegeren van dit aan een groepsbeheerder een reusachtige tijdbesparingsserver zijn. Het kan ook in een betere ervaring van Workfront voor groepsleden resulteren, aangezien de groepsbeheerder met de behoeften en de werkschema&#39;s van de groep en subgroep vertrouwd zal zijn.
 
@@ -231,7 +231,7 @@ Wijs lay-outmalplaatjes aan huisteams toe.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Het is belangrijk om ervoor te zorgen dat uw teams op dezelfde pagina staan wanneer het om het werk gaat. Dat betekent dat ze gemakkelijker toegang krijgen tot dezelfde rapporten en instrumenten. Met lay-outsjablonen kunt u die omgeving maken en processen die uw team al heeft, verbeteren en mogelijk verbeteren.
 
@@ -244,7 +244,7 @@ Gebruik grotere organisatorische eenheden om items te delen met sets personen.
 
 
 
-**Hieronder wordt beschreven waarom**
+**hier is waarom**
 
 Het gebruiken van een grotere organisatorische eenheid zoals groepen en teams wanneer het delen van punten in Workfront-projecten, rapporten, enz.—betekent dat u het object snel en eenvoudig tegelijk kunt delen met een geselecteerde set personen. Het kan lastig en tijdrovend zijn om namen van individuele gebruikers toe te voegen aan het deelvenster.
 

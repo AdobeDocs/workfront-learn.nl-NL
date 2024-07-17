@@ -1,6 +1,6 @@
 ---
 title: Een proefdruk van een website uploaden
-description: Leer hoe u een website uploadt als een statisch proefexemplaar en interactieve proefdruk in [!DNL  Workfront].
+description: Leer hoe te om een website als statisch bewijs en interactieve proef in  [!DNL  Workfront] te uploaden.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -30,7 +30,7 @@ In deze video leert u hoe u:
 
 ## Overwegingen voor interactieve inhoud
 
-Terwijl u websites gaat controleren, zult u zien dat [!DNL Workfront] biedt geen ondersteuning voor elke configuratie of situatie. Aan bepaalde criteria moet worden voldaan:
+Wanneer u websites gaat controleren, biedt [!DNL Workfront] mogelijk geen ondersteuning voor elke configuratie of situatie. Aan bepaalde criteria moet worden voldaan:
 
 * De website moet worden gehost met een beveiligd protocol, wat betekent dat het websiteadres begint met https.
 * De te controleren website kan niet worden ingesloten in een iframe.
@@ -44,7 +44,7 @@ Terwijl u websites gaat controleren, zult u zien dat [!DNL Workfront] biedt geen
 >
 >Vergeet niet om uw collega&#39;s die u hen stuurt een bewijs te melden als onderdeel van uw Workfront-training.
 
-1. Open een project, taak of probleem dat u in Workfront in de praktijk wilt brengen. Maak een statisch bewijs van de website van uw organisatie. Als het bestand niet voldoet aan de statische proefdrukcriteria, kunt u adobe.com gebruiken.
+1. Open een project, taak of probleem dat u in Workfront in de praktijk wilt brengen. Maak een statisch bewijs van de website van uw organisatie. Als het niet voldoet aan de statische proefdrukcriteria, kunt u adobe.com gebruiken.
 1. Maak vervolgens een interactief bewijs van de website van uw organisatie. U kunt adobe.com gebruiken als de andere website niet werkt.
 
 <!-- 

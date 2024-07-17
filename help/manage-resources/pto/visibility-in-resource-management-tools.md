@@ -1,5 +1,5 @@
 ---
-title: Zichtbaarheid in hulpmiddelen voor middelenbeheer
+title: Zichtbaarheid in hulpmiddelen voor resourcebeheer
 description: Kom te weten wat een primaire ontvanger is en hoe het het beheer van uw middelen beïnvloedt.
 feature: Resource Management
 type: Tutorial
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Zichtbaarheid in hulpmiddelen voor middelenbeheer
+# Zichtbaarheid in hulpmiddelen voor resourcebeheer
 
 Kennis van wie beschikbaar is en wanneer essentieel is voor de planning en het beheer van bronnen. Wanneer gebruikers hun persoonlijke tijd in de kalender in Workfront merken, kan die informatie ook in de middelhulpmiddelen van Workfront worden gezien.
 
@@ -24,7 +24,7 @@ Kennis van wie beschikbaar is en wanneer essentieel is voor de planning en het b
 
 De tijd van een gebruiker weg wordt weerspiegeld in Beschikbare (AVL) kolom in de middelplanner. Workfront trekt de tijd van gemarkeerd op hun kalender van de beschikbare tijd af, zoals berekend door Workfront op basis van toegewezen planning, taakrolpercentage, enz.
 
-![Afkorting in beschikbare kolom](assets/vis_01.png)
+![ Tijd weg in beschikbare kolom ](assets/vis_01.png)
 
 ## Werklastverdeling
 
@@ -32,4 +32,4 @@ In de werklastbalans wordt de tijd uit weergegeven als grijze balken in de kalen
 
 De time-off-indicator belet echter niet dat het werk aan de gebruiker wordt toegewezen via Workload Balancer. Als het werk wordt toegewezen, toont de Balancer van de Werklast de persoon over-toegewezen tijdens de tijd van periode is.
 
-![Tijd van grijze balk](assets/vis_02.png)
+![ Tijd van grijze bar ](assets/vis_02.png)

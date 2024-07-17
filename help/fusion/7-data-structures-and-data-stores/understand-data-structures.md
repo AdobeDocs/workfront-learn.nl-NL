@@ -1,6 +1,6 @@
 ---
 title: Gegevensstructuren begrijpen
-description: Leer hoe u het gebruik en de mogelijkheden van de gegevensstructuur begrijpt en een gegevensstructuur binnen een scenario maakt en gebruikt, allemaal in [!DNL Adobe Workfront Fusion].
+description: Leer hoe te om het gebruik en de mogelijkheden van de gegevensstructuur te begrijpen, en een gegevensstructuur binnen een scenario tot stand te brengen en te gebruiken, allen in  [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
