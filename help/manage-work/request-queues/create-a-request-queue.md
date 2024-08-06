@@ -1,6 +1,6 @@
 ---
 title: Een aanvraagwachtrij maken
-description: Leer hoe te opstelling een verzoekrij en rijdetails in  [!DNL  Workfront] vestigen. Voer de volgende stappen uit om uw organisatie te helpen bij het beheren van de arbeidsinname.
+description: Leer hoe te opstelling een verzoekrij en rijdetails te vestigen. Voer de volgende stappen uit om uw organisatie te helpen bij het beheren van de arbeidsinname.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -8,12 +8,14 @@ role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335221.jpeg
+recommendations: noDisplay,noCatalog
 jira: KT-8958
+last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
+source-git-commit: e43f7f6a9c95f02b69104ef62337efa6bbc10b14
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -28,16 +30,9 @@ In deze video leert u hoe u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
-## Uw beurt
+## Aanbevolen zelfstudies over dit onderwerp
 
-Neem even de tijd om de informatie te bekijken die je zojuist hebt gepresenteerd.
-
-**Vraag:** Welke van het volgende moet op zijn plaats zijn opdat een Rij van het Verzoek om live te gaan? (selecteer alles wat van toepassing is)
-
-1. Projectstatus = Huidig
-1. &quot;Issue&quot; van het type request is geselecteerd
-1. &quot;Publish as Help Request Queue&quot; is geselecteerd
-1. Projectstatus = Huidige of Planning
-
-**Antwoord:** 1) de status van het Project = Huidige en 3) &quot;Publish als de Rij van het Verzoek van de Hulp wordt geselecteerd
+* [Vragenrijen begrijpen](/help/manage-work/request-queues/understand-request-queues.md)
+* [Instellingen voor een stroomaanvraag begrijpen](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Een aanvraagstroom maken](/help/manage-work/request-queues/create-a-request-flow.md)
 
