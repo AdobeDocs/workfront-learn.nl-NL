@@ -3,9 +3,9 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f08765083adcc636f4f0241a5856b15fb9e92cf
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2349'
 ht-degree: 0%
 
 ---
@@ -642,7 +642,8 @@ ht-degree: 0%
    + [Workfront-doelen](best-practices/workfront-goals-bp.md)
    + [Werklastverdeling](best-practices/workload-balancer-bp.md)
 
-
++ Workfront for executives {#workfront-for-executives}
+   + [Workfront voor leidinggevenden](workfront-for-executives/workfront-for-executives.md)
 
 
 
@@ -650,7 +651,6 @@ ht-degree: 0%
 + [Wat is de methode van de Trommel en hoe werkt het?](agile/what-is-the-scrum-methodology.md)
 + [Wat is de Kanban-methode en hoe werkt die?](agile/what-is-the-kanban-methodology.md)
 + [Overschakelen op Agile](agile/transitioning-to-agile.md)
-+ [Workfront voor leidinggevenden](workfront-for-executives/workfront-for-executives.md)
 + [Aanvragen beheren](manage-work/issues-requests/manage-incoming-requests.md)
 + [Begrijp de grafiek van de middelcapaciteit](reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
