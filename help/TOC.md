@@ -3,7 +3,7 @@ user-guide-description: Workfront-tutorials
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
+source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '2349'
 ht-degree: 0%
@@ -146,7 +146,7 @@ ht-degree: 0%
    + Wachtrijen aanvragen {#request-queues}
       + [Vragenrijen begrijpen](manage-work/request-queues/understand-request-queues.md)
       + [Een aanvraagwachtrij maken](manage-work/request-queues/create-a-request-queue.md)
-      + [Instellingen voor een stroomaanvraag begrijpen](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Instellingen voor een aanvraagstroom begrijpen](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [Een aanvraagstroom maken](manage-work/request-queues/create-a-request-flow.md)
       + [Een wachtrij voor feedback van systeembeheerders maken](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Antwoorden op veelgestelde vragen over aanvraagwachtrijen](manage-work/request-queues/request-queue-faq.md)

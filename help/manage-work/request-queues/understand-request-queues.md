@@ -13,7 +13,7 @@ recommendations: noDisplay,noCatalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: 79365fbcd031ca3d65100574c8bef27929c8ffe6
+source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
@@ -34,6 +34,6 @@ In deze video leert u:
 ## Aanbevolen zelfstudies over dit onderwerp
 
 * [Een aanvraagwachtrij maken](/help/manage-work/request-queues/create-a-request-queue.md)
-* [Instellingen voor een stroomaanvraag begrijpen](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [Instellingen voor een aanvraagstroom begrijpen](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 * [Een aanvraagstroom maken](/help/manage-work/request-queues/create-a-request-flow.md)
 
