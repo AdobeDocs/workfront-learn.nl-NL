@@ -12,7 +12,7 @@ jira: KT-13492
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -38,6 +38,6 @@ Gebruikers die de financiën in Workfront willen bijhouden.
 
 ## Tutorials
 
-* [De financiën bijwerken en herzien](/help/manage-work/project-finances/update-and-review-finances.md)
-* [Zoeken naar financiële informatie](/help/manage-work/project-finances/find-financial-information.md)
-* [Meerdere factureringssnelheden begrijpen](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [De financiën bijwerken en herzien](update-and-review-finances.md)
+* [Zoeken naar financiële informatie](find-financial-information.md)
+* [Meerdere factureringssnelheden begrijpen](multiple-billing-rates.md)
