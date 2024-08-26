@@ -1,13 +1,13 @@
 ---
 user-guide-title: Overzicht van projectfinanciën voor beheerders
 user-guide-description: Leer hoe u huidige en voorgestelde projecten prioriteert op basis van hun kosten, waarde, risico en afstemming op de doelstellingen van uw organisatie.
-breadcrumb-title: Overzicht van Portfolio's
+breadcrumb-title: Overzicht van projectfinanciën voor beheerders
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
