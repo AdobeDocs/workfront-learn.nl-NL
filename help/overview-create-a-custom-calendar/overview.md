@@ -1,20 +1,20 @@
 ---
 title: Een aangepast kalenderoverzicht maken
-description: Nu
+description: Met een aangepaste kalender kunt u datums en informatie rechtstreeks vanuit projecten, taken en uitgaven weergeven in een kalenderindeling.
 feature: Reports and Dashboards
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: 2024-08-23T00:00:00Z
-jira: KT-
+last-substantial-update: 2024-08-26T00:00:00Z
+jira: KT-10662
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
+source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -22,42 +22,24 @@ ht-degree: 0%
 
 # Een aangepast kalenderoverzicht maken {#overview}
 
-Nu
+Met een aangepaste kalender kunt u datums en informatie rechtstreeks vanuit projecten, taken en uitgaven weergeven in een kalenderindeling.
 
 >[!PREREQUISITES]
 >
->* Goed inzicht in het gebruik van Workfront
->* Standaardlicentietype met rechten voor het maken van projecten ingeschakeld
->* [ krijgen Begonnen met Workfront voor overzicht van projectmanagers ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* Basiskennis van het gebruik van Workfront
+>* Standaardlicentietype met rechten voor het maken van rapporten en filters ingeschakeld
+>* [ Basis het melden van elementen overzicht ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting)
 
 
 ## Doelgroep
 
-Standaardgebruikers die projecten maken of beheren.
+* Standaardgebruikers van licenties die aangepaste kalenders willen maken
+* Elke gebruiker die wil begrijpen wat aangepaste kalenders kunnen doen
 
 ## Tutorials
 
-### Een project beheren
+* [Begrijp de interface van het kalenderrapport](tour-of-the-interface.md)
+* [Een aangepast kalenderrapport maken](creating-custom-calendars.md)
+* [Extra opties voor kalenderrapporten begrijpen](additional-calendar-options.md)
+* [Uw beurt om een kalenderrapport te creëren](your-turn-to-create-a-calendar.md)
 
-* [Beginnen met het beheren van een project](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [Projecten zoeken](/help/manage-work/projects/find-projects.md)
-* [Een project delen](/help/manage-work/projects/share-a-project.md)
-* [Begrijp het projectteam](/help/manage-work/projects/understand-the-project-team.md)
-* [Projectcommunicatie begrijpen](/help/manage-work/projects/understand-project-communication.md)
-* [ het projectinformatie van de Mening ](/help/manage-work/projects/view-project-information.md)
-* [De voortgang van het project bijhouden](/help/manage-work/projects/track-overall-project-progress.md)
-* [Voortgang van het werk bijhouden met projectmetriek](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [De weergave [!UICONTROL Gantt] begrijpen](/help/manage-work/projects/understand-the-gantt-view.md)
-* [De weergave [!UICONTROL Board] begrijpen](/help/manage-work/projects/understand-the-board-view.md)
-
-
-### Een project sluiten
-
-* [De projectstatus wijzigen om te voltooien](/help/manage-work/projects/change-the-project-status.md)
-* [Taken en problemen sluiten](/help/manage-work/close-a-project/close-tasks-and-issues.md)
-* [Goedkeuring voltooien](/help/manage-work/close-a-project/complete-approvals.md)
-* [Elementen uploaden](/help/manage-work/close-a-project/upload-assets.md)
-* [Opgenomen lessen vastleggen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [Logboek- en controleuren](/help/manage-work/close-a-project/log-and-review-hours.md)
-* [De financiën bijwerken en herzien](/help/manage-work/project-finances/update-and-review-finances.md)
-* [Een projectactiviteit sluiten](/help/manage-work/close-a-project/close-a-project-activity.md)
