@@ -2,13 +2,13 @@
 user-guide-title: Beheren, werk - tussenliggend
 user-guide-description: Zodra u de grondbeginselen van het creëren van, het plannen van en het leiden van projecten hebt geleerd, zijn er een paar meer dingen u zou moeten weten om het beste uit Workfront te krijgen.
 feature: Work Management
-breadcrumb-title: Meer inzicht in het beheer van het werk als overzicht van de projectmanager
+breadcrumb-title: Beheren, werk - tussenliggend
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,6 @@ ht-degree: 0%
       + [Een uitgave/verzoek omzetten in een project](create-a-project-from-a-request.md)
       + [Een uitgave/verzoek omzetten in een taak](convert-issues-to-other-work-items.md)
       + [Verslag over kwesties](report-on-issues.md)
-
-   + Tijdlijnen van project {#project-timelines}
-      + [Projecttijdlijnen begrijpen](understand-project-timelines.md)
-      + [Datatypen en voortgangsstatus begrijpen](understand-task-dates-and-progress-status.md)
-      + [Voortgang bijhouden vanaf de projecttijdlijn](track-work-progress-from-the-project-timeline.md)
 
    + diepere cijfers {#digging-deeper}
       + [Werken en beheren van de soorten duur en taakbeperkingen](understand-and-manage-duration-types-and-task-constraints.md)

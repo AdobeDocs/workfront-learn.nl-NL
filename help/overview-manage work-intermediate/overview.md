@@ -12,9 +12,9 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -73,6 +73,7 @@ Leer hoe u mijlpaden maakt, de mijlpalen toepast op taken en tramilestone-rappor
 * [ pas mijlpalen ](apply-milestones.md) toe - leer hoe te om een milestone weg op een project toe te passen en zeer belangrijke taken als mijlpaal stappen binnen het project te associëren.
 * [ mijlpalen van de Mening ](view-milestones.md) - leer hoe te om mijlpalen in een project van Adobe Workfront te bekijken, plus de mijlpaal mening in het projectgebied te gebruiken.
 
+
 ## Hoe te met kwesties werken
 
 Leer hoe u ongeplande werkzaamheden met uitgaven kunt afhandelen, problemen kunt converteren naar andere werkitems, uitgaven kunt beheren en problemen kunt melden.
@@ -86,13 +87,6 @@ Leer hoe u ongeplande werkzaamheden met uitgaven kunt afhandelen, problemen kunt
 * [ zet een kwestie/een verzoek in een taak ](convert-issues-to-other-work-items.md) om - leer hoe te om een kwestie in een taak om te zetten.
 * [ Rapport over kwesties ](report-on-issues.md) - Leer hoe te om een probleemrapport tot stand te brengen die voorwerpen en een projectrapport tonen die omgezette probleeminformatie tonen.
 
-## Projecttijdlijnen
-
-Leer hoe u projecten kunt plannen en de voortgang ervan kunt volgen.
-
-* [ begrijp projectchronologie ](understand-project-timelines.md) - leer hoe te om projecten van een begin of een voltooiingsdatum te plannen. Dan leer hoe de duur, predecessors, en de taakbeperkingen het projectplan beïnvloeden.
-* [ begrijp datatypen en vooruitgangsstatus ](understand-task-dates-and-progress-status.md) - leer hoe te om een mening te selecteren om Workfront te vergelijken verschillende datatypen, en hoe te om het gebied van de vooruitgangsstatus te gebruiken.
-* [ de vooruitgang van het Spoor van het Spoor van de projectchronologie ](track-work-progress-from-the-project-timeline.md) - Leer hoe te om de vooruitgang van het werk van de projectchronologie te volgen gebruikend percent volledig, status, taken, en taakbeperkingen.
 
 ## Dieper graven
 
