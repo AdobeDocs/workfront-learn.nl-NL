@@ -1,22 +1,22 @@
 ---
-user-guide-title: Overzicht van projectfinanciën voor gebruikers
-user-guide-description: Leer hoe u huidige en voorgestelde projecten prioriteert op basis van hun kosten, waarde, risico en afstemming op de doelstellingen van uw organisatie.
-breadcrumb-title: Overzicht van projectfinanciën voor gebruikers
+user-guide-title: Projectfinanciën voor gebruikers
+user-guide-description: Leer hoe u financiële informatie voor projecten kunt bijhouden, kosten en inkomstentypes kunt instellen en factureringstarieven kunt overschrijven. Deze zelfstudie is bedoeld voor gebruikers die de financiële gegevens met betrekking tot een project zullen volgen.
+breadcrumb-title: Projectfinanciën voor gebruikers
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 
 
-# Overzicht van projectfinanciën voor gebruikers {#project-finances-for-users}
+# Projectfinanciën voor gebruikers {#project-finances-for-users}
 
-+ [Overzicht van projectfinanciën voor gebruikers](overview.md)
++ [Projectfinanciën voor gebruikers](overview.md)
 + Projectfinanciën voor gebruikers {#project-finances-for-users}
    + [De financiën bijwerken en herzien](update-and-review-finances.md)
    + [Zoeken naar financiële informatie](find-financial-information.md)

@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: dc444153581cf435917c6bc32e2272c60f3b3aea
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '2354'
+source-wordcount: '2359'
 ht-degree: 0%
 
 ---
@@ -585,6 +585,12 @@ ht-degree: 0%
 
 + Agile {#agile}
 
+   + Inleiding tot flexibel werkbeheer {#intro-to-agile}
+      + [Voordelen van het gebruik van Agile](/help/agile/benefits-of-using-agile.md)
+      + [Wat is de methode van de Trommel en hoe werkt het?](/help/agile/what-is-the-scrum-methodology.md)
+      + [Wat is de Kanban-methode en hoe werkt die?](/help/agile/what-is-the-kanban-methodology.md)
+      + [Overschakelen op Agile](/help/agile/transitioning-to-agile.md)
+
    + Schuiven {#scrum}
       + [Een Scrolleteam maken](/help/agile/create-a-scrum-agile-team.md)
       + [Werken als scrum-team beheren](/help/agile/manage-work-scrum-team.md)
@@ -645,10 +651,7 @@ ht-degree: 0%
 
 
 
-+ [Voordelen van het gebruik van Agile](/help/agile/benefits-of-using-agile.md)
-+ [Wat is de methode van de Trommel en hoe werkt het?](/help/agile/what-is-the-scrum-methodology.md)
-+ [Wat is de Kanban-methode en hoe werkt die?](/help/agile/what-is-the-kanban-methodology.md)
-+ [Overschakelen op Agile](/help/agile/transitioning-to-agile.md)
+
 + [Aanvragen beheren](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Begrijp de grafiek van de middelcapaciteit](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
