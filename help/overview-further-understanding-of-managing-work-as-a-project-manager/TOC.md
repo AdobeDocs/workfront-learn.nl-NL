@@ -1,23 +1,24 @@
 ---
-user-guide-title: Beheren, werk - tussenliggend
+user-guide-title: Meer inzicht in het beheer van het werk als overzicht van de projectmanager
 user-guide-description: Zodra u de grondbeginselen van het creëren van, het plannen van en het leiden van projecten hebt geleerd, zijn er een paar meer dingen u zou moeten weten om het beste uit Workfront te krijgen.
 feature: Work Management
-breadcrumb-title: Beheren, werk - tussenliggend
+breadcrumb-title: Meer inzicht in het beheer van het werk als overzicht van de projectmanager
 solution: Workfront
 sub-product: Work Management
 index: y
 source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
 
-# Beheren, werk - tussenliggend {#manage-work-intermediate}
 
-+ [Beheren, werk - tussenliggend](overview.md)
-+ Werk beheren - tussenliggend {#manage-work-intermediate}
+# Meer inzicht in het beheer van het werk als overzicht van de projectmanager {#further-understanding-of-managing-work-as-a-project-manager}
+
++ [Meer inzicht in het beheer van het werk als overzicht van de projectmanager](overview.md)
++ Meer inzicht in het beheren van werk als projectmanager {#further-understanding-of-managing-work-as-a-project-manager}
    + Projectsjablonen {#project-templates}
       + [Een projectsjabloon maken en leren over blauwdrukken](create-a-project-template.md)
       + [Een project rechtstreeks vanuit een sjabloon maken](create-a-project-directly-from-a-template.md)
@@ -49,7 +50,9 @@ ht-degree: 0%
       + [Een uitgave/verzoek omzetten in een taak](convert-issues-to-other-work-items.md)
       + [Verslag over kwesties](report-on-issues.md)
 
-   + diepere cijfers {#digging-deeper}
-      + [Werken en beheren van de soorten duur en taakbeperkingen](understand-and-manage-duration-types-and-task-constraints.md)
-      + [Voorgangers voor meerdere projecten begrijpen](understand-cross-project-predecessors.md)
-      + [Geavanceerde voordecessors](advanced-predecessors.md)
+   + Tijdlijnen van project {#project-timelines}
+      + [Projecttijdlijnen begrijpen](understand-project-timelines.md)
+      + [Datatypen en voortgangsstatus begrijpen](understand-task-dates-and-progress-status.md)
+      + [Voortgang bijhouden vanaf de projecttijdlijn](track-work-progress-from-the-project-timeline.md)
+
+

@@ -12,7 +12,7 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -52,7 +52,6 @@ Leer hoe u projectsjablonen maakt en gebruikt.
 * [ deactiveer een projectmalplaatje ](deactivate-a-project-template.md) - leer hoe te om een projectmalplaatje te activeren en te deactiveren.
 * [ geef het projectteam in een projectmalplaatje ](edit-the-project-team-in-a-project-template.md) uit - leer hoe te om onbedoeld met inbegrip van **niet** projectteamleden in een team van het malplaatjeproject te vermijden, en hoe te om het team van het malplaatjeproject uit te geven.
 
-
 ## Erkenningsprocessen maken en gebruiken
 
 Leer hoe te om goedkeuringsprocessen tot stand te brengen, hen aan werkschema&#39;s vast te maken, digitaal werk te herzien, en toestemmingen te delegeren.
@@ -64,7 +63,6 @@ Leer hoe te om goedkeuringsprocessen tot stand te brengen, hen aan werkschema&#3
 * [ begrijp updates en berichten ](understand-updates-and-notifications.md) - Leer hoe te om updates op goedkeuringsverzoeken te maken en uw berichten te vinden.
 * [ de taken van de Delegatie, kwesties, en goedkeuringen ](delegate-approvals.md) - leer hoe te om goedkeuringen voor projecten, taken, kwesties, en chronologie aan een andere gebruiker van Adobe Workfront te delegeren.
 
-
 ## Mijlpalen maken en gebruiken
 
 Leer hoe u mijlpaden maakt, de mijlpalen toepast op taken en tramilestone-rapporten weergeeft.
@@ -72,7 +70,6 @@ Leer hoe u mijlpaden maakt, de mijlpalen toepast op taken en tramilestone-rappor
 * [ creeer mijlpalen ](creating-milestones.md) - leer welke milestone wegen zijn, hoe te om milestone wegen tot stand te brengen, en hoe te om mijlpaal stappen aan een project toe te voegen.
 * [ pas mijlpalen ](apply-milestones.md) toe - leer hoe te om een milestone weg op een project toe te passen en zeer belangrijke taken als mijlpaal stappen binnen het project te associëren.
 * [ mijlpalen van de Mening ](view-milestones.md) - leer hoe te om mijlpalen in een project van Adobe Workfront te bekijken, plus de mijlpaal mening in het projectgebied te gebruiken.
-
 
 ## Hoe te met kwesties werken
 
@@ -86,7 +83,6 @@ Leer hoe u ongeplande werkzaamheden met uitgaven kunt afhandelen, problemen kunt
 * [ zet een kwestie/een verzoek in een project ](create-a-project-from-a-request.md) om - leer hoe te om de omzetting van verzoek in werking te stellen aan project en het aangewezen projectmalplaatje te selecteren.
 * [ zet een kwestie/een verzoek in een taak ](convert-issues-to-other-work-items.md) om - leer hoe te om een kwestie in een taak om te zetten.
 * [ Rapport over kwesties ](report-on-issues.md) - Leer hoe te om een probleemrapport tot stand te brengen die voorwerpen en een projectrapport tonen die omgezette probleeminformatie tonen.
-
 
 ## Dieper graven
 

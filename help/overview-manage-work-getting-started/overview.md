@@ -12,7 +12,7 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '964'
 ht-degree: 0%
@@ -42,7 +42,6 @@ Leer wat een project is in Adobe Workfront, hoe u het kunt starten en uitvoeren,
 * [ Leer vier manieren om een project ](understand-other-ways-to-create-projects.md) tot stand te brengen - leer hoe te om een project van een malplaatje tot stand te brengen, een project van kras tot stand te brengen, een bestaand project te kopiëren, of a [!DNL Microsoft Project] dossier in te voeren.
 * [ Vul de projectdetails ](fill-in-the-project-details.md) in - leer de gebieden van de projectdetails Adobe Workfront adviseert u in wanneer het creëren van een project invult.
 * [ Navigeer de projectpagina ](navigate-the-project-page.md) - leer hoe te om de details van een project te bekijken, welke informatie in de taaklijst toont, waar te om documenten te uploaden, en hoe te om de updategeschiedenis te bekijken.
-
 
 ## Een project plannen
 
@@ -76,7 +75,6 @@ Leer hoe u het projectwerk kunt volgen en met belanghebbenden kunt communiceren.
 * [ de vooruitgang van het Spoor van het Spoor van de projectchronologie ](track-work-progress-from-the-project-timeline.md) - Leer hoe te om de vooruitgang van het werk van de projectchronologie te volgen gebruikend percent volledig, status, taken, en taakbeperkingen.
 * [ Begrijp de [!UICONTROL Gantt] mening ](understand-the-gantt-view.md) - leer hoe te om het project [!UICONTROL Gantt] grafiek en de taak [!UICONTROL Gantt] grafiek te gebruiken.
 * [ Begrijp de [!UICONTROL Board] mening ](understand-the-board-view.md) - leer waar te om de mening van de Raad te vinden en hoe te om het te gebruiken.
-
 
 ## Een project sluiten
 
