@@ -7,9 +7,8 @@ level: Intermediate
 jira: KT-10892
 thumbnail: transitioning-to-agile.jpeg
 hide: true
-hidefromtoc: true
 exl-id: eaad6a3f-9d1a-4dbe-8187-09e25de605f1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -20,11 +19,11 @@ ht-degree: 0%
 
 ## Vragen die moeten worden gesteld voordat u overschakelt
 
-Voordat u begint met het aannemen van Agile, moeten we een aantal vragen bekijken die u helpen te bepalen of dit de juiste oplossing is.
+Alvorens u in het goedkeuren van Agile springt, kijken een paar vragen die u zullen helpen bepalen al dan niet het juiste geschikte zal zijn.
 
 De eerste vraag die moet worden gesteld is: is het leveren van product of eigenschapverhogingen toegestaan bij uw bedrijf? Moet u de focus of richting van dat product midden in het proces kunnen veranderen? Met andere woorden, start u een project zonder alle details te kennen van hoe het eindproduct eruit zal zien op basis van het milieu, toekomstige technologische vooruitgang of toekomstige behoeften die op dit moment niet duidelijk zijn?
 
-Als u op de bovenstaande vragen ja kunt antwoorden, ziet een overgang naar Google er tot nu toe goed uit. Hier is de tweede reeks vragen, geconcentreerd op de infrastructuur van uw team:
+Als je ja kunt antwoorden op de bovenstaande vragen, dan ziet een overgang naar Google er tot nu toe goed uit. Hier is de tweede reeks vragen, geconcentreerd op de infrastructuur van uw team:
 
 * Zijn ze in de buurt van elkaar?
 
@@ -50,13 +49,13 @@ Dit soort vragen moet worden gesteld en behandeld als u van mening bent dat bepa
 
 ## Uw team opleiden
 
-Als u zich op een comfortabele manier verder wilt gaan met Agile, kunt u beginnen met het opleiden van uw Agile-teams over hoe ze naar hun nieuwe rollen zullen overstappen, wanneer ze dagelijks opstaan en hoe ze hun huidige werk zullen overbrengen naar hun nieuwe storyboard-instelling.
+Zodra u zich comfortabel het bewegen met Agile voelt, zult u willen beginnen door uw Agile teams op te leiden over hoe zij in hun nieuwe rollen zullen overgaan, wanneer zij zullen beginnen met het hebben van dagelijkse stand-ups, en hoe zij hun huidige werk in hun nieuwe storyboardopstelling zullen omzetten.
 
 
 ## Wat u moet zien als u Agile begint
 
-Nadat u de stappen voor de overgang hebt uitgevoerd en ervoor hebt gezorgd dat iedereen vertrouwd is met de nieuwe stijl van werken, kunt u de voortgang en het succes van de stappen controleren en volgen. Als ze worstelen om op dezelfde snelheid te lopen als voorheen, wat kan dan de oorzaak zijn van die problemen? Als het team artikelen met de huidige status niet bijwerkt, zijn die statussen dan duidelijk gedefinieerd?
+Nadat u overgangsstappen hebt vastgesteld en ervoor hebt gezorgd dat iedereen vertrouwd is met de nieuwe stijl van het werk, zult u ervoor willen zorgen dat u hun vooruitgang en succes controleert en volgt. Als ze worstelen om op dezelfde snelheid te lopen als voorheen, wat kan dan de oorzaak zijn van die problemen? Als het team artikelen met hun huidige status niet bijwerkt, zijn die statussen duidelijk gedefinieerd?
 
-Het volgen van de vooruitgang of het succes van een nieuw Agile-team zal zeer nuttig zijn om het team vertrouwen te geven in de veranderingen die zij verwerken. Bovendien zal het hebben van deze metriek helpen de voordelen rechtvaardigen om een team aan Gelijkheid over te brengen wanneer in hoger-niveauvergaderingen.
+Het volgen van de vooruitgang of het succes van een nieuw Agile-team zal het teamvertrouwen in de veranderingen die zij verwerken zeer ten goede komen. Bovendien zal het hebben van deze metriek helpen de voordelen rechtvaardigen om een team aan Gelijkheid over te brengen wanneer in hoger-niveauvergaderingen.
 
-Tot slot is het belangrijk dat u uw team en de nieuwe beeldmeesters een formulier verschaft met nuttige vragen die u kunt stellen tijdens de dagelijkse stand-ups en de herhalingsretrospectieven. Dit biedt uitstekende documentatie voor toekomstige herzieningen van processen. Het maakt het team ook mogelijk om gebieden te identificeren die verbetering behoeven en hen te helpen vragen beantwoorden die zij misschien niet denken te bespreken als zij nieuw zijn voor Agile.
+Tot slot is het belangrijk om uw team en nieuwe beeldmeesters van een vorm te voorzien die nuttige vragen schetst om tijdens dagelijkse stand-ups en de herhalingsretrospectieven te stellen. Dit biedt uitstekende documentatie voor toekomstige herzieningen van processen. Het maakt het team ook mogelijk om gebieden te identificeren die verbetering behoeven en hen te helpen vragen beantwoorden die zij misschien niet denken te bespreken als zij nieuw zijn voor Agile.

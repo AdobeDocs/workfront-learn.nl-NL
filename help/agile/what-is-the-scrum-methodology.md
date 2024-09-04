@@ -7,9 +7,8 @@ level: Intermediate
 jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 hide: true
-hidefromtoc: true
 exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '774'
 ht-degree: 0%
@@ -22,7 +21,7 @@ De methode Scrum omvat het flexibiliteitsmodel maar verschilt van andere methode
 
 ## Overzicht van het scrubteam
 
-Wanneer u besluit of u wilt overschakelen naar Scrum, moet u de structuur van uw teams bekijken om te zien of deze gemakkelijk kunnen worden overgedragen naar de nieuwe methode. Een team van de Trommel heeft drie soorten leden: een producteigenaar, een rummeester, en teamleden.
+Wanneer u besluit of om al dan niet aan Scrum over te schakelen, zult u de structuur van uw teams moeten bekijken om te zien of kunnen zij aan de nieuwe methodologie gemakkelijk overbrengen. Een team van de Trommel heeft drie soorten leden: een producteigenaar, een rummeester, en teamleden.
 
 ![ de teamleden van het Trommel ](assets/scrumteammembers-01.png)
 
@@ -43,7 +42,7 @@ Een team is gewoonlijk dwars-functioneel en heeft leden met veel verschillende b
 
 ## Werken als een scrubteam
 
-Nadat u deze belangrijke spelers hebt samengesteld, volgen ze een nieuwe workflowstijl om hun werk af te ronden en een product aan de klant te leveren. In vergelijking met de traditionele of watervalmethodologie zullen ze niet langer een lineair proces volgen om een plan voor een eindproduct op te stellen, en vervolgens de stappen of fasen doorlopen die nodig zijn om dat product te leveren. In plaats daarvan bouwen de teams van de Trommel eerst een achterstand.
+Zodra u deze belangrijke spelers hebt samengesteld, zullen zij een nieuwe stijl van werkschema volgen om hun werk te krijgen en een product aan de klant te leveren. In vergelijking met de traditionele of watervalmethodologie zullen ze niet langer een lineair proces volgen om een plan voor een eindproduct op te stellen, en vervolgens de stappen of fasen doorlopen die nodig zijn om dat product te leveren. In plaats daarvan bouwen de teams van de Trommel eerst een achterstand.
 
 
 
@@ -66,13 +65,13 @@ Zodra ze hun belangrijkste verhalen hebben gemaakt, moeten ze hun achterstand we
 
 ### Interferentieplanning
 
-Nadat u de achterstand hebt gegroepeerd en er prioriteiten aan hebt toegewezen, is het tijd om de herhaling te plannen. (Veel organisaties gebruiken het woord &#39;sprint&#39; en &#39;iteration&#39; door elkaar.) Het team bepaalt welke artikelen moeten worden voltooid op basis van verhalen die als klaar worden beschouwd. Het team maakt taken en beslist over de duur van de herhaling.
+Nadat de achterstand wordt gegroepeerd en voorrang gegeven aan, is het tijd om de herhaling te plannen. (Veel organisaties gebruiken het woord &#39;sprint&#39; en &#39;iteration&#39; door elkaar.) Het team bepaalt welke artikelen moeten worden voltooid op basis van verhalen die als klaar worden beschouwd. Het team maakt taken en beslist over de duur van de herhaling.
 
 
 
 ### De herhaling uitvoeren
 
-Het is nu tijd om de herhaling uit te voeren. Teamleden beginnen hun werk te doen zoals een traditioneel team zou doen, maar zij omvatten nu een snelle, dagelijkse vergadering genoemd een stand-up vergadering.
+Nu is het tijd om de herhaling uit te voeren. Teamleden beginnen hun werk te doen zoals een traditioneel team zou doen, maar zij omvatten nu een snelle, dagelijkse vergadering genoemd een stand-up vergadering.
 
 Leden van het team zullen letterlijk opstaan voor deze korte vergadering en drie vragen beantwoorden:
 
@@ -87,7 +86,7 @@ Deze vergaderingen houden iedereen op dezelfde pagina en gaan snel verder.
 
 ## Een uitvouwdiagram en storyboard gebruiken om de voortgang te volgen
 
-Als een team de drie primaire vragen in hun status beantwoordt, is het belangrijk dat ze de voortgang naar voltooiing van de herhaling volgen en volgen. Hierdoor kunnen ze bepalen of ze snel genoeg door hun artikelen bewegen om alle functies op tijd te leveren aan het einde van de iteratie. Dit kan in het scrubproces met twee componenten gebeuren.
+Aangezien een team de drie primaire vragen in hun standups beantwoordt, is het belangrijk dat zij hun vooruitgang in de richting van de herhaling volgen en volgen voltooiing. Hierdoor kunnen ze bepalen of ze snel genoeg door hun artikelen bewegen om alle functies op tijd te leveren aan het einde van de iteratie. Dit kan in het scrubproces met twee componenten gebeuren.
 
 
 ### Storyboard

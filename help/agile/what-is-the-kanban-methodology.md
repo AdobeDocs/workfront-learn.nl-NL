@@ -7,9 +7,8 @@ level: Intermediate
 jira: KT-10891
 thumbnail: what-is-kanban.jpeg
 hide: true
-hidefromtoc: true
 exl-id: 234c7491-d405-422c-aa60-cc5a27031fb5
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d0e6801060fea74336e89a2fa0cb505f5d7714ce
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 0%
@@ -21,7 +20,7 @@ ht-degree: 0%
 In tegenstelling tot andere flexibele methoden die zich richten op een cyclisch proces, richt de Kanban-methodologie zich op een geoptimaliseerde workflow. Kanban streeft ernaar de werkstroom te verbeteren door het werk te visualiseren met behulp van een Kanban-bord, een grens te stellen aan de hoeveelheid werk die in uitvoering kan zijn, en de stroom te analyseren om voortdurende verbeteringen aan te brengen.
 
 
-Laten we eens kijken naar een aantal van de belangrijkste elementen van Kanban.
+Laten we eens kijken naar enkele van de belangrijkste elementen van Kanban.
 
 
 
@@ -49,7 +48,7 @@ De leden van het team werken met een productmanager of een projectmanager om erv
 
 ## Werk in proces beperken
 
-Een uniek aspect van Kanban is dat teams een limiet hebben op hun capaciteit voor de hoeveelheid artikelen die ze op elk moment kunnen verwerken. Teams kiezen een bepaalde hoeveelheid artikelen die ze bereid zijn te hebben in hun kolommen &#39;aan de slag&#39; en &#39;in uitvoering&#39;. Ze gaan niet over dat aantal om uitbarsting te voorkomen. Als een artikel eenmaal naar &quot;voltooid&quot; is verplaatst, wordt een artikel uit de backlog vervangen door de kolom &quot;te doen&quot;.
+Een uniek aspect van Kanban is dat teams een limiet hebben op hun capaciteit voor de hoeveelheid artikelen die ze op elk moment kunnen verwerken. Teams kiezen een bepaalde hoeveelheid verhalen die ze bereid zijn te hebben in hun &#39;doen&#39;- en &#39;in uitvoering&#39;-kolommen, en ze gaan niet over dat aantal om uitbarsting te voorkomen. Als een artikel eenmaal naar &quot;voltooid&quot; is verplaatst, wordt een artikel uit de backlog vervangen door de kolom &quot;te doen&quot;.
 
 ## Voortdurende verbetering
 
