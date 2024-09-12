@@ -9,12 +9,13 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: bb8afb53feb6dadcb5c561df5dbcbdd113669165
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -39,3 +40,7 @@ In deze video leert u:
 Leren hoe te om het **team te creëren Admin terugkoppelt rapport** gebruikt in de video, [ creeer een taakrapport ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) leerprogramma en zoek de activiteit **om een admin team te creëren terugkoppelt rapport** na de video.
 
 Leren hoe te om een douanevorm tot stand te brengen, zie [ creeer en deel een douanevorm ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) leerprogramma.
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Antwoorden op veelgestelde vragen over aanvraagwachtrijen](/help/manage-work/request-queues/request-queue-faq.md)
