@@ -9,9 +9,9 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: e9a4f2bcd39e2598ff540bb4f300e891e817e939
+source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
@@ -49,6 +49,10 @@ Als u een verzoek van de verzoekrij opent kunt u op de projectnaam in het broodk
 **kan ik de informatie van een vorm van de verzoekdouane aan een vorm van de projectdouane overbrengen?**
 
 Ja. Wanneer u een aangepast formulier maakt, selecteert u zowel [!UICONTROL Project] als [!UICONTROL Issue] als de objecttypen. U kunt een project ook uitgeven douanevorm om het type van uitgiftobjecten en vice versa te omvatten.
+
+![ Beeld dat hoe te om 2 objecten types te selecteren wanneer het creëren van een douanevorm ](assets/faq-image-1.png) toont
+
+![ Beeld dat hoe te om 2 objecten types te selecteren wanneer het uitgeven van een douanevorm ](assets/faq-image-2.png) toont
 
 Voeg het aangepaste formulier toe aan de aanvraag. Wanneer u het verzoek in een project omzet zal het douaneformulier automatisch aan het nieuwe project vastmaken en de waarden in om het even welke gebieden zullen in zowel het verzoek als de projecten douaneformulieren verschijnen.
 
