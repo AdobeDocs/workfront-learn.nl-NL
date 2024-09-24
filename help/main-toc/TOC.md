@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
+source-git-commit: b0114985964736fb7bb234c581cb56930714915c
 workflow-type: tm+mt
-source-wordcount: '2359'
+source-wordcount: '2362'
 ht-degree: 0%
 
 ---
@@ -155,7 +155,7 @@ ht-degree: 0%
       + [Gebruik [!UICONTROL Portfolio Optimizer] om prioriteit toe te kennen aan werk en het werk te beheren](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + Goedkeuringsprocessen en mijlpaden {#approval-processes-and-milestone-paths}
-      + [Een goedkeuringsproces voor eenmalig gebruik maken](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [Een algemeen goedkeuringsproces en een goedkeuringsproces voor één gebruik maken](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [Bestaande goedkeuringsprocessen bijvoegen en bewerken](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Digitale werkzaamheden beoordelen en goedkeuren](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Taken, problemen en goedkeuringen delegeren](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
