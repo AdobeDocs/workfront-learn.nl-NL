@@ -8,12 +8,13 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '424'
 ht-degree: 0%
 
 ---
@@ -46,6 +47,11 @@ In deze video leert u:
 ## Taak - Filter taken uit waar ik &quot;Gereed met mijn deel&quot; heb gemarkeerd
 
 In de volgende tekstmodus worden taken uitgesloten waarvoor een gebruiker heeft aangegeven dat deze is uitgevoerd met Mijn onderdeel. U hoeft alleen maar een taakfilter te maken, filterregels toe te voegen en vervolgens over te schakelen naar de tekstmodus en de code hieronder te plakken na elke tekstmodus die u in het filter ziet.
+
+
+>[!WARNING]
+>
+> Dit is niet bedoeld voor gebruik in kalenderfilters.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -85,6 +91,10 @@ predecessorsMM:projectID_Mod=ne
 ## Taak - Toon me alle taken die ik aan anderen heb toegewezen
 
 Maak een taakrapport met de gewenste filters en ga vervolgens naar het tabblad Filter en klik op Overschakelen naar tekstmodus. Voeg deze code toe aan wat er al is:
+
+>[!WARNING]
+> 
+> Dit is niet bedoeld voor gebruik in kalenderfilters.
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN

@@ -12,9 +12,10 @@ jira: KT-8808
 recommendations: noDisplay,noCatalog
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: c6eedc74-c104-434d-8124-1329d4e39e25
+source-git-commit: bd743add8bad572a638d4cd0999aeefe1fb3bfc8
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -38,7 +39,6 @@ In deze video leert u hoe u:
 ## Aanbevolen zelfstudies over dit onderwerp
 
 * [Een goedkeuringsproces voor eenmalig gebruik maken](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [Bestaande goedkeuringsprocessen bijvoegen en bewerken](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
 * [Taken, problemen en goedkeuringen delegeren](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 

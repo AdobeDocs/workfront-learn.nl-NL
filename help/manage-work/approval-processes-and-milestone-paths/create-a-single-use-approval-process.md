@@ -13,9 +13,9 @@ last-substantial-update: 2024-09-24T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: b0114985964736fb7bb234c581cb56930714915c
+source-git-commit: bd743add8bad572a638d4cd0999aeefe1fb3bfc8
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,6 @@ Mogelijk moet u het goedkeuringsproces voor uitgaven bewerken om ervoor te zorge
 ## Aanbevolen zelfstudies over dit onderwerp
 
 * [Taken, problemen en goedkeuringen delegeren](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [Bestaande goedkeuringsprocessen bijvoegen en bewerken](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
 * [Groepsspecifieke goedkeuringsprocedures begrijpen](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Een aanvraagstroom maken](/help/manage-work/request-queues/create-a-request-flow.md)
 

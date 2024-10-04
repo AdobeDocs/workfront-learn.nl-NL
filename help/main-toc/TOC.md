@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: b0114985964736fb7bb234c581cb56930714915c
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '2362'
+source-wordcount: '2356'
 ht-degree: 0%
 
 ---
@@ -156,7 +156,6 @@ ht-degree: 0%
 
    + Goedkeuringsprocessen en mijlpaden {#approval-processes-and-milestone-paths}
       + [Een algemeen goedkeuringsproces en een goedkeuringsproces voor één gebruik maken](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-      + [Bestaande goedkeuringsprocessen bijvoegen en bewerken](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [Digitale werkzaamheden beoordelen en goedkeuren](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [Taken, problemen en goedkeuringen delegeren](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [Mijlpalen toepassen](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
