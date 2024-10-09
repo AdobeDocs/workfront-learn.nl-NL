@@ -1,6 +1,6 @@
 ---
 title: Mijlpalen toepassen
-description: Leer hoe te om milestone wegen op een  [!DNL  Workfront]  project toe te passen en zeer belangrijke taken als milestone stappen binnen het project te associëren.
+description: Leer hoe u mijlpaden op een project toepast en belangrijke taken als mijlpaalstappen in het project koppelt.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -9,12 +9,13 @@ level: Intermediate
 activity: deploy
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -31,5 +32,10 @@ In deze video leert u hoe u:
 
 >[!TIP]
 >
->Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [ een basismening ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en) creëren.
+>Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [ een basismening ](/help/reporting/basic-reporting/create-a-basic-view.md) creëren.
 
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Mijlpalen weergeven](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [Mijlpalen maken](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [Mijlpaal weergaveactiviteit in Een basisweergave maken](/help/reporting/basic-reporting/create-a-basic-view.md)
