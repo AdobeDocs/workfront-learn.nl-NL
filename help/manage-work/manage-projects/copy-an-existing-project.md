@@ -8,18 +8,19 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+recommendations: noDisplay,noCatalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
+source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # Een bestaand project kopiëren
 
-Soms, in plaats van het gebruiken van een malplaatje om een project tot stand te brengen, moet u enkel een project voor een ander eenmalig gebruik kopiëren. Hiervoor hebt u een licentie voor het abonnement nodig, met Bewerken en Toegang tot projecten maken.
+Soms, in plaats van het gebruiken van een malplaatje om een project tot stand te brengen, moet u enkel een project voor een ander eenmalig gebruik kopiëren. Hiervoor hebt u een standaardlicentie nodig, met Bewerken en Toegang tot projecten maken.
 
 Navigeer naar het project dat u wilt kopiëren en klik op het menu met drie punten naast de projectnaam. Selecteer vervolgens Kopiëren.
 
@@ -30,3 +31,9 @@ In het venster Project kopiëren kunt u de titel en status wijzigen en een versc
 ![ het projectopties van het Exemplaar ](assets/copy-existing-02.png)
 
 Als u Toewijzingen wissen selecteert of de status instelt op Planning, voorkomt u dat het gekopieerde project de taaktoewijzingsmeldingen direct na het kopiëren verzendt.
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Een project rechtstreeks vanuit een sjabloon maken](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [Werken met taken](/help/manage-work/tasks/work-with-tasks.md)
+* [Taken toewijzen vanuit het projectplan](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
