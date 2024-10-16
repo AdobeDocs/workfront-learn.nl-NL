@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
+source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
 workflow-type: tm+mt
-source-wordcount: '2356'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -301,7 +301,6 @@ ht-degree: 0%
 
 + Workfront-doelen {#workfront-goals}
    + Een visie voor uw org vaststellen {#establish-a-vision-and-strategy}
-      + [Begrijp de visie achter Workfront-doelen](/help/workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
       + [Begrijp hoe Workfront Goals werkt](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
       + [Begrijp hoe Workfront-doelen in uw werkcyclus passen](/help/workfront-goals/establish-a-vision-for-your-org/where-does-workfront-goals-fit-in-with-my-work-cycle.md)
       + [Stel een visie en strategie voor uw org vast](/help/workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
