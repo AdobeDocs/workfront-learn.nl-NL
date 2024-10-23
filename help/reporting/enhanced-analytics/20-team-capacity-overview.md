@@ -1,6 +1,6 @@
 ---
 title: Inzicht in teamcapaciteit
-description: Leer hoe het de capaciteitskaart van het Team in [!UICONTROL Enhanced Analytics] toont wanneer een huisteam over-toegewezen of onderverdeeld was.
+description: Leer hoe het de capaciteitskaart van het Team in [!UICONTROL Enhanced analytics] toont wanneer een huisteam over-toegewezen of onderverdeeld was.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%

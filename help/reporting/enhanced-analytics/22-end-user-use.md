@@ -1,6 +1,6 @@
 ---
 title: Een gebruiksgeval voor eindgebruikers begrijpen
-description: Leer hoe eindgebruikers in [!UICONTROL Enhanced Analytics] vliegdiagrammen kunnen gebruiken voor vliegplan, opbranden en taken.
+description: Leer hoe eindgebruikers in [!UICONTROL Enhanced analytics] vliegdiagrammen kunnen gebruiken voor vliegplan, opbranden en taken.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335055.png
@@ -12,7 +12,7 @@ jira: KT-8712
 recommendations: noDisplay,noCatalog
 exl-id: 2b6e88e4-d71d-434b-ba74-da2e5e8ea157
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%

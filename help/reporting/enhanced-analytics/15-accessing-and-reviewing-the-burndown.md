@@ -1,6 +1,6 @@
 ---
 title: Begrijp de toegang tot van en het herzien van de burndown grafiek
-description: Leer hoe te om tot de burndown grafiek toegang te hebben en het verband tussen resterende uren, projectvoorwaarde, en projectsnelheid in [!UICONTROL Enhanced Analytics] te begrijpen.
+description: Leer hoe te om tot de burndown grafiek toegang te hebben en het verband tussen resterende uren, projectvoorwaarde, en projectsnelheid in [!UICONTROL Enhanced analytics] te begrijpen.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -12,7 +12,7 @@ jira: KT-8734
 recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%

@@ -1,6 +1,6 @@
 ---
-title: Toegang krijgen tot [!UICONTROL Enhanced Analytics]
-description: Leer hoe systeem- en groepsbeheerders via een lay-outsjabloon toegang verlenen tot [!UICONTROL Enhanced Analytics] .
+title: Toegang krijgen tot [!UICONTROL Enhanced analytics]
+description: Leer hoe systeem- en groepsbeheerders via een lay-outsjabloon toegang verlenen tot [!UICONTROL Enhanced analytics] .
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -13,7 +13,7 @@ last-substantial-update: 2024-04-02T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Verbeterde analysemogelijkheden openen
 
-Net als de meeste andere functies in Workfront hebt u toegang tot [!UICONTROL Enhanced Analytics] via het hoofdmenu. Maar [!UICONTROL Analytics] staat standaard niet in het hoofdmenu.
+Net als de meeste andere functies in Workfront hebt u toegang tot [!UICONTROL Enhanced analytics] via het hoofdmenu. Maar [!UICONTROL Analytics] staat standaard niet in het hoofdmenu.
 
 ![ Een afbeelding van het hoofdmenu ](assets/analytics-on-main-menu.png)
 

@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '2350'
 ht-degree: 0%
 
 ---
@@ -237,9 +237,9 @@ ht-degree: 0%
       + [Uw beurt om een kalenderrapport te creëren](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Verbeterde analysemogelijkheden {#enhanced-analytics}
-      + [Een moment met Product over [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [Aan de slag met [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [Toegang krijgen tot [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [Een moment met Product over [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+      + [Aan de slag met [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
+      + [Toegang krijgen tot [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [Basisnavigatie begrijpen](/help/reporting/enhanced-analytics/4-basic-navigation.md)
       + [ Begrijp het werk en de grafieken van mensen ](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [Filters begrijpen](/help/reporting/enhanced-analytics/6-filters-overview.md)

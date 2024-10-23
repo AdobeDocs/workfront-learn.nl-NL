@@ -1,6 +1,6 @@
 ---
 title: Begrijp navigeren en het herzien projectactiviteit
-description: Leer hoe u projecten kunt vergelijken op basis van gebruikers die zijn aangemeld, wijzigingen in de taakstatus en taken die zijn voltooid in [!UICONTROL Enhanced Analytics] .
+description: Leer hoe u projecten kunt vergelijken op basis van gebruikers die zijn aangemeld, wijzigingen in de taakstatus en taken die zijn voltooid in [!UICONTROL Enhanced analytics] .
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -12,7 +12,7 @@ jira: KT-8731
 recommendations: noDisplay,noCatalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%

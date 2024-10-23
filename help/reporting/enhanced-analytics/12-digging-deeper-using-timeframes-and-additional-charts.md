@@ -1,6 +1,6 @@
 ---
 title: Dieper dig met gebruik van tijdframes en extra grafieken
-description: Leer om op een project in het de overzichtsdiagram van de Vlucht neer te boren om de Grafiek van de Instorting en de Taken in vluchtgrafiek te maken verschijnen in [!UICONTROL Enhanced Analytics].
+description: Leer om op een project in het de overzichtsdiagram van de Vlucht neer te boren om de Grafiek van de Instorting en de Taken in vluchtgrafiek te maken verschijnen in [!UICONTROL Enhanced analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -12,7 +12,7 @@ jira: KT-8730
 recommendations: noDisplay,noCatalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%

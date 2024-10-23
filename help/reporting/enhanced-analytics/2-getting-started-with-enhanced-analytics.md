@@ -1,5 +1,5 @@
 ---
-title: Aan de slag met [!UICONTROL Enhanced Analytics]
+title: Aan de slag met [!UICONTROL Enhanced analytics]
 description: Leer de belangrijkste velden die in Workfront moeten worden bijgewerkt, zodat de uitgebreide analyse u laat zien hoe uw teams en projecten vorderen in Workfront.
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ level: Beginner
 jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
 
-# Aan de slag met [!UICONTROL Enhanced Analytics]
+# Aan de slag met [!UICONTROL Enhanced analytics]
 
 De uitgebreide analyses kunnen u tonen hoe uw teams en projecten in Workfront vorderen, en wat in vroegere projecten gebeurde die u van zou kunnen leren om toekomstige projecten te helpen plannen.
 

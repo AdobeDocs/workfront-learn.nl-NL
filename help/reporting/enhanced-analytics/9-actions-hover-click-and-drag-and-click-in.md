@@ -1,6 +1,6 @@
 ---
 title: 'Handelingen begrijpen: houd de cursor boven, klik en sleep en klik in'
-description: Leer hoe u meer informatie kunt krijgen door de muisaanwijzer boven een diagram te houden, een tijdframe op een diagram te maken en extra grafieken te maken, allemaal in [!UICONTROL Enhanced Analytics] .
+description: Leer hoe u meer informatie kunt krijgen door de muisaanwijzer boven een diagram te houden, een tijdframe op een diagram te maken en extra grafieken te maken, allemaal in [!UICONTROL Enhanced analytics] .
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -12,7 +12,7 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%

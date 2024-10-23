@@ -1,6 +1,6 @@
 ---
 title: Werken en personentabellen begrijpen
-description: In [!UICONTROL Enhanced Analytics], tonen de Grafieken van het Werk u activiteit vanuit het project en taakperspectief, terwijl de grafieken van Mensen u activiteit vanuit het perspectief van een huisteam tonen.
+description: In [!UICONTROL Enhanced analytics], tonen de Grafieken van het Werk u activiteit vanuit het project en taakperspectief, terwijl de grafieken van Mensen u activiteit vanuit het perspectief van een huisteam tonen.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
