@@ -8,12 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-11-01T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: c874b2d05b0d95194ce15266592d473e6f18ce79
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -23,11 +25,18 @@ ht-degree: 0%
 In deze video leert u meer over:
 
 * Basis tijdlijnbeheer van project
-* Projecten plannen vanaf de begin- of einddatum
-* Taakbeperkingen
+* Hoe te om wijze van het Programma te begrijpen
+* Hoe te om een mening van de Beperking van de Taak te creëren
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >
->Voor een volledigere verklaring van duurtypes en taakbeperkingen zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=en) begrijpen en beheren.
+>Voor een volledigere verklaring van duurtypes en taakbeperkingen zie [ de types van duur en taakbeperkingen ](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md) begrijpen en beheren.
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Voortgang bijhouden vanaf de projecttijdlijn](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Datatypen en voortgangsstatus begrijpen](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
+* [Werken en beheren van de soorten duur en taakbeperkingen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
