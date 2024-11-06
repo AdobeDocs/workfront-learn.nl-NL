@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
 workflow-type: tm+mt
-source-wordcount: '1179'
+source-wordcount: '1182'
 ht-degree: 0%
 
 ---
@@ -112,11 +112,7 @@ Pas de instellingen voor de back-endproefdrukken aan, zodat gebruikers deadlines
 
 **hier is waarom**
 
-Selecteer F j, Y, gi:een optie in de proefdrukmontages voor gebruikers die proefdrukdeadlines/tijden in een formaat AM/PM willen zien. Voor gebieden die een klok van 12 uur gebruiken, helpt dit met tijdhelderheid.
-
-
-
-**Nota**: Dit het plaatsen wordt gevonden door naar het Hoofdmenu van Workfront te gaan > het Beproeven > de Montages van de Rekening > Gebruikers > en het het formaatgebied van de Datum voor elke gebruiker uit te geven.
+Het gebrek is een 24 uurs klokformaat, dat aan degenen kan verwarren die niet met het vertrouwd zijn. Als u de indeling wilt wijzigen, gaat u naar Workfront Main Menu > Proofing > Account Settings > Users. Dubbelklik op een gebruiker om een datumnotatie te selecteren en bewerk vervolgens het datumnotatieveld in de sectie Persoonlijke instellingen. U moet elke gebruiker één voor één selecteren om hen te veranderen.
 
 </br>
 </br>
@@ -199,7 +195,7 @@ Stel de proefdrukrol van de maker in op Revisor.
 
 **hier is waarom**
 
-Met de proefdrukrol van Revisor kan de maker van de proefdruk opmerkingen maken en opmerkingen van anderen openen. Meestal hoeft de maker van het bewijs geen beslissing te nemen over een bewijs dat hij heeft geüpload. Voor de rollen fiatteur, Reviewer en fiatteur, Auteur of Moderator proof moet een beslissing worden genomen. Als de maker van het bewijs een van deze bewijsrollen krijgt toegewezen maar nooit een besluit neemt, kan dit negatieve gevolgen hebben voor de bewijstermijnen.
+Met de proefdrukrol van Revisor kan de maker van de proefdruk opmerkingen maken en opmerkingen van anderen openen. Meestal is de maker van het bewijs niet verplicht een beslissing te nemen over een bewijs dat ze hebben geüpload. Voor de rollen fiatteur, Reviewer en fiatteur, Auteur of Moderator proof moet een beslissing worden genomen. Als de maker van het bewijs een van deze bewijsrollen krijgt toegewezen maar nooit een besluit neemt, kan dit negatieve gevolgen hebben voor de bewijstermijnen.
 
 </br>
 </br>
