@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
+source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
 workflow-type: tm+mt
-source-wordcount: '2350'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -629,7 +629,7 @@ ht-degree: 0%
    + [Voorvertoning van sandbox](/help/best-practices/preview-sandbox-bp.md)
    + [Voorkeuren voor projecten, taken en uitgaven](/help/best-practices/project-task-issue-preferences-bp.md)
    + [Projectsjablonen](/help/best-practices/project-templates-bp.md)
-   + [Workfront Proof](/help/best-practices/proofing-bp.md)
+   + [Proofing](/help/best-practices/proofing-bp.md)
    + [Wachtrij aanvragen](/help/best-practices/request-queues-bp.md)
    + [Resource Planner](/help/best-practices/resource-planner-bp.md)
    + [Brongroepen](/help/best-practices/resource-pools-bp.md)
