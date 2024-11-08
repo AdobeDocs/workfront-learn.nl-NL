@@ -1,6 +1,6 @@
 ---
 title: Datatypen en voortgangsstatus begrijpen
-description: Leer hoe te om de verschillende datumtypes in  [!DNL  Workfront]  te bekijken en vooruitgangsstatus te gebruiken om u te helpen werkvooruitgang volgen.
+description: Leer meer over geplande, geprojecteerde en feitelijke datums en hoe deze worden gebruikt bij het berekenen van de status van de voortgang.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -9,31 +9,34 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8782
+last-substantial-update: 2024-11-08T00:00:00Z
+recommendations: noDisplay,noCatalog
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 9bf98f05ec4c3d838ea0e85423c156cc411b0169
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 # Datatypen en voortgangsstatus begrijpen
 
-In deze video leert u hoe u:
+In deze video leert u meer over:
 
-* Een weergave selecteren om [!DNL Workfront's] verschillende datumtypen te vergelijken
-* Voortgangsstatus gebruiken om de voortgang van het werk bij te houden
+* geplande, geplande en feitelijke datums, en
+* Hoe ze worden gebruikt bij het berekenen van de status van de voortgang
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
 
 >[!NOTE]
 >
->Zoals in de video wordt aangegeven, is het belangrijk dat mensen de status wijzigen van **[!UICONTROL New]** in **[!UICONTROL In Progress]** wanneer ze een taak starten, zodat de [!UICONTROL Actual Start Date] correct is. Maar als ze dit vergeten wanneer ze de taak starten, kunnen ze de [!UICONTROL Actual Start Date] altijd weer bewerken.
+>Het is belangrijk dat mensen de status wijzigen van **[!UICONTROL New]** in **[!UICONTROL In Progress]** wanneer ze een taak starten, zodat de [!UICONTROL Actual Start Date] correct is. Maar als ze dit vergeten wanneer ze de taak starten, kunnen ze de [!UICONTROL Actual Start Date] altijd weer bewerken.
 
 
-<!---
-Task progress status overview
-Definitions for the project, task, and issue dates within Workfront
-Project timelines
---->
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Projecttijdlijnen begrijpen](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [Voortgang bijhouden vanaf de projecttijdlijn](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [Werken en beheren van de soorten duur en taakbeperkingen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
