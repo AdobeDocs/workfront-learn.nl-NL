@@ -1,6 +1,6 @@
 ---
 title: Goedkeuring voltooien
-description: Leer hoe te om onvolledige goedkeuringen te identificeren en hen op te lossen zodat kunt u uw project in  [!DNL  Workfront] sluiten.
+description: Leer hoe u onvolledige goedkeuringen kunt identificeren en oplossen zodat u uw project kunt sluiten.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,50 +8,31 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-08-05T00:00:00Z
+recommendations: noDisplay,noCatalog
+last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: 23ffb95ff506c7b3abc2202a689026f0c2ea21b2
+doc-type: video
+source-git-commit: 0b067f9dddd57a7f29ba4241d2d9bf59a9748e3e
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Goedkeuring voltooien
 
-De taken en de afgifte van goedkeuringen maken deel uit van vele projecten. Maar onopgeloste goedkeuringen zullen u verhinderen de projectstatus aan Voltooid te plaatsen.
+In deze video leert u:
 
-Hier is hoe je ze vindt en ermee omgaat.
+* Hoe te om onopgeloste taakgoedkeuringen te vinden en hen te behandelen
+* Hoe te om onopgeloste probleemgoedkeuringen te vinden en hen te behandelen
 
-Selecteer in de sectie [!UICONTROL Task] van uw project een [!UICONTROL View] die de kolom [!UICONTROL Status] bevat, zoals de weergave [!UICONTROL Status] . Een snelle blik onderaan die kolom zal tonen als er een onvolledige goedkeuring op een taak met de woorden &quot;[!UICONTROL - Pending Approval]&quot;na de naam van de status is.
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
 
-![ Project die onvolledige goedkeuring tonen ](assets/pending-approval-1.png)
+## Aanbevolen zelfstudies over dit onderwerp
 
-Wanneer u een taak vindt die nog op goedkeuring wacht, hebt u twee keuzen van wat te doen:
+* [De projectstatus wijzigen om te voltooien](/help/manage-work/projects/change-the-project-status.md)
+* [Elementen uploaden](/help/manage-work/close-a-project/upload-assets.md)
+* [Opgenomen lessen vastleggen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Logboek- en controleuren](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-
-## De goedkeuring voltooien
-
-Dit kan betekenen dat de persoon aan wie de nog niet verleende goedkeuring is toegewezen, eraan moet worden herinnerd. U kunt zien wie als fiatteur wordt toegewezen door de taak te openen en op het menu met drie puntjes in het goedkeuringsgebied te klikken.
-
-![ Taak die goedkeuringsgebied ](assets/pending-approval-2.png) toont
-
-Er verschijnt een vakje met de toegewezen fiatteur.
-
-![ Taak die toegewezen fiatteur toont ](assets/pending-approval-3.png)
-
-
-## De goedkeuring verwijderen
-
-Als goedkeuring niet nodig is, kunt u het willen verwijderen. U kunt dit doen door de goedkeuring eerst te herinneren. Klik op de knop [!UICONTROL Recall] in het goedkeuringsgebied. Hierdoor wordt de status teruggezet naar de vorige status en kunt u het goedkeuringsproces verwijderen.
-
-![ Taak die de herinneringsknoop ](assets/pending-approval-5.png) toont
-
-Klik nu op de tab [!UICONTROL Approvals] aan de linkerkant en klik vervolgens op de knop [!UICONTROL Remove] aan de rechterbovenhoek.
-
-![ Taak die de verwijder goedkeuringsknoop ](assets/pending-approval-6.png) toont
-
-## Afhandeling van goedkeuringen voor uitgaven
-
-Als uw organisatie problemen gebruikt om problemen te volgen, orden te veranderen, of andere gebeurtenissen tijdens projecten, volg de zelfde stappen op de [!UICONTROL Issues] sectie van uw project.
