@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Scenario Planner] Verklaard'
+title: '[!DNL Scenario Planner] Uitgevuld'
 description: Leer hoe  [!DNL Scenario Planner]  met andere middel planningshulpmiddelen past. Dan leer hoe te opstelling  [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
