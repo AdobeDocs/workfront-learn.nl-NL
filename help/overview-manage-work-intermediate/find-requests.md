@@ -9,10 +9,11 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10143
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 7655ce23-ee3a-4c66-b8fd-98c2c7a8517b
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -42,4 +43,3 @@ Als u wilt leren hoe te om douanerapporten tot stand te brengen en hen in een da
 * [Een verzoek bijwerken](/help/manage-work/issues-requests/update-a-request.md)
 * [Een uitgave/verzoek omzetten in een project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
 * [Een uitgave/verzoek omzetten in een taak](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-

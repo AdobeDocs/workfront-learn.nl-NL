@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8770
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 hide: true
 doc-type: video
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 7a446016-d856-4a93-8c42-bbd5cb670828
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -36,4 +37,3 @@ In deze video leert u hoe u:
 * [Basisproject maken](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Navigeren door de projectpagina](/help/manage-work/projects/navigate-the-project-page.md)
 * [De projectdetails invullen](/help/manage-work/projects/fill-in-the-project-details.md)
-

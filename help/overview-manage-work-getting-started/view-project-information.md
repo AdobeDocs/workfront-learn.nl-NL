@@ -9,10 +9,11 @@ type: Tutorial
 role: User
 level: Beginner
 last-substantial-update: 2024-05-01T00:00:00Z
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-10145
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 688e6c46-df3e-48e7-a949-d627c529e97c
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -34,4 +35,3 @@ In deze video leert u hoe u filters, weergaven en groepen kunt gebruiken om te b
 * [Basisfilteractiviteiten maken](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
 * [Een basisweergave maken](/help/reporting/basic-reporting/create-a-basic-view.md)
 * [Een basisgroep maken](/help/reporting/basic-reporting/create-a-basic-grouping.md)
-
