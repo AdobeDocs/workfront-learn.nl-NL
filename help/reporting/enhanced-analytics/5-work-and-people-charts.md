@@ -11,16 +11,16 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 # Werken en personentabellen begrijpen
 
-De grafieken van het werk tonen u activiteit vanuit het project en taakperspectief, terwijl de grafieken van Mensen u activiteit vanuit het perspectief van een huisteam tonen.
+De grafieken van het werk tonen u activiteit vanuit het project en taakperspectief, terwijl het diagram van Mensen u activiteit vanuit het perspectief van een huisteam toont.
 
 Selecteer het type analytische diagrammen dat u wilt weergeven (Werk of Personen) in het menu van het linkerdeelvenster.
 
@@ -40,11 +40,8 @@ De Burndown en de Taken in vluchtgrafieken verschijnen wanneer u neer in de gege
 * Klik op een project in de weergave Vluchtplan en een Burndown-weergave van dat project wordt eronder weergegeven.
 * Klik op een project in de weergave Treemap en zowel een Burndown- als een Taken in de vluchtweergave worden eronder weergegeven.
 
-## Personengrafieken
+## Personengrafiek
 
 ![ Een beeld van het vinden van de [!UICONTROL Analytics] eigenschap in [!DNL Workfront Classic]](assets/section-1-2.png)
 
-Personengrafieken bestaan uit:
 
-1. Activiteit per team
-1. Teamactiviteit
