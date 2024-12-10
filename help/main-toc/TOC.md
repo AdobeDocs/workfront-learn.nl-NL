@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2338'
 ht-degree: 0%
 
 ---
@@ -176,12 +176,10 @@ ht-degree: 0%
 
    + Een project sluiten {#close-a-project}
       + [De projectstatus wijzigen om te voltooien](/help/manage-work/projects/change-the-project-status.md)
-      + [Taken en problemen sluiten](/help/manage-work/close-a-project/close-tasks-and-issues.md)
       + [Goedkeuring voltooien](/help/manage-work/close-a-project/complete-approvals.md)
       + [Elementen uploaden](/help/manage-work/close-a-project/upload-assets.md)
       + [Opgenomen lessen vastleggen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [Logboek- en controleuren](/help/manage-work/close-a-project/log-and-review-hours.md)
-      + [Een projectactiviteit sluiten](/help/manage-work/close-a-project/close-a-project-activity.md)
 
    + Projectfinanciën voor gebruikers {#project-finances-users}
       + [De financiën bijwerken en herzien](/help/manage-work/project-finances/update-and-review-finances.md)
