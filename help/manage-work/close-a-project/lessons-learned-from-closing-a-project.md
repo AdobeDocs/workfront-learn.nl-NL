@@ -1,6 +1,6 @@
 ---
 title: Opgenomen lessen vastleggen
-description: Leer hoe u een "geleerde lessen"taak kunt omvatten om te identificeren wat goed ging en wat de volgende keer kan verbeteren.
+description: Leer hoe u kunt profiteren van 'geleerde lessen' bij het sluiten van een project.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,26 +8,32 @@ thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
 # Opgenomen lessen vastleggen
 
-Als onderdeel van het sluiten van een project, hebben sommige klanten van Workfront een &quot;geleerde lessen&quot;taak. Deze taak kan op verschillende manieren worden gebruikt.
+In deze video ziet u de voordelen van:
 
-* U kunt een &#39;geleerde lessen&#39; gebruiken om een vergadering weer te geven. Leg vergaderingnotities vast in de taakupdates.
-* Of maak een aangepaste vorm aan de taak of het project vast om de &quot;geleerde lessen&quot;informatie te vangen die u nodig hebt.
+* Een &quot;geleerde lessen&quot;-taak maken
+* Een aangepaste vorm &quot;geleerde lessen&quot; koppelen aan uw project
+* Aangepaste rapporten maken met de opdracht &quot;geleerde lessen&quot;
+* Een &#39;geleerde lessen&#39;-project maken
 
-Een voordeel van het aangepaste formulier: alle velden zijn te rapporteren, zodat u aangepaste [!DNL Workfront] -rapporten kunt maken om deze informatie te bekijken en te beheren, en lessen te identificeren die over veel projecttypen of -sets zijn geleerd.
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
 
-Als uw organisatie een complexer post-projectproces heeft — die genoeg stappen heeft om als project zelf te kwalificeren — zou het best kunnen zijn om een afzonderlijk project in [!DNL Workfront] tot stand te brengen.
+## Aanbevolen zelfstudies over dit onderwerp
 
-Met deze methode, kunt u uit het project sluiten dat voor werkelijk leverbaar wordt gebruikt, dat uw voltooide project het melden nauwkeuriger houdt. Gebruik vervolgens een afzonderlijk post-project om de volgende stappen te volgen.
-
-Neem contact op met uw interne [!DNL Workfront] -team voor meer informatie over het proces na het project van uw organisatie.
+* [De projectstatus wijzigen om te voltooien](/help/manage-work/projects/change-the-project-status.md)
+* [Goedkeuring voltooien](/help/manage-work/close-a-project/complete-approvals.md)
+* [Elementen uploaden](/help/manage-work/close-a-project/upload-assets.md)
+* [Logboek- en controleuren](/help/manage-work/close-a-project/log-and-review-hours.md)

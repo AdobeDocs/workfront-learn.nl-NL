@@ -1,6 +1,6 @@
 ---
 title: Logboek- en controleuren
-description: Neem openstaande uren op en herzie geregistreerde uren alvorens een project in  [!DNL  Workfront] te sluiten.
+description: Neem openstaande uren op en controleer de geregistreerde uren voordat u een project sluit.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
 # Logboek- en controleuren
 
-Als het registreren van werkelijk gewerkte uren deel van het werkschema van uw organisatie uitmaakt, kunt u die uren op de [!UICONTROL Hours] sectie (selecteer het van het linkerpaneelmenu) op het project herzien. Dit toont alle uren het programma geopend individuele taken en het project zelf. U kunt ook uren loggen vanaf deze pagina.
+In deze video leert u hoe u:
 
-![ pagina van Uren die uuringangen ](assets/planner-fund-log-and-review-hours.png) tonen
+* De uren die van het overzicht aan een project worden geregistreerd
+* Projecturen goedkeuren indien nodig
 
->[!NOTE]
->
->Uw organisatie kan u vragen om uren door [!DNL Workfront] timesheets goed te keuren. Vraag uw interne [!DNL Workfront] -team na welk proces u moet gebruiken.
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [De projectstatus wijzigen om te voltooien](/help/manage-work/projects/change-the-project-status.md)
+* [Goedkeuring voltooien](/help/manage-work/close-a-project/complete-approvals.md)
+* [Elementen uploaden](/help/manage-work/close-a-project/upload-assets.md)
+* [Opgenomen lessen vastleggen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
