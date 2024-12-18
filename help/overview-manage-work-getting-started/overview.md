@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '930'
 ht-degree: 0%
 
 ---
@@ -81,10 +81,8 @@ Leer hoe u het projectwerk kunt volgen en met belanghebbenden kunt communiceren.
 Leer hoe te om taken en kwesties te sluiten, goedkeuringen te voltooien, geleerde lessen te registreren, en het project te sluiten.
 
 * [ verander de projectstatus om te voltooien ](change-the-project-status.md) - leer hoe te om de projectstatus te veranderen in Voltooid, waarom om het te veranderen, en wat te doen als u het niet in Voltooid kunt veranderen.
-* [ dicht taken en kwesties ](close-tasks-and-issues.md) - leer hoe te ervoor te zorgen de taken en de kwesties worden gesloten alvorens u een project sluit.
 * [ Volledige goedkeuringen ](complete-approvals.md) - leer hoe te om onvolledige goedkeuringen te identificeren en hen op te lossen zodat kunt u uw project sluiten.
 * [ uploadt activa ](upload-assets.md) - Upload documenten, proeven, en andere activa aan het project alvorens het te sluiten om ervoor te zorgen dat alle relevante gegevens met het project worden geassocieerd.
 * [ geleerde lessen van het Verslag ](lessons-learned-from-closing-a-project.md) - Leer hoe u een &quot;geleerde lessen&quot;taak kunt omvatten om te identificeren wat goed ging en wat de volgende tijd kan verbeteren.
 * [ Logboek en overzichtsuren ](log-and-review-hours.md) - Verslag openstaande uren en overzicht geregistreerde uren alvorens een project te sluiten.
 * [ Update en herzie financiert ](update-and-review-finances.md) - als uw organisatie Workfront gebruikt om spoor van project-gerelateerde financiële informatie te houden, kunnen de het herzien van uitgaven en het creëren van factureringsverslagen deel van uw proces voor het sluiten van een project uitmaken.
-* [ dicht een projectactiviteit ](close-a-project-activity.md) - Praktijk wat u over hebt geleerd hoe te om een project te sluiten.

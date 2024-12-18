@@ -10,11 +10,13 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-08-31T00:00:00Z
 jira: KT-8950
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 8b373be7-df75-4929-9027-d95947c42f94
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -53,3 +55,11 @@ Als de blauwdruk is geïnstalleerd, kunt u op **[!UICONTROL See details]** klikk
 ![ Details over de installatie van een blauwdruk ](assets/pt-blueprints-04.png)
 
 Als de blauwdruk nog niet is geïnstalleerd, kunt u deze aanvragen bij de systeembeheerder.
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Een project rechtstreeks vanuit een sjabloon maken](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [Een projectsjabloon delen](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [Een bestaand project kopiëren](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [Een projectsjabloon deactiveren](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [Bewerk het projectteam in een projectsjabloon](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

@@ -6,9 +6,9 @@ breadcrumb-title: Beheren, werk - tussenliggend
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,9 @@ ht-degree: 0%
       + [Bewerk het projectteam in een projectsjabloon](edit-the-project-team-in-a-project-template.md)
 
    + Goedkeuringsprocessen maken en gebruiken {#how-to-create-and-use-approval-processes}
-      + [Een goedkeuringsproces voor eenmalig gebruik maken](create-a-single-use-approval-process.md)
+      + [Een algemeen goedkeuringsproces en een goedkeuringsproces voor één gebruik maken](create-a-single-use-approval-process.md)
       + [Groepsspecifieke goedkeuringsprocedures begrijpen](group-specific-approval-processes.md)
-      + [Bestaande goedkeuringsprocessen bijvoegen en bewerken](attach-and-edit-existing-approval-processes.md)
       + [Digitale werkzaamheden beoordelen en goedkeuren](review-and-approve-digital-work.md)
-      + [Updates en meldingen begrijpen](understand-updates-and-notifications.md)
       + [Taken, problemen en goedkeuringen delegeren](delegate-approvals.md)
 
    + Mijlpalen maken en gebruiken {#how-to-create-and-use-milestones}

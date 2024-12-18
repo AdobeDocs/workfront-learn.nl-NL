@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,9 @@ Leer hoe u projectsjablonen maakt en gebruikt.
 
 Leer hoe te om goedkeuringsprocessen tot stand te brengen, hen aan werkschema&#39;s vast te maken, digitaal werk te herzien, en toestemmingen te delegeren.
 
-* [ creeer een enig-gebruiks goedkeuringsproces ](create-a-single-use-approval-process.md) - leer hoe te om een enig-gebruiksgoedkeuringsproces op een project, een taak, of een kwestie tot stand te brengen.
+* [ creeer globaal en een enig-gebruik goedkeuringsproces ](create-a-single-use-approval-process.md) - leer hoe te om een globaal en een enig-gebruiks goedkeuringsproces op een project, een taak, of een kwestie tot stand te brengen.
 * [ begrijp groep-specifieke goedkeuringsprocessen ](group-specific-approval-processes.md) - leer hoe de groepsbeheerders goedkeuringsprocessen voor de groepen tot stand kunnen brengen of uitgeven zij beheren.
-* [ maak en geef bestaande goedkeuringsprocessen ](attach-and-edit-existing-approval-processes.md) vast uit - leer hoe te om bestaande goedkeuringsprocessen voor projecten, taken, of kwesties te gebruiken en uit te geven.
 * [ Overzicht en keurt digitaal werk ](review-and-approve-digital-work.md) goed - leer hoe te, goedkeuringen voor projecten, taken, kwesties, documenten, en proeven vinden te herzien en te maken.
-* [ begrijp updates en berichten ](understand-updates-and-notifications.md) - Leer hoe te om updates op goedkeuringsverzoeken te maken en uw berichten te vinden.
 * [ de taken van de Delegatie, kwesties, en goedkeuringen ](delegate-approvals.md) - leer hoe te om goedkeuringen voor projecten, taken, kwesties, en chronologie aan een andere gebruiker van Adobe Workfront te delegeren.
 
 ## Mijlpalen maken en gebruiken

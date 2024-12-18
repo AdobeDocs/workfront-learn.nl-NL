@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+doc-type: video
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 5104c034-82cf-4993-9016-53802d562d14
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # Logboek- en controleuren
 
-Als het registreren van werkelijk gewerkte uren deel van het werkschema van uw organisatie uitmaakt, kunt u die uren op de [!UICONTROL Hours] sectie (selecteer het van het linkerpaneelmenu) op het project herzien. Dit toont alle uren het programma geopend individuele taken en het project zelf. U kunt ook uren loggen vanaf deze pagina.
+In deze video leert u hoe u:
 
-![ pagina van Uren die uuringangen ](assets/planner-fund-log-and-review-hours.png) tonen
+* De uren die van het overzicht aan een project worden geregistreerd
+* Projecturen goedkeuren indien nodig
 
->[!NOTE]
->
->Uw organisatie kan u vragen om uren door [!DNL Workfront] timesheets goed te keuren. Vraag uw interne [!DNL Workfront] -team na welk proces u moet gebruiken.
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [De projectstatus wijzigen om te voltooien](/help/manage-work/projects/change-the-project-status.md)
+* [Goedkeuring voltooien](/help/manage-work/close-a-project/complete-approvals.md)
+* [Elementen uploaden](/help/manage-work/close-a-project/upload-assets.md)
+* [Opgenomen lessen vastleggen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

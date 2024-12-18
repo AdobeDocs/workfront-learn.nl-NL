@@ -12,9 +12,11 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8933
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: ae199222-6f1e-4d01-9ef9-16892edfdde7
+recommendations: noDisplay,catalog
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -31,5 +33,10 @@ In deze video leert u hoe u:
 
 >[!TIP]
 >
->Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [ een basismening ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en) creëren.
+>Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [ een basismening ](/help/reporting/basic-reporting/create-a-basic-view.md) creëren.
 
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [Mijlpalen weergeven](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [Mijlpalen maken](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [Mijlpaal weergaveactiviteit in Een basisweergave maken](/help/reporting/basic-reporting/create-a-basic-view.md)

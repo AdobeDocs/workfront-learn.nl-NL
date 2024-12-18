@@ -10,29 +10,32 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # Elementen uploaden
 
-Voordat u een [!DNL Workfront] -project sluit, moet u ervoor zorgen dat alle relevante bestanden in de [!UICONTROL Documents] -sectie zijn bijgevoegd. Upload deze als een document of een proef, zoals bepaald door de richtlijnen van uw organisatie.
+In deze video leert u hoe u:
 
-Mogelijk moet u het document of de proefdruk uploaden als een versie van een bestaand bestand.
+* Goedkeuringen controleren op proefdrukken
+* Goedkeuringen van documenten controleren
+* Een document uploaden
+* Training zoeken over het uploaden van proefdrukken
 
-Als uw organisatie proefdrukgoedkeuringen gebruikt, zorg ervoor alle die met een snelle blik bij de vooruitgangspictogrammen worden voltooid.
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![ pagina van Documenten die de pictogrammen van de proefvooruitgang tonen ](assets/planner-fund-proof-progress-icons.png)
+## Aanbevolen zelfstudies over dit onderwerp
 
-En als uw organisatie documentgoedkeuringen gebruikt, selecteer elk punt in de lijst en controleer de documentdetails om te zien of zijn de goedkeuringen volledig.
+* [Een proefdruk uploaden met een standaardworkflow](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [De projectstatus wijzigen om te voltooien](/help/manage-work/projects/change-the-project-status.md)
+* [Goedkeuring voltooien](/help/manage-work/close-a-project/complete-approvals.md)
+* [Opgenomen lessen vastleggen](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [Logboek- en controleuren](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![ Kzij samenvatting op de pagina van Documenten die documentgoedkeuring tonen ](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->

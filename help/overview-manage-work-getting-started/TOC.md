@@ -6,9 +6,9 @@ breadcrumb-title: Werk beheren - aan de slag
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -54,11 +54,9 @@ ht-degree: 0%
 
    + Een project sluiten {#close-a-project}
       + [De projectstatus wijzigen om te voltooien](change-the-project-status.md)
-      + [Taken en problemen sluiten](close-tasks-and-issues.md)
       + [Goedkeuring voltooien](complete-approvals.md)
       + [Elementen uploaden](upload-assets.md)
       + [Opgenomen lessen vastleggen](lessons-learned-from-closing-a-project.md)
       + [Logboek- en controleuren](log-and-review-hours.md)
       + [De financiën bijwerken en herzien](update-and-review-finances.md)
-      + [Een projectactiviteit sluiten](close-a-project-activity.md)
 
