@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 0e5d5b5aea9d6242134c3640805231773c8b5159
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,8 @@ In deze video leert u:
 >[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
 
 ## Belangrijke onderdelen van de projectpagina
+
+[ klik hier ](/help/assets/key-parts-of-the-project-page.pdf) om een PDF van deze pagina te downloaden.
 
 De projectpagina is gevuld met vele eigenschappen om u te helpen uw werk leiden. Werk met uw systeembeheerder als er een optie is u nodig hebt maar niet in uw geval van [!DNL Workfront] ziet. Hier volgen enkele van de hoofdfuncties voor projectpagina&#39;s.
 
