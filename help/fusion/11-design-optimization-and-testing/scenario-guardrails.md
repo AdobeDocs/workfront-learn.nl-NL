@@ -1,6 +1,7 @@
 ---
 title: Scenario-instructies
 description: Leer over scenarioGrails, modulebegeleiding, dossier guardrails, en WebHaakrails, allen in  [!DNL Adobe Workfront Fusion].
+short-description: Omdat de langlopende scenario's het tempo van uw werk kunnen vertragen, werd Workfront Fusion ontworpen met prestaties-bewarende garanties die uitvoeringstijd, gegevensgrootte, en andere scenario parameters beperken
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +12,9 @@ jira: KT-9072
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---

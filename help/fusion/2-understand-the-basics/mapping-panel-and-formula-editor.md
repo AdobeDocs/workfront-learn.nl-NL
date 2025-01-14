@@ -1,6 +1,7 @@
 ---
 title: Deelvenster Toewijzing en formule-editor
 description: Leer meer over het gebruiken van het mappingpaneel, de formules redacteur, en gemeenschappelijke formulevoorbeelden in  [!DNL Adobe Workfront Fusion].
+short-description: In deze video leert u meer informatie over het gebruik van het deelvenster Toewijzing en over het gebruik van de formule-editor.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +12,9 @@ jira: KT-9002
 exl-id: 48ebc6ee-6853-42a3-b68b-34c5854ff69c
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---

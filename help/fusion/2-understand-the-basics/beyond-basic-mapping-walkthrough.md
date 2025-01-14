@@ -1,6 +1,7 @@
 ---
 title: Buiten basisanalyse van toewijzingen
 description: Verander sommige projectgebieden in het scenario u eerder gebruikend de formules van het kaartpaneel in  [!DNL Adobe Workfront Fusion] creeerde.
+short-description: In deze videoanalyse, kunt u de projectnaam, geplande begindatum, en prioriteit van het "Aanvankelijke scenario ontwerp"veranderen u in de eerste analyse gebruikend de formules van het kaartpaneel creeerde.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +12,9 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
