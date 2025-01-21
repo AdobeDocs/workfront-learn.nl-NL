@@ -1,7 +1,7 @@
 ---
 title: Overzicht van Workfront Fusion-training
-description: Meer informatie over het activiteitenboek van Adobe Workfront Fusion en hoe u een Workfront test drive account krijgt.
-short-description: Elke sectie van de Fusie van Workfront bevat veelvoudige leerprogramma's, met elke zelfstudie die concepten presenteert u zult moeten begrijpen alvorens aan de volgende leerprogramma's over te gaan.
+description: Meer informatie over het activiteitenboek van Adobe Workfront Fusion en hoe u een Workfront-testaccount kunt krijgen.
+short-description: Elke sectie van Workfront Fusion bevat meerdere tutorials, waarbij elke tutorial begrippen presenteert die u moet kennen voordat u doorgaat naar de volgende tutorial.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -14,7 +14,7 @@ exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
 source-wordcount: '426'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 

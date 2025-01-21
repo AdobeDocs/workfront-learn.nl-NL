@@ -1,7 +1,7 @@
 ---
 title: Eerste analyse van het scenario ontwerp
 description: Leer hoe te om omslagen en nieuwe scenario's tot stand te brengen, de scenarioontwerper te gebruiken, en een basisscenario in  [!DNL Adobe Workfront Fusion] tot stand te brengen.
-short-description: Hier, kunt u een video van de oefenanalyse over het creëren van scenario's bekijken.
+short-description: Hier kunt u een walkthrough-video met oefeningen bekijken over het maken van scenario's.
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
