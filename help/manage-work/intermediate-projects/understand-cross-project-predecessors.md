@@ -12,7 +12,7 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -35,6 +35,6 @@ In deze video leert u:
 * Een voorganger voor meerdere projecten maken
 * Hoe te om dwars-project predecessors in rapporten te volgen
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops)
 
 Leer hoe te om tot het **dwars-project predecessors en de opvolgers** mening en **dwars-project predecessors en opvolgers** rapport te leiden dat in de video wordt gebruikt, [ basistekstwijze voor meningen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en) leerprogramma begrijpen en zeker zijn en de voorwaarde daar vermelde leerprogramma&#39;s nemen, als u moet.

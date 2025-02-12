@@ -11,7 +11,7 @@ jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -32,7 +32,7 @@ In deze video leert u hoe u:
 * Minder API-aanroepen verzenden
 * Minder modules gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on&enablevpops)
 
 ## Meer informatie? We raden het volgende aan:
 

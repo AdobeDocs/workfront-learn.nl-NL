@@ -12,7 +12,7 @@ jira: KT-9072
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -30,7 +30,7 @@ In deze video leert u meer over:
 * Bestandshulplijnen
 * Webhaak-instructies
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on&enablevpops)
 
 ## Meer informatie? We raden het volgende aan:
 

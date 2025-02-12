@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8991
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In deze video leert u:
 * Wat u tijdens deze cursus gaat leren
 * Wat [!UICONTROL Workfront DAM] is en hoe u het kunt gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12&learn=on&enablevpops)

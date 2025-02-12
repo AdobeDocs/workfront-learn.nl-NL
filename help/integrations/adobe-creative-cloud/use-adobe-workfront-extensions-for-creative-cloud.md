@@ -1,6 +1,6 @@
 ---
 title: Adobe Workfront-plug-ins gebruiken om te integreren met Creative Cloud
-description: Integreer Workfront met Creative Cloud om het werk te vinden en bij te werken dat aan u in Workfront wordt toegewezen zonder de volgende toepassingen van het Creative Cloud te verlaten - Photoshop, XD, InDesign, After Effects, , en
+description: Integreer Workfront met Creative Cloud om het werk te vinden en bij te werken dat aan u in Workfront is toegewezen zonder de volgende Creative Cloud-toepassingen te verlaten - Photoshop, XD, InDesign, Illustrator, Premiere Pro en After Effects
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="Integratie" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -42,7 +42,7 @@ U moet de juiste insteekmodule installeren voor de Adobe Creative Cloud-toepassi
 >**Premiere Pro** en **After Effects** video uploadt, en overzicht en goedkeuring in Workfront, zijn niet beschikbaar op dit ogenblik door de stop.
 
 
-In deze video leert u het volgende doen vanuit de Creative Cloud-app:
+In deze video leert u het volgende doen vanuit uw Creative Cloud-app:
 
 * Workfront-toewijzingen zoeken
 * Bestanden uploaden naar Workfront
@@ -52,4 +52,4 @@ In deze video leert u het volgende doen vanuit de Creative Cloud-app:
 * Logtijd
 * Uw werk markeren voltooid
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops)

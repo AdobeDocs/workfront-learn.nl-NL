@@ -11,7 +11,7 @@ jira: KT-9047
 exl-id: 99adafb4-a40d-4392-a2e6-cb698e77f436
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In deze video leert u:
 * Welke schakelaarfuncties en modules zijn en hoe zij verschillen
 * Wanneer gebruiken een schakelaarfunctie versus een schakelaarmodule
 
->[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on&enablevpops)

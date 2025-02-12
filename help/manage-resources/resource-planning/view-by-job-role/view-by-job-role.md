@@ -11,7 +11,7 @@ thumbnail: 335169.jpeg
 jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video zult u:
 * Leer hoe de middelinformatie in deze mening wordt getoond
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops)
 
 Voor de Mening door de optie van de Rol van de Baan, is het gebrek om de Begroeide kolom te tonen, die het geschatte aantal middelen nodig voor een project van een bedrijfscase trekt, als het is ingevuld. Dit betekent ook de Netto kolom is, door gebrek, gebruikend de aantallen van de Beoogde kolom om u te vertellen hoeveel middelen worden verlaten.
 

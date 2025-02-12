@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8976
 exl-id: fffb4ab8-acec-4d7b-a786-f6be538bc7ee
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In deze video leert u hoe u:
 * Plan voor het handhaven van meta-gegevens en sleutelwoorden
 * Tips en trucs voor [!UICONTROL Workfront DAM] vaststellen
 
->[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on&enablevpops)

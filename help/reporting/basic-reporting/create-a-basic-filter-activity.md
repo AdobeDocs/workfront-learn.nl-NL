@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 1%
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ## Activiteit 1 - Alle projecten in de marketingportefeuille
 
-In deze activiteit zult u een projectfilter genoemd &quot;Alle projecten in de portefeuille van de Marketing&quot;in de [!UICONTROL Legacy filter] ervaring creëren. Dit zal u alle projecten in de portefeuille genoemd &quot;Portfolio van de Marketing&quot;ongeacht hun status tonen.
+In deze activiteit zult u een projectfilter genoemd &quot;Alle projecten in de portefeuille van de Marketing&quot;in de [!UICONTROL Legacy filter] ervaring creëren. Dit toont u alle projecten in de portefeuille genoemd &quot;Marketing Portfolio&quot;ongeacht hun status.
 
 Hieronder vindt u stapsgewijze instructies.
 
@@ -47,7 +47,7 @@ In deze video maakt u een projectfilter met de naam &quot;Projecten waarvan ik e
 
 Hieronder vindt u stapsgewijze instructies.
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
 
 ### Antwoord op Activiteit 2
 

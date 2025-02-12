@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
@@ -28,13 +28,13 @@ In deze video leert u hoe u:
 * Groepen maken en bewerken
 * Gebruikers toevoegen en bewerken
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops)
 
 ## Groepen en gebruikers controleren
 
 Wanneer u uw [!UICONTROL Workfront DAM] systeem configureert, is het belangrijk om rekening te houden met de rollen die gebruikers en groepen in het grote beeld spelen.
 
-Groepen beheren de toegang tot elementmappen in [!UICONTROL Workfront DAM] . Groepsinstellingen bepalen ook wat gebruikers met de elementen kunnen doen (weergeven, downloaden, bewerken, enz.) zij hebben toegang .
+Groepen beheren de toegang tot elementmappen in [!UICONTROL Workfront DAM] . Groepsinstellingen bepalen ook wat gebruikers kunnen doen met de elementen (weergeven, downloaden, bewerken, enz.) waartoe ze toegang hebben.
 
 Bij het maken van groepen is het van essentieel belang om te bedenken tot welke elementmappen de leden van die groep toegang hebben in [!UICONTROL Workfront DAM] .
 

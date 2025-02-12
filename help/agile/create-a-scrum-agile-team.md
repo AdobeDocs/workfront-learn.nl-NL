@@ -8,7 +8,7 @@ jira: KT-10871
 thumbnail: 346281.jpeg
 exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 0%
@@ -40,7 +40,7 @@ In deze video leert u hoe u:
 - Selecteer de scrum-methode
 - Instellingen bepalen voor het beeldteam
 
->[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on&enablevpops)
 
 Hebt u al een team in Workfront dat u wilt converteren naar een Agile-team? Geen probleem! Ga naar de Montages van het Team en controleer het vakje &quot;Dit is een team van Adobe&quot;.
 

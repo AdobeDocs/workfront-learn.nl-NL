@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
-source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In deze video leert u hoe u:
 * De uren die van het overzicht aan een project worden geregistreerd
 * Projecturen goedkeuren indien nodig
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

@@ -11,7 +11,7 @@ thumbnail: 335076.png
 jira: KT-8764
 exl-id: af6ff5c1-a2c4-4440-b31d-c33726a7fee1
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In deze video leert u hoe u:
 * Ga naar het gebied met projectdetails
 * De velden met projectdetails aanpassen met een lay-outsjabloon
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops)

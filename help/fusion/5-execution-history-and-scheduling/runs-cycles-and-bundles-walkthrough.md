@@ -11,7 +11,7 @@ jira: KT-9045
 exl-id: 820f35af-a068-4a15-9322-98462964de61
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -28,7 +28,7 @@ De praktijk met verschillende scenario configuraties om het gebruiken van looppa
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
->[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12&learn=on&enablevpops)
 
 
 

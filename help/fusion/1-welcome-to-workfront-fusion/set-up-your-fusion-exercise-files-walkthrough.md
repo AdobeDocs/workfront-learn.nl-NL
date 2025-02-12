@@ -12,7 +12,7 @@ jira: KT-8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Leer hoe u uw Fusion-inspanningsbestanden instelt.
 
 1. Bekijk de video voor informatie over het uploaden van deze bestanden naar een map in Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on&enablevpops)

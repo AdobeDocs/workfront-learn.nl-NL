@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u hoe u kunt werken:
 * Het Gantt-projectdiagram
 * Het Gantt-taakdiagram
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
 
 U kunt meer online met het artikel leren, [ worden begonnen met de grafiek van Gantt ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
 

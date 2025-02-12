@@ -13,7 +13,7 @@ jira: KT-8780
 hide: true
 doc-type: video
 exl-id: c2ed640c-b32f-4c1e-892c-fb54796a101e
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 
 * Uw project live laten gaan met de projectstatus
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

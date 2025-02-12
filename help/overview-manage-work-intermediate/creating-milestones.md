@@ -10,7 +10,8 @@ role: Admin
 level: Intermediate
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: d33c1c28-63db-4c74-b310-951d091052fa
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -25,7 +26,7 @@ In deze video leert u:
 * Hoe mijlpaden worden gemaakt
 * Hoe u stappen van mijlpalen toevoegt aan een pad met mijlpalen
 
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

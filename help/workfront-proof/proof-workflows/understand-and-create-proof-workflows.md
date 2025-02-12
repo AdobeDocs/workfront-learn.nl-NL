@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8824
 exl-id: 8e8871a8-866e-4c9a-9f30-578d3b5639c5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In deze video leert u:
 * Welke informatie moet worden verzameld om een proefwerkstroom te maken
 * Het verschil tussen standaard en geavanceerd proefwerk
 
->[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12&learn=on&enablevpops)
 
 
 

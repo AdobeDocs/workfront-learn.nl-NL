@@ -9,7 +9,7 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Zorg ervoor dat de gebruiker op het tabblad [!UICONTROL Queue Details] van de wa
 
 Bekijk deze video voor meer informatie:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops)
 
 **ik gaf gebruikers toegang tot de rij, maar nu kunnen zij het project van de verzoekrij ook zien. Waarom?**
 
@@ -62,7 +62,7 @@ U hebt toegang tot velden in de velden **[!UICONTROL Converted Issue]** en **[!U
 
 Bekijk deze video voor meer informatie:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops)
 
 
 **wat is de beste manier om voor verzoekrijen in een rapport te filtreren?**
@@ -73,7 +73,7 @@ Als uw projectfilter **Rij>>Is Openbaar>>Niet Gelijk>>niets** omvat zal uw rappo
 
 Bekijk deze video voor meer informatie:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops)
 
 **is het een goed idee om een douanestatus van de Rij van het Verzoek tot stand te brengen?**
 

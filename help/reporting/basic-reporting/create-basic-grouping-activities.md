@@ -1,6 +1,6 @@
 ---
-title: Een basisgroep maken
-description: Leer wat een groep is, hoe u een groep maakt en hoe u een groep deelt met andere gebruikers in Workfront.
+title: Basisgroeperingsactiviteiten maken
+description: Praktijk die basisgroeperingen met geleidelijke instructies tot stand brengt.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,26 +9,15 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '158'
 ht-degree: 1%
 
 ---
 
-# Een basisgroep maken
 
-In deze video leert u:
-
-* Wat een groep in Workfront is
-* Een groep maken
-* En hoe u een groep deelt met andere Workfront-gebruikers
-
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
-
-## Activiteit: Een basisgroep maken
+# Activiteit: Een basisgroep maken
 
 Creeer een kwestie groeperen die in een rapport zal worden gebruikt om verzoeken te volgen die door een verzoekrij komen. Deze groepering zal het gemakkelijk maken om gelijkaardige types van kwesties/verzoeken te zien die door hun prioriteit worden gegroepeerd. Noem de groepering &quot;de Rij van het Verzoek, het Onderwerp van de Rij, Prioriteit.&quot;
 

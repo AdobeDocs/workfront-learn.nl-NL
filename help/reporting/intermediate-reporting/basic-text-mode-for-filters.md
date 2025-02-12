@@ -12,7 +12,7 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 0%
@@ -41,7 +41,7 @@ In deze video leert u:
 * Wat kamelendoosje is
 * Een standaardtekstmodus voor &quot;plug-and-play&quot; die u in rapportfilters kunt gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops)
 
 
 ## Taak - Filter taken uit waar ik &quot;Gereed met mijn deel&quot; heb gemarkeerd

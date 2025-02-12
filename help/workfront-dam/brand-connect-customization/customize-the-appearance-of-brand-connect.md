@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
@@ -24,7 +24,7 @@ In deze video leert u hoe u:
 * De navigatiebalk en voettekst aanpassen
 * De startpagina en aanmeldingspagina aanpassen
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops)
 
 ## Aanvullende instelling [!UICONTROL Appearance]
 
@@ -52,12 +52,12 @@ Deze widgets zijn beschikbaar:
 
 **F. Gevulde Beschrijving** - ga een blok van de tekstexemplaar aan vertoning op een grijze achtergrond in.
 
-**G. HTML** - gebruik HTML en CSS om douaneinhoud tot stand te brengen. U kunt bijvoorbeeld een koppeling naar een video insluiten. Er zijn sommige [ HTML markeringen om ](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html) te vermijden.
+**G. HTML** - gebruik HTML en CSS om douaneinhoud tot stand te brengen. U kunt bijvoorbeeld een koppeling naar een video insluiten. Er zijn sommige [ markeringen van HTML ](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html) te vermijden.
 
 ## Een zoekbalk toevoegen
 
 Als u een aangepaste homepage voor de [!UICONTROL Brand Connect] -website van uw organisatie ontwerpt, moeten gebruikers in het [!UICONTROL Assets] -gebied klikken om een zoekopdracht uit te voeren.
 
-Systeembeheerders kunnen echter een zoekbalk maken met de widget HTML en deze tag HTML:
+Systeembeheerders kunnen echter een zoekbalk maken met de HTML-widget en deze HTML-tag:
 
 &lt;webdambp.headersearch>&lt;/webdambp.headersearch>

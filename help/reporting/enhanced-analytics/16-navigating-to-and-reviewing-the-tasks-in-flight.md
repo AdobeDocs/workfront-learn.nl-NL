@@ -12,7 +12,7 @@ jira: KT-8735
 recommendations: noDisplay,catalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u:
 * Hoe te om tot de Taken in vluchtgrafiek toegang te hebben
 * Hoe snel te zien welke taken niet in een project zijn voltooid
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops)
 
 ## Gegevens op taakniveau
 

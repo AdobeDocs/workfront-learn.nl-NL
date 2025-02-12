@@ -11,7 +11,7 @@ jira: KT-9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In deze video leert u:
 * Onvolledige executies
 * Hoe te om een fout te behandelen die in een onvolledige uitvoering resulteert
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops)
 
 ## Fouten die leiden tot onvolledige uitvoeringen
 

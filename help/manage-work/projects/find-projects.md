@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 In deze video leert u hoe u snel en eenvoudig projecten kunt zoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

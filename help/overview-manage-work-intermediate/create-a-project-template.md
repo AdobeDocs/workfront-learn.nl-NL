@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 8b373be7-df75-4929-9027-d95947c42f94
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -32,7 +32,7 @@ In deze video leert u hoe u:
 * Een geheel nieuwe sjabloon maken
 * Een sjabloon maken van een bestaand project
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
 
 ## Sjablonen die zijn gemaakt met [!UICONTROL Blueprints]
 

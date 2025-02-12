@@ -11,7 +11,7 @@ jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Dit scenario leidt tot een gemakwinkel app zodat kunnen zij gemakkelijk bepalen 
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
->[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on&enablevpops)
 
 
 ## Postman instellen
@@ -37,9 +37,9 @@ Als u de doorlichting wilt volgen, moet u de gratis Postman-toepassing downloade
 
 1. Maak een werkruimte en open deze.
 1. Klik op het tabblad Nieuw en maak een nieuwe verzameling met de naam Drinking Age.
-1. Klik nogmaals op het tabblad Nieuw en maak een nieuwe aanvraag voor een GET met de naam GET verjaardatum.
-1. Wijzig de aanvraagactie van GET naar POST.
-1. Ga naar het subtabgebied Body onder het veld URL POST.
+1. Klik nogmaals op het tabblad Nieuw en maak een nieuwe GET-aanvraag met de naam GET verjaardatum.
+1. Wijzig de aanvraagactie van GET in POST.
+1. Ga naar het subtabblad Body onder het veld POST URL.
 1. Kies formuliergegevens onder het subtabblad Autorisatie.
 1. Maak drie toetsen voor Naam, Verjaardatum en ClientToken.
 

@@ -12,7 +12,8 @@ last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 00556e76-6646-412e-9aac-68eda7c75e02
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -31,7 +32,7 @@ In deze video leert u de volgende dingen over type duur en taakbeperkingen:
 * Aanbevolen procedures voor het gebruik ervan
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
 
 
 Voor informatie over hoe te om een types van Duur en de mening van taakbeperkingen tot stand te brengen, zie de types van Duur en de activiteit van de taakbeperkingsmening in [ een basismening ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en) creëren.

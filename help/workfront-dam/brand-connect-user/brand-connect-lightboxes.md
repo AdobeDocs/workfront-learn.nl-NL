@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In deze video leert u hoe u:
 * Lichtbakken controleren en beheren
 * Samenwerken op een lichtbak
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops)
 
 ## Lichtbakken versus mappen
 

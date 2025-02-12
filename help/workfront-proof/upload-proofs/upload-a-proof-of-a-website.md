@@ -11,7 +11,7 @@ thumbnail: 335135.png
 jira: KT-8835
 exl-id: 7e75e409-f87e-46f6-8ff1-f55bbdd892f6
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In deze video leert u hoe u:
 * Een website uploaden als een statische proefdruk
 * Een website uploaden als een interactieve proefdruk
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops)
 
 
 ## Overwegingen voor interactieve inhoud

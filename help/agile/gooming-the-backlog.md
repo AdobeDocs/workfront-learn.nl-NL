@@ -8,7 +8,7 @@ jira: KT-10873
 thumbnail: 346283.jpeg
 exl-id: ebd18f1d-f309-4e99-9c76-8aabd4009806
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Leer hoe u artikelen kunt onderverdelen in kleinere artikelen, de prioriteit van artikelen kunt wijzigen op de achtergrond en kunt vaststellen dat artikelen klaar zijn om in een herhaling te worden geplaatst.
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops)

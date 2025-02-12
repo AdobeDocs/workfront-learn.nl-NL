@@ -13,7 +13,7 @@ hide: true
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -27,7 +27,7 @@ U leert hoe te:
 * Een sjabloon delen met andere gebruikers
 * Projecten delen die zijn gemaakt met een sjabloon
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

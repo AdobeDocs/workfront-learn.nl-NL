@@ -12,7 +12,7 @@ last-substantial-update: 2024-08-08T00:00:00Z
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: 55edb8b797583f93f405c9c6b69422b818c90cdc
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '535'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Elke fase van een geautomatiseerde workflow heeft een eigen sectie waarin u dead
 
 In deze video worden enkele wijzigingen getoond die u kunt aanbrengen in het gebied [!UICONTROL Workflow] . Raadpleeg de lijst met opsommingstekens in deze video, waarin deze instellingen worden bekeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops)
 
 Hier volgen de wijzigingen in de proefdruksjabloon die u kunt aanbrengen in de sectie [!UICONTROL Workflow] :
 

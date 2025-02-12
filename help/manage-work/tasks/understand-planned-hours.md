@@ -13,7 +13,7 @@ last-substantial-update: 2024-06-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In deze video leert u:
 * Hoe u geplande uren inschat
 * Hoe te om geplande uren aan taken toe te voegen
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
 
 
 ## Aanbevolen zelfstudies en artikelen over dit onderwerp

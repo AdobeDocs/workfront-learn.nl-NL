@@ -1,6 +1,6 @@
 ---
 title: ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS-expressies maken
-description: Leer hoe te om de uitdrukkingen ADD op een berekend gebied in Adobe te gebruiken en tot stand te brengen  [!DNL Workfront].
+description: Leer om de uitdrukkingen ADD op een berekend gebied in Adobe te gebruiken en tot stand te brengen  [!DNL Workfront].
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -11,7 +11,7 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In deze video leert u:
 * Wat de expressies ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR berekenen
 * Een ADDWEEKDAYS-gegevensexpressie maken in een berekend veld
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops)
 
 ## Aanvullende voorbeelden
 

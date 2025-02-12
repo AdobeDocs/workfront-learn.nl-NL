@@ -11,7 +11,7 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Tags toewijzen aan gebruikers op [!DNL Workfront] updates
 * Reageren op bestaande updates
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops)
 
 ## Tips voor het bijwerken van werk in [!UICONTROL Home]
 
@@ -39,7 +39,7 @@ paragraph below needs a hyperlink to an article
 --->
 
 * Als u niet aan een taak bent toegewezen maar meldingen wilt ontvangen, meldt u zich aan voor de taak. Meer informatie vindt u in het artikel Abonneren op items in [!UICONTROL Workfront] in de nieuwe [!UICONTROL Workfront] -ervaring.
-* Post werkt op een bepaalde dag van de week bij, zodat iedereen weet wanneer hij naar de recentste informatie moet zoeken.
+* Publiceer updates op een bepaalde dag van de week zodat iedereen weet wanneer hij naar de meest recente informatie moet zoeken.
 * Gebruik de tekstgereedschappen met tekstopmaak om uw updates op te maken. Laat de informatie opvallen met vet of maak een eenvoudig te lezen overzicht met opsommingstekens.
 
 <!---

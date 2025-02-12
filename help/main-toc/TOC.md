@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '2338'
+source-wordcount: '2347'
 ht-degree: 0%
 
 ---
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 # Workfront-tutorials {#tutorials-workfront}
 
-+ [Workfront Tutorials](home.md)
++ [Workfront-zelfstudies](home.md)
 + Beheer en installatie {#administration-and-setup}
    + Organisatorische instellingen {#organizational-setup}
       + [Teams maken](/help/administration-and-setup/organizational-setup/user-organization-teams.md)
@@ -200,6 +200,7 @@ ht-degree: 0%
       + [Een basisweergave maken](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [Voorwaardelijke basisopmaak toevoegen aan een weergave](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Een basisfilter maken](/help/reporting/basic-reporting/create-a-basic-filter.md)
+      + [De nieuwe filterervaring begrijpen](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [Basisfilteractiviteiten maken](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Een eenvoudig rapport maken](/help/reporting/basic-reporting/create-a-simple-report.md)
       + [Een taakrapport maken](/help/reporting/basic-reporting/create-a-task-report.md)
@@ -294,7 +295,7 @@ ht-degree: 0%
       + [Initiatieven maken met een abonnement](/help/manage-resources/scenario-planner/creating-initiatives-within-a-plan.md)
       + [De rol, het budget en de kosteninformatie van de baan in de Planner van het Scenario aanpassen](/help/manage-resources/scenario-planner/adjust-job-role-budget-and-cost-information-in-the-scenario-planner.md)
       + [Plannen bijwerken en kopiëren](/help/manage-resources/scenario-planner/update-and-copy-plans.md)
-      + [Publish een scenario](/help/manage-resources/scenario-planner/publish-a-scenario.md)
+      + [Een scenario publiceren](/help/manage-resources/scenario-planner/publish-a-scenario.md)
 
 + Workfront-doelen {#workfront-goals}
    + Een visie voor uw org vaststellen {#establish-a-vision-and-strategy}
@@ -355,8 +356,8 @@ ht-degree: 0%
       + [ Toegang Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
       + [ Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
       + [ creeer de taken van Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
-      + [ legt de verzoeken van Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html) voor
-      + [ beheer de berichten van Adobe Workfront in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
+      + [ legt Adobe Workfront verzoeken van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html) voor
+      + [ beheer Adobe Workfront berichten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [Workfront for [!UICONTROL Slack] begrijpen](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -553,7 +554,7 @@ ht-degree: 0%
       + [De beste werkwijzen voor metagegevens en trefwoorden](/help/workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [Werken met elementen als contribuant](/help/workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [Een bestand verzenden als contribuant](/help/workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
-      + [Publish-activa als contribuant](/help/workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
+      + [Elementen publiceren als contribuant](/help/workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
       + [Een koppeling [!UICONTROL Workfront DAM] toevoegen](/help/workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
 
    + Merk Connect-gebruiker {#brand-connect}
@@ -649,5 +650,5 @@ ht-degree: 0%
 
 + [Aanvragen beheren](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [Begrijp de grafiek van de middelcapaciteit](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
-
++ [Basisgroeperingsactiviteiten maken](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
 

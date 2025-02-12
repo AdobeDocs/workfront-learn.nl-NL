@@ -12,7 +12,7 @@ jira: KT-8722
 recommendations: noDisplay,catalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In deze video leert u:
 * Tijdschema&#39;s maken op een diagram
 * Hoe te om extra grafieken te maken verschijnen
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops)
 
 ## Klik op een diagram voor meer informatie
 

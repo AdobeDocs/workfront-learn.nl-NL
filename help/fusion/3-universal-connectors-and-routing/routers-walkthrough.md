@@ -11,7 +11,7 @@ jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '853'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de 
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
->[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on&enablevpops)
 
 ## URL&#39;s uitvoeren
 
@@ -56,7 +56,7 @@ Tot dit punt, hebt u met zeer eenvoudige API (de Interface van de Programmering 
 
 Workfront en veel softwaresystemen zijn gebouwd met behulp van de REST-API (Representational State Transfer), het eenvoudigste en meest standaard type API dat momenteel wordt gebruikt. Er zijn echter een paar andere, zoals:
 
-* SOAP (Simple Object Access Protocol) (API voor proefdrukken van Workfront is SOAP)
+* SOAP (Simple Object Access Protocol) (Bewijs-API van Workfront is gebaseerd op SOAP)
 * FTP (File Transfer Protocol)
 * SFTP (Secure File Transfer Protocol)
 * Zoek op internet naar API-typen en trefwoorden voor meer informatie.
@@ -71,7 +71,7 @@ API-verificatie is een vorm van identificatie die wordt gebruikt om de toegang t
 
 Verificatie kan het moeilijkste aspect zijn van het werken met een API. Een van de meest waardevolle functies van de universele connectors van Workfront Fusion is dat Workfront Fusion verificatie voor u kan afhandelen bij het gebruik van veelgebruikte verificatiemethoden zoals basisverificatie, zoals OAuth 2, API Key en andere. Zodra u een verbinding gebruikend de aangewezen module van de Fusie van Workfront voor uw authentificatiemethode (b.v. OAuth 2) creeert, zal de Fusion van Workfront voortdurend API sleutels en/of tekenen produceren telkens als u uw scenario wilt in werking stellen.
 
-Meer informatie over de verschillende verificatietypen die Workfront biedt in het artikel met uitgebreide verificatieoverzichten op Experience League.
+Meer informatie over de verschillende verificatietypen die Workfront biedt, vindt u in het artikel met uitgebreide verificatieoverzichten op Experience League.
 
 ## Stap 3: Lees de API-documentatie en zoek de benodigde eindpunten
 
@@ -79,11 +79,11 @@ Wanneer een API met een ander systeem in wisselwerking staat, worden de aanraakp
 
 Wanneer u met een API werkt via een universele aansluiting, moet u begrijpen welke eindpunten door de API worden ondersteund en welke gegevens voor elke aanvraag zijn vereist. API-documentatie moet de eindpunten van een API beschrijven en aangeven hoe algemene bewerkingen zoals maken, lezen, bijwerken of verwijderen moeten worden uitgevoerd. Het uitvoeren van deze vraag vereist één of andere praktijk, vooral als u aan het maken van API vraag of aan het werken met nieuwe API nieuw bent.
 
-Meer informatie over Workfront Fusion Universal Connectors en hoe u deze kunt instellen voor verbinding met de API&#39;s die u op het Experience League nodig hebt.
+Meer informatie over Workfront Fusion Universal Connectors en hoe u deze kunt instellen voor verbinding met de API&#39;s die u nodig hebt op Experience League.
 
 ## Slotopmerking
 
-U kunt de volledige lijst van onze vooraf gebouwde app schakelaars in Experience League controleren. Als u een nieuwe app-aansluiting wilt voorstellen aan het Workfront Fusion-productteam, dient u uw idee in bij Innovation Lab. Als u nog niet eerder hebt ingediend, leert u meer over het Innovatielaboratorium, plus hoe u op ideeën kunt stemmen en kunt deelnemen aan de tweemaandelijkse prioriteit van het Leaderboard. Als u reeds toegang tot het laboratorium van Innovatie hebt, login en leg uw ideeën voor.
+U kunt de volledige lijst van onze vooraf gebouwde appendconnectors in Experience League controleren. Als u een nieuwe app-aansluiting wilt voorstellen aan het Workfront Fusion-productteam, dient u uw idee in bij Innovation Lab. Als u nog niet eerder hebt ingediend, leert u meer over het Innovatielaboratorium, plus hoe u op ideeën kunt stemmen en kunt deelnemen aan de tweemaandelijkse prioriteit van het Leaderboard. Als u reeds toegang tot het laboratorium van Innovatie hebt, login en leg uw ideeën voor.
 
 ## Uw beurt
 
