@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: kt-8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,3 @@ In deze video leert u:
 * Een filter delen met andere Workfront-gebruikers
 
 >[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
-
-## De nieuwe filterervaring begrijpen
-
-In deze video leert u hoe u:
-
-* De nieuwe filterervaring in- en uitschakelen
-* Filters maken en bewerken
-* Stapelfilters
-
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
