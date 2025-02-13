@@ -1,6 +1,6 @@
 ---
-title: Een taakrapport maken
-description: Leer hoe u een taakrapport maakt met een complex filter en de rapporten vindt die u maakt in Workfront. Activiteit - maak een notitierapport met aanwijzingen.
+title: Taakrapportactiviteiten maken
+description: De praktijk die tot taakrapporten leidt, met geleidelijke instructies.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,25 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
-exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 3%
+source-wordcount: '778'
+ht-degree: 0%
 
 ---
 
-# Een taakrapport maken
+# Taakrapportactiviteiten maken
 
-In deze video leert u:
-
-* Hoe te om een taakrapport met een complex filter te creëren
-* Hoe te de rapporten vinden u creeert
-
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
-
-
+De praktijk die tot taakrapporten leidt, met geleidelijke instructies.
 
 >[!TIP]
 >

@@ -1,6 +1,6 @@
 ---
-title: Een matrixrapport maken
-description: Leer wanneer een matrixrapport nuttig kan zijn en hoe te om een matrixrapport in Workfront tot stand te brengen.
+title: Matrixrapportactiviteiten maken
+description: Praktijk die matrixrapporten, met geleidelijke instructies tot stand brengt.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
 
-# Een matrixrapport maken
+# Matrixrapportactiviteiten maken
 
-In deze video leert u:
-
-* Wanneer een matrixrapport nuttig kan zijn
-* En hoe te om een matrixrapport te creëren
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+Praktijk die matrixrapporten, met geleidelijke instructies tot stand brengt.
 
 ## Activiteit 1: Een matrixrapport maken
 

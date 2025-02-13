@@ -1,6 +1,6 @@
 ---
-title: Rapporten verzenden en delen
-description: Leer hoe u rapporten naar gebruikers, teams of elk ander e-mailadres verzendt en hoe u rapporten met iedereen in Workfront kunt delen.
+title: Rapportactiviteiten verzenden en delen
+description: U kunt rapporten verzenden en delen met stapsgewijze instructies.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,24 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-# Rapporten verzenden en delen
+# Rapportactiviteiten verzenden en delen
 
-In deze video leert u:
-
-* Hoe te om rapporten naar gebruikers, teams, of om het even welk e-mailadres te verzenden
-* Hoe te om rapporten met iedereen te delen
-* Wat de ontvangers kunnen zien en doen met een Workfront-rapport
-
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+U kunt rapporten verzenden en delen met stapsgewijze instructies.
 
 ## Activiteit 1: Een rapport verzenden
 

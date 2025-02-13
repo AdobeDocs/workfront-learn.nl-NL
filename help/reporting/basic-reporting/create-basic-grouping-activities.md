@@ -11,14 +11,18 @@ team: Technical Marketing
 jira: KT-8853
 hidefromtoc: true
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '174'
 ht-degree: 1%
 
 ---
 
-# Activiteit: Een basisgroep maken
+# Basisgroeperingsactiviteiten maken
+
+Praktijk die basisgroeperingen met geleidelijke instructies tot stand brengt.
+
+## Activiteit 1: Een groep voor een aanvraagwachtrij maken
 
 Creeer een kwestie groeperen die in een rapport zal worden gebruikt om verzoeken te volgen die door een verzoekrij komen. Deze groepering zal het gemakkelijk maken om gelijkaardige types van kwesties/verzoeken te zien die door hun prioriteit worden gegroepeerd. Noem de groepering &quot;de Rij van het Verzoek, het Onderwerp van de Rij, Prioriteit.&quot;
 
@@ -28,7 +32,7 @@ Groepeer het probleemrapport op basis van:
 1. Het rijonderwerp
 1. De prioriteit van het verzoek
 
-## Antwoord
+## Antwoord 1
 
 ![ een beeld van het scherm om een nieuwe groepering ](assets/grouping-exercise.png) te creëren
 

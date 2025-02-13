@@ -1,6 +1,6 @@
 ---
-title: Rapporten maken met grafieken
-description: Leer hoe grafieken de visualisatie van gegevens kunnen verbeteren en hoe u grafiekgereedschappen kunt gebruiken in Workfront.
+title: Rapporten maken met grafiekactiviteiten
+description: U kunt rapporten met grafieken maken met stapsgewijze instructies.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
 
-# Rapporten maken met grafieken
+# Rapporten maken met grafiekactiviteiten
 
-In deze video leert u:
-
-* Hoe grafieken de visualisatie van gegevens kunnen verbeteren
-* Workfront-grafiekgereedschappen gebruiken
-
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+U kunt rapporten met grafieken maken met stapsgewijze instructies.
 
 ## Activiteit 1: Een grafiek toevoegen aan een rapport
 

@@ -1,6 +1,6 @@
 ---
-title: Dashboards maken
-description: Leer hoe u verschillende lijstrapporten, grafieken, agenda's en externe webpagina's kunt combineren in een dashboard in Workfront.
+title: Dashboardactiviteiten maken
+description: U kunt dashboards maken met stapsgewijze instructies.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,26 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 5%
+source-wordcount: '379'
+ht-degree: 1%
 
 ---
 
-# Dashboards maken
+# Dashboardactiviteiten maken
 
-In deze video leert u:
-
-* Wat een dashboard in Workfront is
-* Een dashboard maken
-* Dashboards zoeken en gebruiken
-* Een dashboard delen met andere Workfront-gebruikers
-* Een dashboard afdrukken
-
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+U kunt dashboards maken met stapsgewijze instructies.
 
 ## Activiteit 1: Een dashboard maken
 

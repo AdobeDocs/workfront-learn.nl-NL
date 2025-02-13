@@ -1,6 +1,6 @@
 ---
-title: Een basisweergave maken
-description: Leer wat een mening is, hoe te om een mening tot stand te brengen, en hoe te om een mening met andere gebruikers in Workfront te delen.
+title: Basisweergaveactiviteiten maken
+description: Praktijk die basismeningen met geleidelijke instructies creeert.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,24 +10,17 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '611'
 ht-degree: 1%
 
 ---
 
-# Een basisweergave maken
+# Basisweergaveactiviteiten maken
 
-In deze video leert u:
-
-* Wat een weergave in Workfront
-* Een weergave maken en wijzigen
-* Een weergave delen met andere Workfront-gebruikers
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+Praktijk die basismeningen met geleidelijke instructies creeert.
 
 ## Activiteit 1: Een taakstatusweergave maken
 
@@ -43,7 +36,7 @@ Maak een taakweergave met de naam &quot;Taakstatusweergave&quot; met de volgende
 * [!UICONTROL Progress Status]
 * [!UICONTROL Status Icons]
 
-## Antwoord 1
+## Antwoord op activiteit 1
 
 ![ een beeld van het scherm om een mening van de taakstatus tot stand te brengen ](assets/view-exercise.png)
 
@@ -76,7 +69,7 @@ Maak een taakweergave met de naam &quot;Weergave van mijlpaal&quot; met de volge
 * [!UICONTROL Percent Complete]
 
 
-## Antwoord 2
+## Antwoord op activiteit 2
 
 ![ een beeld van het scherm om een milestone mening ](assets/view-milestone-exercise-1.png) te creëren
 
@@ -108,7 +101,7 @@ Creeer een taakmening genoemd &quot;de types van Duur en de mening van taakbeper
 
 Wijzig [!UICONTROL Field Format] in de kolommen [!UICONTROL Start On] en [!UICONTROL Due On] om zowel de datum als de tijd weer te geven.
 
-## Antwoord 3
+## Activiteit 3 Antwoord
 
 ![ een beeld van het scherm dat de duurtypes en de mening van taakbeperkingen toont ](assets/view-activity-3.png)
 
@@ -146,7 +139,7 @@ Creeer een mening van het projectmalplaatje genoemd &quot;Standaard+actieve stat
 * [!UICONTROL Is Active]
 
 
-## Antwoord 4
+## Activiteit 4 Antwoord
 
 ![ een beeld van het scherm om een actieve de statusmening van het projectmalplaatje te tonen ](assets/view-activity-4.png)
 

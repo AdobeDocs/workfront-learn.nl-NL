@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '2347'
+source-wordcount: '2377'
 ht-degree: 0%
 
 ---
@@ -648,9 +648,16 @@ ht-degree: 0%
 
 
 <!---
-The following tutorials are hidden from the TOC but need to be here so their links can be referenced.
+The following tutorials are hidden from the TOC but need to be here so their links can be referenced by vPops in playlists.
 --->
-+ [Aanvragen beheren](/help/manage-work/issues-requests/manage-incoming-requests.md)
-+ [Begrijp de grafiek van de middelcapaciteit](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
+
 + [Basisgroeperingsactiviteiten maken](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
++ [Basisweergaveactiviteiten maken](/help/reporting/basic-reporting/create-basic-view-activities.md)
++ [Standaardvoorwaardelijke opmaak toevoegen aan een weergaveactiviteit](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view-activities.md)
++ [Eenvoudige rapportactiviteiten maken](/help/reporting/basic-reporting/create-simple-report-activities.md)
++ [Taakrapportactiviteiten maken](/help/reporting/basic-reporting/create-task-report-activities.md)
++ [Rapporten maken met grafiekactiviteiten](/help/reporting/basic-reporting/create-reports-with-charts-activities.md)
++ [Matrixrapportactiviteiten maken](/help/reporting/basic-reporting/create-matrix-report-activities.md)
++ [Dashboardactiviteiten maken](/help/reporting/basic-reporting/create-dashboard-activities.md)
++ [Rapportactiviteiten verzenden en delen](/help/reporting/basic-reporting/send-and-share-reports-activities.md)
 
