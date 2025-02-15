@@ -11,9 +11,9 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,11 @@ In deze video leert u hoe u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Activiteit 1: Een eenvoudig taakrapport maken
+## Eenvoudige rapportactiviteiten maken
+
+[ klik hier ](/help/assets/create-simple-report-activities.pdf) om een PDF van deze pagina te downloaden.
+
+### Activiteit 1: Een eenvoudig taakrapport maken
 
 U wilt al uw actieve taken in één enkel rapport volgen. Creeer een rapport van de Taak genoemd &quot;Mijn Huidige Taken&quot;gebruikend het volgende:
 
@@ -35,7 +39,7 @@ U wilt al uw actieve taken in één enkel rapport volgen. Creeer een rapport van
 * Filter = Mijn huidige taken
 * Beschrijving = Onvolledige taken op Huidige projecten waar ik de taakeigenaar ben, gegroepeerd door project.
 
-## Antwoord 1
+### Antwoord 1
 
 1. Ga naar de **[!UICONTROL Main Menu]** en selecteer **[!UICONTROL Reports]** .
 1. Klik op de vervolgkeuzelijst **[!UICONTROL New Report]** en selecteer **[!UICONTROL Task Report]** .

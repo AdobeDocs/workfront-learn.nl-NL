@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '2377'
+source-wordcount: '2336'
 ht-degree: 0%
 
 ---
@@ -645,19 +645,4 @@ ht-degree: 0%
 + Workfront for executives {#workfront-for-executives}
    + [Workfront voor leidinggevenden](/help/workfront-for-executives/workfront-for-executives.md)
 
-
-
-<!---
-The following tutorials are hidden from the TOC but need to be here so their links can be referenced by vPops in playlists.
---->
-
-+ [Basisgroeperingsactiviteiten maken](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
-+ [Basisweergaveactiviteiten maken](/help/reporting/basic-reporting/create-basic-view-activities.md)
-+ [Standaardvoorwaardelijke opmaak toevoegen aan een weergaveactiviteit](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view-activities.md)
-+ [Eenvoudige rapportactiviteiten maken](/help/reporting/basic-reporting/create-simple-report-activities.md)
-+ [Taakrapportactiviteiten maken](/help/reporting/basic-reporting/create-task-report-activities.md)
-+ [Rapporten maken met grafiekactiviteiten](/help/reporting/basic-reporting/create-reports-with-charts-activities.md)
-+ [Matrixrapportactiviteiten maken](/help/reporting/basic-reporting/create-matrix-report-activities.md)
-+ [Dashboardactiviteiten maken](/help/reporting/basic-reporting/create-dashboard-activities.md)
-+ [Rapportactiviteiten verzenden en delen](/help/reporting/basic-reporting/send-and-share-reports-activities.md)
 

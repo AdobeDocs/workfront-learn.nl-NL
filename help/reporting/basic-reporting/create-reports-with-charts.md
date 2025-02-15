@@ -11,9 +11,9 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,15 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## Activiteit 1: Een grafiek toevoegen aan een rapport
+## Rapporten maken met grafiekactiviteiten
+
+[ klik hier ](/help/assets/create-reports-with-charts-activities.pdf) om een PDF van deze pagina te downloaden.
+
+### Activiteit 1: Een grafiek toevoegen aan een rapport
 
 Het einde van het kwartaal nadert en u wilt zien hoe recent voltooide projecten zich aan hun budget hebben gekleed. Maak een rapport met de geplande kosten ten opzichte van de werkelijke kosten voor projecten. U wilt alleen projecten zien die in het laatste kwartaal zijn voltooid. Voeg een kleurengrafiek van de combinatiekolom toe gebruikend douanekleuren.
 
-## Antwoord 1
+### Antwoord 1
 
 1. Selecteer **[!UICONTROL Reports]** in het menu **[!UICONTROL Main Menu]** .
 1. Klik op het menu **[!UICONTROL New Report]** en selecteer **[!UICONTROL Project]** .

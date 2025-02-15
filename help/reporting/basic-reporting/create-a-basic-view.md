@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '651'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,11 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Activiteit 1: Een taakstatusweergave maken
+## Basisweergaveactiviteiten maken
+
+[ klik hier ](/help/assets/create-basic-view-activities.pdf) om een PDF van deze pagina te downloaden.
+
+### Activiteit 1: Een taakstatusweergave maken
 
 Als projectmanager, teamleider, of middelmanager, wilt u bijhouden hoe het taakwerk vordert. In deze weergave ziet u verschillende statusindicatoren voor een taak, allemaal in één rij van de lijst of het rapport.
 
@@ -43,7 +47,7 @@ Maak een taakweergave met de naam &quot;Taakstatusweergave&quot; met de volgende
 * [!UICONTROL Progress Status]
 * [!UICONTROL Status Icons]
 
-## Antwoord 1
+### Antwoord 1
 
 ![ een beeld van het scherm om een mening van de taakstatus tot stand te brengen ](assets/view-exercise.png)
 
@@ -60,7 +64,7 @@ Maak een taakweergave met de naam &quot;Taakstatusweergave&quot; met de volgende
 
 Houd de muisaanwijzer boven elk pictogram in de kolom [!UICONTROL Status Icons] om te zien wat de pictogrammen vertegenwoordigen. Als ze grijs zijn, betekent dit dat de taak geen notities, documenten, goedkeuringsprocedures, enzovoort bevat. Als een pictogram in kleur verschijnt, is er minstens één van dat punt verbonden aan de taak. U kunt op de notitie- of documentpictogrammen klikken om naar dat item te gaan.
 
-## Activiteit 2: Een mijlpaalweergave maken
+### Activiteit 2: Een mijlpaalweergave maken
 
 Als u mijlpalen gebruikt, is deze mening de gemakkelijkste manier om mijlpalen door naam te zien en hen toe te voegen of uit te geven gebruikend in-lijn uitgeven.
 
@@ -76,7 +80,7 @@ Maak een taakweergave met de naam &quot;Weergave van mijlpaal&quot; met de volge
 * [!UICONTROL Percent Complete]
 
 
-## Antwoord 2
+### Antwoord 2
 
 ![ een beeld van het scherm om een milestone mening ](assets/view-milestone-exercise-1.png) te creëren
 
@@ -88,7 +92,7 @@ Maak een taakweergave met de naam &quot;Weergave van mijlpaal&quot; met de volge
 
 ![ een beeld van een taaklijst gebruikend een milestone mening ](assets/view-milestone-exercise-2.png)
 
-## Activiteit 3: Een type duur en een weergave met taakbeperkingen maken
+### Activiteit 3: Een type duur en een weergave met taakbeperkingen maken
 
 Deze mening zal u toestaan om alle duurtypes en taakbeperkingen in uw project te onderzoeken en uit te geven.
 
@@ -108,7 +112,7 @@ Creeer een taakmening genoemd &quot;de types van Duur en de mening van taakbeper
 
 Wijzig [!UICONTROL Field Format] in de kolommen [!UICONTROL Start On] en [!UICONTROL Due On] om zowel de datum als de tijd weer te geven.
 
-## Antwoord 3
+### Antwoord 3
 
 ![ een beeld van het scherm dat de duurtypes en de mening van taakbeperkingen toont ](assets/view-activity-3.png)
 
@@ -130,7 +134,7 @@ Wijzig [!UICONTROL Field Format] in de kolommen [!UICONTROL Start On] en [!UICON
 1. Selecteer onder de vervolgkeuzelijst [!UICONTROL Field Format] de optie [!UICONTROL "10/17/60 3:00 AM"] .
 1. Klik op **[!UICONTROL Save]**.
 
-## Activiteit 4: Een actieve statusweergave van een projectsjabloon maken
+### Activiteit 4: Een actieve statusweergave van een projectsjabloon maken
 
 Iedereen die projectmalplaatjes beheert zal het zien van de actieve status (Waar of Onwaar) van elke malplaatje in een lijst waarderen. Nog beter - het veld is online bewerkbaar!
 
@@ -146,7 +150,7 @@ Creeer een mening van het projectmalplaatje genoemd &quot;Standaard+actieve stat
 * [!UICONTROL Is Active]
 
 
-## Antwoord 4
+### Antwoord 4
 
 ![ een beeld van het scherm om een actieve de statusmening van het projectmalplaatje te tonen ](assets/view-activity-4.png)
 

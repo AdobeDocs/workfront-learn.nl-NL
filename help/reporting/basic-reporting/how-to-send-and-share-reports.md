@@ -11,9 +11,9 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,15 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Activiteit 1: Een rapport verzenden
+## Rapportactiviteiten verzenden en delen
+
+[ klik hier ](/help/assets/send-and-share-reports-activities.pdf) om een PDF van deze pagina te downloaden.
+
+### Activiteit 1: Een rapport verzenden
 
 Verzend elke maandag om 5.00 uur een rapport als spreadsheet van Excel. Dit is een goede manier om wekelijkse rapporten automatisch te verzamelen die u kunt later gebruiken om tendensen te zien.
 
-## Antwoord 1
+### Antwoord 1
 
 ![ een beeld van het scherm aan opstelling die rapportleveringen herhalen ](assets/send-a-report.png)
 

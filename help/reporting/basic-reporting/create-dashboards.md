@@ -11,9 +11,9 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '430'
 ht-degree: 5%
 
 ---
@@ -29,6 +29,10 @@ In deze video leert u:
 * Een dashboard afdrukken
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+
+## Dashboardactiviteiten maken
+
+[ klik hier ](/help/assets/create-dashboard-activities.pdf) om een PDF van deze pagina te downloaden.
 
 ## Activiteit 1: Een dashboard maken
 

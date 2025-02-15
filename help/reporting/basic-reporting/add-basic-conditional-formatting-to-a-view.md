@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,11 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## Samenvatting
+## Standaardvoorwaardelijke opmaak toevoegen aan een weergaveactiviteit
+
+[ klik hier ](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf) om een PDF van deze pagina te downloaden.
+
+### Samenvatting
 
 Voorwaardelijke opmaak maken:
 
@@ -42,7 +46,7 @@ Voorwaardelijke opmaak maken:
    * vervangende tekst
    * een pictogram tonen
 
-## Activiteit 1: Voorwaardelijke opmaak toevoegen aan een weergave
+### Activiteit 1: Voorwaardelijke opmaak toevoegen aan een weergave
 
 Maak een taakweergave met de naam &quot;Standard + Progress&quot; door de bestaande standaardweergave te gebruiken en deze voorwaardelijke opmaak toe te voegen aan de kolom [!UICONTROL Name] .
 
@@ -51,7 +55,7 @@ Maak een taakweergave met de naam &quot;Standard + Progress&quot; door de bestaa
 
 Dit zal u vlekken problemen taken zonder de kolom voor vooruitgangsstatus als deel van uw mening te omvatten.
 
-## Antwoord 1
+### Antwoord 1
 
 ![ een beeld van het scherm om een nieuwe kolomregel ](assets/conditional-formatting-exercise.png) tot stand te brengen
 

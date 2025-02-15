@@ -11,9 +11,9 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -27,13 +27,17 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## Activiteit 1: Een matrixrapport maken
+## Matrixrapportactiviteiten maken
+
+[ klik hier ](/help/assets/create-matrix-report-activities.pdf) om een PDF van deze pagina te downloaden.
+
+### Activiteit 1: Een matrixrapport maken
 
 Creeer een matrixrapport dat toont hoeveel verzoeken er in elke status zijn, die door verzoekrij wordt gesorteerd. Dit geeft je een snelle momentopname van de hoeveelheid werk die binnenkomt en hoe goed je het bijhoudt.
 
 U wilt dat de aanvraagrijen op de rijgroepen verschijnen. De status wordt weergegeven als kolomgroepen. Geef uw rapport de naam &quot;Verzoeken op status en Wachtrij aanvragen&quot;.
 
-## Antwoord 1
+### Antwoord 1
 
 1. Selecteer **[!UICONTROL Reports]** in het menu **[!UICONTROL Main Menu]** .
 1. Klik op de optie **[!UICONTROL New Report]** en selecteer **[!UICONTROL Issue]** .

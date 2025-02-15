@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '216'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,11 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## Activiteit: Een basisgroep maken
+## Basisgroeperingsactiviteiten maken
+
+[ klik hier ](/help/assets/create-basic-grouping-activities.pdf) om een PDF van deze pagina te downloaden.
+
+### Activiteit 1: Een basisgroep maken
 
 Creeer een kwestie groeperen die in een rapport zal worden gebruikt om verzoeken te volgen die door een verzoekrij komen. Deze groepering zal het gemakkelijk maken om gelijkaardige types van kwesties/verzoeken te zien die door hun prioriteit worden gegroepeerd. Noem de groepering &quot;de Rij van het Verzoek, het Onderwerp van de Rij, Prioriteit.&quot;
 
@@ -38,7 +42,7 @@ Groepeer het probleemrapport op basis van:
 1. Het rijonderwerp
 1. De prioriteit van het verzoek
 
-## Antwoord
+### Antwoord 1
 
 ![ een beeld van het scherm om een nieuwe groepering ](assets/grouping-exercise.png) te creëren
 

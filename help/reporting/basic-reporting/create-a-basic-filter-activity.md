@@ -11,14 +11,16 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '348'
 ht-degree: 1%
 
 ---
 
 # Basisfilteractiviteiten maken
+
+[ klik hier ](/help/assets/create-basic-filter-activities.pdf) om een PDF van deze pagina te downloaden.
 
 ## Activiteit 1 - Alle projecten in de marketingportefeuille
 
@@ -26,7 +28,7 @@ In deze activiteit zult u een projectfilter genoemd &quot;Alle projecten in de p
 
 Hieronder vindt u stapsgewijze instructies.
 
-### Antwoord op Activiteit 1
+## Antwoord op Activiteit 1
 
 ![ een beeld van het scherm om een nieuw filter ](assets/basic-filter-activity-1.png) tot stand te brengen
 
@@ -49,7 +51,7 @@ Hieronder vindt u stapsgewijze instructies.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
 
-### Antwoord op Activiteit 2
+## Antwoord op Activiteit 2
 
 ![ een beeld van het scherm om een nieuw filter ](assets/basic-filter-activity-updated-6-15-21.png) tot stand te brengen
 
