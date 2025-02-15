@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3310ca62542d2cb596c6fd50a740bae2bb6345f2
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In deze video leert u:
 * De belangrijkste componenten achter Workfront-rapportage
 * Hoe deze componenten in een rapporteringselement worden gebruikt
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
 ## Componenten rapporteren
 
