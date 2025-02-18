@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -23,14 +23,19 @@ ht-degree: 0%
 In deze video leert u hoe u:
 
 * Weet wanneer op datum gebaseerde jokertekens moeten worden gebruikt
-* Begrijp het verschil tussen de twee op datum-gebaseerde vervangingen van Workfront
+* Begrijp het verschil tussen Workfront die twee op datum-gebaseerde vervangingen
 * Een jokerteken op basis van datum toevoegen aan een filter
 * Een aangepaste datum maken met jokertekens, kenmerken, operatoren en wijzigingstoetsen
 * Een aangepast datumbereik maken met jokertekens
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
-## Activiteitenvragen
+
+## Filters maken met op datum gebaseerde jokertekenactiviteiten
+
+[ klik hier ](/help/assets/create-filters-with-date-based-wildcards-activities.pdf) om een PDF van deze pagina te downloaden.
+
+### Activiteitenvragen
 
 1. Hoe zou u de filterregel bouwen als u kwesties wilt die een verouderde datum van gisteren of vandaag hebben?
 1. Hoe zou u de filterregel bouwen om projecten te vinden die vorige week werden verwacht?
@@ -38,8 +43,8 @@ In deze video leert u hoe u:
 
 ![ een beeld van het scherm om een taakfilter met een op datum-gebaseerde vervanging ](assets/date-wildcard-answer-1.png) tot stand te brengen
 
-## Antwoorden
+### Antwoorden
 
 1. Filter op het probleem met de voltooiingsdatum tussen [!UICONTROL $$TODAY-1d] en [!UICONTROL $$TODAY] .
 1. Filter op de geplande volledige datum van het project tussen [!UICONTROL $$TODAYb-1w] en [!UICONTROL $$TODAYe-1w] .
-1. In dit rapport worden taken gevonden die aan u zijn toegewezen en die nog niet zijn voltooid (met andere woorden een percentage voltooid hebben dat kleiner is dan 100) en die op dit moment achterstallig of opeisbaar zijn. De filterregel voor de geplande voltooiingsdatum van de taken zegt om taken te bekijken die een vervaldatum gelijk aan of vóór de datum van vandaag hebben.
+1. Dit rapport vindt taken die aan u worden toegewezen die nog niet worden gebeëindigd (met andere woorden, een percentage hebben voltooid minder dan 100), en die achterstallig of te zijner tijd zijn. De filterregel voor de geplande voltooiingsdatum van de taken zegt om taken te bekijken die een vervaldatum gelijk aan of vóór de datum van vandaag hebben.

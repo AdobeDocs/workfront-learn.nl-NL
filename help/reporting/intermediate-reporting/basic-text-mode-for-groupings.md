@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,11 @@ In deze video leert u:
 * Wat kamelendoosje is
 * De standaardtekstmodus &quot;Plug and Play&quot; die u in de groepen kunt gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+
+## Basismodus voor groeperingsactiviteiten begrijpen
+
+[ klik hier ](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf) om een PDF van deze pagina te downloaden.
 
 ## Taak - 4 ouders groeperen
 

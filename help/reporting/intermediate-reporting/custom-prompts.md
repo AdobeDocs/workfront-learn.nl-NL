@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,11 @@ In deze video leert u:
 * Een aangepaste vraag maken met de tekstmodus
 * Enkele voorbeelden die u in uw rapportage kunt gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
+
+## Aangepaste herinneringsactiviteiten maken
+
+[ klik hier ](/help/assets/create-custom-prompts-activities.pdf) om een PDF van deze pagina te downloaden.
 
 ## Activiteit: Aangepaste aanwijzingen maken
 
