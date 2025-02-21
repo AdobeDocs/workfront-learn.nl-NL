@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '701'
 ht-degree: 0%
 
 ---
@@ -47,13 +47,13 @@ Als u klaar bent om de revisie te starten, hoeft u alleen maar op de blauwe knop
 
 ### Een proefdruk openen vanuit [!UICONTROL Home]
 
-Als u in [!DNL Workfront] werkt en u bent gevraagd een proefdruk goed te keuren, vindt u een toewijzing in de map [!UICONTROL Work List] of [!DNL Workfront] [!UICONTROL Home] . Het is handig om alleen [!UICONTROL Approvals] te selecteren in de [!UICONTROL Filter] , zodat u zich kunt concentreren op dat type werk.
+Als u in [!DNL Workfront] werkt en u bent gevraagd een proefdruk goed te keuren, vindt u een toewijzing in de [!UICONTROL My Approvals] widget van [!DNL Workfront] [!UICONTROL Home] .
 
-![ een beeld van [!DNL Workfront] [!UICONTROL Home] met het [!UICONTROL Approvals] geactiveerde filter en een proef die van de lijst wordt geselecteerd.](assets/open-proof-from-home.png)
+![ een beeld van [!UICONTROL My Approvals] widget in [!DNL Workfront] [!UICONTROL Home].](assets/open-proof-from-home.png)
 
-Het is belangrijk om op te merken dat de proefdrukken in [!DNL Workfront] [!UICONTROL Home] slechts verschijnen als u wordt toegewezen om het goed te keuren. Als u alleen de proefdruk wilt controleren, wordt deze niet weergegeven in [!DNL Workfront] [!UICONTROL Home] wanneer u [!UICONTROL Approvals] selecteert in de filterlijst.
+Het is belangrijk om op te merken dat de proefdrukken in [!DNL Workfront] [!UICONTROL Home] slechts verschijnen als u wordt toegewezen om het goed te keuren. Als u alleen de proefdruk wilt controleren, wordt deze niet weergegeven in [!DNL Workfront] [!UICONTROL Home] .
 
-Selecteer de proefdrukgoedkeuring in [!UICONTROL Work List] en klik vervolgens op de koppeling [!UICONTROL Go to Proof] om deze te openen in de proefdrukviewer.
+Klik op de koppeling [!UICONTROL Go to Proof] om deze te openen in de proefdrukviewer.
 
 Afhankelijk van de proefdruk- en projectworkflows van uw organisatie wordt mogelijk een taak toegewezen in [!DNL Workfront] [!UICONTROL Home] in plaats van een aanvraag voor proefdrukgoedkeuring. In dit geval opent u de proefdruk vanuit de sectie [!UICONTROL Documents] van de taak zelf (zie hieronder voor instructies).
 
