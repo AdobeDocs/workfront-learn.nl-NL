@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,10 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
 
-## Aangepaste herinneringsactiviteiten maken
+## Activiteiten voor aangepaste vragen maken
 
-[ klik hier ](/help/assets/create-custom-prompts-activities.pdf) om een PDF van deze pagina te downloaden.
 
-## Activiteit: Aangepaste aanwijzingen maken
+### Activiteit: Aangepaste aanwijzingen maken
 
 1. Creeer een douaneherinnering die de volgende projectstatussen in het snelle drop-down menu toont:
    * Planning
@@ -41,7 +40,7 @@ In deze video leert u:
    * Dead
 1. Wijzig de herinnering om huidige projecten te tonen die deze maand worden verwacht.
 
-## Antwoorden
+### Antwoorden
 
 1. Uw aangepaste aanwijzingen moeten er ongeveer als volgt uitzien en de volgende tekstmodus hebben:
 

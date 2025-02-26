@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ In deze video leert u hoe u:
 >U moet altijd de Gelijke filterkwalificatie gebruiken wanneer het gebruiken van op gebruiker-gebaseerde vervangingen.
 
 
-## Filters maken met op gebruikers gebaseerde jokertekenactiviteiten
-
-[ klik hier ](/help/assets/create-filters-with-user-based-wildcards-activities.pdf) om een PDF van deze pagina te downloaden.
+## &quot;Filters maken met op gebruikers gebaseerde jokertekens&quot;-activiteiten
 
 ### Activiteit 1
 

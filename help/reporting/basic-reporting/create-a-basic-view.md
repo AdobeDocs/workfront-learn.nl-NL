@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '643'
 ht-degree: 1%
 
 ---
@@ -29,9 +29,8 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## Basisweergaveactiviteiten maken
+## Activiteiten voor een basisweergave maken
 
-[ klik hier ](/help/assets/create-basic-view-activities.pdf) om een PDF van deze pagina te downloaden.
 
 ### Activiteit 1: Een taakstatusweergave maken
 

@@ -11,9 +11,9 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,7 @@ In deze video leert u hoe u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## Eenvoudige rapportactiviteiten maken
-
-[ klik hier ](/help/assets/create-simple-report-activities.pdf) om een PDF van deze pagina te downloaden.
+## Activiteiten voor &#39;Een eenvoudig rapport maken&#39;
 
 ### Activiteit 1: Een eenvoudig taakrapport maken
 

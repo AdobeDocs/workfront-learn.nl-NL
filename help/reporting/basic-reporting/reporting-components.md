@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 3310ca62542d2cb596c6fd50a740bae2bb6345f2
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
 
-## Componenten rapporteren
-
-[ klik hier ](/help/assets/reporting-components.pdf) om een PDF van deze pagina te downloaden.
+## Snelle verwijzing naar componenten rapporteren
 
 ![ een beeld van het scherm om een filter ](assets/reporting-components-1.png) tot stand te brengen
 

@@ -12,9 +12,9 @@ last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,10 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
-## Basistekstmodus voor filteractiviteiten begrijpen
+## De activiteiten van &quot;Understanding basic text mode for filters&quot;
 
-[ klik hier ](/help/assets/understand-basic-text-mode-for-filters-activities.pdf) om een PDF van deze pagina te downloaden.
 
-## Taak - Filter taken uit waar ik &quot;Gereed met mijn deel&quot; heb gemarkeerd
+### Taak - Filter taken uit waar ik &quot;Gereed met mijn deel&quot; heb gemarkeerd
 
 In de volgende tekstmodus worden taken uitgesloten waarvoor een gebruiker heeft aangegeven dat deze is uitgevoerd met Mijn onderdeel. U hoeft alleen maar een taakfilter te maken, filterregels toe te voegen en vervolgens over te schakelen naar de tekstmodus en de code hieronder te plakken na elke tekstmodus die u in het filter ziet.
 
@@ -64,7 +63,7 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
-## Taak - toon me alle taken die mijn goedkeuring wachten
+### Taak - toon me alle taken die mijn goedkeuring wachten
 
 ```
 approvalProcessID_Mod=notblank
@@ -73,7 +72,7 @@ currentUserApproversMM:ID_Mod=in
 currentUserApproversMM_Join=allowingnull
 ```
 
-## Taak - Toon me alle taken die ik heb goedgekeurd
+### Taak - Toon me alle taken die ik heb goedgekeurd
 
 Maak een taakrapport met de gewenste filters en ga vervolgens naar het tabblad Filter en klik op Overschakelen naar tekstmodus. Voeg deze code toe aan wat er al is:
 
@@ -83,7 +82,7 @@ approverStatuses:approvedByID=$$USER.ID
 approverStatuses:approvedByID_Mod=in
 ```
 
-## Taak - toon me alle taken die minstens één dwars-projectvoorganger hebben
+### Taak - toon me alle taken die minstens één dwars-projectvoorganger hebben
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -91,7 +90,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-## Taak - Toon me alle taken die ik aan anderen heb toegewezen
+### Taak - Toon me alle taken die ik aan anderen heb toegewezen
 
 Maak een taakrapport met de gewenste filters en ga vervolgens naar het tabblad Filter en klik op Overschakelen naar tekstmodus. Voeg deze code toe aan wat er al is:
 
@@ -107,7 +106,7 @@ EXISTS:1:assignedByID=$$USER.ID
 
 Dit zal u alle taken tonen waar de het programma geopende gebruiker minstens één van de huidige toegewezen. Als de toegewezen personen door meerdere personen zijn toegewezen, wordt alleen de naam van de eerste persoon die iemand heeft toegewezen, weergegeven als &quot;Gevraagd door&quot; op de bestemmingspagina.
 
-## Taak - toon me alle taken die - in afwachting van Goedkeuring volledig zijn
+### Taak - toon me alle taken die - in afwachting van Goedkeuring volledig zijn
 
 ```
 status=CPL:A
@@ -115,7 +114,7 @@ status_Mod=in
 ```
 
 
-## Uitgeven - Geef me alle voltooide problemen weer - in afwachting van goedkeuring
+### Uitgeven - Geef me alle voltooide problemen weer - in afwachting van goedkeuring
 
 ```
 status=CPL:A
@@ -123,7 +122,7 @@ status_Mod=in
 ```
 
 
-## Project - Toon me alle projecten die volledig zijn - in afwachting van Goedkeuring
+### Project - Toon me alle projecten die volledig zijn - in afwachting van Goedkeuring
 
 ```
 status=CPL:A
@@ -131,7 +130,7 @@ status_Mod=in
 ```
 
 
-## Opmerking - toon me alle opmerkingen waarin ik ben gelabeld
+### Opmerking - toon me alle opmerkingen waarin ik ben gelabeld
 
 ```
 tags:userID=$$USER.ID
@@ -139,7 +138,7 @@ tags:userID_Mod=in
 ```
 
 
-## Rapport Parameter/aangepast veld - Aangepaste velden weergeven die niet zijn gekoppeld aan een aangepast formulier (zeer nuttig bij opschonen)
+### Rapport Parameter/aangepast veld - Aangepaste velden weergeven die niet zijn gekoppeld aan een aangepast formulier (zeer nuttig bij opschonen)
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

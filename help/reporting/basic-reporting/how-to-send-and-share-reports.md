@@ -11,9 +11,9 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,7 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## Rapportactiviteiten verzenden en delen
-
-[ klik hier ](/help/assets/send-and-share-reports-activities.pdf) om een PDF van deze pagina te downloaden.
+## Activiteiten van &quot;rapporten verzenden en delen&quot;
 
 ### Activiteit 1: Een rapport verzenden
 

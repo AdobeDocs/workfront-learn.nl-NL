@@ -1,6 +1,6 @@
 ---
 title: Dashboards maken
-description: Leer hoe u verschillende lijstrapporten, grafieken, agenda's en externe webpagina's kunt combineren in een dashboard in Workfront.
+description: De video is bedoeld om gebruikers te helpen effectief dashboards in Workfront maken, aanpassen en beheren om projectgerelateerde gegevens te controleren en te delen.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,30 +11,34 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 5%
+source-wordcount: '581'
+ht-degree: 0%
 
 ---
 
 # Dashboards maken
 
-In deze video leert u:
+De video behandelt de volgende belangrijke punten:
 
-* Wat een dashboard in Workfront is
-* Een dashboard maken
-* Dashboards zoeken en gebruiken
-* Een dashboard delen met andere Workfront-gebruikers
-* Een dashboard afdrukken
+* **Inleiding aan Dashboards:** verklaart wat een dashboard in Workfront en zijn doel als inzameling van verwante rapporten is. &#x200B;
+* **Creërend een Dashboard:** Gidsen op hoe te om een nieuw dashboard tot stand te brengen door aan het gebied van Dashboards te navigeren, &quot;Nieuw Dashboard te selecteren,&quot;het te noemen, en een lay-out te kiezen. &#x200B;
+* **toevoegend Rapporten:** toont hoe te om diverse rapporten aan het dashboard, zoals projectrapporten, taakrapporten, en uitgifterapporten toe te voegen, en hen te schikken binnen de gekozen lay-out. &#x200B;
+* **het Aanpassen van Weergaven:** toont hoe te om aan te passen welke kolommen in de dashboardmening door het rapport uit te geven en specifieke kolommen te selecteren worden getoond. &#x200B;
+* **Toevoegend Extra Elementen:** verklaart hoe te om een douanekalender en een externe pagina (b.v., een online document) aan het dashboard toe te voegen. &#x200B;
+* **het Opslaan en het Vastzetten:** draagt op bij het bewaren van het dashboard en het vastzetten van het voor gemakkelijke toegang. &#x200B;
+* **het Bekijken en het uitgeven:** verstrekt uiteinden bij het bekijken en het uitgeven van het dashboard, met inbegrip van het aanpassen van kolomzicht voor betere vertoning. &#x200B;
+* **Vindend en het Delen van Dashboards:** beschrijft hoe te om dashboards via het belangrijkste menu te vinden, hen toe te voegen aan favorieten, en hen te delen met andere gebruikers. &#x200B;
+* **het Afdrukken Dashboards:** verklaart het proces om een dashboard te drukken. &#x200B;
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
-## Dashboardactiviteiten maken
 
-[ klik hier ](/help/assets/create-dashboard-activities.pdf) om een PDF van deze pagina te downloaden.
+## Activiteiten voor &#39;dashboard maken&#39;
 
-## Activiteit 1: Een dashboard maken
+### Activiteit 1: Een dashboard maken
 
 Maak een [!UICONTROL dashboard] met slechts één rapport erin: &quot;Zoeknotities in dit project&quot;. Dit is nuttig om snel om het even welke update te vinden die op een project wordt gemaakt, zelfs als er duizenden updates zijn door te zoeken. Hiermee zoekt u naar updateverbindingen om snel updates te extraheren die voldoen aan de criteria die u opgeeft in de aanwijzingen.
 
@@ -45,7 +49,7 @@ Maak dit rapport door een kopie te maken van het rapport &#39;Zoeknotities&#39; 
 * Ga naar een openingspagina voor projecten en maak een aangepaste sectie voor een [!UICONTROL dashboard] .
 * Merk op dat wanneer u naar nota&#39;s in uw douanesectie zoekt het slechts nota&#39;s zal tonen bevat binnen het project u momenteel in bent.
 
-## Antwoord 1
+### Antwoord 1
 
 1. Voer het rapport uit dat u hebt gemaakt in de activiteit Een notitierapport maken.
 1. Klik op **[!UICONTROL Report Actions]** en selecteer **[!UICONTROL Copy]** . [!DNL Workfront] maakt een nieuw rapport met de naam &quot;Notitie zoeken (kopiëren)&quot;.

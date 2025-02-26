@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,8 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## Standaardvoorwaardelijke opmaak toevoegen aan een weergaveactiviteit
 
-[ klik hier ](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf) om een PDF van deze pagina te downloaden.
-
-### Samenvatting
+## Voorwaardelijk overzicht van de opmaak
 
 Voorwaardelijke opmaak maken:
 
@@ -45,6 +42,8 @@ Voorwaardelijke opmaak maken:
    * tekstkleur
    * vervangende tekst
    * een pictogram tonen
+
+## &quot;Voorwaardelijke basisopmaak toevoegen aan weergaveactiviteiten&quot;
 
 ### Activiteit 1: Voorwaardelijke opmaak toevoegen aan een weergave
 

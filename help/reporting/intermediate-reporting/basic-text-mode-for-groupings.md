@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -41,11 +41,9 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## Basismodus voor groeperingsactiviteiten begrijpen
+## De activiteiten van de &quot;Begrijpen basistekstwijze voor groeperingen&quot;
 
-[ klik hier ](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf) om een PDF van deze pagina te downloaden.
-
-## Taak - 4 ouders groeperen
+### Taak - 4 ouders groeperen
 
 In de volgende tekstmodus worden taken gegroepeerd op maximaal vier niveaus van bovenliggende items en blijven bovenliggende items die niet bestaan leeg.
 
@@ -62,7 +60,7 @@ group.0.valueformat=string
 ![ het schermbeeld dat van A projecttaken toont die door 4 ouders ](assets/4-parents-grouping.png) worden gegroepeerd
 
 
-## Taak - Percentage volledige groepering
+### Taak - Percentage volledige groepering
 
 In de volgende tekstmodus worden taken gegroepeerd op basis van het percentage dat is voltooid. Taken worden gegroepeerd in een van de volgende categorieën:
 
@@ -83,7 +81,7 @@ textmode=true
 
 ![ het schermbeeld dat van A projecttaken toont die door percent volledig ](assets/percent-complete-grouping.png) worden gegroepeerd
 
-## Taak - statusEquatesWith, dan status
+### Taak - statusEquatesWith, dan status
 
 In de volgende tekstmodus worden taken gegroepeerd op statusEquatesWith en vervolgens op status.
 
@@ -108,7 +106,7 @@ textmode=true
 ![ het schermbeeld dat van A projecttaken toont die door statusEquatesWith ](assets/status-equates-with.png) worden gegroepeerd
 
 
-## Goedkeuring proef - groep per projectnaam
+### Goedkeuring proef - groep per projectnaam
 
 ```
 group.0.valueformat=HTML
@@ -119,7 +117,7 @@ group.0.displayname=Project Name
 ![ het schermbeeld dat van A goedkeuringen van het Bewijs toont die door projectnaam ](assets/proof-approvals-grouped-by-project-name.png) worden gegroepeerd
 
 
-## Goedkeuring proefdrukken - Groeperen op documentnaam
+### Goedkeuring proefdrukken - Groeperen op documentnaam
 
 ```
 group.0.displayname=Document Name

@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
-source-wordcount: '822'
+source-wordcount: '814'
 ht-degree: 3%
 
 ---
@@ -27,9 +27,6 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## Taakrapportactiviteiten maken
-
-[ klik hier ](/help/assets/create-task-report-activities.pdf) om een PDF van deze pagina te downloaden.
 
 >[!TIP]
 >
@@ -37,9 +34,10 @@ In deze video leert u:
 >We hebben favoriete rapporten verzameld van klanten en ze samengebracht in een hanteerbaar, gemakkelijk verteerbaar, kookboek dat je kunt meenemen en uittesten in je eigen Workfront-keuken.
 >Deze 10 rapporten komen van klanten die enkel zoals u zijn. Wij zijn de ongelooflijke klanten die een van hun favoriete rapporten hebben gedeeld, enorm dankbaar dat ze zich over verschillende sectoren, afdelingen, teams, posities en allemaal in verschillende bedrijven hebben verspreid. Sommige rapporten zijn eenvoudig (maar ongelooflijk nuttig), en sommige zijn complexer om uw rapportering naar het volgende niveau te brengen.
 
+## Activiteiten van &quot;Een taakrapport maken&quot;
 
 
-## Activiteit 1: Een notitierapport maken met aanwijzingen
+### Activiteit 1: Een notitierapport maken met aanwijzingen
 
 Maak een notitierapport dat u kunt gebruiken om te zoeken naar gebruikersnotities (opmerkingen of updates) of systeemnotities op basis van de inhoud van de notitie, de auteur, de ingangsdatum, de projectnaam of het type audit. Geef het rapport &quot;Note Search&quot; een naam.
 
@@ -68,7 +66,7 @@ Neem vragen op voor het volgende:
 * Projectnaam
 * Type controle
 
-## Antwoord 1
+### Antwoord 1
 
 1. Selecteer **[!UICONTROL Reports]** in het menu **[!UICONTROL Main Menu]** .
 1. Klik op het menu **[!UICONTROL New Report]** en selecteer **[!UICONTROL Note]** .
@@ -111,7 +109,7 @@ Neem vragen op voor het volgende:
 1. Schakel het selectievakje in voor **[!UICONTROL Show Prompts in Dashboards]** .
 1. Sla uw rapport op en sluit het.
 
-## Activiteit 2: Een feedbackrapport voor een beheerder maken
+### Activiteit 2: Een feedbackrapport voor een beheerder maken
 
 Dit is een uitgifterapport waarin alle problemen worden weergegeven uit een wachtrij voor feedbackverzoeken die voor systeembeheerders is gemaakt. U kunt zien hoe te om deze verzoekrij in te creëren [ creeer een systeem admin terugkoppelt verzoekrij ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) leerprogramma.
 
@@ -162,7 +160,7 @@ Filter op identiteitskaart van het project van de verzoekrij waar terugkoppelt k
 
 
 
-## Antwoord 2
+### Antwoord 2
 
 1. Selecteer **[!UICONTROL Reports]** in het menu **[!UICONTROL Main Menu]** .
 1. Klik op het menu **[!UICONTROL New Report]** en selecteer **[!UICONTROL Issue]** .
