@@ -13,7 +13,7 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -31,7 +31,7 @@ In deze video leert u:
 
 ## Leer hoe u een aangepaste weergave maakt om de actieve status van projectsjablonen te bekijken en te bewerken
 
-Om een mening van het projectmalplaatje met een actieve statuskolom tot stand te brengen, zie de **actieve de statusmening van het malplaatje van het Project** activiteit in [ een basismening ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en) creëren.
+Om een mening van het projectmalplaatje met een actieve statuskolom tot stand te brengen, zie de **actieve de statusmening van het malplaatje van het Project** activiteit in [ een basismening ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-4-create-a-project-template-active-status-view) creëren.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
