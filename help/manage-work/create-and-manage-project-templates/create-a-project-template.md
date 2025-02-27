@@ -1,6 +1,6 @@
 ---
 title: Een projectsjabloon maken en meer informatie krijgen over [!UICONTROL Blueprints]
-description: Leer een geheel nieuw projectmalplaatje en van een bestaand project tot stand te brengen, en begrijpen hoe [!UICONTROL Blueprints] u toegang tot een wereld van nuttige projectmalplaatjes kan geven die door de deskundigen van Workfront worden gecreeerd.
+description: De video bij het creëren van malplaatjes in Workfront toont aan hoe te om nieuwe projectmalplaatjes tot stand te brengen, hen voor nieuwe projecten te gebruiken, bestaande projecten als malplaatjes op te slaan, pre-gebouwde Blauwdrukken te gebruiken, en taken aan baanrollen voor efficiënt middelbeheer toe te wijzen.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,25 +13,34 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
 
 # Een projectsjabloon maken en meer informatie krijgen over [!UICONTROL Blueprints]
 
+
 Leer een geheel nieuw projectmalplaatje en van een bestaand project tot stand te brengen, en begrijpen hoe [!UICONTROL Blueprints] u toegang tot een wereld van nuttige projectmalplaatjes kan geven die door de deskundigen van Workfront worden gecreeerd.
 
 ## Een projectsjabloon maken
 
-In deze video leert u hoe u:
+* De video biedt een stapsgewijze gids voor het maken en gebruiken van sjablonen voor het op de markt brengen van videoproductie. Het begint met het uitleggen hoe u een nieuwe sjabloon kunt maken, deze een nieuwe naam kunt geven en opslaan. &#x200B; Het proces bestaat uit drie hoofdstappen: het maken van taken, het instellen van de tijdlijn met tijdsduur en voorgangers en het toewijzen van taken aan taakrollen in plaats van aan individuele gebruikers. &#x200B; De video benadrukt het organiseren van taken gebruikend ouder-kind verhoudingen voor betere samenvatting en efficiency. &#x200B;
+* Zodra het malplaatje wordt gecreeerd, kan het worden gebruikt om nieuwe projecten te produceren. De video toont aan hoe te om een nieuw project van het malplaatje tot stand te brengen, noodzakelijke aanpassingen te maken, en taken toe te voegen of duur zonodig te wijzigen. &#x200B; Het toont ook hoe te om baanrollen aan taken toe te wijzen gebruikend middel het plannen en planningsfunctionaliteit. &#x200B;
+* In de video wordt uitgelegd hoe u een bestaand project opslaat als een nieuwe sjabloon, zodat updates en verbeteringen mogelijk zijn in de workflow. &#x200B; Het benadrukt het belang van het beheren van malplaatjes om verwarring te vermijden en gestroomlijnde projectuitvoering te verzekeren. &#x200B;
 
-* Een geheel nieuwe sjabloon maken
-* Een sjabloon maken van een bestaand project
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+## Toetsen
+
+**Creërend een Malplaatje:** leer hoe te om een nieuw malplaatje van kras tot stand te brengen door het te noemen, opstellingstaken, chronologie, en het maken van taken aan baanrollen. &#x200B;
+**Organisatie van de Taak:** de ouder-kind taakverhoudingen van het Gebruik om taken efficiënt te organiseren, die een duidelijke samenvatting en een structuur voor het project verstrekken. &#x200B;
+**Opstelling van de Chronologie:** de chronologie van de opstellingstaak die duur en predecessors gebruiken om het tijdkader en de opeenvolging van taken nauwkeurig te schatten. &#x200B;
+**Op rol-Gebaseerde Toewijzingen:** wijs taken aan baanrollen eerder dan individuele gebruikers toe om middel het plannen en planningsfunctionaliteit effectief te gebruiken. &#x200B;
+**Beheer van het Malplaatje:** sparen bestaande projecten als nieuwe malplaatjes om verbeteringen op te nemen en malplaatjes te beheren om verwarring te vermijden en efficiënte projectuitvoering te verzekeren. &#x200B;
+
 
 ## Sjablonen die zijn gemaakt met [!UICONTROL Blueprints]
 
