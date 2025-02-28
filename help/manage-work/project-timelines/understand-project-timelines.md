@@ -1,6 +1,6 @@
 ---
 title: Projecttijdlijnen begrijpen
-description: Leer hoe u projecten kunt plannen vanaf de begin- of einddatum. Dan leer hoe de duur, predecessors, en de taakbeperkingen het projectplan beïnvloeden.
+description: Leer hoe te om taken toe te wijzen, de grafieken van Gantt en de Kritieke eigenschappen van de Weg te gebruiken, projecten via meningen te controleren, taken efficiënt te plannen, en beperkingen voor optimale projectplanning toe te passen.
 activity: use
 feature: Work Management
 thumbnail: 335213.jpeg
@@ -13,26 +13,40 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: b50279a97388bda48a8e134432415d084b6aec42
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '713'
 ht-degree: 0%
 
 ---
 
 # Projecttijdlijnen begrijpen
 
-In deze video leert u meer over:
-
-* Basis tijdlijnbeheer van project
-* Hoe te om wijze van het Programma te begrijpen
-* Hoe te om een mening van de Beperking van de Taak te creëren
+* De video biedt een overzicht van projectplanning en -beheer met behulp van Workfront. Het verklaart hoe de oudertaken verscheidene subtaken groeperen, die aan baanrollen en later aan gebruikers met de noodzakelijke vaardigheden worden toegewezen. &#x200B; Predecessors geven sequentiële relaties tussen taken aan, terwijl taken zonder voorgangers parallel kunnen worden uitgevoerd. &#x200B; De grafiek van Gantt biedt een visuele chronologie aan, en de Kritieke eigenschap van de Weg benadrukt taken die het project zouden kunnen vertragen als zij schuiven. &#x200B;
+* In de video worden ook verschillende weergaven in Workfront besproken, zoals de standaardweergave voor planning en de statusweergave voor voortgangscontrole, waaronder markeringen voor voortgang, opmerkingen, documenten, problemen, goedkeuringen, kritieke paden en mijlpalen. Recente activiteiten kunnen worden bijgehouden voor updates en notities. &#x200B;
+* De planning kan van een begindatum of een voltooiingsdatum worden gedaan, waarbij Workfront de overeenkomstige data berekent op basis van de duur van de taak en voorgangers. &#x200B; De video adviseert het plannen van van een begindatum voor kritieke voltooiingsdata om wat spack toe te staan. &#x200B; De beperkingen van de taak, zoals &quot;zo spoedig mogelijk&quot;en &quot;zo laat mogelijk,&quot;worden ook behandeld, tonend hoe zij taak het plannen beïnvloeden. &#x200B; U kunt aangepaste weergaven maken om taakbeperkingen weer te geven. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
 >[!IMPORTANT]
 >
 >Voor een volledigere verklaring van duurtypes en taakbeperkingen zie [ de types van duur en taakbeperkingen ](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md) begrijpen en beheren.
+
+## Toetsen
+
+* **het Beheer en Toewijzing van de Taak:** de taken van de ouder groeperen verscheidene subtaken, die aan baanrollen en later aan gebruikers met de noodzakelijke vaardigheden worden toegewezen. &#x200B; Voorgangers geven sequentiële relaties aan, terwijl taken zonder voorgangers parallel kunnen worden uitgevoerd. &#x200B;
+* **de Grafiek van Gantt en Kritieke Weg:** De grafiek van Gantt verstrekt een visuele chronologie van het project, en de Kritieke eigenschap van de Weg benadrukt taken die het project konden vertragen als zij slippen. &#x200B;
+* **Weergaven en Controle:** De verschillende meningen in Workfront, zoals de standaardmening voor planning en de statusmening voor controle, omvatten vlaggen voor vooruitgang, commentaren, documenten, kwesties, goedkeuringen, kritieke weg, en mijlpalen. Recente activiteiten kunnen ook worden bijgehouden. &#x200B;
+* **Plannende Opties:** De projecten kunnen van een begindatum of een voltooiingsdatum worden gepland, met Workfront die de overeenkomstige data berekenen die op taakduur en predecessors worden gebaseerd. &#x200B; Het plannen van van een begindatum wordt geadviseerd voor kritieke voltooiingsdata om wat spack toe te staan. &#x200B;
+* **Beperkingen van de Taak:** de beperkingen van de Taak zoals &quot;zo spoedig mogelijk&quot;en &quot;zo laat mogelijk&quot;beïnvloeden taak het plannen. &#x200B; Het veranderen van de planningswijze na projectverwezenlijking kan taakbeperkingen en geplande data beïnvloeden. &#x200B; U kunt aangepaste weergaven maken om taakbeperkingen weer te geven. &#x200B;
+
+
+## Datums in de tijdlijnen van uw &#x200B; project al dan niet wijzigen...
+
+| PROS (datums wijzigen) | CONS (datums wijzigen) | PROS (geen datums wijzigen) | CONS (geen datums wijzigen) |
+|---------------------------|---------------------------|---------------------------|---------------------------|
+| <ul><li>Verminder stress/verstrek bijgewerkte verwachtingen voor gebruikers - &quot;_de Creatieven zouden niet weten wat echt is_&quot;</li><li>Nauwkeurige middelentoewijzing, met name in het werklastevenwicht</li><li>Rapporten van de dagboekingang van het gebruik (of projectduur) om datumveranderingen te roepen</li><li>Gebruik van voorwaarde om te tonen of is het project buiten werkingsgebied</li><li>Een aangepast formulier (of gebruikproblemen) toevoegen om wijzigingen bij te houden.- waarom het is geduwd, door wie, hoe lang</li></ul> | <ul></li><li>Verkeerde gegevens als rapporten weerspiegelen niet de ware toestand</li><li>Onjuiste perceptie van vooruitgang - illusie dat alles op schema ligt &#x200B;</li><li>Bevorderen van een cultuur van altijd terugduwende tijdlijnen in plaats van worteloorzaken &#x200B;</li><li>Verlies van vertrouwen van belanghebbenden/teamperceptie om aan termijnen te voldoen </li></ul> | <ul></li><li>Nauwkeurige weergave van de projecttijdlijn - gegevens kunnen worden gebruikt voor analyse en om een duidelijk verhaal te vertellen van wat er is gebeurd</li><li>Optie om de duur te wijzigen of in plaats daarvan vertraging toe te voegen aan een voorganger</li><li>Eenvoudig procesverbeteringen identificeren voor toekomstige projectplanning/risicomanagement &#x200B;</li><li>Optie om basislijnen te gebruiken voor het vastleggen van het oorspronkelijke projectplan en die als vergelijking te gebruiken</li><li>Als je niet de mensen hebt om het te doen, en het voor alles te doen, doe het niet &#x200B;</li></ul> | <ul></li><li>Verwardheid en/of frustratie van gebruikers - overvloed aan &quot;late&quot; taken ondanks het feit dat ze zojuist op de hoogte zijn gesteld</li><li>De middelen werden effectief toegewezen aan kaart aan het originele plan, maar nu worden overbelast met vertraagd werk</li><li>De projecttijdlijn kan niet worden gebruikt om updates duidelijk aan belanghebbenden mee te delen</li></ul> |
+
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
