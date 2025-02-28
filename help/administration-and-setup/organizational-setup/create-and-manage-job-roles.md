@@ -11,7 +11,7 @@ jira: KT-12448
 doc-type: video
 last-substantial-update: 2023-03-27T00:00:00Z
 exl-id: ac72827b-6a65-473a-a5ac-7d0771230d63
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 608efdffc8d617b746225c0ef3cba1bc70b7c7e2
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
