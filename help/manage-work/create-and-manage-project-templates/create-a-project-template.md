@@ -1,6 +1,6 @@
 ---
-title: Een projectsjabloon maken en meer informatie krijgen over [!UICONTROL Blueprints]
-description: De video bij het creëren van malplaatjes in Workfront toont aan hoe te om nieuwe projectmalplaatjes tot stand te brengen, hen voor nieuwe projecten te gebruiken, bestaande projecten als malplaatjes op te slaan, pre-gebouwde Blauwdrukken te gebruiken, en taken aan baanrollen voor efficiënt middelbeheer toe te wijzen.
+title: Een projectsjabloon maken en meer informatie over [!UICONTROL Blueprints]
+description: Leer een geheel nieuw projectmalplaatje en van een bestaand project tot stand te brengen, en begrijpen hoe [!UICONTROL Blueprints] u toegang tot een wereld van nuttige projectmalplaatjes kan geven die door de deskundigen van Workfront worden gecreeerd.
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '625'
 ht-degree: 0%
 
 ---
