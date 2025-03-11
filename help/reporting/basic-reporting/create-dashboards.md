@@ -1,6 +1,6 @@
 ---
 title: Dashboards maken
-description: De video is bedoeld om gebruikers te helpen effectief dashboards in Workfront maken, aanpassen en beheren om projectgerelateerde gegevens te controleren en te delen.
+description: De video is bedoeld om gebruikers te helpen bij het effectief maken, aanpassen en beheren van dashboards in Workfront om projectgerelateerde gegevens te bewaken en te delen.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
 workflow-type: tm+mt
 source-wordcount: '581'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
