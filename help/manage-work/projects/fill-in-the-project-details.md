@@ -1,6 +1,6 @@
 ---
 title: De projectdetails invullen
-description: Leer over de gemeenschappelijkste projectmontages nodig wanneer het creëren van een project.
+description: Optimaliseer de efficiency van het projectbeheer door beschrijvende namen te gebruiken, aangewezen statussen te plaatsen, de juiste planningswijze te kiezen, leveraging malplaatjes en douaneformulieren, en het beheren van middelen met middelpools en programma's.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,9 +12,9 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,16 @@ ht-degree: 0%
 
 In deze video leert u meer over de meest gebruikte projectinstellingen die u nodig hebt bij het maken van een project.
 
+
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops)
+
+## Toetsen
+
+* **de Beschrijvende Namen van het Project van het Gebruik:** vermijd verwarring door projecten beschrijvend in plaats van het gebruiken van generische titels te noemen. &#x200B; Het organiseren van projecten in portefeuilles en programma&#39;s verbetert de rapportage en consistentie. &#x200B;
+* **plaatste de Passende Status van het Project:** Begin met &quot;Planning&quot;status wanneer het creëren van een project, dan schakelaar aan &quot;Huidige&quot;wanneer het project live gaat. &#x200B; Met een status die niet &#39;Huidig&#39; is, kunnen meldingen worden gepauzeerd, zodat de planning zonder onderbrekingen kan worden gewijzigd. &#x200B;
+* **Malplaatjes van de Leverage en Eigen Forms:** Gebruik projectmalplaatjes voor consistentie en douaneformulieren om unieke projectgegevens op te slaan. &#x200B; Deze gereedschappen vereenvoudigen de installatie en zorgen ervoor dat essentiële informatie wordt vastgelegd.
+* **gebruiken de Groepen en Programma&#39;s van het Middel:** wijs middelpools aan projecten voor efficiënt middelbeheer toe en pas het correcte programma toe om op werkdagen, uren, en vakantie te wijzen. &#x200B; Dit zorgt voor een vlotte uitvoering van het project en een vlotte toewijzing van middelen.
+
 
 
 ## Aanbevolen zelfstudies en artikelen over dit onderwerp
