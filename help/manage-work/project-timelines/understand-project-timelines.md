@@ -1,5 +1,5 @@
 ---
-title: Projecttijdlijnen begrijpen
+title: Tijdlijnen van project begrijpen
 description: Leer hoe te om taken toe te wijzen, de grafieken van Gantt en de Kritieke eigenschappen van de Weg te gebruiken, projecten via meningen te controleren, taken efficiënt te plannen, en beperkingen voor optimale projectplanning toe te passen.
 activity: use
 feature: Work Management
@@ -13,18 +13,20 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: b50279a97388bda48a8e134432415d084b6aec42
+source-git-commit: b31a0e6255d7e298ac95b14c308ca3fa5fb8e1d3
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '701'
 ht-degree: 0%
 
 ---
 
 # Projecttijdlijnen begrijpen
 
-* De video biedt een overzicht van projectplanning en -beheer met behulp van Workfront. Het verklaart hoe de oudertaken verscheidene subtaken groeperen, die aan baanrollen en later aan gebruikers met de noodzakelijke vaardigheden worden toegewezen. &#x200B; Predecessors geven sequentiële relaties tussen taken aan, terwijl taken zonder voorgangers parallel kunnen worden uitgevoerd. &#x200B; De grafiek van Gantt biedt een visuele chronologie aan, en de Kritieke eigenschap van de Weg benadrukt taken die het project zouden kunnen vertragen als zij schuiven. &#x200B;
-* In de video worden ook verschillende weergaven in Workfront besproken, zoals de standaardweergave voor planning en de statusweergave voor voortgangscontrole, waaronder markeringen voor voortgang, opmerkingen, documenten, problemen, goedkeuringen, kritieke paden en mijlpalen. Recente activiteiten kunnen worden bijgehouden voor updates en notities. &#x200B;
-* De planning kan van een begindatum of een voltooiingsdatum worden gedaan, waarbij Workfront de overeenkomstige data berekent op basis van de duur van de taak en voorgangers. &#x200B; De video adviseert het plannen van van een begindatum voor kritieke voltooiingsdata om wat spack toe te staan. &#x200B; De beperkingen van de taak, zoals &quot;zo spoedig mogelijk&quot;en &quot;zo laat mogelijk,&quot;worden ook behandeld, tonend hoe zij taak het plannen beïnvloeden. &#x200B; U kunt aangepaste weergaven maken om taakbeperkingen weer te geven. &#x200B;
+Wat u gaat leren:
+
+* Bekijk een overzicht van projectplanning en -beheer met Workfront. Leer hoe de oudertaken verscheidene subtaken groeperen, die aan baanrollen en later aan gebruikers met de noodzakelijke vaardigheden worden toegewezen. Predecessors geven sequentiële relaties tussen taken aan, terwijl taken zonder voorgangers parallel kunnen worden uitgevoerd. De grafiek van Gantt biedt een visuele chronologie aan, en de Kritieke eigenschap van de Weg benadrukt taken die het project zouden kunnen vertragen als zij schuiven.
+* Verschillende weergaven in Workfront, zoals de standaardweergave voor planning en de statusweergave voor voortgangscontrole, waaronder markeringen voor voortgang, opmerkingen, documenten, problemen, goedkeuringen, kritieke paden en mijlpalen. Recente activiteiten kunnen worden bijgehouden voor updates en notities.
+* De planning kan van een begindatum of een voltooiingsdatum worden gedaan, waarbij Workfront de overeenkomstige data berekent op basis van de duur van de taak en voorgangers. De video adviseert het plannen van van een begindatum voor kritieke voltooiingsdata om wat spack toe te staan. De beperkingen van de taak, zoals &quot;zo spoedig mogelijk&quot;en &quot;zo laat mogelijk,&quot;worden ook behandeld, tonend hoe zij taak het plannen beïnvloeden. U kunt aangepaste weergaven maken om taakbeperkingen weer te geven.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
 
