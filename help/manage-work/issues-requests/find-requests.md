@@ -1,6 +1,6 @@
 ---
-title: Verzoeken zoeken en beheren
-description: De video over het beheren van verzoeken in Workfront Home laat zien hoe u filters kunt gebruiken, teamtoewijzingen kunt beheren, aangepaste rapporten en dashboards kunt maken en de betekenis van "my" in verschillende contexten voor effectief aanvraagbeheer kunt verduidelijken.
+title: Verzoeken en verzoeken beheren
+description: Leer hoe u filters kunt gebruiken, teamtoewijzingen kunt beheren, aangepaste rapporten en dashboards kunt maken en de betekenis van _my_ in verschillende contexten voor effectief aanvraagbeheer kunt verduidelijken.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: b5daeb5775dff69b7f6fe92813ad3ec603b9f8ee
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
