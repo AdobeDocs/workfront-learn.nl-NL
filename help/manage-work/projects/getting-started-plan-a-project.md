@@ -1,6 +1,6 @@
 ---
 title: Aan de slag met het plannen van een project
-description: Leer de vijf hoofdcomponenten van een project, wat de status betekent, hoe een [!UICONTROL View] u kan helpen relevante informatie zien en hoe u de begin- of einddatum kunt instellen.
+description: Projectplanning stroomlijnen door de focus op de belangrijkste velden te richten, de status in te stellen op "Planning" met de juiste weergaven, realistische begindatums te selecteren en planningsmodi te gebruiken voor nauwkeurige tijdlijnen.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335086.jpeg
@@ -12,23 +12,30 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # Aan de slag met het plannen van een project
 
-In deze video leert u:
-
-* De vijf belangrijkste onderdelen van een project
-* Wat de status van de Planning aangeeft
-* Hoe een [!UICONTROL View] u kan helpen de informatie zien u nodig hebt
-* De begin- of einddatum instellen
+* De video biedt aanwijzingen voor het effectief plannen van een project in Workfront. &#x200B; Het benadrukt het belang van het leggen van een solide basis om ervoor te zorgen dat het project op tijd wordt afgerond en succesvol is. &#x200B; De belangrijkste stappen omvatten het begrip van vijf kritieke gebieden: Taken, Toewijzingen, Duur, Geplande Uren, Predecessors. &#x200B; Deze gebieden laten snelle en nauwkeurige aanpassingen aan het projectplan toe. &#x200B;
+* Alvorens veranderingen aan te brengen, zorg ervoor de projectstatus aan &quot;Planning&quot;wordt geplaatst om onnodige berichten aan het team te verhinderen. &#x200B; Gebruik de standaardweergave of aangepaste weergaven om de nadruk te leggen op essentiële informatie. &#x200B; Nauwkeurige plaats de datum van de projectaanvang, die het realistisch is en op teambeschikbaarheid richt.
+* De video benadrukt het belang van realistische tijdlijnen, teambeschikbaarheid, en nauwkeurige planning om een sterke basis voor projectsucces te creëren. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+
+## Toetsen
+
+* **nadruk op Vijf Zeer belangrijke Gebieden:** begrijp Taken, Taken, Duur, Geplande Uren, en Predecessors om efficiënte en nauwkeurige veranderingen in uw projectplan aan te brengen. &#x200B;
+* **plaats de Status van het Project aan &quot;Planning&quot;:** zorg de projectstatus aan &quot;Planning&quot;wordt geplaatst om onnodige berichten te verhinderen terwijl het aanpassen van het plan. &#x200B;
+* **Gebruik Gepaste Meningen:** Gebruikt de standaardmening of de aangepaste meningen om op essentiële projectdetails zoals taken, duur, en taken te concentreren. &#x200B;
+* **kies een Realistische Datum van het Begin:** plaats een praktische begindatum die zich op teambeschikbaarheid richt en onrealistische scenario&#39;s, zoals vakantie of weekends vermijdt. &#x200B;
+* **de Planningsmodi van de Leverage:** Gebruik de &quot;Datum van het Begin&quot;wijze om de voltooiingsdatum of de &quot;wijze van de Datum van de Voltooiing&quot;te berekenen om de begindatum te berekenen, die de chronologie verzekeren richt zich op projectvereisten. &#x200B;
+
+
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

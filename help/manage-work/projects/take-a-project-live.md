@@ -1,6 +1,6 @@
 ---
 title: Een project live laten gaan
-description: Leer hoe u uw Adobe Workfront-project live kunt gebruiken met de projectstatus.
+description: Bereid uw project voor op lancering door alle zeer belangrijke details te herzien, zijn status aan "huidig"te plaatsen, en berichten en rapporten toe te laten om het werk officieel te beginnen.
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -12,20 +12,28 @@ recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Een project live laten gaan
 
-In deze video leert u hoe u:
-
-* Uw project live laten gaan met de projectstatus
+In de video wordt uitgelegd wat de laatste stappen zijn om een project live te zetten door de status te wijzigen in &quot;current&quot; &#x200B; Alvorens dit te doen, benadrukt het het herzien van zeer belangrijke projectelementen, met inbegrip van taaknamen, duur, geplande uren, voordecessors, begin en voltooiingsdata, en taken om ervoor te zorgen alles nauwkeurig en behoorlijk wordt geplaatst. &#x200B; Zodra het project levend is, zal de projectmanager berichten ontvangen die op globale en persoonlijke montages worden gebaseerd, en het project zal in rapporten en filters voor actieve projecten verschijnen. &#x200B; Dit is het officiële begin van het werk. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
+
+## Toetsen
+
+* **Details van het Project van het Overzicht:** verzeker taaknamen, duur, geplande uren, predecessors, begin en voltooiingsdata, en de taken nauwkeurig en behoorlijk plaatsen zijn. &#x200B;
+* **de Status van het Project van de Verandering:** werk de projectstatus aan &quot;huidig&quot;in de projectkopbal of details bij om het levend te nemen. &#x200B;
+* **ontvang Meldingen:** als projectmanager, zult u berichten beginnen te ontvangen die op globale en persoonlijke montages worden gebaseerd zodra het project levend is. &#x200B;
+* **Actieve Projecten van het Spoor:** het project zal in rapporten en filters voor levende, huidige, of lopende projecten verschijnen, makend het gemakkelijker te controleren. &#x200B;
+* **Begin Werk:** Gebruikend het project begint officieel het werk en de uitvoeringsfase. &#x200B;
+
+
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
