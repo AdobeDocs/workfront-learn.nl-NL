@@ -1,6 +1,6 @@
 ---
 title: De weergave [!UICONTROL Board] begrijpen
-description: Leer hoe u de [!UICONTROL Board] -weergave op de bestemmingspagina van het project gebruikt.
+description: Stroomlijnd taakbeheer in Workfront met de  [!DNL Kanban]  interface van 0} mening {, die taaksortering, verwezenlijking, aanpassing, en naadloze integratie met de mening van de taaklijst voor efficiënte projectorganisatie aanbieden.[!UICONTROL Board]
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,22 +12,27 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
 # De weergave [!UICONTROL Board] begrijpen
 
-In deze video leert u:
-
-* De weergave [!UICONTROL Board] vinden
-* De weergave [!UICONTROL Board] gebruiken
-
+In de video wordt uitgelegd hoe u de functie voor de weergave van raden in Workfront kunt gebruiken als alternatief voor het weergeven en beheren van projecttaken. &#x200B; In de mening van de Raad, worden de taken getoond als kaarten op een Kanban-Stijl raad, toestaand gebruikers om, taken binnen of tussen kolommen te sorteren te groeperen en te bewegen. &#x200B; Als u een taak verplaatst, wordt de status automatisch bijgewerkt. Dit wordt weerspiegeld in de weergave met taaklijsten. &#x200B; Gebruikers kunnen nieuwe kaarten maken, die nieuwe taken in het project genereren en deze rechtstreeks in de overzichtsweergave bewerken of toewijzen. &#x200B; De kolommen en de kaarten kunnen worden gevormd, en de taken kunnen worden gerangschikt gebruikend predecessors in de mening van de taaklijst.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops)
+
+## Toetsen
+
+**Overzicht van de mening van de Raad van de Raad:** De mening van de Raad in Workfront biedt een Kanban-Stijl interface aan om projecttaken te bekijken en te beheren, die een alternatief aan de traditionele mening van de taaklijst verstrekken. &#x200B;
+**het Beheer van de Taak:** de Taken kunnen worden gesorteerd, worden gegroepeerd en, binnen of tussen kolommen worden bewogen, met statusupdates automatisch worden toegepast wanneer de taken worden bewogen. &#x200B;
+**de Aanmaak van de Taak:** De Nieuwe kaarten kunnen direct in de mening van de Raad worden gecreeerd, die nieuwe taken in het project produceert. &#x200B; Deze taken kunnen direct worden bewerkt en toegewezen. &#x200B;
+**Aanpassing:** Kolommen en de kaarten in de mening van de Raad kunnen worden gevormd om projectbehoeften aan te passen, die flexibiliteit in taakorganisatie verbeteren. &#x200B;
+**Integratie met de Lijst van de Taak:** de veranderingen die in de mening van de Raad, zoals de updates van de taakstatus of nieuwe taakverwezenlijking worden aangebracht, worden weerspiegeld in de mening van de taaklijst, die naadloze integratie tussen meningen verzekeren. &#x200B;
+
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

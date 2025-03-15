@@ -1,6 +1,6 @@
 ---
 title: De voortgang van het project bijhouden
-description: Leer 5 snelle manieren om de algemene voortgang van het project te volgen.
+description: Houd de voortgang van het project in Workfront bij met de percentages volledige berekeningen, geplande versus geplande data, status van de voorwaarde, open issues management en wekelijkse updates voor duidelijke en tijdige projecttracering.
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -12,24 +12,29 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
 # De voortgang van het project bijhouden
 
-In deze video leert u hoe u de voortgang van het project kunt bijhouden met:
+In de video wordt uitgelegd hoe u de voortgang van het project kunt bijhouden aan de hand van verschillende indicatoren in Workfront, waaronder Percent Complete, Projected Date, Condition and Progress Status, Open Issues en de kolom Condition Update.
 
-* Percentage voltooid
-* Geprojecteerde data
-* Voorwaarde en status voortgang
-* Openstaande kwesties
-* De kolom Voorwaarde bijwerken
+De video benadrukt het belang van regelmatige updates door teamleden en pro-actief probleembeheer om nauwkeurige het volgen en geschikte projectvoltooiing te verzekeren. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
+
+## Toetsen
+
+* **Percentage Volledige Berekening:** de algemene projectvooruitgang wordt berekend gebaseerd op de Percentage Volledige waarden van individuele taken, die door hun duur of geplande uren worden gewogen. &#x200B;
+* **Geplande versus Geprojecteerde Datums:** Workfront berekent geplande en geplande begin/voltooiingsdata die op taakduur en predecessors worden gebaseerd. &#x200B; Verschillen tussen deze data wijzen op mogelijke vertragingen. &#x200B;
+* **Status van de Voorwaarde van het Project:** het voorwaardengebied (bijvoorbeeld, op Doel, Bij Risico, in Problemen) wijst op de status van het project en kan manueel of automatisch worden geplaatst gebruikend de wijze van de Status van de Voortgang. &#x200B;
+* **Open Beheer van Kwesties:** Open kwesties wijzen potentiële risico&#39;s op. &#x200B; Het is van essentieel belang dat u deze snel kunt controleren en converteren naar taken om de projecttijdlijnen te kunnen bijhouden. &#x200B;
+* **Kolom van de Update van de Voorwaarde:** wekelijkse updates van de projectmanager in de kolom van de Update van de Voorwaarde verstrekken een duidelijke samenvatting van vooruitgang en de hulp volgt de recentste ontwikkelingen. &#x200B;
+
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
