@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
 # Aan de slag met het plannen van een project
 
-* De video biedt aanwijzingen voor het effectief plannen van een project in Workfront. &#x200B; Het benadrukt het belang van het leggen van een solide basis om ervoor te zorgen dat het project op tijd wordt afgerond en succesvol is. &#x200B; De belangrijkste stappen omvatten het begrip van vijf kritieke gebieden: Taken, Toewijzingen, Duur, Geplande Uren, Predecessors. &#x200B; Deze gebieden laten snelle en nauwkeurige aanpassingen aan het projectplan toe. &#x200B;
-* Alvorens veranderingen aan te brengen, zorg ervoor de projectstatus aan &quot;Planning&quot;wordt geplaatst om onnodige berichten aan het team te verhinderen. &#x200B; Gebruik de standaardweergave of aangepaste weergaven om de nadruk te leggen op essentiële informatie. &#x200B; Nauwkeurige plaats de datum van de projectaanvang, die het realistisch is en op teambeschikbaarheid richt.
-* De video benadrukt het belang van realistische tijdlijnen, teambeschikbaarheid, en nauwkeurige planning om een sterke basis voor projectsucces te creëren. &#x200B;
+De video biedt aanwijzingen voor het effectief plannen van een project in Workfront. &#x200B; Het benadrukt het belang van het leggen van een solide basis om ervoor te zorgen dat het project op tijd wordt afgerond en succesvol is. &#x200B; De belangrijkste stappen omvatten het begrip van vijf kritieke gebieden: Taken, Toewijzingen, Duur, Geplande Uren, Predecessors. &#x200B; Deze gebieden laten snelle en nauwkeurige aanpassingen aan het projectplan toe. &#x200B;
+
+De video benadrukt het belang van realistische tijdlijnen, teambeschikbaarheid, en nauwkeurige planning om een sterke basis voor projectsucces te creëren. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 

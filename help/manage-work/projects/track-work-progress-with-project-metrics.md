@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
@@ -29,11 +29,11 @@ In de video wordt uitgelegd hoe de voortgang van het project wordt bijgehouden m
 
 ## Toetsen
 
-**die tot de Metriek van het Project toegang hebben:** navigeer aan het lusje van Metriek in het linkerpaneel van uw project om vooruitgang te volgen. &#x200B; Mogelijk moet u naar beneden schuiven en op Meer tonen klikken om het item te zoeken. &#x200B;
-**Zeer belangrijke Indicatoren van Prestaties (KPIs):** de vertoningen van het KPI- gebied voltooide, onvolledige, en achterstallige taken. &#x200B; Als u op indicatoren klikt, kunt u specifieke taken weergeven. &#x200B;
-**Haakjes van de Taak en van de Uitgave:** de groepstaken of kwesties van grafieken door status of prioriteit, die de verhouding van volledig aan onvolledig tonen. &#x200B; Als u over kolommen beweegt, worden de hoeveelheden zichtbaar. &#x200B;
-**Metriek door Assignee:** de taken van de Mening door toegewezen die op hun status (volledig, onvolledig, komende, of achterstallig) worden gebaseerd. &#x200B; Voorkeuren worden opgeslagen voor toekomstige bezoeken. &#x200B;
-**het Uitvoeren Metriek:** voer de metriekpagina als PNG- dossier door de knoop van de Uitvoer in de hoger-juiste hoek van het scherm te klikken. &#x200B;
+* **die tot de Metriek van het Project toegang hebben:** navigeer aan het lusje van Metriek in het linkerpaneel van uw project om vooruitgang te volgen. &#x200B; Mogelijk moet u naar beneden schuiven en op Meer tonen klikken om het item te zoeken. &#x200B;
+* **Zeer belangrijke Indicatoren van Prestaties (KPIs):** de vertoningen van het KPI- gebied voltooide, onvolledige, en achterstallige taken. &#x200B; Als u op indicatoren klikt, kunt u specifieke taken weergeven. &#x200B;
+* **Haakjes van de Taak en van de Uitgave:** de groepstaken of kwesties van grafieken door status of prioriteit, die de verhouding van volledig aan onvolledig tonen. &#x200B; Als u over kolommen beweegt, worden de hoeveelheden zichtbaar. &#x200B;
+* **Metriek door Assignee:** de taken van de Mening door toegewezen die op hun status (volledig, onvolledig, komende, of achterstallig) worden gebaseerd. &#x200B; Voorkeuren worden opgeslagen voor toekomstige bezoeken. &#x200B;
+* **het Uitvoeren Metriek:** voer de metriekpagina als PNG- dossier door de knoop van de Uitvoer in de hoger-juiste hoek van het scherm te klikken. &#x200B;
 
 
 

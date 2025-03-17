@@ -12,9 +12,9 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -24,22 +24,22 @@ ht-degree: 0%
 In de video wordt uitgelegd hoe u projecten effectief kunt delen in Workfront, zodat belanghebbenden en deelnemers de nodige zichtbaarheid en toegang hebben. &#x200B; Workfront vereenvoudigt het delen door automatisch de juiste toegangsrechten toe te wijzen op basis van rollen:
 
 **Automatisch het Delen:**
-* Projectmakers hebben beheerrechten voor het weergeven en bewerken van het project, de taken en de problemen. &#x200B;
-* De arbeiders die aan taken worden toegewezen winnen meningsrechten voor het volledige project en bijdragerechten voor hun taken. &#x200B;
-* Projectsponsors kunnen het project weergeven, terwijl bronnenbeheerders het kunnen beheren, maar het niet kunnen verwijderen. &#x200B;
+* Projectmakers hebben beheerrechten voor het weergeven en bewerken van het project, de taken en de problemen.
+* De arbeiders die aan taken worden toegewezen winnen meningsrechten voor het volledige project en bijdragerechten voor hun taken.
+* Projectsponsors kunnen het project weergeven, terwijl bronnenbeheerders het kunnen beheren, maar het niet kunnen verwijderen.
 
 **Handmatig het Delen:**
-* De projecten kunnen met individuen, teams, baanrollen, groepen, of bedrijven worden gedeeld. &#x200B;
-* De beste praktijken omvatten het creëren van teams met het delen van mening en het gebruiken van portefeuilles of programma&#39;s om toestemmingen over veelvoudige projecten te erven. &#x200B;
+* De projecten kunnen met individuen, teams, baanrollen, groepen, of bedrijven worden gedeeld.
+* De beste praktijken omvatten het creëren van teams met het delen van mening en het gebruiken van portefeuilles of programma&#39;s om toestemmingen over veelvoudige projecten te erven.
 
 **Bulk en Malplaatje het Delen:**
 * Met Bulk bewerken kunt u aanpassingen delen voor meerdere projecten. &#x200B;
 * Het delen van montages kan in projectmalplaatjes vooraf worden gevormd om tijd te besparen. &#x200B;
 
 **Standaardwaarden van het Systeem:**
-* Systeembeheerders of groepsbeheerders kunnen de standaardinstellingen voor het delen van bestanden wijzigen, zoals het verlenen van contributierechten aan teamleden die aan taken zijn toegewezen. &#x200B;
+* Systeembeheerders of groepsbeheerders kunnen de standaardinstellingen voor het delen van bestanden wijzigen, zoals het verlenen van contributierechten aan teamleden die aan taken zijn toegewezen.
 
-De video benadrukt het gebruik van teams en sjablonen voor efficiënt gedeeld beheer en benadrukt de rol van beheerders bij het aanpassen van voorkeuren voor delen. &#x200B;
+De video benadrukt het gebruik van teams en sjablonen voor efficiënt gedeeld beheer en benadrukt de rol van beheerders bij het aanpassen van voorkeuren voor delen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
 

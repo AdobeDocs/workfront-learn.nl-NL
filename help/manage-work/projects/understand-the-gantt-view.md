@@ -12,7 +12,7 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 0%
@@ -46,11 +46,11 @@ U kunt meer online met het artikel leren, [ worden begonnen met de grafiek van G
 
 ## Toetsen
 
-**Big-Picture Mening:** de grafieken van Gantt verstrekken een uitvoerig overzicht van taken, projecten, en portefeuilles, die het gemakkelijk maken om relaties en middel te begrijpen delend over projecten. &#x200B;
-**het Volgen van de Voortgang:** de statusindicatoren van de Voortgang (groen, geel, rood, en lichtblauw) helpen project en taakchronologie controleren, die op tijd, op risico, achter, of late statussen benadrukken. &#x200B;
-**het Beheer van de Mijlpaal:** de diamanten en de lijnen merken visueel zeer belangrijke voltooiingsdata, die in het volgen van mijlpaal vooruitgang binnen projecten helpen. &#x200B;
-**Inzichten van de Voorganger:** dwars-project en taak-specifieke voorgangers kunnen gemakkelijk worden gecontroleerd, ervoor zorgend gebiedsdelen duidelijk en handelbaar zijn. &#x200B;
-**de Opties van de Aanpassing:** de gebruikers kunnen daadwerkelijke data, geprojecteerde data, basislijnen, taken, en meer tonen, die de het grafiekmening van Gantt aan hun specifieke behoeften aanpassen.
+* **Big-Picture Mening:** de grafieken van Gantt verstrekken een uitvoerig overzicht van taken, projecten, en portefeuilles, die het gemakkelijk maken om relaties en middel te begrijpen delend over projecten. &#x200B;
+* **het Volgen van de Voortgang:** de statusindicatoren van de Voortgang (groen, geel, rood, en lichtblauw) helpen project en taakchronologie controleren, die op tijd, op risico, achter, of late statussen benadrukken. &#x200B;
+* **het Beheer van de Mijlpaal:** de diamanten en de lijnen merken visueel zeer belangrijke voltooiingsdata, die in het volgen van mijlpaal vooruitgang binnen projecten helpen. &#x200B;
+* **Inzichten van de Voorganger:** dwars-project en taak-specifieke voorgangers kunnen gemakkelijk worden gecontroleerd, ervoor zorgend gebiedsdelen duidelijk en handelbaar zijn. &#x200B;
+* **de Opties van de Aanpassing:** de gebruikers kunnen daadwerkelijke data, geprojecteerde data, basislijnen, taken, en meer tonen, die de het grafiekmening van Gantt aan hun specifieke behoeften aanpassen.
 
 
 ## Aanbevolen zelfstudies over dit onderwerp

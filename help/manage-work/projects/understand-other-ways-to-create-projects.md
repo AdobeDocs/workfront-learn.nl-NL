@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 0%
@@ -59,21 +59,16 @@ In de video wordt de nadruk gelegd op de flexibiliteit van Workfront bij het mak
 
 ## Toetsen
 
-
-**de Malplaatjes vereenvoudigen de creatie van het Project:**
-Het gebruik van een sjabloon wordt ten zeerste aanbevolen, omdat er vooraf belangrijke details kunnen worden ingesteld, zoals taken, formulieren en opties voor delen, waardoor tijd en moeite bespaard blijven. &#x200B;
-
-**Favoriete Malplaatjes voor Snelle Toegang:**
-Met favoriete sjablonen kunnen gebruikers het selectieproces omzeilen en rechtstreeks een project maken en de workflow stroomlijnen. &#x200B;
-
-**Creërend Projecten van de Flexibiliteit van het Werktuig:**
-Met meer handleiding kunt u een volledig nieuw project maken, waarbij u alle details kunt aanpassen. Dit is ideaal voor eenvoudige of persoonlijke projecten. &#x200B;
-
-**het kopiëren Projecten bespaart tijd:**
-Het kopiëren van een bestaand project repliceert zijn structuur en montages, met opties om specifieke elementen te wijzigen of uit te sluiten. &#x200B;
-
-**het Invoeren van de Dossiers van het Project van MS voor Overgang:**
-Workfront ondersteunt het importeren van MS-projectbestanden (opgeslagen als XML), waardoor gebruikers doorlopende projecten kunnen overzetten, hoewel sommige gegevens (bijvoorbeeld opmerkingen, mijlpalen) niet worden overgedragen. &#x200B;
+* **de Malplaatjes vereenvoudigen de creatie van het Project:**
+* Het gebruik van een sjabloon wordt ten zeerste aanbevolen, omdat er vooraf belangrijke details kunnen worden ingesteld, zoals taken, formulieren en opties voor delen, waardoor tijd en moeite bespaard blijven. &#x200B;
+* **Favoriete Malplaatjes voor Snelle Toegang:**
+* Met favoriete sjablonen kunnen gebruikers het selectieproces omzeilen en rechtstreeks een project maken en de workflow stroomlijnen. &#x200B;
+* **Creërend Projecten van de Flexibiliteit van het Werktuig:**
+* Met meer handleiding kunt u een volledig nieuw project maken, waarbij u alle details kunt aanpassen. Dit is ideaal voor eenvoudige of persoonlijke projecten. &#x200B;
+* **het kopiëren Projecten bespaart tijd:**
+* Het kopiëren van een bestaand project repliceert zijn structuur en montages, met opties om specifieke elementen te wijzigen of uit te sluiten. &#x200B;
+* **het Invoeren van de Dossiers van het Project van MS voor Overgang:**
+* Workfront ondersteunt het importeren van MS-projectbestanden (opgeslagen als XML), waardoor gebruikers doorlopende projecten kunnen overzetten, hoewel sommige gegevens (bijvoorbeeld opmerkingen, mijlpalen) niet worden overgedragen. &#x200B;
 
 
 
