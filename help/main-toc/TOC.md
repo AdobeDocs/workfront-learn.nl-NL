@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
+source-git-commit: 6611bdf35ab0863ac6f3e78ef93fc4f9cc34aed1
 workflow-type: tm+mt
-source-wordcount: '2352'
+source-wordcount: '2360'
 ht-degree: 0%
 
 ---
@@ -335,6 +335,7 @@ ht-degree: 0%
    + [Een werkruimte maken](/help/workfront-planning/create-a-workspace.md)
    + [Een recordtype maken en beheren](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [Tabelweergaven maken en beheren](/help/workfront-planning/create-and-manage-table-views.md)
+   + [Voordelen van Workfront-planning voor UX-ontwerpteams](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integraties {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
