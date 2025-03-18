@@ -1,6 +1,6 @@
 ---
 title: Een verzoek bijwerken
-description: Leer hoe te om de verzoeken te vinden u hebt voorgelegd en een update over die verzoeken in  [!DNL  Workfront].
+description: Vereenvoudig aanvraagbeheer in Workfront door filters te gebruiken om verzoeken te zoeken, status en details efficiënt bij te werken, volledige informatie te openen en gecentraliseerde samenwerking voor gestroomlijnde workflows te bevorderen.
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -13,23 +13,27 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
 # Een verzoek bijwerken
 
-In deze video leert u hoe u:
-
-* Zoeken naar aanvragen die je hebt verzonden
-* Een update uitvoeren in het deelvenster Samenvatting
-* De aanvraagpagina openen
-* Een aanvraag bijwerken in het deelvenster [!UICONTROL Updates]
+In de video wordt uitgelegd hoe u aanvragen kunt vinden en bijwerken in Adobe Workfront. &#x200B; Nadat u een verzoek hebt ingediend, kunt u informatie toevoegen of vragen stellen om ervoor te zorgen dat de meest recente gegevens beschikbaar zijn voor degenen die eraan werken. &#x200B; &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops)
+
+## Toetsen
+
+* **plaats Gemakkelijk van Verzoeken:** de filters van het Gebruik zoals &quot;Mijn open verzoeken&quot;of &quot;Mijn verzoeken&quot;in de &quot;sectie van Verzoeken&quot;om voorgelegde verzoeken te vinden. &#x200B; Pas filters aan om verzoeken van anderen of voltooide degenen te bekijken.
+* **de Status van de Controle alvorens bij te werken:** herzie de &quot;status&quot;en &quot;omgezet in&quot;kolommen om te bepalen als het verzoek wordt opgelost of in een taak/project omgezet. &#x200B; Mogelijk moet het omgezette item worden bijgewerkt. &#x200B;
+* **Verzoeken van de Update efficiënt:** Open het summiere paneel door het verzoek te selecteren en het open summiere pictogram te klikken. &#x200B; Voeg updates toe in het veld &quot;Nieuwe update starten&quot;, geef gebruikers een tag met @username en klik op &quot;Bijwerken&quot; &#x200B;
+* **de Volledige Details van het Verzoek van de Toegang:** Open het verzoek door zijn naam te klikken om gedetailleerde informatie, met inbegrip van vooruitgang, toegewezen gebruiker, geplande voltooiingsdatum, en status te bekijken. &#x200B; In het linkerdeelvenster hebt u toegang tot updates, documenten en informatie over aanvragen.
+* **Gecentraliseerde Collaboration:** Adobe Workfront houdt alle verzoekinformatie op één plaats, toestaand gebruikers om, effectief het herzien bij te werken en samen te werken gebruikend de recentste informatie. &#x200B;
+
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

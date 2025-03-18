@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,10 @@ ht-degree: 0%
 
 In deze video wordt uitgelegd hoe u aanvragen kunt vinden en beheren in Workfront. &#x200B; Het bestrijkt vier hoofdgebieden:
 
-* **Workfront Huis:** De gebruikers zoals Mary Smith, een productiekunstenaar, kunnen verzoeken zien die aan hen worden toegewezen. &#x200B; Joan Harris, die vaak verzoeken doet, kan in afwachting van haar goedkeuring zoeken naar afgeronde verzoeken. &#x200B;
-* **Gebied van het Verzoek:** De gebruikers kunnen verzoeken filtreren om die te zien zij creeerden. &#x200B; De term &quot;mijn&quot;in het verzoekgebied verwijst naar kwesties die door me, de het programma geopende gebruiker worden gecreeerd. &#x200B;
-* **Pagina van Teams:** de gebruikers kunnen unassigned teamverzoeken bekijken en zich of anderen toewijzen. &#x200B; Ze kunnen ook het werklastverdelingsmechanisme gebruiken om teamtoewijzingen te beheren op basis van de huidige werklasten. &#x200B;
-* **de Rapporten en de Dashboards van de Douane:** de Gebruikers kunnen douanerapporten tot stand brengen om verzoeken, met controle over het noemen, filters, meningen, en groeperingen te volgen. &#x200B; Dit staat voor duidelijke het volgen van verzoeken door prioriteit, schepper, primair contact, toegewezen persoon, en status toe. &#x200B;
+* Workfront Home
+* Aanvraaggebied
+* &#x200B; Teams
+* Aangepaste rapporten en dashboards
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)

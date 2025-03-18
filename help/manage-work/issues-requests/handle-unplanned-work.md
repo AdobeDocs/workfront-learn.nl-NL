@@ -1,6 +1,6 @@
 ---
 title: Niet-gepland werk verwerken
-description: Leer hoe u ongeplande bewerkingen met Adobe Workfront kunt uitvoeren.
+description: Verbeter projectbeheer in Workfront door problemen effectief te volgen en op te lossen, registratiegereedschappen te gebruiken, beste praktijken uit te voeren, communicatie te bevorderen en kwesties naadloos om te zetten in taken voor gestroomlijnde uitvoering.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,22 +12,28 @@ last-substantial-update: 2024-06-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
 # Niet-gepland werk afhandelen
 
-In deze video leert u:
+De video benadrukt het belang van communicatie in projectbeheer en benadrukt de rol van kwesties als een belangrijk instrument om communicatie te vergemakkelijken. &#x200B; Het verklaart het verschil tussen updates en kwesties, opmerkend dat de kwesties geschikter voor het werk zijn dat moet worden toegewezen, worden gevolgd, en worden opgelost alvorens een project kan worden voltooid. &#x200B; De video verstrekt een geleidelijke gids over hoe te om kwesties te registreren. &#x200B;
 
-* Wanneer om een kwestie te registreren
-* Hoe te om een kwestie te registreren
-* Aanbevolen procedures voor het beheer van problemen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
+
+## Toetsen
+
+* **Kwesties vs. Updates:** De kwesties van het gebruik voor taken die moeten worden toegewezen, worden gevolgd, en worden opgelost vóór projectvoltooiing, aangezien zij gemakkelijker zijn te controleren en te organiseren vergeleken met updates. &#x200B;
+* **het Registreren Kwesties:** De kwesties kunnen op het taak of projectniveau via de KWESTIES tabel worden geregistreerd. &#x200B; Prioriteiten kunnen worden ingesteld en e-mailmeldingen kunnen worden geconfigureerd voor toewijzingen en updates.
+* **Beste praktijken voor het Beheer van de Kwestie:** monitorkwesties vaak, creeer douanerapporten voor efficiency, en verstrek duidelijke verklaringen voor onopgeloste kwesties om herhaalde vragen te vermijden en een historisch verslag te bouwen. &#x200B;
+* **Stimuleer Communicatie:** toon dankbaarheid in reacties om teamleden aan te moedigen om kwesties te registreren en effectief te communiceren, die vlotter projectbeheer verzekeren. &#x200B;
+* **zet Kwesties in Taken om:** De kwesties kunnen in taken worden omgezet en in de projectchronologie voor betere planning en uitvoering worden geïntegreerd. &#x200B;
+
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
