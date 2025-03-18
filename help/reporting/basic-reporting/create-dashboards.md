@@ -11,7 +11,7 @@ thumbnail: 335157.png
 jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '589'
 ht-degree: 0%
@@ -27,11 +27,11 @@ De video biedt een uitgebreide gids voor het begrijpen en gebruiken van dashboar
 
 ## Toetsen
 
-**dashboards in Workfront:** A dashboard is een inzameling van rapporten die gebruikers toestaat om verwante gegevens, zoals projecten, taken, en kwesties, in één gecentraliseerde mening te organiseren en te tonen. &#x200B;
-**Creërend Dashboards:** De dashboards kunnen worden aangepast door een lay-out te selecteren, rapporten, douanecalendars, of externe pagina&#39;s toe te voegen, en hen te rangschikken voor optimale vertoning. &#x200B; Gebruikers kunnen ook aanpassen welke kolommen naast elkaar worden weergegeven in rapporten in het dashboard. &#x200B;
-**die tot Dashboards toegang hebben:** De dashboards kunnen onder &quot;Mijn Dashboards,&quot;&quot;Gedeelde Dashboards,&quot;of &quot;Alle Dashboards&quot;in het gebied van Dashboards worden gevonden. &#x200B; Veelgebruikte dashboards kunnen worden vastgezet of aan favorieten voor snelle toegang worden toegevoegd. &#x200B;
-**het Delen van Dashboards:** De dashboards kunnen met andere gebruikers van Workfront, met inbegrip van alle rapporten binnen het dashboard, via het menu van de Acties van het Dashboard worden gedeeld. &#x200B;
-**het Afdrukken Dashboards:** De dashboards kunnen direct van het menu van de Acties van het Dashboard worden gedrukt, makend het gemakkelijk om fysieke exemplaren van de gegevens te delen. &#x200B;
+* **dashboards in Workfront:** A dashboard is een inzameling van rapporten die gebruikers toestaat om verwante gegevens, zoals projecten, taken, en kwesties, in één gecentraliseerde mening te organiseren en te tonen. &#x200B;
+* **Creërend Dashboards:** De dashboards kunnen worden aangepast door een lay-out te selecteren, rapporten, douanecalendars, of externe pagina&#39;s toe te voegen, en hen te rangschikken voor optimale vertoning. &#x200B; Gebruikers kunnen ook aanpassen welke kolommen naast elkaar worden weergegeven in rapporten in het dashboard. &#x200B;
+* **die tot Dashboards toegang hebben:** De dashboards kunnen onder &quot;Mijn Dashboards,&quot;&quot;Gedeelde Dashboards,&quot;of &quot;Alle Dashboards&quot;in het gebied van Dashboards worden gevonden. &#x200B; Veelgebruikte dashboards kunnen worden vastgezet of aan favorieten voor snelle toegang worden toegevoegd. &#x200B;
+* **het Delen van Dashboards:** De dashboards kunnen met andere gebruikers van Workfront, met inbegrip van alle rapporten binnen het dashboard, via het menu van de Acties van het Dashboard worden gedeeld. &#x200B;
+* **het Afdrukken Dashboards:** De dashboards kunnen direct van het menu van de Acties van het Dashboard worden gedrukt, makend het gemakkelijk om fysieke exemplaren van de gegevens te delen. &#x200B;
 
 
 ## Activiteiten voor &#39;dashboard maken&#39;

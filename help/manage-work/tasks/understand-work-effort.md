@@ -1,6 +1,6 @@
 ---
 title: Begrijpen [!UICONTROL Work Effort]
-description: Leer hoe u [!UICONTROL Work Effort] kunt gebruiken om een ruwe schatting van geplande uren in uw projectchronologie te krijgen.
+description: Stroomlijn de taakplanning in Workfront met de functie Werkinspanning, die klantgerichte geplande uurramingen, inline en bulkbewerking, en douanemeningen voor efficiënt projectbeheer toestaat.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,24 +12,31 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # Begrijpen [!UICONTROL Work Effort]
 
-In deze video leert u:
-
-* Wat de Werkinspanning van het Werk is en hoe het u kan helpen projecten beheren
-* Werkinspanning gebruiken
-* Hoe te om een de taakmening van de Werkinspanning tot stand te brengen
+In de video wordt uitgelegd hoe u de functie Werkinspanning in Workfront kunt gebruiken om geplande uren voor taken te ramen wanneer nauwkeurige schattingen moeilijk zijn te bepalen.
+Het toont hoe te om een mening van de Inspanning van het douanewerk tot stand te brengen om taakbeheer te stroomlijnen door relevante kolommen zoals de Inspanning van het Werk, Geplande Uren Type van Duur toe te voegen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
 
+## Toetsen
+
+* **de Eigenschap van de Werkinspanning van het Werk voor het Schatten van Geplande Uren:** de eigenschap van de Werkinspanning in Workfront helpt geplande uren voor taken schatten die op hun duur worden gebaseerd, makend het gemakkelijker om projectplannen tot stand te brengen wanneer de geplande uren moeilijk zijn te schatten. &#x200B;
+* **Aanpasbare Percentages van de Werkinspanning van het Werk:** Workfront berekent geplande uren gebruikend percentages van taakduur (b.v., de Werkinspanning van Medium = 50%, de Grote Werkinspanning = 75%), en deze percentages kunnen worden aangepast zoals nodig. &#x200B;
+* **Eenvoudige Vereiste van het Type van Duur:** de Werkinspanning is slechts beschikbaar voor taken met een eenvoudig duurtype. &#x200B; De taken met andere duurtypes moeten in eenvoudig worden veranderd alvorens de Werkinspanning te gebruiken. &#x200B;
+* **Inline en Bulk het Uitgeven Opties:** de Werkinspanning van het Werk kan voor individuele taken worden aangepast gebruikend Inline geeft uit of voor veelvoudige taken gelijktijdig gebruikend het Bulk geeft eigenschap uit. &#x200B;
+* **Creërend een Mening van de Inspanning van het Werk van de Douane:** De gebruikers kunnen een mening van de Inspanning van het Werk van de douane tot stand brengen om de montages van de Inspanning van het Werk gemakkelijk te beheren en uit te geven. &#x200B; Dit betekent dat u kolommen toevoegt voor Werkinspanning en andere relevante velden, zoals Geplande uren of Duur. &#x200B;
+
+
 Voor meer informatie over [!UICONTROL Work Effort], zie het [ het overzicht van de Werkinspanning van het Werk ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
+
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
