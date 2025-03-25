@@ -1,6 +1,6 @@
 ---
 title: Basisproject maken
-description: Leer hoe u projecten efficiënt kunt maken, beheren en voltooien, onverwachte problemen kunt verhelpen en beginnervriendelijke tips kunt verkennen om essentiële functies voor projectbeheer onder de knie te krijgen. ​
+description: Leer hoe u efficiënt projecten kunt maken, beheren en voltooien, onverwachte problemen kunt verhelpen en beginnersvriendelijke tips kunt verkennen om essentiële functies voor projectbeheer onder de knie te krijgen.
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
