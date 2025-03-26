@@ -1,6 +1,6 @@
 ---
 title: Een aanvraagwachtrij maken
-description: Leer hoe te opstelling een verzoekrij en rijdetails te vestigen. Voer de volgende stappen uit om uw organisatie te helpen bij het beheren van de arbeidsinname.
+description: Maak efficiënte Workfront-aanvraagwachtrijen door toegangsmachtigingen te definiëren, aanvraagtypen en velden aan te passen, de wachtrij te activeren en de functionaliteit ervan te testen voor naadloos beheer van projectverzending.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -13,22 +13,26 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
 # Een aanvraagwachtrij maken
 
-In deze video leert u hoe u:
-
-* Creeer een verzoekrij door een project eerst te creëren
-* De details van de wachtrij met aanvragen instellen
-* De wachtrij live laten gaan
+De video biedt een stapsgewijze handleiding voor het maken van een aanvraagwachtrij in Workfont. &#x200B; De video eindigt door aan te tonen hoe te om een verzoek te verzenden gebruikend de pas gecreëerde rij, die het proces toont om details in te gaan en de voorlegging te verifiëren op het &quot;voorgelegde verzoeken&quot;lusje. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+
+## Toetsen
+
+* **Creërend een Rij van het Verzoek:** Begin door een nieuw project te creëren en het te noemen, die later als verzoekrij zal dienen. &#x200B; Controleer of het selectievakje &quot;Publiceren als wachtrij voor Help-aanvragen&quot; is ingeschakeld om deze officieel als een wachtrij aan te wijzen. &#x200B;
+* **Toestemmingen van de Toegang:** bepaal wie verzoeken aan de rij kan voorleggen door uit vier opties te kiezen: iedereen, projectkijkers, bedrijfsleden, of groepsleden. &#x200B;
+* **de Types van Verzoek:** pas de rij aan om specifieke soorten verzoeken, zoals kwesties, insectenrapporten, veranderingsorden, of algemene verzoeken te omvatten. &#x200B; De standaardoptie is &#39;&#39;issues&#39;&#39; &#x200B;
+* **Aanpasbare Gebieden:** Plaats extra details zoals standaardreactietijd, toestemmingen, en andere rijkenmerken om zijn functionaliteit te maken. &#x200B;
+* **Making de Rij Levend:** sparen de montages en plaats de projectstatus aan &quot;huidig&quot;om de rij te activeren. &#x200B; Test zijn functionaliteit door een verzoek in te dienen en het te verifiëren op het &quot;voorgelegde verzoeken&quot;lusje.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

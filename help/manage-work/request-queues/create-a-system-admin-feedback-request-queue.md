@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -35,7 +35,7 @@ In deze video leert u:
 * Hoe te om een systeem tot stand te brengen terugkoppelt verzoekrij
 * Hoe een feedbackrapport van een beheerder u kan helpen uw processen te verbeteren
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 Leren hoe te om het **team te creëren Admin terugkoppelt rapport** gebruikt in de video, [ creeer een taakrapport ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) leerprogramma en zoek de activiteit **om een admin team te creëren terugkoppelt rapport** na de video.
 

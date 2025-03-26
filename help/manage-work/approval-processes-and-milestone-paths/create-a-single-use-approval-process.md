@@ -1,6 +1,6 @@
 ---
 title: Een algemeen goedkeuringsproces en een goedkeuringsproces voor één gebruik maken
-description: Leer hoe u een globaal goedkeuringsproces en een goedkeuringsproces voor één gebruik kunt maken voor een project, taak of uitgave.
+description: Verbeteren van goedkeuringswerkstromen door zowel globale als enig-gebruiks goedkeuringsprocessen voor taken, projecten, of kwesties, het uitvoeren van multi-level gefaseerde goedkeuringen, en het bevorderen van efficiency door herbruikbaarheid in projectmalplaatjes te gebruiken.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,26 +9,33 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
-last-substantial-update: 2024-09-24T00:00:00Z
+last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
 # Een algemeen goedkeuringsproces en een goedkeuringsproces voor één gebruik maken
 
-De processen van de goedkeuring op projecten, taken, en kwesties staan een projectmanager toe om deskundige bevestiging te krijgen dat het werk onmiddellijk is gedaan alvorens vooruit te gaan. De projectmanager kan een goedkeuringsproces voor elke situatie (dit wordt genoemd geworden enig-gebruik goedkeuringsproces) tot stand brengen of van een lijst van misschien vele goedkeuringsprocessen kiezen die eerder zijn gecreeerd om aan gemeenschappelijke behoeften (deze zijn genoemd als globaal, of bestaand, goedkeuringsprocessen) te voldoen.
-
-Wanneer de objectstatus verandert in een status die is opgegeven in het goedkeuringsproces, wordt de fiatteur op verschillende manieren op de hoogte gesteld van het beoordelen van het werk en het goedkeuren of afwijzen ervan. Aangezien het hele project kan worden gepauzeerd in afwachting van een goedkeuring, moeten de fiatteurs er van tevoren van op de hoogte zijn dat zij om goedkeuring kunnen worden verzocht. Indien een fiatteur om welke reden dan ook buiten het kantoor is, mogen zij hun goedkeuringen delegeren aan een gekwalificeerde plaatsvervanger. Zie [ de taken, kwesties, en goedkeuringen van de Afgevaardigde ](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md) voor details.
-
-In deze video leert u hoe u een algemeen goedkeuringsproces en een goedkeuringsproces voor één gebruik kunt maken voor een project, taak of uitgave.
+In de video wordt uitgelegd hoe u goedkeuringsprocessen voor projecten, taken of problemen kunt maken en beheren, waarbij onderscheid wordt gemaakt tussen algemene goedkeuringsprocessen en goedkeuringsprocessen voor één gebruik.
+De video demonstreert het maken van goedkeuringsprocessen, het instellen van fiatteurs, het configureren van statussen en het gebruik van fasen voor goedkeuringen op meerdere niveaus.
+&#x200B;Het benadrukt de flexibiliteit van zowel globale als enig-gebruiksprocessen om taakgoedkeuringen effectief te beheren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+
+## Toetsen
+
+* **Types van Verwerkingsprocessen van de Goedkeuring:** er zijn twee types-globale goedkeuringsprocessen (die over taken, projecten, of kwesties worden gedeeld) en enig-gebruiks goedkeuringsprocessen (specifiek voor één enkele taak, project, of kwestie).
+* **Globale Verwerken van de Goedkeuring:** deze worden gecreeerd in de Opstelling > Verwerking > sectie van Goedkeuringen en kunnen door specifieke statussen worden teweeggebracht. &#x200B; Hierbij kunnen meerdere fiatteurs of gefaseerde goedkeuringen betrokken zijn.
+* **enig-Gebruik het Proces van de Goedkeuring:** Dit zijn voorwerp-specifiek en kunnen niet worden gedeeld. &#x200B; Ze kunnen helemaal opnieuw worden gemaakt of door een algemeen goedkeuringsproces te bewerken en te converteren.
+* **Goedkeuringen op meerdere niveaus:** de processen van de Goedkeuring kunnen veelvoudige goedkeuraars of gelijktijdig of in stadia omvatten, die opeenvolgende goedkeuringen verzekeren alvorens de volgende fiatteur op de hoogte te brengen.
+* **Herbruikbaarheid:** De goedkeuringsprocessen van enig-gebruik kunnen met taken, projecten, of kwesties worden gekopieerd of in projectmalplaatjes inbegrepen, die voor gemakkelijke replicatie over projecten toestaan.
+
 
 >[!TIP]
 >
@@ -38,17 +45,6 @@ In deze video leert u hoe u een algemeen goedkeuringsproces en een goedkeuringsp
 >
 >U kunt één enkele gebruiksgoedkeuring voor projecten en kwesties op de zelfde manier plaatsen zoals die voor taken in de video wordt beschreven.
 
-## Hoe te om automatische emissievergunningen in een verzoekrij toe te passen
-
-Als u automatische goedkeuringen voor uitgaven wilt instellen in een aanvraagwachtrij, kunnen deze alleen worden uitgevoerd via een algemeen goedkeuringsproces voor uitgaven en worden deze toegepast in een [!UICONTROL Queue topic] .
-
-Selecteer bij het maken of bewerken van een [!UICONTROL Queue topic] het algemene goedkeuringsproces in het veld **[!UICONTROL Default Approval]** .
-
-![ Beeld dat hoe te om een standaardgoedkeuringsproces in een rijonderwerp te selecteren ](assets/automatic-issue-approval-1.png)
-
-Mogelijk moet u het goedkeuringsproces voor uitgaven bewerken om ervoor te zorgen dat **[!UICONTROL Previous status]** niet is ingesteld op het moment dat de goedkeuring wordt geweigerd. De reden hiervoor is dat de vorige status **[!UICONTROL New]** is. Dit is ook de status die het goedkeuringsproces activeert. Het is dus de status waarop deze wordt ingesteld wanneer deze wordt goedgekeurd. Om verwarring te voorkomen wanneer de goedkeuring van het probleem wordt afgewezen, is het beter om de status in te stellen op een soort **[!UICONTROL Won't Resolve]** of een aangepaste status die voor dit doel is gemaakt.
-
-![ Beeld dat het veranderen van de status toont te gebruiken wanneer de kwestie wordt verworpen ](assets/automatic-issue-approval-2.png)
 
 
 ## Aanbevolen zelfstudies over dit onderwerp
@@ -56,4 +52,5 @@ Mogelijk moet u het goedkeuringsproces voor uitgaven bewerken om ervoor te zorge
 * [Taken, problemen en goedkeuringen delegeren](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Groepsspecifieke goedkeuringsprocedures begrijpen](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Een aanvraagstroom maken](/help/manage-work/request-queues/create-a-request-flow.md)
+* [Een goedkeuringsproces voor uitgaven toepassen in een aanvraagwachtrij](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 
