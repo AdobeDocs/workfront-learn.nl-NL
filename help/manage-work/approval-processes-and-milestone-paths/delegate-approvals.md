@@ -1,6 +1,6 @@
 ---
 title: Taken, problemen en goedkeuringen delegeren
-description: Leer hoe u taken en uitgaven en goedkeuringen voor projecten, taken en problemen kunt delegeren aan een andere Workfront-gebruiker.
+description: De werkschema's van de delegatie van de stroomlijn door taak en goedkeuring delegatie in Opstelling toe te laten, gebruikend de "Afgevaardigde"en "Goedkeuring van de Afgevaardigde"knopen, plaatsend e-mailberichten voor taken, en het volgen van updates en systeemactiviteit voor duidelijk toezicht.
 activity: use
 feature: Approvals
 type: Tutorial
@@ -13,25 +13,30 @@ recommendations: noDisplay,catalog
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
 
 # Taken, problemen en goedkeuringen delegeren
 
-Leer hoe u taken en uitgaven en goedkeuringen voor projecten, taken en problemen kunt delegeren aan een andere Workfront-gebruiker.
+In de video wordt uitgelegd hoe taken, problemen en goedkeuringen kunnen worden gedelegeerd. &#x200B; Om delegatie toe te laten, moet het systeem of de groepsbeheerder de eigenschap in Opstelling onder de Voorkeur van het Project activeren. &#x200B; Zodra toegelaten, kunnen de gebruikers al hun taken en kwesties aan een andere persoon voor een gespecificeerde tijdspanne delegeren gebruikend de &quot;Afgevaardigde&quot;knoop in Mijn widget van Taken. &#x200B; De delegatie is van toepassing op zowel taken als kwesties samen, en zij moeten aan de zelfde persoon worden toegewezen. &#x200B; Delegaties kunnen met of zonder een einddatum worden ingesteld en gebruikers kunnen delegaties op elk gewenst moment handmatig stoppen. &#x200B;
+Voor goedkeuringen kunnen gebruikers deze delegeren via de widget &quot;Wachtende op mijn goedkeuring&quot;. &#x200B; De delegatie is op bestaande goedkeuringen en nieuwe tijdens de gespecificeerde tijdspanne, maar slechts voor projecten, taken, en kwesties-niet voor documenten, proefdrukken, of timesheets van toepassing. &#x200B; De berichten voor gedelegeerde taken, kwesties, en goedkeuringen kunnen door de beheerder worden toegelaten om zowel de delegator als de gedelegeerde op de hoogte te brengen. &#x200B;
+Gedelegeerde goedkeuringen worden in het systeem gemarkeerd, waaruit blijkt wie ze heeft gedelegeerd en aan wie. &#x200B; De updates met betrekking tot goedkeuringen verschijnen op het lusje van de Update, en de systeemactiviteit kan op het lusje van de Activiteit van het Systeem worden bekeken. &#x200B;
 
-In deze video leert u hoe u:
-
-* Delegatie inschakelen in Setup
-* Taken en uitgaven delegeren
-* Goedkeuringen delegeren voor projecten, taken, kwesties
-* Gedelegeerde goedkeuringen identificeren
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+
+## Toetsen
+
+* **toelatend Delegatie:** De delegatie van taken, kwesties, en goedkeuringen moet eerst door het systeem of de groepsbeheerder in Opstelling onder de Voorkeur van het Project worden toegelaten.
+* **het Delegeren van Taken en Kwesties:** De gebruikers kunnen al hun taken en kwesties samen (niet afzonderlijk) aan één enkele persoon voor een gespecificeerde tijdspanne via de &quot;Afgevaardigde&quot;knoop in Mijn widget van Taken afvaardigen. &#x200B; Delegaties kunnen met of zonder een einddatum worden ingesteld en kunnen handmatig worden gestopt.
+* **het Delegeren goedkeurt:** goedkeurt voor projecten, taken, en kwesties kan worden afgevaardigd gebruikend de knoop van de Goedkeuring van de Delegatie&quot;in het wachten Mijn Goedkeuring widget. &#x200B; Goedkeuringen voor documenten, proefdrukken of tijdbladen kunnen echter niet worden gedelegeerd.
+* **Meldingen:** E-mailberichten voor gedelegeerde taken, kwesties, en goedkeuringen kunnen door de beheerder worden toegelaten om zowel de delegator als de afgevaardigde te informeren wanneer de delegaties worden toegewezen of worden tegengehouden.
+* **het Volgen Delegaties:** de gedelegeerde taken en de goedkeuringen zijn duidelijk in het systeem, die tonen wie hen en aan wie delegeerde. &#x200B; De updates met betrekking tot goedkeuringen verschijnen op het lusje van de Update, en de systeemactiviteit kan op het lusje van de Activiteit van het Systeem worden bekeken.
+
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

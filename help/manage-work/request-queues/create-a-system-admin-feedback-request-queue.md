@@ -1,6 +1,6 @@
 ---
 title: Een wachtrij voor feedback van systeembeheerders maken
-description: Leer hoe u een handige aanvraagwachtrij kunt maken waar beheerders feedback kunnen krijgen over workflows en processen.
+description: Stroomlijn terugkoppelt inzameling met een specifieke verzoekrij, die douaneformulieren voor gedetailleerde input gebruikt, die regels verplettert om voorlegging aan het admin team te leiden, integratie voor actionable inzichten, en het publiceren van toegankelijke rijen van het hulpverzoek met een standaardvoltooiingsduur van 10 dagen rapporteert.
 feature: Work Management
 thumbnail: 3427124.jpg
 type: Tutorial
@@ -13,9 +13,9 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -28,16 +28,24 @@ ht-degree: 0%
 >* [ creeer een verzoekstroom ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* Of u bent reeds comfortabel met het creëren van een verzoekrij die een verpletterende regel en een douaneformulier gebruikt.
 
+De video verstrekt een geleidelijke gids bij het creëren van een terugkoppel verzoekrij voor systeembeheerders.
+&#x200B;Het doel van de wachtrij is om feedback van gebruikers te verzamelen over processen en workflows die door systeembeheerders zijn gemaakt, zodat verbeteringen en optimalisatie mogelijk zijn.
+In de video wordt het belang benadrukt van participatie van gebruikers en transparantie bij de verbetering van het proces, waardoor beheerders worden aangemoedigd om feedbackrapporten met gebruikers te delen.
+&#x200B;Voor meer informatie vindt u koppelingen naar zelfstudies voor het maken van rapporten en aangepaste formulieren.
 
-In deze video leert u:
-
-* Waarom zou u een systeem moeten creëren admin terugkoppel verzoekrij
-* Hoe te om een systeem tot stand te brengen terugkoppelt verzoekrij
-* Hoe een feedbackrapport van een beheerder u kan helpen uw processen te verbeteren
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
-Leren hoe te om het **team te creëren Admin terugkoppelt rapport** gebruikt in de video, [ creeer een taakrapport ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) leerprogramma en zoek de activiteit **om een admin team te creëren terugkoppelt rapport** na de video.
+## Toetsen
+
+* **Doel van de Rij van het Verzoek van de Terugkoppeling:** de rij wordt ontworpen om gebruiker te verzamelen terugkoppelt op systeem admin-gecreeerde processen en werkschema&#39;s, toelatend verbeteringen en optimalisering. &#x200B;
+* **Eigen Forms voor Terugkoppeling:** de niet inheemse gebieden vereisen douaneformulieren, die aan terugkoppelt kwesties in bijlage zijn om specifieke informatie zoals procestype, rang, en gedetailleerde terugkoppelen te verzamelen.
+* **Verpletterend Regels en Team Admin:** Verpletterend regels verzekeren alle verzoeken aan het admin team worden geleid, toestaand om het even welk teamlid om op te nemen en te richten terugkoppelt.
+* **de Integratie van het Rapport:** de Rapporten vatten terugkoppelen voorlegging samen, die het voor beheerders gemakkelijker maken om op gebruikersinput te volgen en te handelen. &#x200B; Het delen van deze rapporten met gebruikers bevordert transparantie en stimuleert participatie.
+* **het Testen en Toegankelijkheid:** de rij wordt getest met steekproefverzoeken, die functionaliteit verzekeren. Het wordt gepubliceerd als rij van het hulpverzoek, toegankelijk voor alle gebruikers, met een standaardvoltooiingsduur van 10 dagen.
+
+
+Leren hoe te om tot het **team te leiden Admin terugkoppelt rapport** gebruikt in de video, **creeer een admin team terugkoppelt rapportactiviteit** in [ creeer een taakrapport ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) leerprogramma.
 
 Leren hoe te om een douanevorm tot stand te brengen, zie [ creeer en deel een douanevorm ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) leerprogramma.
 
