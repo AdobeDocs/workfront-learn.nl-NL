@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
+source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -28,11 +28,11 @@ In de video wordt uitgelegd hoe u een project maakt op basis van een sjabloon. &
 
 ## Toetsen
 
-**Toegang van het Malplaatje:** u hebt rechten nodig om een malplaatje te openen om een project van het tot stand te brengen. &#x200B;
-**Optie van de Kortere weg:** het gebruiken van een malplaatje kan een handige kortere weg zijn vergeleken bij het beginnen van een project van kras. &#x200B;
-**Driepunts Menu:** Open het malplaatje en selecteer &quot;tot Project&quot;van het drie-puntenmenu leiden. &#x200B;
-**geeft de Details van het Project uit:** na het selecteren van &quot;leidt tot Project,&quot;kunt u de projectdetails uitgeven alvorens te voltooien. &#x200B;
-**voltooi Creatie:** klik &quot;leidt tot Project&quot;wanneer u bereid bent om het proces te voltooien. &#x200B;
+* **Toegang van het Malplaatje:** u hebt rechten nodig om een malplaatje te openen om een project van het tot stand te brengen. &#x200B;
+* **Optie van de Kortere weg:** het gebruiken van een malplaatje kan een handige kortere weg zijn vergeleken bij het beginnen van een project van kras. &#x200B;
+* **Driepunts Menu:** Open het malplaatje en selecteer &quot;tot Project&quot;van het drie-puntenmenu leiden. &#x200B;
+* **geeft de Details van het Project uit:** na het selecteren van &quot;leidt tot Project,&quot;kunt u de projectdetails uitgeven alvorens te voltooien. &#x200B;
+* **voltooi Creatie:** klik &quot;leidt tot Project&quot;wanneer u bereid bent om het proces te voltooien. &#x200B;
 
 
 ## Aanbevolen zelfstudies over dit onderwerp
