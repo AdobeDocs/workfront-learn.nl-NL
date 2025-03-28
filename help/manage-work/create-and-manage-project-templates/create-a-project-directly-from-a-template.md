@@ -1,6 +1,6 @@
 ---
 title: Een project rechtstreeks vanuit een sjabloon maken
-description: Leer hoe u een project maakt door te beginnen met een sjabloon die al is gemaakt.
+description: Creeer projecten direct van malplaatjes door toegangsrechten te verzekeren, gebruikend het drie-puntenmenu om "Project tot stand te brengen,"het uitgeven van de projectdetails zoals nodig, en het proces voor een efficiënt opstellingsalternatief te voltooien.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,36 +8,32 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2025-03-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+doc-type: video
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Een project rechtstreeks vanuit een sjabloon maken
 
-Als u toevallig aan een malplaatje werkt en een project moet tot stand brengen gebruikend dat malplaatje, klik het 3 punt menu naast de malplaatjenaam. Selecteer vervolgens Project maken.
+In de video wordt uitgelegd hoe u een project maakt op basis van een sjabloon. &#x200B; Als u de rechten hebt om een sjabloon te openen, kunt u deze gebruiken als een sneltoets om een project te maken. &#x200B; Open hiertoe de sjabloon, open het menu met drie punten en selecteer &quot;Project maken&quot; &#x200B; Dit neemt u aan het scherm waar u de projectdetails kunt uitgeven. &#x200B; Klik op Project maken als u klaar bent. &#x200B;
 
-![ creeer projectoptie in menu ](assets/direct-template-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
 
-In het venster Details kunt u de instellingen van het nieuwe project wijzigen.
+## Toetsen
 
-![ de aanmaakpagina van het Project ](assets/direct-template-02.png)
+**Toegang van het Malplaatje:** u hebt rechten nodig om een malplaatje te openen om een project van het tot stand te brengen. &#x200B;
+**Optie van de Kortere weg:** het gebruiken van een malplaatje kan een handige kortere weg zijn vergeleken bij het beginnen van een project van kras. &#x200B;
+**Driepunts Menu:** Open het malplaatje en selecteer &quot;tot Project&quot;van het drie-puntenmenu leiden. &#x200B;
+**geeft de Details van het Project uit:** na het selecteren van &quot;leidt tot Project,&quot;kunt u de projectdetails uitgeven alvorens te voltooien. &#x200B;
+**voltooi Creatie:** klik &quot;leidt tot Project&quot;wanneer u bereid bent om het proces te voltooien. &#x200B;
 
->[!NOTE]
->
->Als u een project wilt maken met deze methode, hebt u toegang nodig tot het gedeelte Sjablonen van Workfront. Als u tot malplaatjes niet kunt toegang hebben, kunt u een malplaatje nog gebruiken om een project van het gebied van Projecten tot stand te brengen of wanneer het omzetten van een kwestie/een taak.
-
->[!TIP]
->
->Als er een sjabloon is die u vaak gebruikt, maakt u deze een favoriet! U zult het malplaatje zien in het Nieuwe menu van het Project, naast het verschijnt onder het menu van Favorieten in de navigatiebar.
-
-
-![ Nieuwe project favoriete malplaatjes ](assets/direct-template-03.png)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
 workflow-type: tm+mt
 source-wordcount: '625'
 ht-degree: 0%
@@ -35,11 +35,11 @@ Leer een geheel nieuw projectmalplaatje en van een bestaand project tot stand te
 
 ## Toetsen
 
-**Creërend een Malplaatje:** leer hoe te om een nieuw malplaatje van kras tot stand te brengen door het te noemen, opstellingstaken, chronologie, en het maken van taken aan baanrollen. &#x200B;
-**Organisatie van de Taak:** de ouder-kind taakverhoudingen van het Gebruik om taken efficiënt te organiseren, die een duidelijke samenvatting en een structuur voor het project verstrekken. &#x200B;
-**Opstelling van de Chronologie:** de chronologie van de opstellingstaak die duur en predecessors gebruiken om het tijdkader en de opeenvolging van taken nauwkeurig te schatten. &#x200B;
-**Op rol-Gebaseerde Toewijzingen:** wijs taken aan baanrollen eerder dan individuele gebruikers toe om middel het plannen en planningsfunctionaliteit effectief te gebruiken. &#x200B;
-**Beheer van het Malplaatje:** sparen bestaande projecten als nieuwe malplaatjes om verbeteringen op te nemen en malplaatjes te beheren om verwarring te vermijden en efficiënte projectuitvoering te verzekeren. &#x200B;
+* **Creërend een Malplaatje:** leer hoe te om een nieuw malplaatje van kras tot stand te brengen door het te noemen, opstellingstaken, chronologie, en het maken van taken aan baanrollen. &#x200B;
+* **Organisatie van de Taak:** de ouder-kind taakverhoudingen van het Gebruik om taken efficiënt te organiseren, die een duidelijke samenvatting en een structuur voor het project verstrekken. &#x200B;
+* **Opstelling van de Chronologie:** de chronologie van de opstellingstaak die duur en predecessors gebruiken om het tijdkader en de opeenvolging van taken nauwkeurig te schatten. &#x200B;
+* **Op rol-Gebaseerde Toewijzingen:** wijs taken aan baanrollen eerder dan individuele gebruikers toe om middel het plannen en planningsfunctionaliteit effectief te gebruiken. &#x200B;
+* **Beheer van het Malplaatje:** sparen bestaande projecten als nieuwe malplaatjes om verbeteringen op te nemen en malplaatjes te beheren om verwarring te vermijden en efficiënte projectuitvoering te verzekeren. &#x200B;
 
 
 ## Sjablonen die zijn gemaakt met [!UICONTROL Blueprints]
