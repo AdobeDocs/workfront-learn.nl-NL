@@ -1,6 +1,6 @@
 ---
 title: Dashboards maken
-description: Organiseer en toon projectgegevens met de dashboards van Workfront, die kunnen worden aangepast, gemakkelijk worden betreden, worden gedeeld, en worden gedrukt voor naadloos projectbeheer en samenwerking.
+description: Orden en toon projectgegevens met de dashboards van Workfront. Deze kunnen worden aangepast, gedeeld en afgedrukt en zijn eenvoudig toegankelijk voor soepel projectbeheer en samenwerking.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '589'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
