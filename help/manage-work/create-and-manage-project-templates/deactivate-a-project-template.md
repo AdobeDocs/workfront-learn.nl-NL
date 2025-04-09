@@ -13,9 +13,9 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
+source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,12 @@ In deze video leert u:
 * Een projectsjabloon activeren en deactiveren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+
+>[!NOTE]
+>
+>Als u besluit om een malplaatje te schrappen, zal om het even welk project u creeerde gebruikend dat malplaatje niet worden beïnvloed. Verwijderde sjablonen worden gedurende 30 dagen naar de prullenbak verplaatst en kunnen alleen door de systeembeheerder worden hersteld.
+
+
 
 ## Leer hoe u een aangepaste weergave maakt om de actieve status van projectsjablonen te bekijken en te bewerken
 
