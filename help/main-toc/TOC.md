@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: 0399915a57cba155c809ea20c0998f13045e29e9
 workflow-type: tm+mt
-source-wordcount: '2369'
+source-wordcount: '2374'
 ht-degree: 0%
 
 ---
@@ -336,6 +336,7 @@ ht-degree: 0%
    + [Een werkruimte maken](/help/workfront-planning/create-a-workspace.md)
    + [Een recordtype maken en beheren](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [Tabelweergaven maken en beheren](/help/workfront-planning/create-and-manage-table-views.md)
+   + [Tijdlijnweergaven maken en beheren](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [Voordelen van Workfront-planning voor UX-ontwerpteams](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + Integraties {#integrations}
