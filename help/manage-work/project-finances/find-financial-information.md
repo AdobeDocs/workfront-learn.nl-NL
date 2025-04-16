@@ -1,6 +1,6 @@
 ---
 title: Zoeken naar financiële informatie
-description: Leer hoe u financiële informatie vindt over een project en begrijpt waar het vandaan komt.
+description: Ontdek hoe u op efficiënte wijze toegang kunt krijgen tot financiële gegevens voor projecten en taken, en hoe u deze kunt analyseren en beheren, met inbegrip van budgetten, inkomsten, kosten en prestatiewaarden op zowel project- als taakniveau.
 activity: use
 feature: Work Management
 thumbnail: 335208.png
@@ -10,18 +10,34 @@ level: Intermediate
 team: Technical Marketing
 jira: KT-8948
 exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
+last-substantial-update: 2025-04-16T00:00:00Z
+recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
 # Zoeken naar financiële informatie
 
-In deze video leert u hoe u:
-
-* Zoek financiële informatie over een project en begrijp waar het vandaan kwam.
+In de video wordt uitgelegd hoe u toegang krijgt tot financiële informatie voor projecten en taken en deze beheert. &#x200B;Het biedt een uitgebreid overzicht van navigatie en begrip van financiële gegevens op zowel project- als taakniveau. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops)
+
+## Toetsen
+
+* **die tot Financiële Informatie toegang hebben:** De financiële details voor een project worden gevestigd op de financiëlepagina, toegankelijk via &quot;de Details van het Project,&quot;terwijl de taak-vlakke financiële gegevens onder &quot;de Details van de Taak worden gevonden.&quot;
+* **Bewerkbare Gebieden:** de gebruikers met aangewezen rechten kunnen gebieden zoals begroting, gepland voordeel, daadwerkelijke voordeel, vaste opbrengst, en vaste kosten uitgeven.
+* **de Berekeningen van het Systeem:** Geplande en daadwerkelijke opbrengst en kosten worden automatisch berekend gebaseerd op gegevens die voor individuele taken worden geregistreerd.
+* **Metriek van Prestaties:** De indexen van de Kosten en van de planning worden getoond, en de gebruikers kunnen berekeningsmethodes bekijken door het informatiepictogram te klikken. &#x200B; De gekozen methode van de Index van Prestaties bepaalt of de geschatte voltooiing in uren of geld wordt getoond.
+* **het Volgen van de Uitgaven:** de uitgaven maken deel uit van kosten en kunnen op zowel de taak als projectniveaus worden bekeken, die een uitvoerige mening van financiële gegevens verstrekken.
+
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+&lt;!—* [ vind financiële informatie ](/help/manage-work/project-finances/find-financial-information.md)—>
+* [Financiën bijwerken](/help/manage-work/project-finances/update-and-review-finances.md)
+* [Meerdere factureringssnelheden begrijpen](/help/manage-work/project-finances/multiple-billing-rates.md)
+
