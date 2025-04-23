@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10137
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: 7dc12959-e512-41ae-866b-3ff7afb98f45
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -46,9 +47,9 @@ Met een blik bij de [!UICONTROL Finance] informatie in [!UICONTROL Project Detai
 
 De meeste financiële informatie in de [!UICONTROL Project Details] wordt ingesteld tijdens het maken van het project. De nummers die u hier ziet, zijn gebaseerd op die informatie. Dus als je een project sluit, is er echt niets dat je nodig hebt om de financiële details bij te werken of toe te voegen.
 
-<!---
+<!--
 learn more urls
 Create billing records
 Manage project expenses
 Project finances
---->
+-->

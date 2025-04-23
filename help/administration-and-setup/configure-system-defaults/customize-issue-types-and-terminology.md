@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -48,10 +48,10 @@ De namen van typen problemen worden op systeemniveau gewijzigd. De wijziging gel
 >
 >U kunt geen uitgavetypen meer maken of een uitgavetype verwijderen.
 
-<!---
+<!--
 learn more URLs
 Customize default issue types
---->
+-->
 
 ## De term &#39;uitgave&#39; wijzigen in Workfront
 
@@ -60,13 +60,13 @@ Workfront-beheerders kunnen de functionaliteit van de lay-outsjabloon gebruiken 
 
 ![[!UICONTROL Terminology] venster met [!UICONTROL Issue] gemarkeerd ](assets/admin-fund-issue-custom-terminology.png)
 
-<!---
+<!--
 paragraph below needs a hyperlink
---->
+-->
 
 Leer hoe systeem en groepsbeheerders lay-outmalplaatjes in de het leren weg, de Grondbeginselen van de Beheerder in de nieuwe [!DNL Workfront] ervaring kunnen tot stand brengen: Deel 3 Controle en de Ervaring van de Interface.
 
-<!---
+<!--
 learn more URLs
 Create and manage layout templates
---->
+-->

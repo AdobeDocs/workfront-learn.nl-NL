@@ -11,7 +11,7 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Een paar opties met betrekking tot logboektijd hangen af van hoe uw systeembehee
 * Mogelijk kunt u de tijd in de toekomst al dan niet vastleggen.
 * Mogelijk moet u een uurtype selecteren in het keuzemenu, zodat u specifieker kunt zijn over de manier waarop u de tijd hebt doorgebracht. Dit uurtype kan ook erop wijzen of uw tijd factureerbaar of niet factureerbaar was. Selecteer het uurtype voordat u de tijd invoert en klik op de knop [!UICONTROL Log Time] .
 
-<!---
+<!--
 learn more URLs
---->
+-->

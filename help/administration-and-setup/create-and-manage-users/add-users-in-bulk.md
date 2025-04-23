@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: 10034.jpeg
 jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -41,9 +41,9 @@ De geïmporteerde gebruikers worden weergegeven in de lijst [!UICONTROL Users] .
 
 [!DNL Workfront] biedt een sjabloon voor het starten van een toepassing waarmee gegevens in het systeem kunnen worden geïmporteerd. Deze kan ook worden gebruikt voor het importeren van gebruikers. Voordat u de trap-start gebruikt, raadt [!DNL Workfront] u aan samen te werken met uw [!DNL Workfront] -consultant, omdat u rekening moet houden met bepaalde aspecten.
 
-<!---
+<!--
 paragraph below needs URL to article
---->
+-->
 
 Zie Gegevens importeren in Workfront via Kick-Start voor meer informatie.
 

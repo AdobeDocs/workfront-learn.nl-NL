@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Met de voorkeuren voor uitgaven kunnen systeembeheerders de opties bepalen wanne
 
 ## Voorkeuren voor geconverteerde uitgaven
 
-Met deze instellingen bepaalt u wat er met een probleem gebeurt wanneer het wordt geconverteerd naar een taak of project in [!DNL Workfront] .
+Met deze instellingen bepaalt u wat er gebeurt met een probleem wanneer het wordt omgezet in een taak of een project in [!DNL Workfront] .
 
 ![[!UICONTROL Tasks & Issues] voorkeurenvenster met [!UICONTROL Issues] gemarkeerde sectie ](assets/admin-fund-issue-prefs-converting.png)
 
@@ -37,9 +37,9 @@ Met deze instellingen bepaalt u wat er met een probleem gebeurt wanneer het word
 1. Selecteer **[!UICONTROL Tasks & Issues]** .
 1. Blader naar de sectie **[!UICONTROL Issues]** .
 1. Klik op de gewenste opties.
-1. Sla op wanneer u klaar bent.
+1. Sla op als u klaar bent.
 
-Bekijk de opties in deze sectie, zodat u de juiste opties voor uw organisatie kunt kiezen.
+Bekijk de opties in deze sectie, zodat kunt u de aangewezen opties voor uw organisatie kiezen.
 
 * **[!UICONTROL Automatically update Resolvable Issue status when the status of the Resolving Object Changes]**
 
@@ -67,12 +67,12 @@ Bekijk de opties in deze sectie, zodat u de juiste opties voor uw organisatie ku
 
   Wanneer geselecteerd, betekent deze optie de standaardmontages voor &quot;[!UICONTROL Keep original issue]&quot;en &quot;[!UICONTROL Allow Primary Contact]&quot;kunnen worden veranderd door de gebruiker die de kwestie omzet. Schakel deze optie uit als u de standaardinstellingen ongewijzigd wilt laten.
 
-<!---
+<!--
 learn more URLs
 Configure system-wide task and issue preferences
 Issue statuses
 Create and customize system-wide statuses
---->
+-->
 
 ## Voorkeuren voor werkelijke datums
 
@@ -80,7 +80,7 @@ Create and customize system-wide statuses
 
 De tijdstempel van [!UICONTROL Actual Start Date] wordt gemaakt wanneer de status van de uitgave verandert van Nieuw in een andere status. De tijdstempel van [!UICONTROL Actual Completion Date] is wanneer de status van de uitgave verandert in een status die aangeeft dat deze is gesloten.
 
-Houd er rekening mee dat deze voorkeur de werkelijke datuminstellingen voor zowel taken als uitgaven bepaalt.
+Het is belangrijk om op te merken dat deze voorkeur de daadwerkelijke datummontages voor zowel taken als kwesties controleert.
 
 ![[!UICONTROL Tasks & Issues] voorkeurenvenster met [!UICONTROL Actual Dates] gemarkeerde sectie ](assets/admin-fund-issue-prefs-actual-dates.png)
 
@@ -90,18 +90,18 @@ Houd er rekening mee dat deze voorkeur de werkelijke datuminstellingen voor zowe
 1. Blader naar de sectie **[!UICONTROL Actual Dates]** .
 1. Selecteer de gewenste optie voor **[!UICONTROL Actual Start Date]** — [!UICONTROL Now] (de huidige datum en tijd) of [!UICONTROL The Planned Start Date] (de [!UICONTROL Actual Start Date] komt overeen met de begindatum die is ingesteld in de uitgiftegegevens).
 1. Selecteer nu de optie voor **[!UICONTROL Actual Completion Date]** — [!UICONTROL Now] (de huidige datum en tijd) of [!UICONTROL The Planned Completion Date] (de [!UICONTROL Actual Start Date] komt overeen met de datum die is ingesteld in de uitgiftegegevens).
-1. Sla op wanneer u klaar bent.
+1. Sla op als u klaar bent.
 
 
-<!---
+<!--
 learn more URLs
 Definitions for the project, task, and issue dates within Workfront
 Configure system-wide task and issue preferences
---->
+-->
 
 ## Toegang tot problemen
 
-De instellingen in [!UICONTROL Access] voor uitgaven bepalen welke toegang een gebruiker krijgt wanneer een uitgave aan hem of haar wordt toegewezen in Workfront. Deze montages controleren toegang tot de kwestie zelf, naast toegang tot het project de kwestie wordt geassocieerd met.
+De [!UICONTROL Access] -instellingen voor uitgaven bepalen welke toegang een gebruiker krijgt wanneer een uitgave aan hem of haar wordt toegewezen in Workfront. Deze montages controleren toegang tot de kwestie zelf, naast toegang tot het project de kwestie wordt geassocieerd met.
 
 Voordat u deze instellingen wijzigt, moet u eventuele workflows of procesbehoeften bespreken met uw [!DNL Workfront] -consultants en uw interne governanceteam.
 
@@ -114,12 +114,12 @@ Voordat u deze instellingen wijzigt, moet u eventuele workflows of procesbehoeft
 1. Stel de deeltoegang in voor de uitgave zelf — [!UICONTROL View], [!UICONTROL Contribute] of [!UICONTROL Manage] . [!DNL Workfront] raadt u aan de geavanceerde opties ongewijzigd te laten.
 1. Schakel het selectievakje in als de persoon aan wie de uitgave is toegewezen ook toegang tot het project moet hebben
 1. Selecteer vervolgens de gedeelde toegang voor het project — [!UICONTROL View], [!UICONTROL Contribute] of [!UICONTROL Manage] . Houd bij het instellen van de [!UICONTROL Advanced Options] rekening met de workflows en toegangsbehoeften van uw organisatie.
-1. Sla op wanneer u klaar bent.
+1. Sla op als u klaar bent.
 
 ![[!UICONTROL Access] venster met [!UICONTROL Contribute] opties ](assets/admin-fund-issue-prefs-access-2.png)
 
-<!---
+<!--
 learn more URLs
 Configure system-wide task and issue preferences
 Grant access to issues
---->
+-->

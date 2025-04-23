@@ -11,7 +11,7 @@ thumbnail: 335101.png
 jira: KT-8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -39,6 +39,6 @@ Sommige teams kunnen in plaats daarvan een knop [!UICONTROL Work On It] zien. In
 
 De naam en functionaliteit van de knop worden bepaald door uw systeem- of groepsbeheerder en op de workflows en processen van uw organisatie.
 
-<!---
+<!--
 learn more URLs
---->
+-->

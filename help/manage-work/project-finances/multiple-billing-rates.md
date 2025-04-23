@@ -13,9 +13,9 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 8aa0874f60e60379cda2d5c5ca0b6f015dab04cd
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -40,5 +40,5 @@ In de video wordt uitgelegd hoe u factureringssnelheden voor taakrollen in een p
 
 * [Zoeken naar financiële informatie](/help/manage-work/project-finances/find-financial-information.md)
 * [ de financiën van de Update ](/help/manage-work/project-finances/update-and-review-finances.md)
-&lt;!—* [ Begrijp veelvoudige het factureren tarieven ](/help/manage-work/project-finances/multiple-billing-rates.md)—>
+  <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
 

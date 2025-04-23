@@ -1,6 +1,6 @@
 ---
 title: Begrijp financiële toegang
-description: Leer hoe beheerders met financiële toegangsrechten kunnen bepalen wie de financiële informatie die in Workfront wordt bijgehouden, kan zien en bewerken.
+description: Systeembeheerders beheren de toegang tot financiële gegevens via aanpasbare machtigingen, zorgen voor veilig beheer, toezicht op projectniveau en op maat gesneden opties voor delen voor financiële zichtbaarheid.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,73 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 # Begrijp financiële toegang
 
-Als uw organisatie financiële gegevens vastlegt met [!DNL Workfront] als systeembeheerder, is het uw verantwoordelijkheid om te beschermen en te beheren wie toegang heeft om die informatie te bekijken en te bewerken.
+In de video wordt uitgelegd wat de rol is van systeembeheerder bij het beheren van de toegang tot financiële informatie in Workfront. &#x200B; De beheerder controleert toegang door toegangsniveaus. &#x200B;
+In de video wordt benadrukt dat gebruikers hun financiële toegang alleen kunnen gebruiken voor projecten die ze maken of voor projecten waarvoor iemand met financiële toegang ze heeft gedeeld.
 
-Er zijn twee dingen nodig voor een gebruiker om financiële informatie te bekijken of te bewerken:
+>[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops)
 
-1. Toegangsrechten moeten zijn ingeschakeld in de [!UICONTROL Access Level] .
-2. Toestemming om deze toegangsrechten te gebruiken moet per object worden verleend.
+## Toetsen
 
-Een gebruiker kan bijvoorbeeld rechten krijgen om financiële gegevens in zijn toegangsniveau te bekijken, maar hij kan alleen financiële gegevens bekijken over een taak die met hem wordt gedeeld en hij kan financieel worden bekeken in het delen van die taak.
+* **Rol van de Beheerder van het Systeem:** de systeembeheerder beheert toegang tot financiële informatie door opstelling en toegangsniveaus, die controle over verzekeren wie financiële gegevens kan bekijken of uitgeven. &#x200B;
+* **Creërend de Niveaus van de Toegang:** Een toegangsniveau kan worden gecreeerd om gebruikers toestemmingen te verlenen om het factureren, kostentarieven, wisselkoersen, en uitgaven uit te geven en te bekijken.
+* **project-Vlakke Financiële Toegang:** De gebruikers met financiële toegang kunnen financialen in projecten uitgeven zij creëren, maar anderen hebben expliciete toegang tot mening of geef financiën uit.
+* **Aanpasbare Toegang die deelt:** De financiële toegang kan met specifieke gebruikers, met op maat gemaakte toestemmingen (b.v., mening-slechts toegang) worden gedeeld, zelfs als zij algemene rechten hebben om financiële gegevens uit te geven.
+* **Beperkingen van de Toegang:** de gebruikers kunnen hun financiële toegang op projecten slechts gebruiken zij of op projecten tot waar iemand met financiële toegang het met hen heeft gedeeld.
 
-Het is dus mogelijk dat een gebruiker met [!UICONTROL Access Level] -rechten financiële gegevens kan bekijken voor bepaalde objecten en niet voor andere, afhankelijk van de individuele opties voor delen van die objecten. Nochtans kan geen gebruiker financiële gegevens over om het even welk voorwerp bekijken tenzij zij het recht hebben die aan hen in hun [!UICONTROL Access Level] wordt gegeven.
 
-## [!UICONTROL Access Level] instellingen
+## Aanbevolen zelfstudies over dit onderwerp
 
-Globale toegang tot financiële gegevens wordt eerst verleend door het type [!DNL Workfront] licentie.
-
-**[!UICONTROL Plan]-licenties kunnen:**
-
-* Factureringsrecords beheren
-* Rol- en kostenfacturering beheren en bekijken
-* Facturering van gebruikers beheren en de kosten bekijken
-* Kosten beheren
-* Financiën weergeven en bewerken
-
-**[!UICONTROL Work]-licenties kunnen:**
-
-* Kosten beheren
-* Financiën weergeven
-
-**[!UICONTROL Review]-licenties kunnen:**
-
-* Financiën weergeven
-
-**de Toestemmingen kunnen door [!UICONTROL Access Level] worden gewijzigd. De drie opties voor financiële gegevenstoegang zijn:**
-
-* [!UICONTROL No Access] — De gebruiker kan geen financiële informatie zien.
-* [!UICONTROL View] — De gebruiker kan de informatie controleren en delen.
-* [!UICONTROL Edit] — De gebruiker kan de gegevens maken, bewerken, verwijderen en delen. (Alleen beschikbaar voor een abonnement.)
-
-![ een beeld dat de algemene opties van de Gegevens van de Financiële in een toegangsniveau toont ](assets/setting-up-finances-8.png)
-
-Het is belangrijk om te weten dat de opties [!UICONTROL View] en [!UICONTROL Edit] aanvullende instellingen hebben voor een [!UICONTROL Plan] -licentie. Klik op de knop [!UICONTROL View] voor de volgende opties:
-
-**[!UICONTROL View]**
-
-* Rol- en kostenfacturering weergeven
-* Facturering van gebruikers en kostentarieven weergeven
-
-![ een beeld dat de de meningsopties van de Gegevens in een toegangsniveau toont ](assets/setting-up-finances-9.png)
-
-**[!UICONTROL Edit]**
-
-Deze twee opties zijn beschikbaar onder de optie [!UICONTROL Edit] , samen met:
-
-* Rollenfacturering en kostentarieven bewerken
-* Facturering van gebruikers en kostentarieven bewerken
-
-![ een beeld dat Financiële Gegevens toont geeft opties in een toegangsniveau uit ](assets/setting-up-finances-10.png)
-
->[!NOTE]
->
->Een gebruiker met toegang om uitgaven toe te voegen kan ook de uitgaven bekijken die zij, evenals uitgaven toevoegen door hun directe rapporten toevoegen.
+* [Prestatiewaarden begrijpen](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Taakontvangsten en standaardinstellingen voor kosten instellen](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [Wisselkoersen instellen](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [uitgaventypen instellen](/help/manage-work/project-finances/set-up-expense-types.md)

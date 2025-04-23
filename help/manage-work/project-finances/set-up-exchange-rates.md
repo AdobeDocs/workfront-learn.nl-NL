@@ -1,6 +1,6 @@
 ---
 title: Wisselkoersen instellen
-description: Leer hoe u wisselkoersen kunt gebruiken voor projecten en rapporten om financiële informatie in verschillende valuta's van over de hele wereld weer te geven.
+description: Pas valutainstellingen aan met flexibel wisselkoersbeheer, algemene aanpassingen en aanpassingen op projectniveau en handmatige invoeropties voor nauwkeurige financiële tracering.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,37 +10,34 @@ role: User
 level: Intermediate
 jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # Wisselkoersen instellen
 
-[!DNL Workfront] ondersteunt verschillende valuta&#39;s voor klantenorganisaties die multinationale ondernemingen zijn. Wisselkoersen kunnen worden gebruikt voor projecten en verslagen om financiële informatie in verschillende valuta&#39;s van over de hele wereld weer te geven.
+De video bevat een gids over het beheer van valuta&#39;s in het Workfront-systeem voor financiële controle. &#x200B; Het legt uit dat de standaardvaluta de Amerikaanse dollar is, maar er kunnen wereldwijd extra valuta&#39;s worden ingesteld, of voor afzonderlijke projecten en functies.
+In de video wordt benadrukt dat het systeem geen actuele wisselkoersen biedt, zodat gebruikers deze extern moeten aanschaffen. &#x200B; Zodra geplaatst, worden de wisselkoersen het gebrek voor projecten of baanrollen maar niet automatisch bijwerken; de gebruikers met aangewezen toestemmingen moeten hen manueel bijwerken. &#x200B; Na het instellen van valuta&#39;s kunnen gebruikers nieuwe projecten maken en een keuze maken uit de beschikbare valutaopties, waarbij ze de wisselkoersen voor afzonderlijke projecten kunnen aanpassen. &#x200B;
 
-De wisselkoersen worden beheerd door systeembeheerders. Indien nodig kunt u aanvullende valuta&#39;s instellen voor uw organisatie.
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
 
-De standaard basisvaluta van Workfront is de Amerikaanse dollar. Dit is de valuta waarin financiële informatie standaard wordt berekend. Dit gebrek kan globaal en op individuele projecten worden veranderd.
+## Toetsen
 
-## Valuta&#39;s en wisselkoersen instellen
+* **StandaardValuta:** de standaardmunt van het systeem is de dollar van de V.S., maar dit kan globaal of voor individuele projecten en baanrollen worden veranderd. &#x200B;
+* **het Toevoegen van Valuta&#39;s:** de extra munten kunnen opstelling samen met hun wisselkoersen in het opstellingsgebied worden. &#x200B;
+* {de Updates van het Tarief van 0} de Hand van de Uitwisseling:**het systeem verstrekt huidige wisselkoersen niet; de gebruikers moeten hen extern en manueel input van bron voorzien. &#x200B;**
+* **project-Specifieke Aanpassing:** de tarieven van de Uitwisseling in het opstellingsgebied worden geplaatst worden gebruikt als gebreken, maar de gebruikers kunnen wisselkoersen voor individuele projecten aanpassen. &#x200B;
+* **Updates en Toestemmingen:** de veranderingen in het opstellingsgebied werken automatisch geen bestaande projecten bij. Voor het bijwerken van wisselkoersen voor projecten of taakrollen zijn de juiste gebruikersmachtigingen vereist.
 
-![ een beeld van het selecteren van wisselkoersen ](assets/setting-up-finances-4.png)
+## Aanbevolen zelfstudies over dit onderwerp
 
-**Uitgezocht [!UICONTROL Setup] van het belangrijkste menu.**
-
-1. Vouw **[!UICONTROL Project Preferences]** uit in het linkermenuvenster.
-1. Klik op **[!UICONTROL Exchange Rates]**.
-1. Klik op **[!UICONTROL Add Currency]** .
-1. Selecteer de landvaluta in de vervolgkeuzelijst.
-1. Voer de gewenste wisselkoers voor de valuta in.
-1. Als een andere valuta dan de Amerikaanse dollar de standaardvaluta van het [!DNL Workfront] -systeem moet zijn, klikt u op de knop naast de valutanaam.
-1. Klik op **[!UICONTROL Save]** wanneer alle valuta&#39;s zijn toegevoegd.
-
-![ een beeld van het toevoegen van een munt aan de lijst van wisselkoersen ](assets/setting-up-finances-5.png)
-
->[!NOTE]
->
->Workfront actualiseert of volgt de huidige marktwaarden voor wisselkoersen niet. Updates moeten, indien nodig, handmatig worden uitgevoerd.
+* [Prestatiewaarden begrijpen](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [Taakontvangsten en standaardinstellingen voor kosten instellen](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [uitgaventypen instellen](/help/manage-work/project-finances/set-up-expense-types.md)
+* [Begrijp financiële toegang](/help/manage-work/project-finances/understand-financial-access.md)

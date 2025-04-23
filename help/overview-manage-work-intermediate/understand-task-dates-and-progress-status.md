@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8782
 hide: true
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -32,8 +32,8 @@ In deze video leert u hoe u:
 >Zoals in de video wordt aangegeven, is het belangrijk dat mensen de status wijzigen van **[!UICONTROL New]** in **[!UICONTROL In Progress]** wanneer ze een taak starten, zodat de [!UICONTROL Actual Start Date] correct is. Maar als ze dit vergeten wanneer ze de taak starten, kunnen ze de [!UICONTROL Actual Start Date] altijd weer bewerken.
 
 
-<!---
+<!--
 Task progress status overview
 Definitions for the project, task, and issue dates within Workfront
 Project timelines
---->
+-->
