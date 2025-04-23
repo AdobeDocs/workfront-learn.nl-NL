@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: view-utilization.png
 jira: KT-10187
 exl-id: b54b9ae2-e0b0-4118-9302-9a6e2b613e36
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 065e0f03540cc8fd69d066dbb9c687d9feaff5bf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
-# Het gebruik weergeven en de functie Bronnen filteren
+# Het gebruik van de mening en filter de Planner van het Middel
 
 Met de Planner van het Middel, krijgt u een duidelijke mening van de projecten u in geinteresseerd bent en een blik in real time kijkt hoe uw personeel omhoog stapelt om hen uit te voeren.
 
@@ -33,7 +33,7 @@ U zult niet alleen kunnen zien hoe de toewijzing van middelen het werk van vanda
 De functie Bronnen wordt automatisch geopend met een standaardset filters. U wilt deze filters bewerken door:
 
 * Tijdskader
-* Portfolio/programma
+* Portfolio/Program
 * Brongroepen, enz.
 
 ![ filter van de middelplanner ](assets/TRP01.png)
