@@ -51,7 +51,7 @@ Het gebruiken van een Bedrijfs Geval alvorens uw project, of zelfs bij het begin
 
 Het biedt u ook de gelegenheid om belanghebbenden te laten zien hoe uw project bijdraagt aan afdelingsdoelen, regionale doelen en/of bedrijfsdoelen.
 
-Voor instructies op hoe te om het BedrijfsGeval te gebruiken zie [ het BedrijfsGeval ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html) begrijpen.
+Voor instructies op hoe te om het BedrijfsGeval te gebruiken zie [ het BedrijfsGeval ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=nl-NL) begrijpen.
 
 </br>
 </br>
@@ -64,7 +64,7 @@ Schatting en pas belangrijke projectinformatie zoals de kosten, de groepering, d
 
 Het verzekeren van deze informatie is zo dicht aan wat het &quot;echte leven&quot;project zal impliceren staat u toe om de scoreeigenschap in Optimizer van het Portfolio nauwkeurig te gebruiken om de prioriteit van de vermelde projecten te bepalen. Portfolio Optimizer is een groot hulpmiddel om ervoor te zorgen dat uw projecten efficiënt voorrang krijgen en op de strategie en de waarde van uw bedrijf worden gericht.
 
-Voor instructies op hoe te om het BedrijfsGeval te gebruiken zie [ het BedrijfsGeval ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html) begrijpen.
+Voor instructies op hoe te om het BedrijfsGeval te gebruiken zie [ het BedrijfsGeval ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=nl-NL) begrijpen.
 
-Voor instructies op hoe te om Portfolio te gebruiken optimaliseert zie [ Gebruik de Optimizer van het Portfolio om werk ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html) voorrang te geven en te beheren.
+Voor instructies op hoe te om Portfolio te gebruiken optimaliseert zie [ Gebruik de Optimizer van het Portfolio om werk ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=nl-NL) voorrang te geven en te beheren.
 

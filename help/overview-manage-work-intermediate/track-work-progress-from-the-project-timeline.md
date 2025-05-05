@@ -55,4 +55,4 @@ Soms worden de taakbeperkingen veranderd en je realiseert het niet. Restricties 
 
 Maak een aangepaste weergave die de kolom [!UICONTROL Task Constraint] bevat om deze informatie weer te geven in uw takenlijst. Als u het project van een begindatum plant, wilt u uw taken de [!UICONTROL As Soon As Possible] ([!UICONTROL ASAP]) beperking hebben.
 
-Voor meer details over taakbeperkingen zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html) begrijpen en beheren.
+Voor meer details over taakbeperkingen zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=nl-NL) begrijpen en beheren.

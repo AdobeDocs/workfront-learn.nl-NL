@@ -32,7 +32,7 @@ In deze video leert u:
 
 ## Leer hoe u een aangepaste weergave maakt om de actieve status van projectsjablonen te bekijken en te bewerken
 
-Om een mening van het projectmalplaatje met een actieve statuskolom tot stand te brengen, zie de **actieve de statusmening van het malplaatje van het Project** activiteit in [ een basismening ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en) creëren.
+Om een mening van het projectmalplaatje met een actieve statuskolom tot stand te brengen, zie de **actieve de statusmening van het malplaatje van het Project** activiteit in [ een basismening ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=nl-NL) creëren.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

@@ -37,7 +37,7 @@ De opties voor [!UICONTROL PIM] zijn gebaseerd op uren en kosten.
 * **berekent op projectniveau** - [!UICONTROL EAC] voor de oudertaak en het project worden bepaald gebruikend de daadwerkelijke uren/daadwerkelijke arbeidskosten in [!UICONTROL EAC] formules. De berekening omvat de werkelijke uren/kosten en uitgaven die rechtstreeks aan de bovenliggende taak of het bovenliggende project zijn toegevoegd.
 * R **omhoog vanaf taken/subtasks** - [!UICONTROL EAC] voor de oudertaak en het project worden bepaald door omhoog [!UICONTROL EAC] voor elke kindtaak toe te voegen. Deze berekening sluit de werkelijke uren/kosten uit die rechtstreeks aan een bovenliggende taak of project worden toegevoegd.
 
-De [!UICONTROL EAC] berekeningen worden vermeld in [ Berekenen schatten bij Voltooiing (EAC) ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=en).
+De [!UICONTROL EAC] berekeningen worden vermeld in [ Berekenen schatten bij Voltooiing (EAC) ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=nl-NL).
 
 **Metriek van Prestaties: Montages**
 

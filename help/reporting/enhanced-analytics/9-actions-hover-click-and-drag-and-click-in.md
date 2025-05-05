@@ -52,4 +52,4 @@ Wanneer u in bepaalde delen van een diagram klikt, worden extra grafieken of een
 
 ![ een beeld van blauwe gearceerde dozen ](assets/blue-shaded-boxes.png)
 
-Voor meer informatie zie [ de Activiteit door teamvisualisatie ](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en) begrijpen.
+Voor meer informatie zie [ de Activiteit door teamvisualisatie ](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=nl-NL) begrijpen.

@@ -49,7 +49,7 @@ Maak dit rapport door een kopie te maken van het rapport &#39;Zoeknotities&#39; 
 
 ### Antwoord 1
 
-1. Voer het rapport uit dat u hebt gemaakt in de activiteit Een notitierapport maken. Hebt u het nog niet gemaakt? Klik hier om de activiteit in [ te zien creeer een 1&rbrace; leerprogramma van het taakrapport &lbrace;.](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)
+1. Voer het rapport uit dat u hebt gemaakt in de activiteit Een notitierapport maken. Hebt u het nog niet gemaakt? Klik hier om de activiteit in [ te zien creeer een 1&rbrace; leerprogramma van het taakrapport &lbrace;.](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)
 1. Klik op **[!UICONTROL Report Actions]** en selecteer **[!UICONTROL Copy]** . [!DNL Workfront] maakt een nieuw rapport met de naam &quot;Notitie zoeken (kopiëren)&quot;.
 1. Ga naar **[!UICONTROL Report Actions]** en selecteer **[!UICONTROL Edit]** . Klik op **[!UICONTROL Report Settings]** en wijzig de naam in &quot;Notities zoeken in dit project&quot;.
 1. Klik op [!UICONTROL Report Prompts] en verwijder de aanwijzing [!UICONTROL Project] > [!UICONTROL Name] uit de lijst.

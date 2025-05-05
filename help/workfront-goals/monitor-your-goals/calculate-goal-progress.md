@@ -37,5 +37,5 @@ De vooruitgang van uw doel is een goede manier om een idee te krijgen van waar u
 
 >[!TIP]
 >
->Voor meer informatie over de formules die worden gebruikt om doelvooruitgang te berekenen, verkend dit artikel: [ Overzicht van doelvooruitgang en voorwaarde in de Doelen van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
+>Voor meer informatie over de formules die worden gebruikt om doelvooruitgang te berekenen, verkend dit artikel: [ Overzicht van doelvooruitgang en voorwaarde in de Doelen van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=nl-NL#overview-of-goal-progress-and-threshold).
 

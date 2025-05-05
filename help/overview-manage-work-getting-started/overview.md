@@ -26,7 +26,7 @@ Start uw Workfront-reis door te leren projecten te maken en te plannen. Workfron
 
 In deze zelfstudie leert u hoe u een project maakt, een project plant, een project beheert en een project sluit.
 
-Na de voltooiing van dit leerprogramma, adviseren wij [ werk leiden - tussenpersoon ](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html) om uw vaardigheden van het projectbeheer verder te verscherpen.
+Na de voltooiing van dit leerprogramma, adviseren wij [ werk leiden - tussenpersoon ](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=nl-NL) om uw vaardigheden van het projectbeheer verder te verscherpen.
 
 >[!PREREQUISITES]
 >

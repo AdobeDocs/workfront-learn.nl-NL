@@ -38,7 +38,7 @@ In deze video leert u:
 
 Veel Workfront Fusion-gebruikers bereiken een punt waar ze denken aan alle systemen die ze gebruiken en vragen uiteindelijk: &quot;Heeft Workfront Fusion connectors naar ___ software?&quot; (Vul de blanco in voor de systemen die u gebruikt.)
 
-De eenvoudigste manier om te bepalen of Workfront Fusion een vooraf gebouwde connector heeft, is om de functie App toevoegen te gebruiken en een app op naam te zoeken. U kunt de [ Apps en hun modules ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) artikel op Experience League voor een lijst van toepassingen ook controleren Workfront Fusion kan verbinden met.
+De eenvoudigste manier om te bepalen of Workfront Fusion een vooraf gebouwde connector heeft, is om de functie App toevoegen te gebruiken en een app op naam te zoeken. U kunt de [ Apps en hun modules ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=nl-NL) artikel op Experience League voor een lijst van toepassingen ook controleren Workfront Fusion kan verbinden met.
 
 Connectors zijn niet alleen beperkt tot de apps in dit artikel. Als de app waarmee u wilt werken geen vooraf gebouwde aansluiting heeft, kunt u deze modules gebruiken om rechtstreeks verbinding te maken met de webservice:
 

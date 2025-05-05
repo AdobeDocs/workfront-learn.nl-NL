@@ -49,9 +49,9 @@ Gebruik uw workflows om te bepalen welke meldingen nodig zijn.
 
 Door uw workflows stap voor stap te doorlopen, kunt u gemakkelijker de communicatiepunten identificeren en ervoor zorgen dat de juiste meldingen zijn ingeschakeld. Dit is een primeur van de meldingen voor de manier waarop uw organisatie al werkt, zodat spam of communicatiestoornissen worden voorkomen.
 
-Voor instructies op hoe te de berichten van de opstellingsgebeurtenis zien [ de berichten van de opstellingsgebeurtenis ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
+Voor instructies op hoe te de berichten van de opstellingsgebeurtenis zien [ de berichten van de opstellingsgebeurtenis ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html?lang=nl-NL).
 
-Voor instructies op hoe te om gebeurtenisberichten te beheren zie [ binnen-app en e-mailgebeurtenisberichten beheren ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
+Voor instructies op hoe te om gebeurtenisberichten te beheren zie [ binnen-app en e-mailgebeurtenisberichten beheren ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html?lang=nl-NL).
 
 </br>
 </br>
@@ -72,5 +72,5 @@ Als u veel updateverbindingen in een project hebt, kan het moeilijk zijn om een 
 * Naam eigenaar
 * Invoerdatum
 
-Voor stap voor stap instructies op hoe te om een notitierapport met herinneringen tot stand te brengen, op [ creeer een leerprogramma van het taakrapport ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html), dan doe de activiteit die volgt.
+Voor stap voor stap instructies op hoe te om een notitierapport met herinneringen tot stand te brengen, op [ creeer een leerprogramma van het taakrapport ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=nl-NL), dan doe de activiteit die volgt.
 

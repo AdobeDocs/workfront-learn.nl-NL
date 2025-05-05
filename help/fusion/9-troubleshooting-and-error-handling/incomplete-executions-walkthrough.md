@@ -32,4 +32,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=nl-NL)

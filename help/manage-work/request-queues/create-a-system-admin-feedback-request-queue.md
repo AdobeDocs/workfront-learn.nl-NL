@@ -24,8 +24,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ creeer een verzoekrij ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
->* [ creeer een verzoekstroom ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
+>* [ creeer een verzoekrij ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=nl-NL)
+>* [ creeer een verzoekstroom ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=nl-NL)
 >* Of u bent reeds comfortabel met het creëren van een verzoekrij die een verpletterende regel en een douaneformulier gebruikt.
 
 De video verstrekt een geleidelijke gids bij het creëren van een terugkoppel verzoekrij voor systeembeheerders.
@@ -45,9 +45,9 @@ In de video wordt het belang benadrukt van participatie van gebruikers en transp
 * **het Testen en Toegankelijkheid:** de rij wordt getest met steekproefverzoeken, die functionaliteit verzekeren. Het wordt gepubliceerd als rij van het hulpverzoek, toegankelijk voor alle gebruikers, met een standaardvoltooiingsduur van 10 dagen.
 
 
-Leren hoe te om tot het **team te leiden Admin terugkoppelt rapport** gebruikt in de video, **creeer een admin team terugkoppelt rapportactiviteit** in [ creeer een taakrapport ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) leerprogramma.
+Leren hoe te om tot het **team te leiden Admin terugkoppelt rapport** gebruikt in de video, **creeer een admin team terugkoppelt rapportactiviteit** in [ creeer een taakrapport ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) leerprogramma.
 
-Leren hoe te om een douanevorm tot stand te brengen, zie [ creeer en deel een douanevorm ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) leerprogramma.
+Leren hoe te om een douanevorm tot stand te brengen, zie [ creeer en deel een douanevorm ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=nl-NL) leerprogramma.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

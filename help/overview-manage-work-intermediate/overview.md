@@ -38,7 +38,7 @@ Dig dieper om nog meer te leren over het optimaal benutten van Workfront.
 >
 >* Goed inzicht in het gebruik van Workfront
 >* Standaardlicentietype met rechten voor het maken van projecten ingeschakeld
->* [ leiden werk - begonnen wordt ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* [ leiden werk - begonnen wordt ](https://experienceleague.adobe.com/?lang=nl&recommended=Workfront-U-1-2022.1.planners)
 
 
 ## Projectsjablonen

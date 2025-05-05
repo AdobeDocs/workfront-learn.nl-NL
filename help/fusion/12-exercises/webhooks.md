@@ -50,7 +50,7 @@ Het doel van dit scenario is een app te maken om te verkopen aan winkels met gem
 1. In het kaartpaneel Webhooks is een URL gemaakt voor deze specifieke webhaak. Klik op &quot;Adres kopiëren naar klembord&quot; om die URL te kopiëren.
 1. Klik op OK.
 1. Klik eenmaal op Uitvoeren.
-1. Gebruik de URL in Postman om een naam en geboortedatum naar uw aangepaste webhaak te verzenden. Voor instructies bij vestiging Postman, zie de [ analyse van Webhooks ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=en) leerprogramma.
+1. Gebruik de URL in Postman om een naam en geboortedatum naar uw aangepaste webhaak te verzenden. Voor instructies bij vestiging Postman, zie de [ analyse van Webhooks ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=nl-NL) leerprogramma.
 
    **het de modulepaneel van Webhooks zou als dit moeten kijken:**
 

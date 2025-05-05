@@ -49,8 +49,8 @@ Als u portfolio&#39;s en programma&#39;s gebruikt, kunt u extra Workfront-gereed
 
 Bovendien kunt u extra hulpmiddelen zoals het rapport van het Gebruik gebruiken, dat u helpt begrijpen hoe en waar de gebruikers werken, of Portfolio Optimizer, die het gemakkelijker maakt om projecten aan algemene bedrijfsdoelstellingen en strategieën voorrang te geven en te richten.
 
-Om te begrijpen hoe te om een lijst van projecten door een bepaalde portefeuille te filtreren, zie &quot;Activiteit 1 - Alle projecten in de portefeuille van de Marketing&quot;in [ basisfilteractiviteiten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html) creëren.
+Om te begrijpen hoe te om een lijst van projecten door een bepaalde portefeuille te filtreren, zie &quot;Activiteit 1 - Alle projecten in de portefeuille van de Marketing&quot;in [ basisfilteractiviteiten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html?lang=nl-NL) creëren.
 
-Om het rapport van het Gebruik te begrijpen zie de vooruitgang, de kosten, en de opbrengst van het artikel [ Spoor met het rapport van het Gebruik ](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
+Om het rapport van het Gebruik te begrijpen zie de vooruitgang, de kosten, en de opbrengst van het artikel [ Spoor met het rapport van het Gebruik ](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=nl-NL#track-progress-cost-and-revenue-with-the-utilization-report).
 
-Om over Portfolio te leren Optimizer zie [ Gebruik de Optimizer van het Portfolio om het werk ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html) voorrang te geven en te beheren.
+Om over Portfolio te leren Optimizer zie [ Gebruik de Optimizer van het Portfolio om het werk ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=nl-NL) voorrang te geven en te beheren.

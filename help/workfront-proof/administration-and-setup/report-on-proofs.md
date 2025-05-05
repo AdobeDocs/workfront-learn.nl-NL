@@ -31,7 +31,7 @@ Met dit rapporttype kunt u uitstaande proefdrukken bijhouden om ervoor te zorgen
 
 ![ Uitgezocht [!UICONTROL Proof Approval] van [!UICONTROL New Report] drop-down menu ](assets/proof-system-setups-proof-approval-report.png)
 
-Tot de opties voor weergave en filter behoren [!UICONTROL decision date] , [!UICONTROL proof approval] , [!UICONTROL approver stage] , [!UICONTROL workflow template] en [!UICONTROL requester information] . Bij rapportage in de tekstmodus kunt u een groep maken die de lijst indeelt op documentnaam. Zie [ basistekstwijze voor groeperingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en) begrijpen.
+Tot de opties voor weergave en filter behoren [!UICONTROL decision date] , [!UICONTROL proof approval] , [!UICONTROL approver stage] , [!UICONTROL workflow template] en [!UICONTROL requester information] . Bij rapportage in de tekstmodus kunt u een groep maken die de lijst indeelt op documentnaam. Zie [ basistekstwijze voor groeperingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=nl-NL) begrijpen.
 
 Wanneer het schrijven van de rapporten van de proefdrukgoedkeuring, zorg ervoor u informatie met betrekking tot de recentste versie van de proefdrukken krijgt. [!DNL Workfront] raadt u aan deze veldbron en veldnaam op te nemen in het filter:
 

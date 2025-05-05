@@ -30,4 +30,4 @@ Geplande uren is de standaardinstelling. Als u naar de duur overschakelt, blijft
 
 ## Wat betekent de grootte van het vak en de kleurschaduw?
 
-Kleinere, lichtere blauwe vakken geven minder uren aan, terwijl grotere vakken en donkere tinten blauw meer uren aangeven in vergelijking. Voor meer informatie zie [ Begrijp de het treemap visualisatie van het Project ](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
+Kleinere, lichtere blauwe vakken geven minder uren aan, terwijl grotere vakken en donkere tinten blauw meer uren aangeven in vergelijking. Voor meer informatie zie [ Begrijp de het treemap visualisatie van het Project ](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=nl-NL).

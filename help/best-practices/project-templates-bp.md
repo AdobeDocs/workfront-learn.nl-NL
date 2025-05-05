@@ -108,7 +108,7 @@ Het Delen van het Project van het gebruik op een projectmalplaatje om toegang to
 
 Toegang tot specifieke projecten wordt verleend via het project zelf. Als de zelfde groep mensen altijd toegang tot projecten nodig heeft die met een specifiek malplaatje worden gecreeerd, voeg hen onder de optie van het Delen van het Project op het malplaatje toe. Niet alleen kunt u toegang tot projecten controleren zodra zij worden gecreeerd, stroomlijnt dit scalability inspanningen als de toestemmingen in de toekomst moeten veranderen.
 
-Voor instructies op hoe te om projecten te delen die gebruikend een malplaatje worden gecreeerd zie het hoofdstuk &quot;hoe te projecten delen die worden gecreeerd gebruikend een malplaatje&quot;in [ Deel een projectmalplaatje ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html).
+Voor instructies op hoe te om projecten te delen die gebruikend een malplaatje worden gecreeerd zie het hoofdstuk &quot;hoe te projecten delen die worden gecreeerd gebruikend een malplaatje&quot;in [ Deel een projectmalplaatje ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html?lang=nl-NL).
 
 **Nota**: Het Delen van het malplaatje verleent toegang tot het malplaatje zelf. Een gebruiker moet minstens de toestemmingen van de Mening hebben om projecten met het malplaatje te maken.
 
@@ -177,7 +177,7 @@ Zorg ervoor dat de informatie die standaard voor alle projecten is, is ingevuld 
 
 Voeg projectdouaneformulieren die verzoeken douaneformulieren aan om voorgelegde informatie te trekken wanneer het omzetten van het verzoek in een project gebruikend het malplaatje.
 
-Voor instructies op hoe te om een douanevorm aan een voorwerp als een projectmalplaatje vast te maken, zie [ een douanevorm aan een voorwerp ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html) vastmaken.
+Voor instructies op hoe te om een douanevorm aan een voorwerp als een projectmalplaatje vast te maken, zie [ een douanevorm aan een voorwerp ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html?lang=nl-NL) vastmaken.
 
 </br>
 </br>
@@ -190,7 +190,7 @@ Projectsjablonen regelmatig controleren en bijwerken.
 
 Naarmate processen en teams veranderen, moeten de projectsjablonen worden bijgewerkt. Vestig een regelmatige toestemming, zoals driemaandelijks, om te controleren en te zien welke malplaatjes niet actief worden gebruikt. U kunt deze deactiveren, zodat ze zich nog steeds in Workfront bevinden, maar niet in de lijsten met sjabloonselectie worden weergegeven.
 
-Voor instructies op hoe te om een projectmalplaatje te deactiveren, zie [ een projectmalplaatje ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html) deactiveren.
+Voor instructies op hoe te om een projectmalplaatje te deactiveren, zie [ een projectmalplaatje ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html?lang=nl-NL) deactiveren.
 
 </br>
 </br>
@@ -232,7 +232,7 @@ Wanneer u de optie van de Wijze van het Programma op een malplaatje aanpast, her
 
 Het mengen van verschillende taakbeperkingen op een project kan onverwachte en verwarrende geplande datumberekeningen veroorzaken. Bijvoorbeeld, wanneer de Datum van het Begin voor de optie van de Wijze van het Programma wordt geselecteerd, worden om het even welke die taken in dat project worden gecreeerd toegewezen zo spoedig mogelijk taakbeperking door gebrek. Als u later de optie van de Wijze van het Programma op de Datum van de Voltooiing overschakelt, dan hebben om het even welke gecreeerde taken een ZO laat Mogelijke taakbeperking door gebrek. Als u een onopzettelijke combinatie van taken met elk van deze beperkingen hebt, kan dit leiden tot verwarring tussen de geplande datums in de projecttijdlijn.
 
-Om taakcontraints beter te begrijpen en hoe te om hen te gebruiken, zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html) begrijpen en beheren.
+Om taakcontraints beter te begrijpen en hoe te om hen te gebruiken, zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=nl-NL) begrijpen en beheren.
 
 </br>
 </br>
@@ -247,4 +247,4 @@ Wanneer u een malplaatje van een bestaand project creeert, tenzij u de Duidelijk
 
 Al deze gebruikers zullen als deel van het projectteam, in de Mensen en het Plannen van secties van het project worden vermeld. Dientengevolge, zullen zij aan alle projecten worden verspreid die van dat malplaatje worden gecreeerd. Dit kon verwarring voor de gebruiker veroorzaken omdat als deel van het projectteam, zij berichten over activiteit op het project ontvangen, het project in de Projecten zien I op lijst, en toestemmingen aan het project en zijn taken, kwesties en documenten verkrijgen.
 
-Voor instructies op hoe te om het projectteam in een projectmalplaatje uit te geven, zie [ het projectteam in een projectmalplaatje ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html) uitgeven.
+Voor instructies op hoe te om het projectteam in een projectmalplaatje uit te geven, zie [ het projectteam in een projectmalplaatje ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html?lang=nl-NL) uitgeven.

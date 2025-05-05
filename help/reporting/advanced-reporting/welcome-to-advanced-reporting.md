@@ -44,8 +44,8 @@ Voordat u deze zelfstudies kunt bekijken, hebt u het volgende nodig:
    * [[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
    * [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
 * U had ook de volgende zelfstudies moeten volgen:
-   * [[!UICONTROL Understand basic text mode for views]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en)
-   * [[!UICONTROL Understand basic text mode for groupings]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en)
+   * [[!UICONTROL Understand basic text mode for views]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=nl-NL)
+   * [[!UICONTROL Understand basic text mode for groupings]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=nl-NL)
 
 ## Doelgroep
 

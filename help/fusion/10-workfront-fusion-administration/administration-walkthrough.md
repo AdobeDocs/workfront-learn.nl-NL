@@ -36,9 +36,9 @@ In deze video leert u:
 
 >[!NOTE]
 >
->Als uw organisatie aan Adobe Admin Console is bezet, zie [ gebruikers aan de Fusie van Adobe Workfront door Adobe Admin Console ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html) toevoegen.
+>Als uw organisatie aan Adobe Admin Console is bezet, zie [ gebruikers aan de Fusie van Adobe Workfront door Adobe Admin Console ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html?lang=nl-NL) toevoegen.
 
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=nl-NL)

@@ -44,5 +44,5 @@ Zij helpen ook de tijd die aan taken wordt besteed te volgen, toekomstige raming
 * [Begrijp taakduur](/help/manage-work/tasks/understand-task-durations.md)
 * [Leren om taken uit te voeren](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Begrijpen [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
-* [ Overzicht van Tijdopnamen ](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
-* [ tijd van het Logboek ](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+* [ Overzicht van Tijdopnamen ](https://experienceleague.adobe.com/nl/docs/workfront/using/timesheets/details/timesheets-overview)
+* [ tijd van het Logboek ](https://experienceleague.adobe.com/nl/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

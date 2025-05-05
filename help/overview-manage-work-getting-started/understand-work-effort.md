@@ -30,7 +30,7 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
 
-Voor meer informatie over [!UICONTROL Work Effort], zie het [ het overzicht van de Werkinspanning van het Werk ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
+Voor meer informatie over [!UICONTROL Work Effort], zie het [ het overzicht van de Werkinspanning van het Werk ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=nl-NL) artikel.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

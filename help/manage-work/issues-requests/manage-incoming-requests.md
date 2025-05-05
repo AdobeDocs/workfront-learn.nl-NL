@@ -22,5 +22,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**beheert verzoeken** is nu inbegrepen in **[Vondst en leidt verzoeken ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html)**.
+>**beheert verzoeken** is nu inbegrepen in **[Vondst en leidt verzoeken ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html?lang=nl-NL)**.
 

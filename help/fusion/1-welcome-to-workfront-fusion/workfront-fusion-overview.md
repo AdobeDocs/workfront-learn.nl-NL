@@ -60,6 +60,6 @@ De uitdagingen zijn voor degenen die iets willen proberen dat andere concepten i
 
 De geleidelijke instructies worden verstrekt om u door de walkthrough oefeningen te helpen krijgen.
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=nl-NL)
 
 Er is ook de gemeenschap van de Fusie 2.0 van de a [ Workfront ](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) waar u vragen kunt posten.
