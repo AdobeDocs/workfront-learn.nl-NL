@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Krijg een beter begrip voor wat een raad van bestuur is en hoe het u en/of uw team in het leiden van het werk kan ten goede komen. Kijk waar u toegang wilt krijgen tot de borden en hoe u een basisbord kunt maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/346548/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428956/?quality=12&learn=on&enablevpops&captions=dut)

@@ -25,7 +25,7 @@ In deze video leert u hoe u:
 * Een website uploaden als een statische proefdruk
 * Een website uploaden als een interactieve proefdruk
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445073/?quality=12&learn=on&enablevpops&captions=dut)
 
 
 ## Overwegingen voor interactieve inhoud

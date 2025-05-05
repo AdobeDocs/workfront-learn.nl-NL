@@ -27,7 +27,7 @@ In deze video leert u:
 * Tijdschema&#39;s maken op een diagram
 * Hoe te om extra grafieken te maken verschijnen
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438571/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Klik op een diagram voor meer informatie
 

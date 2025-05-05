@@ -32,7 +32,7 @@ Sommigen van jullie zijn echter wellicht verder op weg naar beheersing van hulpb
 
 ## Vier stadia van de rijpheid van het middelenbeheer
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431657/?quality=12&learn=on&enablevpops&captions=dut)
 
 
 ## Hoe verder?

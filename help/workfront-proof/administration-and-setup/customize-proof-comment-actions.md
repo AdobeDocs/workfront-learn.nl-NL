@@ -26,7 +26,7 @@ In deze video leert u:
 * Hoe handelingen werden gebruikt voor opmerkingen
 * Handelslabels aanpassen
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432935/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Uw beurt
 

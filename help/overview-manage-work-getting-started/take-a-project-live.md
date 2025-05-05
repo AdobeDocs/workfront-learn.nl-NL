@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 
 * Uw project live laten gaan met de projectstatus
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438993/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

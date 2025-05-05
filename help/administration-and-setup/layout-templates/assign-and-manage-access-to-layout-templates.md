@@ -26,4 +26,4 @@ In deze video leert u hoe u:
 * Lay-outsjablonen toewijzen aan gebruikers, groepen of teams
 * Bepalen wie toegang tot lay-outsjablonen kan beheren
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432331/?quality=12&learn=on&enablevpops&captions=dut)

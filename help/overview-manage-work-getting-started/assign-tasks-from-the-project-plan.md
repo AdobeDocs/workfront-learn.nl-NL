@@ -31,7 +31,7 @@ In deze video zult u:
 * Begrijp de waarde van projectmalplaatjes wanneer het toewijzen van taken
 * Begrijp de waarde van het toewijzen van taken aan teams
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445747/?quality=12&learn=on&enablevpops&captions=dut)
 
 <!--
 learn more urls:

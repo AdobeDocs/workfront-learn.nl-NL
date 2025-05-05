@@ -27,7 +27,7 @@ In deze video leert u hoe u:
 * Opmerkingen en markeringen maken in een versie
 * De huidige versie vergelijken met een eerdere versie van het bestand
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446902/?quality=12&learn=on&enablevpops&captions=dut)
 
 <!--
 ## Learn more

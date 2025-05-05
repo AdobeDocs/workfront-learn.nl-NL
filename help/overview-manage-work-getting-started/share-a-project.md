@@ -31,7 +31,7 @@ In deze video leert u:
 * Een project delen door het in een portfolio te plaatsen
 * Aanbevolen procedures voor het delen van een project
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428970/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

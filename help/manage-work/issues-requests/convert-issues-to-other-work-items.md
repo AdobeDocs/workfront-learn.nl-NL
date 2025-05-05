@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In de video ziet u hoe u een uitgave of verzoek omzet in een taak.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445436/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

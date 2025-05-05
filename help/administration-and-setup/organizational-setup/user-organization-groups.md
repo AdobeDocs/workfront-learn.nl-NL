@@ -27,7 +27,7 @@ In deze video leert u hoe u:
 * Een groep koppelen
 * Subgroepen maken en koppelen
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432873/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Groepbeheerders
 

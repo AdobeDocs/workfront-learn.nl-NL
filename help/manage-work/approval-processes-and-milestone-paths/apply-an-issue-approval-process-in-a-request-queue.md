@@ -30,7 +30,7 @@ ht-degree: 0%
 De video legt uit hoe een standaardgoedkeuringsproces wordt toegepast bij het maken van een aanvraagwachtrij. &#x200B; Wanneer een verzoek wordt gecreeerd, begint het met de status &quot;Nieuw - in afwachting van Goedkeuring,&quot;en een goedkeuringsbericht wordt verzonden naar de aangewezen fiatteur. &#x200B; Indien goedgekeurd, verandert de status in &quot;Nieuw,&quot;toestaand individuen om met het werk te beginnen. &#x200B; Als deze wordt geweigerd, wordt de status mogelijk ten onrechte teruggezet op &quot;Nieuw&quot; vanwege een algemene fout in de instelling van het goedkeuringsproces. &#x200B;
 De video benadrukt dat het goedkeuringsproces wordt teweeggebracht wanneer de status aan &quot;Nieuw wordt geplaatst,&quot;dat het gebrek voor nieuwe verzoeken is. &#x200B; Als deze optie wordt afgewezen, verandert de status standaard terug naar de vorige status, wat niet ideaal is voor nieuwe aanvragen. &#x200B; In plaats daarvan moet een andere status worden gekozen, bijvoorbeeld &quot;Geen oplossing&quot;. &#x200B; De video merkt ook op dat er geen &quot;Geweigerde&quot;status door gebrek wordt verstrekt, maar een systeembeheerder kan tot creëren indien nodig. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455030/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

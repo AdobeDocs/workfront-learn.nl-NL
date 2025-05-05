@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Vervaldatums voor afzonderlijke elementen instellen
 * Elementinstellingen bewerken
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431626/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Elementen
 

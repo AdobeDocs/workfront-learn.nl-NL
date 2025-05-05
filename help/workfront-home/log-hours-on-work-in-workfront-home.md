@@ -25,7 +25,7 @@ In deze video leert u:
 * De waarde van logboektijd
 * Hoe te tijd op werktaken registreren
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438604/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Tips voor het aanmelden van uren op werk in [!DNL Home]
 

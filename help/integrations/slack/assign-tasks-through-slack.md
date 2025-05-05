@@ -23,4 +23,4 @@ In deze video leert u hoe u:
 
 * Taken toewijzen in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441523/?quality=12&learn=on&enablevpops&captions=dut)

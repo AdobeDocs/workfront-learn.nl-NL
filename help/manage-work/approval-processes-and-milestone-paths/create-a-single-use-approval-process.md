@@ -26,7 +26,7 @@ In de video wordt uitgelegd hoe u goedkeuringsprocessen voor projecten, taken of
 De video demonstreert het maken van goedkeuringsprocessen, het instellen van fiatteurs, het configureren van statussen en het gebruik van fasen voor goedkeuringen op meerdere niveaus.
 &#x200B;Het benadrukt de flexibiliteit van zowel globale als enig-gebruiksprocessen om taakgoedkeuringen effectief te beheren.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434693/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

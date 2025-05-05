@@ -35,4 +35,4 @@ In deze video leert u meer over:
 * Samenvattingsinformatie
 * En hoe u een ad-hocagendapunt maakt
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438765/?quality=12&learn=on&enablevpops&captions=dut)

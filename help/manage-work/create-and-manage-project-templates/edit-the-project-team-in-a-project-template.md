@@ -27,7 +27,7 @@ In deze video leert u:
 * Hoe te om onbedoeld met inbegrip van **te vermijden** projectteamleden in een team van het malplaatjeproject.
 * Hoe te om het team van het malplaatjeproject uit te geven.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441556/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

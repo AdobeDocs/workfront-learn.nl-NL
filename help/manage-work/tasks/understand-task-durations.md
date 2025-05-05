@@ -27,7 +27,7 @@ Workfront raadt u aan om tijdslijnen en voorgangers te gebruiken om taaktijdlijn
 &#x200B;Nauwkeurige tijdsduur is essentieel voor een effectieve projectplanning en beheer van bronnen.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449349/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

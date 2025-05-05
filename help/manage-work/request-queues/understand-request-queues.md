@@ -24,7 +24,7 @@ ht-degree: 0%
 
 In deze video wordt het concept &#39;Request Queues&#39; in Workfront uitgelegd, evenals het doel en de manier waarop verzoeken moeten worden verzonden en beheerd. &#x200B; De Queues van het verzoek dienen als gecentraliseerde plaats voor het voorleggen van diverse soorten verzoeken. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447016/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

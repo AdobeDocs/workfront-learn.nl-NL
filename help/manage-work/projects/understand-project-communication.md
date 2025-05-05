@@ -32,7 +32,7 @@ De video benadrukt het belang van effectieve communicatie voor het succes van pr
 
 In de video wordt benadrukt hoe Workfront communicatie, taakbeheer en rapportage vereenvoudigt, zodat alle projectgerelateerde informatie toegankelijk en georganiseerd is. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428969/?quality=12&learn=on&enablevpops&captions=dut)
 
 >[!TIP]
 >

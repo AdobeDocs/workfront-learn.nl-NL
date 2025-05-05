@@ -26,4 +26,4 @@ In deze video leert u hoe u:
 * Filters maken en bewerken
 * Stapelfilters
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428945/?quality=12&learn=on&enablevpops&captions=dut)

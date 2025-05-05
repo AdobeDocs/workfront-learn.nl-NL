@@ -24,7 +24,7 @@ ht-degree: 0%
 
 In deze video leert u waarvoor het projectteam kan worden gebruikt en hoe u dit kunt onderhouden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444595/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

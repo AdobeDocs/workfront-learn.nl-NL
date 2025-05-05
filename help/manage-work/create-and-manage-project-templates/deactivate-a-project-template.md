@@ -27,7 +27,7 @@ In deze video leert u:
 * Hoe te om een projectmalplaatje te delen dat rechten verleent om het te activeren en te deactiveren.
 * Een projectsjabloon activeren en deactiveren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444996/?quality=12&learn=on&enablevpops&captions=dut)
 
 >[!NOTE]
 >

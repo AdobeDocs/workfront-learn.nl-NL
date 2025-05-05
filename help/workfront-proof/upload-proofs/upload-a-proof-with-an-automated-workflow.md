@@ -26,7 +26,7 @@ In deze video leert u:
 * Een workflow toepassen met een proefdruksjabloon
 * Een geautomatiseerde workflow helemaal opnieuw instellen
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453017/?quality=12&learn=on&enablevpops&captions=dut)
 
 
 

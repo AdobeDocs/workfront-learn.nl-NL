@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Alle versies van een proefdruk downloaden
 * Een proefdrukversie verwijderen
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438648/?quality=12&learn=on&enablevpops&captions=dut)
 
 <!--
 ## Learn more

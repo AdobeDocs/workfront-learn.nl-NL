@@ -25,7 +25,7 @@ In deze video leert u hoe u:
 * Met een tijdstempel gemarkeerde opmerkingen toevoegen aan een video
 * De viewerinstellingen aanpassen
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444228/?quality=12&learn=on&enablevpops&captions=dut)
 
 <!--
 ## Learn more

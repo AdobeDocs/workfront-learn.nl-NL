@@ -25,7 +25,7 @@ In deze video leert u:
 
 * Hoe te om de grafiek van het vliegplan te lezen
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439018/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Vluchtschema
 

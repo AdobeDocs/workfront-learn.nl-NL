@@ -35,4 +35,4 @@ In deze video zult u:
 * Elementen zoeken en weergeven
 * Onderzoek hoe de omslagstructuur activaorganisatie en toegang beïnvloedt
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3431628/?quality=12&learn=on&enablevpops&captions=dut)

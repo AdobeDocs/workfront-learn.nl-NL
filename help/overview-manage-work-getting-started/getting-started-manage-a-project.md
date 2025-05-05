@@ -29,7 +29,7 @@ In deze video leert u:
 * Hoe te boren neer om taakdetails te zien
 * Communiceren met belanghebbenden
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445173/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

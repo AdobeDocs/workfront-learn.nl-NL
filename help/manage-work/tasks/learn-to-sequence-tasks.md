@@ -27,7 +27,7 @@ In de video ziet u hoe u voorgangers voor nieuwe taken instelt, zodat de volgord
 &#x200B;Het benadrukt het belang om met voorgangers te werken om hun impact op de projecttijdlijnen te begrijpen en beveelt aan om voor een efficiënte projectplanning gebruik te maken van tijdsduur en voorgangers.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447326/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

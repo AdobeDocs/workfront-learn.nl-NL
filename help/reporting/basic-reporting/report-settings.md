@@ -25,4 +25,4 @@ In deze video leert u:
 * Hoe te om tot rapportmontages toegang te hebben
 * Waarvoor sommige algemene rapportinstellingen worden gebruikt
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445869/?quality=12&learn=on&enablevpops&captions=dut)

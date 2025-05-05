@@ -24,7 +24,7 @@ Zorg ervoor dat de gebruiker op het tabblad [!UICONTROL Queue Details] van de wa
 
 Bekijk deze video voor meer informatie:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434162/?quality=12&learn=on&enablevpops&captions=dut)
 
 **ik gaf gebruikers toegang tot de rij, maar nu kunnen zij het project van de verzoekrij ook zien. Waarom?**
 
@@ -62,7 +62,7 @@ U hebt toegang tot velden in de velden **[!UICONTROL Converted Issue]** en **[!U
 
 Bekijk deze video voor meer informatie:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434182/?quality=12&learn=on&enablevpops&captions=dut)
 
 
 **wat is de beste manier om voor verzoekrijen in een rapport te filtreren?**
@@ -73,7 +73,7 @@ Als uw projectfilter **Rij>>Is Openbaar>>Niet Gelijk>>niets** omvat zal uw rappo
 
 Bekijk deze video voor meer informatie:
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434336/?quality=12&learn=on&enablevpops&captions=dut)
 
 **is het een goed idee om een douanestatus van de Rij van het Verzoek tot stand te brengen?**
 

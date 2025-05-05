@@ -30,7 +30,7 @@ In deze video leert u hoe u de voortgang van het project kunt bijhouden met:
 * Openstaande kwesties
 * De kolom Voorwaarde bijwerken
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447416/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

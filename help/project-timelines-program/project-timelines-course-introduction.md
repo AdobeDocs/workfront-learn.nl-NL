@@ -20,4 +20,4 @@ ht-degree: 0%
 
 In deze video leert u welke elementen (zoals datumtypen en taakbeperkingen) worden gebruikt bij het maken en beheren van projecttijdlijnen in [!DNL &#x200B; Workfront] .
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436746/?quality=12&learn=on&enablevpops&captions=dut)

@@ -25,7 +25,7 @@ In deze video leert u:
 * De lange weg om een taak in een project van Workfront te creëren
 * Enkele handige sneltoetsen voor het maken van taken
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428972/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

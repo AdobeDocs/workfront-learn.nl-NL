@@ -25,4 +25,4 @@ In deze video leert u:
 
 * Hoe te om een nieuw rapport snel tot stand te brengen door een gelijkaardig rapport te kopiëren en uit te geven
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437051/?quality=12&learn=on&enablevpops&captions=dut)

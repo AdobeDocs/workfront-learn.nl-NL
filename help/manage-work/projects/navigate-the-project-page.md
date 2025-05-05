@@ -33,7 +33,7 @@ Deze video biedt een overzicht van het navigeren en beheren van de projectpagina
 * **Sectie van Documenten:** laat het uploaden en het leiden van project-verwante dossiers en proeven toe. &#x200B; Documenten die zijn gekoppeld aan taken worden uitgebreid tot het projectniveau, zodat u ze gemakkelijk kunt openen. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449732/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

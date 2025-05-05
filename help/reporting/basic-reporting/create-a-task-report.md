@@ -25,7 +25,7 @@ In deze video leert u:
 * Hoe te om een taakrapport met een complex filter te creëren
 * Hoe te de rapporten vinden u creeert
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448348/?quality=12&learn=on&captions=dut)
 
 ## Activiteiten van &quot;Een taakrapport maken&quot;
 

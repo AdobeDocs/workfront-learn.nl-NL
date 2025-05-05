@@ -27,7 +27,7 @@ In deze video leert u:
 * Wat voorwaardelijke opmaak is in een weergave
 * Voorwaardelijke opmaak maken en wijzigen
 
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445447/?quality=12&learn=on&captions=dut)
 
 
 ## Overzicht van voorwaardelijke opmaak

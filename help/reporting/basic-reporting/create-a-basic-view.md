@@ -27,7 +27,7 @@ In deze video leert u:
 * Een weergave maken en wijzigen
 * Een weergave delen met andere Workfront-gebruikers
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450244/?quality=12&learn=on&captions=dut)
 
 ## Activiteiten voor een basisweergave maken
 

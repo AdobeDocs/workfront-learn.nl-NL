@@ -28,7 +28,7 @@ In deze video leert u:
 * Waarom de projectstatus wijzigen in [!UICONTROL Complete]
 * Wat moet u doen als u de projectstatus niet kunt wijzigen in [!UICONTROL Complete]
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439364/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

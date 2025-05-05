@@ -44,7 +44,7 @@ Elke fase van een geautomatiseerde workflow heeft een eigen sectie waarin u dead
 
 In deze video worden enkele wijzigingen getoond die u kunt aanbrengen in het gebied [!UICONTROL Workflow] . Raadpleeg de lijst met opsommingstekens in deze video, waarin deze instellingen worden bekeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432619/?quality=12&learn=on&enablevpops&captions=dut)
 
 Hier volgen de wijzigingen in de proefdruksjabloon die u kunt aanbrengen in de sectie [!UICONTROL Workflow] :
 

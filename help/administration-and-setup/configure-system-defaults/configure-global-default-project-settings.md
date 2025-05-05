@@ -30,7 +30,7 @@ In deze video leert u hoe u:
 * Algemene projectvoorkeuren instellen
 * Planningen maken en gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428980/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Globale en groepsproject-, taak- en uitgaven-instellingen
 

@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Filters, weergaven en groepen verwijderen
 * Filters, weergaven en groepen toevoegen
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432917/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Standaardwaarden lijst instellen
 

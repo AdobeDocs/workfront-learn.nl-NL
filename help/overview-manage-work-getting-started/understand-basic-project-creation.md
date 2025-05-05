@@ -30,7 +30,7 @@ In deze video leert u:
 * Iets over taken en kwesties
 * Aanbevolen werkwijze voor het maken van projecten
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432340/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

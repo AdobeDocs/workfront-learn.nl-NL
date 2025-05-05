@@ -26,4 +26,4 @@ In deze video zult u:
 * Leer hoe de middelinformatie in deze mening wordt getoond
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443812/?quality=12&learn=on&enablevpops&captions=dut)

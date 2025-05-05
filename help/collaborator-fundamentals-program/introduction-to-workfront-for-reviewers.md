@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In deze video leert u hoe u [!DNL &#x200B; Workfront] kunt gebruiken met een revisielicentie.
 
->[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438692/?quality=12&learn=on&enablevpops&captions=dut)

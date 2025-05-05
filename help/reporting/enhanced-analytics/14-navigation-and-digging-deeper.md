@@ -25,7 +25,7 @@ In deze video leert u:
 
 * Hoe snel te zien hoeveel tijd de arbeiders aan elk project wijden
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437805/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Revisietijd besteed aan projecten
 

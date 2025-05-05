@@ -33,7 +33,7 @@ U leert deze verzoeken op de volgende plaatsen vinden:
 * In een aangepast dashboard
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441660/?quality=12&learn=on&enablevpops&captions=dut)
 
 
 ## Aanbevolen zelfstudies over dit onderwerp

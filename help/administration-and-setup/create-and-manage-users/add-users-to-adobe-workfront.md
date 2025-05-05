@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Leer hoe u gebruikers aan Workfront kunt toevoegen door een bestaande gebruiker te kopiëren, nieuwe gebruikers bulksgewijs te importeren en een nieuwe gebruiker te maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447049/?quality=12&learn=on&enablevpops&captions=dut)
 

@@ -48,7 +48,7 @@ In deze video maakt u een projectfilter met de naam &quot;Projecten waarvan ik e
 
 Hieronder vindt u stapsgewijze instructies.
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443385/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Antwoord op Activiteit 2
 

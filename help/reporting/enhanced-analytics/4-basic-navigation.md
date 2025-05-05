@@ -29,4 +29,4 @@ In deze video ziet u:
 * Een overzicht van de werkkaarten
 * Een overzicht van de personenteksten
 
->[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436394/?quality=12&learn=on&enablevpops&captions=dut)

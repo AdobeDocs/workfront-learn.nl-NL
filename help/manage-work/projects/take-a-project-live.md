@@ -23,7 +23,7 @@ ht-degree: 0%
 
 In de video wordt uitgelegd wat de laatste stappen zijn om een project live te zetten door de status te wijzigen in &quot;current&quot; &#x200B; Alvorens dit te doen, benadrukt het het herzien van zeer belangrijke projectelementen, met inbegrip van taaknamen, duur, geplande uren, voordecessors, begin en voltooiingsdata, en taken om ervoor te zorgen alles nauwkeurig en behoorlijk wordt geplaatst. &#x200B; Zodra het project levend is, zal de projectmanager berichten ontvangen die op globale en persoonlijke montages worden gebaseerd, en het project zal in rapporten en filters voor actieve projecten verschijnen. &#x200B; Dit is het officiële begin van het werk. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438993/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

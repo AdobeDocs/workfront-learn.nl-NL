@@ -30,7 +30,7 @@ In deze video wordt uitgelegd hoe u aanvragen kunt vinden en beheren in Workfron
 * Aangepaste rapporten en dashboards
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441660/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

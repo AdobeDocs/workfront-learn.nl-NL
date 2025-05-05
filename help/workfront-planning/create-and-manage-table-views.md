@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer om, verslagtype lijstmeningen in de Planning van Adobe Workfront tot stand te brengen te beheren en aan te passen om projectorganisatie en samenwerking te verbeteren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448149/?learn=on&enablevpops&captions=dut)

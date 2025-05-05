@@ -25,4 +25,4 @@ In deze video leert u:
 
 * Hoe eindgebruikers vliegplan, onderdruk en taken in vluchtgrafieken kunnen gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437695/?quality=12&learn=on&enablevpops&captions=dut)

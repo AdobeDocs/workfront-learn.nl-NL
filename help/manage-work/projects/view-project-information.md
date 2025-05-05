@@ -33,7 +33,7 @@ Deze video biedt een overzicht van filters, weergaven en groeperingen in Workfro
 
 In de video wordt de nadruk gelegd op aanpassing en worden koppelingen weergegeven naar zelfstudies voor verder leren. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453072/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

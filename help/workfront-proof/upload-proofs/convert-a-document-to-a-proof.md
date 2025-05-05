@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Een workflow toevoegen tijdens het genereren van de proefdruk
 * Een workflow toevoegen of bewerken nadat de proefdruk is gemaakt
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443472/?quality=12&learn=on&enablevpops&captions=dut)
 
 
 ## Wie kan documenten uploaden?

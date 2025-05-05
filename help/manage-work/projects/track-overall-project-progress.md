@@ -25,7 +25,7 @@ In de video wordt uitgelegd hoe u de voortgang van het project kunt bijhouden aa
 
 De video benadrukt het belang van regelmatige updates door teamleden en pro-actief probleembeheer om nauwkeurige het volgen en geschikte projectvoltooiing te verzekeren. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447416/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

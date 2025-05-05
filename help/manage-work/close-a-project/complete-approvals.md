@@ -27,7 +27,7 @@ In deze video leert u:
 * Hoe te om onopgeloste taakgoedkeuringen te vinden en hen te behandelen
 * Hoe te om onopgeloste probleemgoedkeuringen te vinden en hen te behandelen
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439430/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

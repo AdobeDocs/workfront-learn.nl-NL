@@ -31,7 +31,7 @@ In deze video leert u hoe u:
 * Identificeer werk dat klaar is om te beginnen
 * Werktoewijzingen accepteren
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445084/?quality=12&learn=on&enablevpops&captions=dut)
 
 >[!NOTE]
 >

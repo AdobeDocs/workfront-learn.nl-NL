@@ -25,4 +25,4 @@ In deze video leert u hoe u:
 * Ga naar het gebied met projectdetails
 * De velden met projectdetails aanpassen met een lay-outsjabloon
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432898/?quality=12&learn=on&enablevpops&captions=dut)

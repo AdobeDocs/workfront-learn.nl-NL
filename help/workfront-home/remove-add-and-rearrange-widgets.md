@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Leer widgets op de startpagina verwijderen, toevoegen en opnieuw rangschikken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448979/?quality=12&learn=on&enablevpops&captions=dut)
 
 
 >[!NOTE]

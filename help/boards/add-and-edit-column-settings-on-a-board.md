@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe u kolominstellingen in een board toevoegt en bewerkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428954/?quality=12&learn=on&enablevpops&captions=dut)

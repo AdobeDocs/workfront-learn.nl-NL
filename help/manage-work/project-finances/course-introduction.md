@@ -24,4 +24,4 @@ In deze video leert u hoe u:
 * Trackkosten en -inkomsten
 * Verhandelingskosten
 
->[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436426/?quality=12&learn=on&enablevpops&captions=dut)

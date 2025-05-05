@@ -30,7 +30,7 @@ In deze video leert u:
 * Hoe u geplande uren inschat
 * Hoe te om geplande uren aan taken toe te voegen
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445339/?quality=12&learn=on&enablevpops&captions=dut)
 
 
 ## Aanbevolen zelfstudies en artikelen over dit onderwerp

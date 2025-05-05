@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer om aangepaste recordtypen te maken, importeren en te beheren in Adobe Workfront Planning om werkgerelateerde items efficiënt te organiseren en bij te houden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448090/?learn=on&enablevpops&captions=dut)

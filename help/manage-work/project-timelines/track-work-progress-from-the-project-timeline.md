@@ -29,7 +29,7 @@ In deze video leert u meer over:
 * Percentage voltooid
 * Voortgangsstatus
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438214/?quality=12&learn=on&enablevpops&captions=dut)
 
 
 ## Aanbevolen zelfstudies over dit onderwerp

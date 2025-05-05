@@ -29,7 +29,7 @@ In deze video leert u:
 * Hoe een [!UICONTROL View] u kan helpen de informatie zien u nodig hebt
 * De begin- of einddatum instellen
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448573/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

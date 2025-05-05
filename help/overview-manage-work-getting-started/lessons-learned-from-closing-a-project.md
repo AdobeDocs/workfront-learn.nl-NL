@@ -29,7 +29,7 @@ In deze video ziet u de voordelen van:
 * Aangepaste rapporten maken met de opdracht &quot;geleerde lessen&quot;
 * Een &#39;geleerde lessen&#39;-project maken
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441018/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

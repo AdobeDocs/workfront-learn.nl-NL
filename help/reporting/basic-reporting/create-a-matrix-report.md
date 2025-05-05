@@ -25,7 +25,7 @@ In deze video leert u:
 * Wanneer een matrixrapport nuttig kan zijn
 * En hoe te om een matrixrapport te creëren
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448189/?quality=12&learn=on&captions=dut)
 
 ## Activiteiten van het type &quot;Matrixrapport maken&quot;
 

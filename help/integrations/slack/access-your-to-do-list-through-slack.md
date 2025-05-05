@@ -23,4 +23,4 @@ In deze video leert u hoe u:
 
 * Toegang tot uw to-do lijst in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437926/?quality=12&learn=on&enablevpops&captions=dut)

@@ -22,7 +22,7 @@ In deze video zult u:
 
 * Introductie van de cursus [!UICONTROL Workfront DAM] ophalen
 
->[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436907/?quality=12&learn=on&enablevpops&captions=dut)
 
 <!-- Learn more graphic & links to documentation articles
 * Accessing help for Workfront DAM

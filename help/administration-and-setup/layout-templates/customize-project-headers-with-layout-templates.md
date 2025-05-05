@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Leer om gebieden aan projectkopballen toe te voegen en te verwijderen door lay-outmalplaatjes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409081)
+>[!VIDEO](https://video.tv.adobe.com/v/3432208?captions=dut)

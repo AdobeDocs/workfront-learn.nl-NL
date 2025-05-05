@@ -24,7 +24,7 @@ ht-degree: 0%
 De video benadrukt het belang van communicatie in projectbeheer en benadrukt de rol van kwesties als een belangrijk instrument om communicatie te vergemakkelijken. &#x200B; Het verklaart het verschil tussen updates en kwesties, opmerkend dat de kwesties geschikter voor het werk zijn dat moet worden toegewezen, worden gevolgd, en worden opgelost alvorens een project kan worden voltooid. &#x200B; De video verstrekt een geleidelijke gids over hoe te om kwesties te registreren. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446572/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

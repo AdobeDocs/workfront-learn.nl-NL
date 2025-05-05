@@ -24,7 +24,7 @@ ht-degree: 0%
 
 In de video wordt uitgelegd hoe u een project maakt op basis van een sjabloon. &#x200B; Als u de rechten hebt om een sjabloon te openen, kunt u deze gebruiken als een sneltoets om een project te maken. &#x200B; Open hiertoe de sjabloon, open het menu met drie punten en selecteer &quot;Project maken&quot; &#x200B; Dit neemt u aan het scherm waar u de projectdetails kunt uitgeven. &#x200B; Klik op Project maken als u klaar bent. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456019/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

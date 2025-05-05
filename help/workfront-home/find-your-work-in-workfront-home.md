@@ -31,4 +31,4 @@ In deze video leert u hoe u:
 * Binnenkomende en bestaande werktoewijzingen zoeken
 * Toewijzingsgegevens controleren
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432297/?quality=12&learn=on&enablevpops&captions=dut)

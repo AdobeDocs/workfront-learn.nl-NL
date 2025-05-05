@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Ontdek hoe u kolommen op een board kunt bewerken, toevoegen, herschikken en verwijderen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428958/?quality=12&learn=on&enablevpops&captions=dut)

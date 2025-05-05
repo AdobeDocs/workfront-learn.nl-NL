@@ -31,7 +31,7 @@ In deze video leert u:
 * Hoe het plaatsen van een datum van de taakbegin de taakbeperking zal beïnvloeden
 * Voorgangers invoeren
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447326/?quality=12&learn=on&enablevpops&captions=dut)
 
 <!--
 Learn more urls

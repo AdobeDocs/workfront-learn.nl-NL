@@ -23,5 +23,5 @@ ht-degree: 81%
 
 Leer hoe gebruikers kunnen bepalen welke in-app- en e-mailmeldingen ze ontvangen zodat ze relevante, nuttige e-mails over hun werk ontvangen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442813/?quality=12&learn=on&enablevpops&captions=dut)
 

@@ -27,7 +27,7 @@ Klik op Project kopiëren om de laatste hand te leggen &#x200B;
 Problemen kunnen tijdens dit proces niet rechtstreeks worden gekopieerd, omdat ze niet als gepland werk worden beschouwd. &#x200B; Als u uitgaven wilt kopiëren, gaat u naar het tabblad Problemen, selecteert u de gewenste problemen en gebruikt u de optie &#39;Kopiëren naar&#39; om deze over te brengen naar het nieuwe project. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456044/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

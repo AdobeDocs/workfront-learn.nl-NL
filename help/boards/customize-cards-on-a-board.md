@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer hoe u kunt aanpassen welke informatie wordt weergegeven op een kaart in een board, voor de volledige of gecondenseerde weergave.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446537/?quality=12&learn=on&enablevpops&captions=dut)

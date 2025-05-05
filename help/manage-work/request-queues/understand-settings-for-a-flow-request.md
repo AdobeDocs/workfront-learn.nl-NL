@@ -30,7 +30,7 @@ De video verklaart het proces van de verzoekstroom in Workfront, dat op rijbehee
 
 Door deze vragen te richten, kunnen de gebruikers hun verzoekrij in Workfront effectief plannen en vormen. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441911/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

@@ -25,4 +25,4 @@ In deze video leert u:
 
 * Hoe te om updates van binnen de Taken in vluchtgrafiek te maken
 
->[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436870/?quality=12&learn=on&enablevpops&captions=dut)

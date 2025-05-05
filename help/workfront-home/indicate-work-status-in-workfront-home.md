@@ -25,7 +25,7 @@ In deze video leert u:
 * Het doel van de status in [!DNL &#x200B; Workfront]
 * Hoe de status van werktoewijzingen te wijzigen
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443436/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Opstarten versus eraan werken
 

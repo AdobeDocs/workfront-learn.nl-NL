@@ -24,7 +24,7 @@ ht-degree: 0%
 
 De video biedt een overzicht van het beheer van een project nadat de status is gewijzigd in &quot;Huidig&quot; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445173/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

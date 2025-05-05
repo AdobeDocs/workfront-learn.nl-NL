@@ -25,4 +25,4 @@ In deze video leert u:
 
 * Hoe kan ik aanbevelingen doen om uw organisatie te helpen efficiënter te werken
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438835/?quality=12&learn=on&enablevpops&captions=dut)

@@ -26,7 +26,7 @@ In deze video leert u:
 * Hoe te om interfunctionele teams te gebruiken
 * Hoe te om teams tot stand te brengen en te associëren
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432880/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Teamontwerp
 

@@ -26,7 +26,7 @@ In deze video leert u:
 * De namen van opties voor proefdrukbeslissingen wijzigen
 * Onbenodigde opties voor proefdrukbeslissingen verbergen
 
->[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444655/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Uw beurt
 

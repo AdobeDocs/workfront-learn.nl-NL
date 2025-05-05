@@ -28,7 +28,7 @@ In deze video leert u:
 * Manieren om taken toe te voegen en te schrappen
 * Hoe te om de taakorde te veranderen
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448562/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

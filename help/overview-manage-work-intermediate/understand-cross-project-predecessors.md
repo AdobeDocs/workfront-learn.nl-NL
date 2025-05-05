@@ -36,6 +36,6 @@ In deze video leert u:
 * Een voorganger voor meerdere projecten maken
 * Hoe te om dwars-project predecessors in rapporten te volgen
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3428949/?quality=12&learn=on&enablevpops&captions=dut)
 
 Leer hoe te om tot het **dwars-project predecessors en de opvolgers** mening en **dwars-project predecessors en opvolgers** rapport te leiden dat in de video wordt gebruikt, [ basistekstwijze voor meningen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=nl-NL) leerprogramma begrijpen en zeker zijn en de voorwaarde daar vermelde leerprogramma&#39;s nemen, als u moet.

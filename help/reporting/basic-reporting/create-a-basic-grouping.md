@@ -26,7 +26,7 @@ In deze video leert u:
 * Een groep maken
 * En hoe u een groep deelt met andere Workfront-gebruikers
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449821/?quality=12&learn=on&captions=dut)
 
 ## Activiteiten voor basisgroepering maken
 

@@ -24,7 +24,7 @@ De video verklaart hoe te om Workfront te gebruiken rapporteert elementen-filter
 
 De video laat ook zien hoe u rapportelementen kunt aanpassen en delen met anderen. &#x200B; Met deze gereedschappen kunnen gebruikers hun lijst met rapporten aanpassen aan hun behoeften voor een betere zichtbaarheid en een beter beheer.
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447794/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 

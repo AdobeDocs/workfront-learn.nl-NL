@@ -25,7 +25,7 @@ In deze video leert u hoe u:
 * Werk goedkeuren of afwijzen
 * Een proefafdruk controleren
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447913/?quality=12&learn=on&enablevpops&captions=dut)
 
 <!--
 learn more URLs

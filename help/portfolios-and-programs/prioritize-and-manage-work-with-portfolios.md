@@ -25,7 +25,7 @@ In de video wordt uitgelegd hoe u het Portfolio Optimization-hulpprogramma in Wo
 
 De video benadrukt het belang van het voltooien van bedrijfsgevallen voor nauwkeurige vergelijkingen en geeft stapsgewijze instructies voor het effectief optimaliseren en beheren van projectprioriteiten. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446281/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 
