@@ -23,7 +23,7 @@ ht-degree: 0%
 
 In deze video leert u hoe u:
 
-* Een automatische werkstroomsjabloon maken voor [!DNL  Workfront] proefdrukken
+* Een automatische werkstroomsjabloon maken voor [!DNL &#x200B; Workfront] proefdrukken
 * Proefontvangers toewijzen
 * De deadline van het revisie- en goedkeuringsproces instellen
 * Het automatische werkstroomsjabloon delen met anderen

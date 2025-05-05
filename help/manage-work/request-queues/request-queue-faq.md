@@ -1,6 +1,6 @@
 ---
 title: Antwoorden op veelgestelde vragen over aanvraagwachtrijen
-description: Krijg antwoorden aan gemeenschappelijke vragen over verzoekrijen in  [!DNL  Workfront].
+description: Krijg antwoorden aan gemeenschappelijke vragen over verzoekrijen in  [!DNL &#x200B; Workfront].
 feature: Work Management
 type: Tutorial
 role: Admin, User
@@ -67,9 +67,9 @@ Bekijk deze video voor meer informatie:
 
 **wat is de beste manier om voor verzoekrijen in een rapport te filtreren?**
 
-Als uw projectfilter **Rij>>Is Openbaar >>Gelijk>>niets** omvat zal uw rapport slechts projecten tonen die **** verzoekrijen {zijn.
+Als uw projectfilter **Rij>>Is Openbaar >>Gelijk>>niets** omvat zal uw rapport slechts projecten tonen die **&#x200B;**&#x200B;verzoekrijen &lbrace;zijn.
 
-Als uw projectfilter **Rij>>Is Openbaar>>Niet Gelijk>>niets** omvat zal uw rapport slechts projecten tonen die **** verzoekrijen zijn.
+Als uw projectfilter **Rij>>Is Openbaar>>Niet Gelijk>>niets** omvat zal uw rapport slechts projecten tonen die **&#x200B;**&#x200B;verzoekrijen zijn.
 
 Bekijk deze video voor meer informatie:
 

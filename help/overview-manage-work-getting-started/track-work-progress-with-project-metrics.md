@@ -1,6 +1,6 @@
 ---
 title: Voortgang van het werk bijhouden met projectmetriek
-description: Leer hoe te om projectmetriekaarten te gebruiken om vooruitgang op projectwerk in  [!DNL  Workfront] te volgen.
+description: Leer hoe te om projectmetriekaarten te gebruiken om vooruitgang op projectwerk in  [!DNL &#x200B; Workfront] te volgen.
 activity: use
 feature: Work Management
 thumbnail: 336667.jpeg

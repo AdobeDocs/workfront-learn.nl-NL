@@ -1,6 +1,6 @@
 ---
 title: Individuele doelupdates weergeven in  [!DNL Workfront Goals]
-description: Leer hoe u uw individuele doelen kunt bekijken in de updatestream van [!UICONTROL Pulse] in [!DNL   Doelen].
+description: Leer hoe u uw individuele doelen kunt bekijken in de updatestream van [!UICONTROL Pulse] in [!DNL &#x200B;  Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial

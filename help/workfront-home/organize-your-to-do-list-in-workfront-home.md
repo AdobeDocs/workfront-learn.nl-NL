@@ -1,6 +1,6 @@
 ---
 title: Organiseer uw aan-doe lijst in  [!DNL Workfront] [!UICONTROL Home]
-description: Leer hoe te om toegewezen werk te filtreren en te sorteren, werk identificeren dat klaar is te beginnen, en werktaken in  [!DNL  Workfront] goed te keuren.
+description: Leer hoe te om toegewezen werk te filtreren en te sorteren, werk identificeren dat klaar is te beginnen, en werktaken in  [!DNL &#x200B; Workfront] goed te keuren.
 feature: Work Management
 type: Tutorial
 role: User

@@ -1,6 +1,6 @@
 ---
 title: Proefdrukopmerkingen beheren
-description: Leer hoe te om proefdrukcommentaren in  [!DNL  Workfront]  te beheren door commentaaracties toe te passen, commentaren op te lossen, en de commentaarkolom te filtreren.
+description: Leer hoe te om proefdrukcommentaren in  [!DNL &#x200B; Workfront]  te beheren door commentaaracties toe te passen, commentaren op te lossen, en de commentaarkolom te filtreren.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

@@ -1,6 +1,6 @@
 ---
 title: De weergave [!UICONTROL Board] begrijpen
-description: Stroomlijnd taakbeheer in Workfront met de  [!DNL Kanban]  interface van 0} mening {, die taaksortering, verwezenlijking, aanpassing, en naadloze integratie met de mening van de taaklijst voor efficiënte projectorganisatie aanbieden.[!UICONTROL Board]
+description: Stroomlijnd taakbeheer in Workfront met de  [!DNL Kanban]  interface van 0&rbrace; mening &lbrace;, die taaksortering, verwezenlijking, aanpassing, en naadloze integratie met de mening van de taaklijst voor efficiënte projectorganisatie aanbieden.[!UICONTROL Board]
 activity: use
 team: Technical Marketing
 feature: Work Management

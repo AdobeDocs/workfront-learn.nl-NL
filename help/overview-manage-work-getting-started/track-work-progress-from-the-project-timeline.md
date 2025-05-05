@@ -1,6 +1,6 @@
 ---
 title: Voortgang bijhouden vanaf de projecttijdlijn
-description: Leer hoe te om de vooruitgang van het werk van de projectchronologie in  [!DNL  Workfront]  te volgen gebruikend percent volledig, status, taken, of beperkingen.
+description: Leer hoe te om de vooruitgang van het werk van de projectchronologie in  [!DNL &#x200B; Workfront]  te volgen gebruikend percent volledig, status, taken, of beperkingen.
 activity: use
 team: Technical Marketing
 feature: Work Management

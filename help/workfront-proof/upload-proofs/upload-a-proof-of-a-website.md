@@ -1,6 +1,6 @@
 ---
 title: Een proefdruk van een website uploaden
-description: Leer hoe te om een website als statisch bewijs en interactieve proef in  [!DNL  Workfront] te uploaden.
+description: Leer hoe te om een website als statisch bewijs en interactieve proef in  [!DNL &#x200B; Workfront] te uploaden.
 activity: use
 feature: Workfront Proof
 type: Tutorial

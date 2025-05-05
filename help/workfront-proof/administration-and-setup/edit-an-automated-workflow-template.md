@@ -1,6 +1,6 @@
 ---
 title: Een sjabloon voor een geautomatiseerde workflow bewerken
-description: Leer hoe te om veranderingen in een bestaand geautomatiseerd het proefdrukken werkschemamalplaatje in  [!DNL  Workfront] aan te brengen.
+description: Leer hoe te om veranderingen in een bestaand geautomatiseerd het proefdrukken werkschemamalplaatje in  [!DNL &#x200B; Workfront] aan te brengen.
 activity: use
 feature: Workfront Proof
 type: Tutorial

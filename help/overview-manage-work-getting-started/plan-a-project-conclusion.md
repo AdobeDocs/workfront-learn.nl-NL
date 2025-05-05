@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Een project plannen - revisie
 
-U kunt uw [!DNL  Workfront] -projecten snel uitvoeren met een projectsjabloon. Plan uw project door zich eerst op deze vijf gebieden te concentreren:
+U kunt uw [!DNL &#x200B; Workfront] -projecten snel uitvoeren met een projectsjabloon. Plan uw project door zich eerst op deze vijf gebieden te concentreren:
 
 1. Taken
 1. Duur

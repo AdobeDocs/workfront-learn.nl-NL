@@ -1,6 +1,6 @@
 ---
 title: Aanvragen beheren
-description: Leer hoe u aanvragen kunt vinden die zijn verzonden met dashboards, [!UICONTROL Home] , het [!UICONTROL Requests] -gebied of de [!UICONTROL Teams] -pagina in  [!DNL  Workfront] .
+description: Leer hoe u aanvragen kunt vinden die zijn verzonden met dashboards, [!UICONTROL Home] , het [!UICONTROL Requests] -gebied of de [!UICONTROL Teams] -pagina in  [!DNL &#x200B; Workfront] .
 activity: use
 team: Technical Marketing
 feature: Work Management

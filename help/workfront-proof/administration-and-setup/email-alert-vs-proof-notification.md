@@ -1,6 +1,6 @@
 ---
 title: E-mailwaarschuwingen en proefdrukberichten begrijpen
-description: Begrijp het verschil tussen e-mailalarm en proefdrukberichten in  [!DNL  Workfront].
+description: Begrijp het verschil tussen e-mailalarm en proefdrukberichten in  [!DNL &#x200B; Workfront].
 feature: Workfront Proof
 type: Tutorial
 role: User

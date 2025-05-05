@@ -1,6 +1,6 @@
 ---
 title: Een abonnement openen in [!UICONTROL Scenario Planner]
-description: Leer welke  [!DNL  Workfront]  toestemmingen voor gebruikers nodig zijn om tot plannen in [!UICONTROL Scenario Planner] toegang te hebben.
+description: Leer welke  [!DNL &#x200B; Workfront]  toestemmingen voor gebruikers nodig zijn om tot plannen in [!UICONTROL Scenario Planner] toegang te hebben.
 feature: Resource Management
 type: Tutorial
 role: Leader, User

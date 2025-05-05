@@ -1,6 +1,6 @@
 ---
 title: Navigeren door de projectpagina
-description: Leer hoe te om de details van een project te bekijken, welke informatie in de taaklijst toont, waar te om documenten te uploaden, en hoe te om de updategeschiedenis in  [!DNL  Workfront] te bekijken.
+description: Leer hoe te om de details van een project te bekijken, welke informatie in de taaklijst toont, waar te om documenten te uploaden, en hoe te om de updategeschiedenis in  [!DNL &#x200B; Workfront] te bekijken.
 activity: use
 feature: Work Management
 thumbnail: 335085.jpeg

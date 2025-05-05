@@ -108,7 +108,7 @@ Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de 
 
    **Uw filters zouden als dit moeten kijken:**
 
-   {het Beeld 11 van 10} Routers ](../12-exercises/assets/routers-walkthrough-11.png)![
+   {het Beeld 11 van 10} Routers ![&#128279;](../12-exercises/assets/routers-walkthrough-11.png)
 
    ![ Beeld van Routers 10 ](../12-exercises/assets/routers-walkthrough-10.png)
 

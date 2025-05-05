@@ -1,6 +1,6 @@
 ---
 title: Een verzoek bijwerken
-description: Leer hoe te om de verzoeken te vinden u hebt voorgelegd en een update over die verzoeken in  [!DNL  Workfront].
+description: Leer hoe te om de verzoeken te vinden u hebt voorgelegd en een update over die verzoeken in  [!DNL &#x200B; Workfront].
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial

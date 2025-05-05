@@ -1,6 +1,6 @@
 ---
 title: Wie uploadt de proefversies?
-description: De persoon verantwoordelijk voor het uploaden van proefversies in  [!DNL  Workfront]  kan variëren. Leer van gemeenschappelijke gebruiksgevallen om de ideale opstelling bij uw organisatie te identificeren.
+description: De persoon verantwoordelijk voor het uploaden van proefversies in  [!DNL &#x200B; Workfront]  kan variëren. Leer van gemeenschappelijke gebruiksgevallen om de ideale opstelling bij uw organisatie te identificeren.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

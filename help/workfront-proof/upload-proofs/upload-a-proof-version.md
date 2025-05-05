@@ -1,6 +1,6 @@
 ---
 title: Een proefdrukversie uploaden
-description: Leer hoe te om een nieuwe versie van een proef te uploaden en een het proefdrukken werkschema op de versie in  [!DNL  Workfront] toe te passen.
+description: Leer hoe te om een nieuwe versie van een proef te uploaden en een het proefdrukken werkschema op de versie in  [!DNL &#x200B; Workfront] toe te passen.
 activity: use
 feature: Workfront Proof
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: Werken goedkeuren in [!UICONTROL Home]
-description: Leer hoe te om project, taak, kwestie, en proefdrukgoedkeuringsverzoeken in [!UICONTROL Work List] te vinden, dan goedkeuren of verwerpen het werk in  [!DNL  Workfront].
+description: Leer hoe te om project, taak, kwestie, en proefdrukgoedkeuringsverzoeken in [!UICONTROL Work List] te vinden, dan goedkeuren of verwerpen het werk in  [!DNL &#x200B; Workfront].
 feature: Work Management
 type: Tutorial
 role: User

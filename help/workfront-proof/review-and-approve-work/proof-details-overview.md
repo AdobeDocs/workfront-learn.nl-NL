@@ -1,6 +1,6 @@
 ---
 title: Details van proefdrukken begrijpen
-description: Dig dieper in de details achter een proef in  [!DNL  Workfront]  door het summiere paneel en [!UICONTROL Document Details] pagina.
+description: Dig dieper in de details achter een proef in  [!DNL &#x200B; Workfront]  door het summiere paneel en [!UICONTROL Document Details] pagina.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -47,7 +47,7 @@ Klik op [!UICONTROL Document Details] voor meer informatie over de proefdruk.
 
 Hiermee gaat u naar de pagina [!UICONTROL Document Details] en een aantal aanvullende opties in het linkerdeelvenster.
 
-![ een beeld van de pagina van de proef in [!DNL  Workfront].](assets/document-details.png)
+![ een beeld van de pagina van de proef in [!DNL &#x200B; Workfront].](assets/document-details.png)
 
 Het is belangrijk om op te merken dat de mogelijkheid om informatie met betrekking tot het proefdrukproces te zien afhankelijk is van uw proefdruktoestemmingen in [!DNL Workfront].
 

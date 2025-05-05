@@ -1,6 +1,6 @@
 ---
 title: Aan de slag met geautomatiseerde workflows
-description: Leer wat een geautomatiseerde proefdrukwerkschema in  [!DNL  Workfront]  is en hoe het van een basiswerkschema verschillend is.
+description: Leer wat een geautomatiseerde proefdrukwerkschema in  [!DNL &#x200B; Workfront]  is en hoe het van een basiswerkschema verschillend is.
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

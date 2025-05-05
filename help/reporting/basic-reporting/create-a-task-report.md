@@ -169,7 +169,7 @@ Filter op identiteitskaart van het project van de verzoekrij waar terugkoppelt k
 
    * [!UICONTROL Issue] > [!UICONTROL Name]
    * [!UICONTROL Primary Contact] > [!UICONTROL Name]
-      * Opmerking: dit wordt weergegeven met &quot;Eigenaar:Naam&quot; als kolomlabel. U kunt dit in &quot;Gerapporteerd door&quot;veranderen door op Geavanceerde Opties te klikken en &quot;Gerapporteerd door&quot;in het **gebied van het Etiket van de Kolom van de 0} Douane te typen.**
+      * Opmerking: dit wordt weergegeven met &quot;Eigenaar:Naam&quot; als kolomlabel. U kunt dit in &quot;Gerapporteerd door&quot;veranderen door op Geavanceerde Opties te klikken en &quot;Gerapporteerd door&quot;in het **gebied van het Etiket van de Kolom van de 0&rbrace; Douane te typen.**
    * [!UICONTROL Issue] > [!UICONTROL Process type]
    * [!UICONTROL Issue] > [!UICONTROL Process name]
    * [!UICONTROL Issue] > [!UICONTROL Process grade]

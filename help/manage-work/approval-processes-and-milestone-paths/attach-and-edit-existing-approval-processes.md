@@ -1,6 +1,6 @@
 ---
 title: Bestaande goedkeuringsprocessen bijvoegen en bewerken
-description: Leer om bestaande goedkeuringsprocessen voor projecten, taken, of kwesties in te gebruiken en uit te geven  [!DNL  Workfront].
+description: Leer om bestaande goedkeuringsprocessen voor projecten, taken, of kwesties in te gebruiken en uit te geven  [!DNL &#x200B; Workfront].
 activity: use
 feature: Approvals
 thumbnail: 335226.jpeg

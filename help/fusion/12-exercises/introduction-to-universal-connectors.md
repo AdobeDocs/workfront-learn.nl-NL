@@ -79,7 +79,7 @@ Gebruikend een karakter Pokemon in een spreadsheet, roep de Pijn API door een sc
 
    ![ Inleiding aan universele schakelaars Beeld 5 ](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-5.png)
 
-1. Gebruik het mappingpaneel op HTTP maak een verzoekURL gebied om het ] gebied van het Teken [ te maken allen kleine letters gebruikend de **lagere** functie.
+1. Gebruik het mappingpaneel op HTTP maak een verzoekURL gebied om het &rbrack; gebied van het Teken &lbrack; te maken allen kleine letters gebruikend de **lagere** functie.
 
    ![ Inleiding aan universele schakelaars Beeld 6 ](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-6.png)
 

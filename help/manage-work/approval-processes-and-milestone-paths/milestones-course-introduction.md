@@ -1,6 +1,6 @@
 ---
 title: Mijlpalen Cursusintroductie
-description: Leer hoe de mijlpalen u kunnen helpen  [!DNL  Workfront]  projecten houden die zich vooruit bewegen.
+description: Leer hoe de mijlpalen u kunnen helpen  [!DNL &#x200B; Workfront]  projecten houden die zich vooruit bewegen.
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Deze cursus is ontworpen voor projectmanagers, planners en anderen die projecten beheren in [!DNL Workfront] . We raden u aan het programma Grondbeginselen van Planner te voltooien of een sterke basis te hebben voor het maken van projecten in [!DNL Workfront] voordat u met deze cursus begint.
 
-In deze video leert u hoe u met mijlpalen [!DNL  Workfront] -projecten in de toekomst kunt houden.
+In deze video leert u hoe u met mijlpalen [!DNL &#x200B; Workfront] -projecten in de toekomst kunt houden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops)

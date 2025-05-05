@@ -1,6 +1,6 @@
 ---
 title: Proefversies beheren
-description: Leer hoe te om de details van te vinden wanneer een proef werd geupload, alle versies van een proef te downloaden, en een proefdrukversie te schrappen in  [!DNL  Workfront].
+description: Leer hoe te om de details van te vinden wanneer een proef werd geupload, alle versies van een proef te downloaden, en een proefdrukversie te schrappen in  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

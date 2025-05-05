@@ -1,6 +1,6 @@
 ---
 title: Navigeren door de [!UICONTROL Pulse] updatestream in  [!DNL Goals]
-description: Leer hoe u door de updatestream van [!UICONTROL Pulse] kunt navigeren in [!DNL   Doelen].
+description: Leer hoe u door de updatestream van [!UICONTROL Pulse] kunt navigeren in [!DNL &#x200B;  Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial

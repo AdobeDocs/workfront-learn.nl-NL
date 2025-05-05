@@ -1,6 +1,6 @@
 ---
 title: Een activiteit omzetten in een uitgelijnd doel
-description: Leer hoe u een activiteit of resultaat omzet in een uitgelijnd doel in [!DNL   Doelen].
+description: Leer hoe u een activiteit of resultaat omzet in een uitgelijnd doel in [!DNL &#x200B;  Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial

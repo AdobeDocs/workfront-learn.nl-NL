@@ -32,7 +32,7 @@ Zodra u weet wat wordt verwacht, kunt u beginnen met het herzien van een proef.
 
 Als een element gereed is voor revisie en goedkeuring, ontvangt u een e-mailbericht.
 
-![ een beeld van een nieuwe proefe-mail die om de overzicht en goedkeuring van twee proefdrukken in [!DNL  Workfront] verzoekt.](assets/new-proof-emails.png)
+![ een beeld van een nieuwe proefe-mail die om de overzicht en goedkeuring van twee proefdrukken in [!DNL &#x200B; Workfront] verzoekt.](assets/new-proof-emails.png)
 
 Deze proefkoppeling is uniek voor u. Als u de koppeling deelt met iemand anders, worden eventuele opmerkingen en markeringen die deze persoon heeft, van uw naam voorzien.
 
@@ -63,7 +63,7 @@ U kunt ook proefdrukken vinden om op een [!DNL Workfront] dashboard te herzien d
 
 Als u normaal met projecten, taken of problemen werkt in [!DNL Workfront] , opent u de proefdruk liever rechtstreeks vanuit de sectie [!DNL Documents] van dat item.
 
-![ een beeld van de [!UICONTROL Documents] sectie die in een [!DNL  Workfront] taak wordt gevonden met de [!UICONTROL Open Proof] benadrukte verbinding.](assets/open-proof-from-documents.png)
+![ een beeld van de [!UICONTROL Documents] sectie die in een [!DNL &#x200B; Workfront] taak wordt gevonden met de [!UICONTROL Open Proof] benadrukte verbinding.](assets/open-proof-from-documents.png)
 
 1. Klik op de naam van het project, de taak of de uitgave.
 2. Klik op [!UICONTROL Documents] in het menu van het linkerdeelvenster van de pagina van het item.

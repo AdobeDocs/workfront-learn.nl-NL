@@ -1,6 +1,6 @@
 ---
 title: Meerdere bestanden combineren tot één proefdruk
-description: Leer hoe te om het proefdrukproces te stroomlijnen door veelvoudige dossiers in één enkele proef in  [!DNL  Workfront] te combineren.
+description: Leer hoe te om het proefdrukproces te stroomlijnen door veelvoudige dossiers in één enkele proef in  [!DNL &#x200B; Workfront] te combineren.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

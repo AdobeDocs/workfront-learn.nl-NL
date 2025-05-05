@@ -1,6 +1,6 @@
 ---
 title: Begrijp het verschil tussen een document en een proef
-description: Leer het verschil tussen een document en een proef in  [!DNL  Workfront].
+description: Leer het verschil tussen een document en een proef in  [!DNL &#x200B; Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial

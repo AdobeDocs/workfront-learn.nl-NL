@@ -1,6 +1,6 @@
 ---
 title: Goedkeuring voltooien
-description: Leer hoe te om onvolledige goedkeuringen te identificeren en hen op te lossen zodat kunt u uw project in  [!DNL  Workfront] sluiten.
+description: Leer hoe te om onvolledige goedkeuringen te identificeren en hen op te lossen zodat kunt u uw project in  [!DNL &#x200B; Workfront] sluiten.
 activity: use
 team: Technical Marketing
 feature: Work Management

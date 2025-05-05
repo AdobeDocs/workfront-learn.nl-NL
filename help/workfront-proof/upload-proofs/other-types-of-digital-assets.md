@@ -1,6 +1,6 @@
 ---
 title: Een proefdruk van een video uploaden
-description: Leer hoe te om een video te uploaden voor het proef in  [!DNL  Workfront].
+description: Leer hoe te om een video te uploaden voor het proef in  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

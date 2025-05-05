@@ -1,6 +1,6 @@
 ---
 title: Datatypen en voortgangsstatus begrijpen
-description: Leer hoe te om de verschillende datumtypes in  [!DNL  Workfront]  te bekijken en vooruitgangsstatus te gebruiken om u te helpen werkvooruitgang volgen.
+description: Leer hoe te om de verschillende datumtypes in  [!DNL &#x200B; Workfront]  te bekijken en vooruitgangsstatus te gebruiken om u te helpen werkvooruitgang volgen.
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg

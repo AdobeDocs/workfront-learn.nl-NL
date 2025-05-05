@@ -1,6 +1,6 @@
 ---
 title: De financiën bijwerken en herzien
-description: Leer hoe te om de financiële informatie te herzien verbonden aan een project in  [!DNL  Workfront].
+description: Leer hoe te om de financiële informatie te herzien verbonden aan een project in  [!DNL &#x200B; Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management

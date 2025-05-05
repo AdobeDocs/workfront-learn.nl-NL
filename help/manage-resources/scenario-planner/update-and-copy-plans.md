@@ -1,6 +1,6 @@
 ---
 title: Abonnementen bijwerken en kopiëren in  [!DNL Scenario Planner]
-description: Leer hoe te om een plan bij te werken of een plan in te kopiëren  [!DNL  Workfront] [!DNL Scenario Planner].
+description: Leer hoe te om een plan bij te werken of een plan in te kopiëren  [!DNL &#x200B; Workfront] [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User

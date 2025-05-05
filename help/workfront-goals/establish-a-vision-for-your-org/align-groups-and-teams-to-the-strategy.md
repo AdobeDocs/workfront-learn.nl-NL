@@ -1,6 +1,6 @@
 ---
 title: Groepen en teams op de strategie afstemmen
-description: Leer hoe u voorgestelde doelen kunt beoordelen en activeren, en driemaandelijkse doelen kunt trapsgewijs en uitlijnen met [!DNL   Doelen].
+description: Leer hoe u voorgestelde doelen kunt beoordelen en activeren, en driemaandelijkse doelen kunt trapsgewijs en uitlijnen met [!DNL &#x200B;  Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial

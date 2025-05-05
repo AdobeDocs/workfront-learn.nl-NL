@@ -1,6 +1,6 @@
 ---
 title: Werktoewijzingen zoeken in [!UICONTROL Home]
-description: Leer hoe u inkomende en bestaande taken kunt zoeken die aan u zijn toegewezen in [!UICONTROL  ] . Controleer vervolgens de toewijzingsgegevens.
+description: Leer hoe u inkomende en bestaande taken kunt zoeken die aan u zijn toegewezen in [!UICONTROL &#x200B; &#x200B;] . Controleer vervolgens de toewijzingsgegevens.
 feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User

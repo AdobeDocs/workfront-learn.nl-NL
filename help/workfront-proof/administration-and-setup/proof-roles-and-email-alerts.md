@@ -1,6 +1,6 @@
 ---
 title: Rollen en e-mailwaarschuwingen controleren
-description: Leer hoe te om juiste proefdrukrollen en e-mailalarm toe te laten zodat hebben de proefontvangers toegang tot proef en zicht in het werk dat in  [!DNL  Workfront] wordt gedaan.
+description: Leer hoe te om juiste proefdrukrollen en e-mailalarm toe te laten zodat hebben de proefontvangers toegang tot proef en zicht in het werk dat in  [!DNL &#x200B; Workfront] wordt gedaan.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

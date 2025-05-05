@@ -1,6 +1,6 @@
 ---
 title: Mijlpalen toepassen
-description: Leer hoe te om milestone wegen op een  [!DNL  Workfront]  project toe te passen en zeer belangrijke taken als milestone stappen binnen het project te associëren.
+description: Leer hoe te om milestone wegen op een  [!DNL &#x200B; Workfront]  project toe te passen en zeer belangrijke taken als milestone stappen binnen het project te associëren.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial

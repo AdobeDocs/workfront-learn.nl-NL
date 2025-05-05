@@ -1,6 +1,6 @@
 ---
 title: De sectie Grafieken begrijpen
-description: Meer informatie over het lezen en interpreteren van het Goal Health Chart and Goal Progress Chart in [!DNL   Doelen].
+description: Meer informatie over het lezen en interpreteren van het Goal Health Chart and Goal Progress Chart in [!DNL &#x200B;  Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial

@@ -67,7 +67,7 @@ Maak een nieuw project in Workfront voor elke rij in het CSV-bestand van de proj
 
 1. Ga terug naar Workfront. Selecteer &quot;_Fusion2020_Project List.csv&quot; in de map &quot;Fusion Exercise Files&quot; en klik op Documentdetails in het linkerdeelvenster. Kopieer het document-id-nummer van het URL-adres (dit is het eerste lange getal in de URL).
 
-   ![ Aanvankelijke Beeld 8 van het Ontwerp van het Scenario {](../12-exercises/assets/initial-scenario-design-8.png)
+   ![ Aanvankelijke Beeld 8 van het Ontwerp van het Scenario &lbrace;](../12-exercises/assets/initial-scenario-design-8.png)
 
 1. Ga terug naar Fusion en plak het nummer in het veld Document ID en klik op OK.
 1. De beste praktijken moeten modules anders noemen aangezien u hen creeert. Klik met de rechtermuisknop op de Workfront-module en kies Naam wijzigen. Noem de module &quot;krijgt projectlijst.&quot;

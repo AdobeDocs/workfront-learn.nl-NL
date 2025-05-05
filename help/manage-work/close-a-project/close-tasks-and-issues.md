@@ -1,6 +1,6 @@
 ---
 title: Taken en problemen sluiten
-description: Leer hoe te ervoor te zorgen de taken en de kwesties worden gesloten alvorens u een project in  [!DNL  Workfront] sluit.
+description: Leer hoe te ervoor te zorgen de taken en de kwesties worden gesloten alvorens u een project in  [!DNL &#x200B; Workfront] sluit.
 activity: use
 team: Technical Marketing
 feature: Work Management

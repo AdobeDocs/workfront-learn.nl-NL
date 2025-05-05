@@ -1,6 +1,6 @@
 ---
 title: Een website controleren met een proefdruk
-description: Leer hoe te om een statisch of interactief websitebewijs in  [!DNL  Workfront]  te openen en commentaren te maken.
+description: Leer hoe te om een statisch of interactief websitebewijs in  [!DNL &#x200B; Workfront]  te openen en commentaren te maken.
 activity: use
 feature: Workfront Proof
 type: Tutorial

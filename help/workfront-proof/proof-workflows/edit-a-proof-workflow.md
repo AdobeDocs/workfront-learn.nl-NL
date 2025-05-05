@@ -1,6 +1,6 @@
 ---
 title: Een proefdrukworkflow bewerken
-description: Leer hoe te om een proefdrukdeadline bij te werken, gebruikers aan een bestaand werkschema toe te voegen, en een bestaand werkschema aan een geautomatiseerde werkschema in  [!DNL  Workfront] te schakelen.
+description: Leer hoe te om een proefdrukdeadline bij te werken, gebruikers aan een bestaand werkschema toe te voegen, en een bestaand werkschema aan een geautomatiseerde werkschema in  [!DNL &#x200B; Workfront] te schakelen.
 activity: use
 feature: Workfront Proof
 type: Tutorial

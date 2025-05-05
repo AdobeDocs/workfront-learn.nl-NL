@@ -20,13 +20,13 @@ ht-degree: 0%
 
 *deze sectie is voor [!DNL Workfront] systeembeheerders verantwoordelijk voor vestiging de Doelen van Workfront voor hun gebruikers.*
 
-Om ervoor te zorgen dat uw organisatie snel verder gaat, moet u er zeker van zijn dat de uitvoering van het werk is afgestemd op de bedrijfsstrategie. [!DNL   Goals] coördineert strategie, doelstellingen, en werk om uitvoering over de organisatie te drijven en meetbare bedrijfsresultaten te leveren.
+Om ervoor te zorgen dat uw organisatie snel verder gaat, moet u er zeker van zijn dat de uitvoering van het werk is afgestemd op de bedrijfsstrategie. [!DNL &#x200B;  Goals] coördineert strategie, doelstellingen, en werk om uitvoering over de organisatie te drijven en meetbare bedrijfsresultaten te leveren.
 
 De beste praktijken van het doel beginnen met top-level collectieve doelstellingen en dan cascades neer aan groep, team, en individuele niveaus. De resulterende doelstellingen moeten worden afgestemd op, bijdragen aan en steun verlenen aan het bereiken van bedrijfsprioriteiten. In [!DNL Workfront] worden doelen ondersteund door resultaten of activiteiten die aangeven hoe u ze bereikt.
 
 ## [!DNL Workfront Goals] checklist
 
-U moet aan de volgende voorwaarden voldoen voordat u toegang krijgt tot [!DNL   Goals] :
+U moet aan de volgende voorwaarden voldoen voordat u toegang krijgt tot [!DNL &#x200B;  Goals] :
 
 * Naast de [!DNL Workfront] -licentie moet uw organisatie een [!DNL Workfront Goals] -licentie aanschaffen.
 * Uw organisatie moet de nieuwe [!DNL Workfront] ervaringsinterface gebruiken. [!DNL Workfront Goals] is niet beschikbaar in de klassieke [!DNL Workfront] -interface.

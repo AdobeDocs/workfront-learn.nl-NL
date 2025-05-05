@@ -1,6 +1,6 @@
 ---
 title: Begrijp de projectpagina
-description: Leer over zeer belangrijke eigenschappen van de projectpagina in  [!DNL  Workfront]  om u te helpen uw projecten plannen en beheren.
+description: Leer over zeer belangrijke eigenschappen van de projectpagina in  [!DNL &#x200B; Workfront]  om u te helpen uw projecten plannen en beheren.
 activity: use
 team: Technical Marketing
 feature: Work Management

@@ -1,6 +1,6 @@
 ---
 title: Het werk van het overzicht in  [!DNL My Updates]  of  [!DNL Home]
-description: '[!DNL  Workfront] verstrekt twee plaatsen om tot werk toegang te hebben dat aan u voor overzicht en goedkeuring wordt toegewezen -  [!DNL My Updates]  en  [!DNL Home] '
+description: '[!DNL &#x200B; Workfront] verstrekt twee plaatsen om tot werk toegang te hebben dat aan u voor overzicht en goedkeuring wordt toegewezen -  [!DNL My Updates]  en  [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User

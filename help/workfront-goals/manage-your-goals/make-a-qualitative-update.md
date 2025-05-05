@@ -1,6 +1,6 @@
 ---
 title: Een kwalitatieve update uitvoeren in  [!DNL Workfront Goals]
-description: Leer hoe u een kwalitatieve of schriftelijke update kunt maken in [!DNL   Doelen].
+description: Leer hoe u een kwalitatieve of schriftelijke update kunt maken in [!DNL &#x200B;  Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial

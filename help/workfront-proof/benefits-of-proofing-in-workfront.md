@@ -1,6 +1,6 @@
 ---
 title: Ontdek de voordelen van proefdrukken
-description: Leer wat het proef en de voordelen van het gebruiken van digitale proef in  [!DNL  Workfront] is.
+description: Leer wat het proef en de voordelen van het gebruiken van digitale proef in  [!DNL &#x200B; Workfront] is.
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -29,7 +29,7 @@ In deze video leert u:
 
 ## Proofingterminologie
 
-Voordat u in [!DNL  Workfront] naar proefdrukinstellingen gaat, moet u de gebruikte terminologie voor proefdrukspecifieke talen leren kennen. Deze termen worden in deze zelfstudie vaak gebruikt.
+Voordat u in [!DNL &#x200B; Workfront] naar proefdrukinstellingen gaat, moet u de gebruikte terminologie voor proefdrukspecifieke talen leren kennen. Deze termen worden in deze zelfstudie vaak gebruikt.
 
 * **Bewijs —** Digitale versie van een dossier dat kan worden herzien, worden duidelijk, en door [!DNL Workfront's] proefdrukkijker worden goedgekeurd.
 * **werkschema van het Bewijs —** Proces om, een proef binnen [!DNL Workfront] tot stand te brengen te verpletteren en te leiden. De stappen die worden gevolgd om deze acties te voltooien.
