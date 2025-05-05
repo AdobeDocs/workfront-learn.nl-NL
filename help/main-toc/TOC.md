@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
+source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
 workflow-type: tm+mt
-source-wordcount: '2372'
+source-wordcount: '2332'
 ht-degree: 0%
 
 ---
@@ -344,10 +344,10 @@ ht-degree: 0%
       + [Adobe Workfront-plug-ins gebruiken om te integreren met Creative Cloud](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Grondbeginselen van Adobe Experience Manager {#adobe-assets-essentials}
-      + [ Vormend de integratie ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=nl-NL)
-      + [ Metagegevens van de Toewijzing ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=nl-NL)
-      + [ Verzendende documenten en het verbinden activa ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=nl-NL)
-      + [ Handelend versiegeschiedenis ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=nl-NL)
+      + [ Vormend de integratie ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [ Metagegevens van de Toewijzing ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [ Verzendende documenten en het verbinden activa ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [ Handelend versiegeschiedenis ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Verbeter uw werkschema met de Integratie van de Reeks](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -359,13 +359,13 @@ ht-degree: 0%
       + [De invoegtoepassing Microsoft Outlook installeren](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [ Adobe Workfront voor het Overzicht van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=nl-NL)
-      + [ installeer Adobe Workfront voor Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=nl-NL)
-      + [ Toegang Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=nl-NL)
-      + [ Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=nl-NL)
-      + [ creeer de taken van Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=nl-NL)
-      + [ legt Adobe Workfront verzoeken van Microsoft Teams  voor](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=nl-NL)
-      + [ beheer Adobe Workfront berichten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=nl-NL)
+      + [ Adobe Workfront voor het Overzicht van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [ installeer Adobe Workfront voor Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [ Toegang Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [ Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [ creeer de taken van Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [ legt Adobe Workfront verzoeken van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html) voor
+      + [ beheer Adobe Workfront berichten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [Workfront for [!UICONTROL Slack] begrijpen](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -575,17 +575,7 @@ ht-degree: 0%
 
 + Home {#home}
    + [Widgets verwijderen, toevoegen en opnieuw rangschikken in Home](/help/workfront-home/remove-add-and-rearrange-widgets.md)
-   + [Uw werk zoeken](/help/workfront-home/find-your-work-in-workfront-home.md)
-   + [Uw lijst met taken ordenen](/help/workfront-home/organize-your-to-do-list-in-workfront-home.md)
-   + [Prioriteit geven aan uw werk](/help/workfront-home/prioritize-your-work-in-workfront-home.md)
-   + [Werkstatus aangeven](/help/workfront-home/indicate-work-status-in-workfront-home.md)
-   + [Communiceren over werk](/help/workfront-home/communicate-about-work-in-workfront-home.md)
-   + [Werktijden vastleggen](/help/workfront-home/log-hours-on-work-in-workfront-home.md)
-   + [Toegewezen werk als voltooid markeren](/help/workfront-home/mark-assigned-work-as-complete.md)
-   + [Werk goedkeuren in [!UICONTROL Home]](/help/workfront-home/approve-work-in-workfront-home.md)
-   + [Samenwerken aan het werk met [!UICONTROL My Updates]](/help/workfront-home/collaborate-on-work-with-my-updates.md)
-   + [Werk reviseren in [!UICONTROL My Updates] of [!UICONTROL Home]](/help/workfront-home/review-work-in-my-updates-or-workfront-home.md)
-   + [Updates en meldingen begrijpen](/help/manage-work/issues-requests/understand-updates-and-notifications.md)
+
 
 + Agile {#agile}
 
