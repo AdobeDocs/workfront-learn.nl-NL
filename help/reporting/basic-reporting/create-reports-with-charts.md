@@ -1,6 +1,6 @@
 ---
 title: Rapporten maken met grafieken
-description: Leer hoe grafieken de visualisatie van gegevens kunnen verbeteren en hoe u grafiekgereedschappen kunt gebruiken in Workfront.
+description: Grafieken verbeteren de gegevensvisualisatie door gegevensinzichten door klantgerichte filters, groeperingen, en gestapelde kolomformaten te organiseren, die analyse helderder en actiever maken.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,45 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
+last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
 
 # Rapporten maken met grafieken
 
-In deze video leert u:
+De video legt uit hoe u grafieken kunt gebruiken om gegevens effectief te visualiseren, met name voor het bijhouden van projecttaken. &#x200B; Het toont het creëren van twee soorten rapporten in Workfront:
 
-* Hoe grafieken de visualisatie van gegevens kunnen verbeteren
-* Workfront-grafiekgereedschappen gebruiken
+**Late Taken door het Rapport van het Project:**
+
+* Begin met een lijstrapport en pas filters toe om slechts onvolledige, late taken in huidige projecten te tonen. &#x200B;
+* Groepeer taken door projectnaam en creeer een cirkeldiagram om de distributie van late taken over projecten te visualiseren. &#x200B;
+* Plaats de grafiek als standaardlusje voor gemakkelijke toegang. &#x200B;
+
+**Taken door het Rapport van de Status van het Project en van de Voortgang:**
+
+* Kopieer het eerste rapport en voeg een andere groepering voor de status van de taakvooruitgang toe.
+* Verwijder filters om alle taken te omvatten, tonend hun vooruitgang tijdens projectuitvoering.
+* Gebruik een gestapelde kolomgrafiek om het totale aantal taken per project, met stapels te tonen die verschillende vooruitgangsstatussen vertegenwoordigen.
+* Pas indien nodig kleuren aan en sla het rapport op.
+
+In de video wordt benadrukt hoe diagrammen als taart en gestapelde kolomgrafieken inzicht kunnen verschaffen in taakdistributie en projectprestaties, waardoor gebruikers projecten kunnen vergelijken en de taakvoortgang visueel kunnen begrijpen. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+
+## Toetsen
+
+* **de Grafieken verbeteren de Duidelijkheid van Gegevens**: Het visualiseren van gegevens met grafieken, zoals taart of kolomgrafieken, maakt het gemakkelijker om taakdistributie en projectvooruitgang te begrijpen in vergelijking met lijstrapporten. &#x200B;
+* **Filtrerend voor Specifieke Inzichten**: Het toepassen van filters (b.v., onvolledige, late taken in huidige projecten) helpt zich op relevante gegevens voor gerichte analyse concentreren. &#x200B;
+* **Groepering voor Betere Organisatie**: Het groeperen van taken door projectnaam of vooruitgangsstatus organiseert effectief gegevens, toelatend zinvolle vergelijkingen over projecten. &#x200B;
+* **de Opties van de Aanpassing van de Grafiek**: De gebruikers kunnen grafiektypes (b.v., taart, kolom, bar) selecteren en kleuren aanpassen om met voorkeur of branding te richten. &#x200B;
+* **gestapelde Grafieken van de Kolom voor Gedetailleerde Inzichten**: De gestapelde kolomgrafieken verstrekken een uitvoerige mening van taakvooruitgang binnen projecten, die zowel totale taken als hun status in één enkele visualisatie tonen.
+
 
 ## &quot;Rapporten maken met grafieken&quot;-activiteiten
 
@@ -51,7 +73,7 @@ Het einde van het kwartaal nadert en u wilt zien hoe recent voltooide projecten 
 1. Voeg op het tabblad **[!UICONTROL Filters]** twee filterregels toe:
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Complete]
-   * [!UICONTROL Project] >[!UICONTROL &#x200B; Actual Completion Date] > [!UICONTROL Last Quarter]
+   * [!UICONTROL Project] >[!UICONTROL  Actual Completion Date] > [!UICONTROL Last Quarter]
 
    ![ een beeld van het scherm om filters aan een rapport toe te voegen ](assets/chart-report-filters.png)
 
