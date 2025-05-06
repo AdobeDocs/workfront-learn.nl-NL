@@ -1,6 +1,6 @@
 ---
 title: Het werk van het overzicht in  [!DNL My Updates]  of  [!DNL Home]
-description: '[!DNL &#x200B; Workfront] verstrekt twee plaatsen om tot werk toegang te hebben dat aan u voor overzicht en goedkeuring wordt toegewezen -  [!DNL My Updates]  en  [!DNL Home] '
+description: '[!DNL  Workfront] verstrekt twee plaatsen om tot werk toegang te hebben dat aan u voor overzicht en goedkeuring wordt toegewezen -  [!DNL My Updates]  en  [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User
@@ -10,7 +10,9 @@ team: Technical Marketing
 thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+hide: true
+hidefromtoc: true
+source-git-commit: 76bccb731d1257fee3e3c0c20dde8efa2270a9c3
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
