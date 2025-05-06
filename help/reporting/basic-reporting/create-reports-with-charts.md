@@ -73,7 +73,7 @@ Het einde van het kwartaal nadert en u wilt zien hoe recent voltooide projecten 
 1. Voeg op het tabblad **[!UICONTROL Filters]** twee filterregels toe:
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Complete]
-   * [!UICONTROL Project] >[!UICONTROL  Actual Completion Date] > [!UICONTROL Last Quarter]
+   * [!UICONTROL Project] >[!UICONTROL &#x200B; Actual Completion Date] > [!UICONTROL Last Quarter]
 
    ![ een beeld van het scherm om filters aan een rapport toe te voegen ](assets/chart-report-filters.png)
 
