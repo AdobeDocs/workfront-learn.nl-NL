@@ -1,6 +1,6 @@
 ---
 title: Basisproject maken
-description: Leer hoe u efficiënt projecten kunt maken, beheren en voltooien, onverwachte problemen kunt verhelpen en beginnersvriendelijke tips kunt verkennen om essentiële functies voor projectbeheer onder de knie te krijgen.
+description: Leer hoe u efficiënt projecten kunt maken, beheren en voltooien, onverwachte problemen kunt verhelpen en beginnersvriendelijke tips kunt verkennen om essentiële functies voor projectbeheer onder de knie te krijgen. ​
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -25,7 +25,7 @@ ht-degree: 9%
 In deze video wordt uitgelegd hoe u een geheel nieuw project kunt maken en beheren. &#x200B; Het begint door een nieuw project te creëren, het anders te noemen, en een doel met een beschrijving, begindatum, en doelvoltooiingsdatum te plaatsen. Projecten kunnen worden opgesplitst in taken die geplande werkzaamheden met een geschatte duur en taken zijn. &#x200B; De taken kunnen worden geordend gebruikend predecessors, en de projectstatus kan aan &quot;Huidige&quot;worden geplaatst om het team op de hoogte te brengen en het te omvatten in rapporten. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432340/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
 
 ## Toetsen
 
