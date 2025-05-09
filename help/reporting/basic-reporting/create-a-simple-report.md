@@ -8,23 +8,35 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8858
+last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 96128e92d7a84dadb8b2c8547a6e612ddb0776d3
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
 
 # Een eenvoudig rapport maken
 
-In deze video leert u hoe u:
+In deze video wordt uitgelegd hoe u projectrapporten kunt maken en aanpassen om gegevens effectief te analyseren. &#x200B; In de eerste plaats wordt gewezen op het belang van rapporten voor het volgen van de voortgang van het project, de voltooiing van de taken, de naleving van de begroting en het identificeren van problemen. De video toont aan hoe te met een rapport van de projectlijst te beginnen, filters, meningen, en groeperingen aan te passen, en een douanerapport voor gemak te creëren. &#x200B; &#x200B;
 
-* Een eenvoudig rapport maken met een bestaand filter, bestaande weergave en bestaande groepen
+In de video wordt benadrukt dat aangepaste rapporten hun standaardinstellingen behouden, maar dat tijdelijke wijzigingen kunnen worden aangebracht tijdens het weergeven van deze rapporten. &#x200B; Rapporten worden opgeslagen in de sectie Mijn rapporten, terwijl gedeelde rapporten worden weergegeven in &quot;Gedeeld met mij.&quot; &#x200B; Veelgebruikte rapporten kunnen worden vastgezet of als favorieten voor gemakkelijke toegang worden gemerkt. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+
+## Toetsen
+
+
+* **Doel van Rapporten:** de hulp van rapporten volgt projectvooruitgang, taakvoltooiing, begrotingsnaleving, en identificeert kwesties, die hen essentieel voor efficiënt projectbeheer maken.
+* **Aangepast de Creatie van het Rapport van de Douane:** de rapporten van de Douane staan u toe om specifieke filters, meningen, en groeperingen voor gemakkelijke toegang te bewaren, die de behoefte elimineren om montages herhaaldelijk aan te passen. &#x200B;
+* **Stappen om een Rapport te bouwen:** selecteer het aangewezen objecten type, noem het rapport, pas filters, meningen, en groeperingen toe, pas kolommen aan, en sparen het rapport. &#x200B;
+* **Tijdelijk vs. &#x200B; Standaardinstellingen:** Terwijl de kijkers filters, meningen, en groeperingen tijdelijk kunnen veranderen, zal het rapport altijd aan zijn standaardmontages bij het opnieuw openen terugkeren. &#x200B;
+* **het Organiseren van Rapporten:** de rapporten van de Douane worden opgeslagen in &quot;Mijn Rapporten,&quot;gedeelde rapporten in &quot;Gedeeld met me,&quot;en vaak gebruikte rapporten kunnen als favorieten voor snelle toegang worden vastgezet of worden gemerkt. &#x200B;
+
+
 
 ## Activiteiten voor &#39;Een eenvoudig rapport maken&#39;
 
