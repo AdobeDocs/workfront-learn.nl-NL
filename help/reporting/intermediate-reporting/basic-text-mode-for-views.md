@@ -40,7 +40,7 @@ In deze video leert u:
 * Wat kamelendoosje is
 * Een standaardtekstmodus voor &quot;insteekmodules&quot; die u in uw weergaven kunt gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432376/?quality=12&learn=on&captions=dut)
 
 ## De activiteiten van de &quot;Begrijpen basistekstwijze voor meningen&quot;
 
