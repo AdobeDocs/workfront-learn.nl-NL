@@ -9,11 +9,12 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
+last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -25,7 +26,15 @@ In deze video leert u:
 * Wanneer een matrixrapport nuttig kan zijn
 * En hoe te om een matrixrapport te creëren
 
->[!VIDEO](https://video.tv.adobe.com/v/3448189/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+
+## Toetsen
+
+* **Structuur van het Rapport van de Matrijs:** de rapporten van de Matrijs organiseren gegevens in rijen en kolommen, met automatische rij en kolomtotalen. &#x200B; Ze zijn ideaal voor het bijhouden van meetgegevens zoals gewerkte uren, kosten en omzet. &#x200B;
+* **de Opstelling van Filters:** de filters van het gebruik om op specifieke gegevens, zoals uren te concentreren die tijdens het laatste kwart door gebruikers van een bepaald huisteam worden gewerkt. &#x200B; De &quot;eigenaar gebiedsbron&quot;hulp identificeert relevante teamleden. &#x200B;
+* **de Opties van de Groepering:** in ons voorbeeld, worden de rijen gegroepeerd door &quot;eigenaarnaam&quot;(persoon die de uren) werkte, terwijl de kolommen door &quot;uur ingangsdatum&quot;(door maand en week) worden gegroepeerd. &#x200B;
+* **samengevat Gegevens:** Kolommen zoals uren, daadwerkelijke kosten, en opbrengst worden samengevat door gebrek, die totalen verzekeren worden getoond in de matrijs. Deze standaardinstellingen kunnen desgewenst worden uitgeschakeld. &#x200B;
+* **de Integratie van de Grafiek:** de rapporten van de Matrijs kunnen met grafieken voor alternatieve gegevensvisualisatie worden aangevuld, gebruikend de zelfde groeperingsinformatie. U kunt het matrixtabblad of het diagramtabblad instellen als de standaardweergave. &#x200B;
 
 ## Activiteiten van het type &quot;Matrixrapport maken&quot;
 
