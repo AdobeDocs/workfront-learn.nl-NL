@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: 9bf4398b7edae104063f1d6265e9c56efb41ea8e
+source-git-commit: b453097c89c2ba1a2bad5b71c195846425e5214a
 workflow-type: tm+mt
-source-wordcount: '2332'
+source-wordcount: '2228'
 ht-degree: 0%
 
 ---
@@ -236,28 +236,6 @@ ht-degree: 0%
       + [Extra opties voor kalenderrapporten begrijpen](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [Uw beurt om een kalenderrapport te creëren](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + Verbeterde analysemogelijkheden {#enhanced-analytics}
-      + [Een moment met Product over [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [Aan de slag met [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [Toegang krijgen tot [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
-      + [Basisnavigatie begrijpen](/help/reporting/enhanced-analytics/4-basic-navigation.md)
-      + [ Begrijp het werk en de grafieken van mensen ](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
-      + [Filters begrijpen](/help/reporting/enhanced-analytics/6-filters-overview.md)
-      + [Datumbereiken en tijdframes begrijpen](/help/reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
-      + [Geplande weergaven van uren en duur begrijpen](/help/reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
-      + [Handelingen begrijpen: houd de muisaanwijzer boven de knop, sleep de aanwijzer en klik in](/help/reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-      + [KPI&#39;s begrijpen](/help/reporting/enhanced-analytics/10-kpis-overview.md)
-      + [Navigeren en projecten evalueren](/help/reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
-      + [ dig dieper gebruikend timeframes en extra grafieken ](/help/reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
-      + [Begrijp navigeren en het herzien projectactiviteit](/help/reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
-      + [Dieper naar de navigatie](/help/reporting/enhanced-analytics/14-navigation-and-digging-deeper.md)
-      + [Begrijp de toegang tot van en het herzien van de burndown](/help/reporting/enhanced-analytics/15-accessing-and-reviewing-the-burndown.md)
-      + [De taken tijdens de vlucht controleren](/help/reporting/enhanced-analytics/16-navigating-to-and-reviewing-the-tasks-in-flight.md)
-      + [Actie nemen door updates uit te voeren](/help/reporting/enhanced-analytics/17-taking-action-by-making-updates.md)
-      + [Begrijp de activiteit door teamgrafiek](/help/reporting/enhanced-analytics/18-activity-by-team-chart.md)
-      + [Begrijp een KPI-vergelijkingscase](/help/reporting/enhanced-analytics/21-kpi-comparisons.md)
-      + [Een gebruiksgeval voor eindgebruikers begrijpen](/help/reporting/enhanced-analytics/22-end-user-use.md)
-      + [Begrijp raadplegende begeleiding](/help/reporting/enhanced-analytics/23-consulting-guidance.md)
 
 + Bronnen beheren {#manage-resources}
    + Resourcebeheer {#resource-management}
@@ -344,10 +322,10 @@ ht-degree: 0%
       + [Adobe Workfront-plug-ins gebruiken om te integreren met Creative Cloud](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Grondbeginselen van Adobe Experience Manager {#adobe-assets-essentials}
-      + [ Vormend de integratie ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=nl-NL)
-      + [ Metagegevens van de Toewijzing ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=nl-NL)
-      + [ Verzendende documenten en het verbinden activa ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=nl-NL)
-      + [ Handelend versiegeschiedenis ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=nl-NL)
+      + [ Vormend de integratie ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [ Metagegevens van de Toewijzing ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [ Verzendende documenten en het verbinden activa ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [ Handelend versiegeschiedenis ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Verbeter uw werkschema met de Integratie van de Reeks](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -359,13 +337,13 @@ ht-degree: 0%
       + [De invoegtoepassing Microsoft Outlook installeren](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [ Adobe Workfront voor het Overzicht van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=nl-NL)
-      + [ installeer Adobe Workfront voor Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=nl-NL)
-      + [ Toegang Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=nl-NL)
-      + [ Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=nl-NL)
-      + [ creeer de taken van Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=nl-NL)
-      + [ legt Adobe Workfront verzoeken van Microsoft Teams  voor](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=nl-NL)
-      + [ beheer Adobe Workfront berichten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=nl-NL)
+      + [ Adobe Workfront voor het Overzicht van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [ installeer Adobe Workfront voor Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [ Toegang Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [ Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [ creeer de taken van Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [ legt Adobe Workfront verzoeken van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html) voor
+      + [ beheer Adobe Workfront berichten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [Workfront for [!UICONTROL Slack] begrijpen](/help/integrations/slack/introduction-to-workfront-for-slack.md)
