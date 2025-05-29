@@ -9,11 +9,12 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: f4cdb04795c8dc95339d2eb61594335759df6fbc
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,16 @@ In deze video leert u:
 * Hoe te om rapporten met iedereen te delen
 * Wat de ontvangers kunnen zien en doen met een Workfront-rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/3447818/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+
+## Toetsen
+
+* **verzendt Rapporten naar Externe Gebruikers:** u kunt rapporten naar gebruikers verzenden niet-Workfront door hun e-mailadressen in te gaan, die het gemakkelijk maken om gegevens buiten uw organisatie te delen. &#x200B;
+* **Zichtbaarheid van het Controle van de Rechten van de Toegang:** de mening van de ontvanger van het rapport hangt van de toegangsrechten af u plaatst, die gegevensveiligheid en aangewezen zicht verzekeren. &#x200B;
+* **Herhalende Levering voor Momentopnamen:** Geplande leveringen verstrekken bevroren momentopnamen van gegevens op specifieke tijden, nuttig voor het volgen van tendensen en het handhaven van een geschiedenis van projectgegevens. &#x200B;
+* **het Delen van Rapporten met Teams:** de Rapporten kunnen met individuen, teams, of baanrollen worden gedeeld, die of mening verlenen of rechten beheren. &#x200B; De gedeelde rapporten verschijnen in de gebruikers &quot;Gedeeld met me&quot;sectie. &#x200B;
+* **Openbaar en systeem-breed delen:** de rapporten kunnen via openbare verbindingen voor externe gebruikers worden gedeeld of zichtbaar voor alle gebruikers van Workfront worden gemaakt, die flexibiliteit in gegevens het delen aanbieden.
+
 
 ## Activiteiten van &quot;rapporten verzenden en delen&quot;
 
