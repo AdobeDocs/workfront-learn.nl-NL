@@ -9,11 +9,12 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335159.png
 jira: KT-8871
+last-substantial-update: 2025-05-30T00:00:00Z
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: cc611bf43c51dde02af715d19246cfd17bcce095
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -23,6 +24,7 @@ ht-degree: 0%
 In deze video leert u:
 
 * Hoe te om tot rapportmontages toegang te hebben
-* Waarvoor sommige algemene rapportinstellingen worden gebruikt
+* Hoe te om uw rapport met de toegangsrechten van een specifieke gebruiker in werking te stellen
+* Hoe te opstelling en gebruiksrapportherinneringen
 
->[!VIDEO](https://video.tv.adobe.com/v/3445869/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
