@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+last-substantial-update: 2025-06-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '985'
 ht-degree: 0%
 
 ---
@@ -25,7 +26,7 @@ Leer enkele basistips voor navigatie voor wanneer u zich voor het eerst aanmeldt
 ## Vereisten
 
 1. Voor deze oefening is een Workfront-teststation vereist. U kunt om één verzoeken door [ deze vorm ](https://forms.office.com/r/f1J8HRGrNY) in te vullen. Als u geen toegang hebt tot het formulier, stuurt u uw naam, e-mailadres en bedrijfsnaam naar wfttstdr@adobe.com.
-1. De oefeningen van de fusie veronderstellen u de walkthrough video hebt bekeken die aan de oefening beantwoordt. In dit geval is het [ Aanvankelijke analyse van het scenario ontwerp ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=nl-NL).
+1. De oefeningen van de fusie veronderstellen u de walkthrough video hebt bekeken die aan de oefening beantwoordt. In dit geval is het [ Aanvankelijke analyse van het scenario ontwerp ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
 
 
 ## Overzicht van oefening
@@ -42,7 +43,7 @@ Maak een nieuw project in Workfront voor elke rij in het CSV-bestand van de proj
    ![ Aanvankelijke Beeld van het Ontwerp van het Scenario 2 ](../12-exercises/assets/initial-scenario-design-2.png)
 
 1. Zoek op de volgende pagina naar Workfront en selecteer die app. Klik vervolgens op Doorgaan.
-1. Linksboven in het scherm van de scenarioontwerper wijzigt u de naam van uw scenario in &quot;Initiaal scenario-ontwerp&quot;
+1. Bij de hoogste linkerzijde van het scherm van de scenarioontwerper, verander uw scenario in &quot;Initiaal scenario ontwerp&quot;
 1. Klik op de lege triggermodule midden in het scherm en selecteer de Workfront-toepassing en selecteer vervolgens de module Document downloaden.
 
    **verifieer de verbinding van de module aan uw rekening van Workfront.**
@@ -55,7 +56,7 @@ Maak een nieuw project in Workfront voor elke rij in het CSV-bestand van de proj
 
    ![ Aanvankelijke Beeld van het Ontwerp van het Scenario 4 ](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. Ga URL van **in uw instantie van Workfront**, dan klik daarna.
+1. Ga URL van **in uw rekening van de de testaandrijving van Workfront**, dan klik daarna.
 
    ![ Aanvankelijke Beeld van het Ontwerp van het Scenario 5 ](../12-exercises/assets/initial-scenario-design-5.png)
 
@@ -67,7 +68,7 @@ Maak een nieuw project in Workfront voor elke rij in het CSV-bestand van de proj
 
 1. Ga terug naar Workfront. Selecteer &quot;_Fusion2020_Project List.csv&quot; in de map &quot;Fusion Exercise Files&quot; en klik op Documentdetails in het linkerdeelvenster. Kopieer het document-id-nummer van het URL-adres (dit is het eerste lange getal in de URL).
 
-   ![ Aanvankelijke Beeld 8 van het Ontwerp van het Scenario &lbrace;](../12-exercises/assets/initial-scenario-design-8.png)
+   ![ Aanvankelijke Beeld 8 van het Ontwerp van het Scenario {](../12-exercises/assets/initial-scenario-design-8.png)
 
 1. Ga terug naar Fusion en plak het nummer in het veld Document ID en klik op OK.
 1. De beste praktijken moeten modules anders noemen aangezien u hen creeert. Klik met de rechtermuisknop op de Workfront-module en kies Naam wijzigen. Noem de module &quot;krijgt projectlijst.&quot;
