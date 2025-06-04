@@ -1,6 +1,6 @@
 ---
 title: Voortgang proefdruk bijhouden
-description: Leer hoe u [!UICONTROL SOCD] -indicatoren, voortgangsbewijzen en rapporten kunt gebruiken om de voortgang van een proefdruk in  [!DNL  Workfront] bij te houden.
+description: Leer hoe u [!UICONTROL SOCD] -indicatoren, voortgangsbewijzen en rapporten kunt gebruiken om de voortgang van een proefdruk in  [!DNL &#x200B; Workfront] bij te houden.
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -27,7 +27,7 @@ Als u de voortgang van de proefdrukken in [!DNL Workfront] wilt weergeven, moet 
 
 Bekijk op een hoog niveau hoe de proefdruk het overzichts- en goedkeuringsproces doorloopt met de pictogrammen [!UICONTROL SOCD] in de lijst [!UICONTROL Documents] . Deze pictogrammen geven aan welke specifieke maatregelen op het bewijs zijn genomen.
 
-![ een beeld van de [!UICONTROL Documents] lijst in een [!DNL  Workfront] project met de [!UICONTROL SOCD] benadrukte pictogrammen.](assets/manage-proofs-socd.png)
+![ een beeld van de [!UICONTROL Documents] lijst in een [!DNL &#x200B; Workfront] project met de [!UICONTROL SOCD] benadrukte pictogrammen.](assets/manage-proofs-socd.png)
 
 De pictogrammen geven het werk aan dat op een bewijs is verricht vanaf het moment dat u het bewijs naar de ontvangers verzendt tot het moment dat zij een beslissing nemen over het bewijs.
 
@@ -59,7 +59,7 @@ Als u wilt weten hoe elke afzonderlijke proefdrukontvanger het doet, opent u de 
 
 De status van het bewijs is gebaseerd op de status van de proefontvangers van het werkgebied. De algemene proefdrukstatus is zichtbaar op de pagina [!UICONTROL Documents] , rechts van de indicatoren [!UICONTROL SOCD] , zodat u gemakkelijk kunt zien of u een beslissing hebt over de proefdruk.
 
-![ een beeld van de [!UICONTROL Documents] lijst in een [!DNL  Workfront] project met de algemene benadrukte proefdrukstatus.](assets/manage-proofs-overall-status.png)
+![ een beeld van de [!UICONTROL Documents] lijst in een [!DNL &#x200B; Workfront] project met de algemene benadrukte proefdrukstatus.](assets/manage-proofs-overall-status.png)
 
 Deze proefdrukstatus geeft de algemene status van de proefdruk aan. Als twee ontvangers de proefdruk bijvoorbeeld hebben goedgekeurd, wordt de status van de afzonderlijke ontvangers weergegeven [!UICONTROL Approved] . Nochtans, heeft de derde ontvanger nog geen besluit genomen, zodat is de status van die persoon [!UICONTROL Pending]. Daarom wordt de algemene status weergegeven als [!UICONTROL Pending] .
 
@@ -79,11 +79,11 @@ U kunt de rapportmogelijkheden van [!DNL Workfront's] ook gebruiken om proeven t
 
 Met een proefdrukgoedkeuringsrapport kunt u de openstaande goedkeuringen volgen om ervoor te zorgen dat de termijnen worden nageleefd.
 
-![ een beeld van een rapport van de proefgoedkeuring in [!DNL  Workfront].](assets/proof-approval-report.png)
+![ een beeld van een rapport van de proefgoedkeuring in [!DNL &#x200B; Workfront].](assets/proof-approval-report.png)
 
 Met een documentversierapport kunt u proefversies beheren en bijhouden.
 
-![ een beeld van een rapport van de documentversie in [!DNL  Workfront].](assets/document-version-report.png)
+![ een beeld van een rapport van de documentversie in [!DNL &#x200B; Workfront].](assets/document-version-report.png)
 
 We raden u aan om samen met uw [!DNL Workfront] -consultant rapporten te maken die voldoen aan de vereisten van uw organisatie. Sommige rapporten moeten vertrouwd zijn met de rapportage in de tekstmodus van [!DNL Workfront's] .
 
