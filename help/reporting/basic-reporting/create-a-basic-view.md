@@ -8,26 +8,31 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 1%
+source-wordcount: '790'
+ht-degree: 0%
 
 ---
 
 # Een basisweergave maken
 
-In deze video leert u:
+In de video wordt uitgelegd hoe u in Workfront weergaven kunt maken en aanpassen om specifieke informatie weer te geven over items in een lijst, zoals projecten, taken, problemen en documenten. &#x200B; Met weergaven kunnen gebruikers details zien zoals naam, beschrijving, status en andere velden die relevant zijn voor de items. &#x200B;
 
-* Wat een weergave in Workfront
-* Een weergave maken en wijzigen
-* Een weergave delen met andere Workfront-gebruikers
+De video benadrukt de flexibiliteit van weergaven in Workfront en biedt stapsgewijze instructies voor het maken, aanpassen en beheren van deze weergaven.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450244/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+
+## Toetsen
+
+* **het Aanpassen van Mening**: De gebruikers kunnen bestaande meningen uitgeven of nieuwe degenen creëren door, kolommen toe te voegen te verwijderen of te herschikken om specifieke informatie, zoals projectstatus of budget te tonen.
+* **Inline het Uitgeven**: Sommige gebieden in een lijstmening kunnen direct worden bijgewerkt zonder individuele punten te openen, makend het sneller om veranderingen aan te brengen. &#x200B;
+* **Creërend Weergaven van Kras**: De gebruikers kunnen meningen ontwerpen om aan specifieke behoeften, zoals het volgen van projectgezondheid te voldoen, door relevante kolommen zoals begroting, daadwerkelijke kosten, en vooruitgangsstatus toe te voegen. &#x200B;
+* **het Delen en het Leiden Weergaven**: De meningen van de douane kunnen met teamleden voor samenwerking worden gedeeld of worden verwijderd wanneer zij niet meer nodig zijn.
 
 ## Activiteiten voor een basisweergave maken
 
@@ -65,7 +70,7 @@ Houd de muisaanwijzer boven elk pictogram in de kolom [!UICONTROL Status Icons] 
 
 ### Activiteit 2: Een mijlpaalweergave maken
 
-Als u mijlpalen gebruikt, is deze mening de gemakkelijkste manier om mijlpalen door naam te zien en hen toe te voegen of uit te geven gebruikend in-lijn uitgeven.
+Als u mijlpalen gebruikt, is deze mening de gemakkelijkste manier om mijlpalen door naam in uw taaklijst te zien, en hen toe te voegen of te verwijderen uit een taak gebruikend in-lijn uitgeven.
 
 Maak een taakweergave met de naam &quot;Weergave van mijlpaal&quot; met de volgende kolommen:
 
@@ -86,7 +91,7 @@ Maak een taakweergave met de naam &quot;Weergave van mijlpaal&quot; met de volge
 1. Ga in een lijst met projecttaken naar de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL New View]** .
 1. Geef uw weergave de naam &#39;Weergave van mijlpaal&#39;.
 1. Klik op de kolom [!UICONTROL Predecessors] om deze te selecteren.
-1. Klik in het veld [!UICONTROL Show in this column] op het X-pictogram in het veld [!UICONTROL Task >> Predecessors] , typ &quot;[!UICONTROL milestone name]&quot; en klik op &quot;[!UICONTROL Name]&quot; in de lijst.
+1. Klik in het veld [!UICONTROL Show in this column] op het pictogram &quot;min&quot; in het veld [!UICONTROL Task >> Predecessors] , typ &quot;[!UICONTROL milestone name]&quot; en klik op &quot;[!UICONTROL Name]&quot; in de lijst.
 1. Klik op **[!UICONTROL Save]**.
 
 ![ een beeld van een taaklijst gebruikend een milestone mening ](assets/view-milestone-exercise-2.png)
