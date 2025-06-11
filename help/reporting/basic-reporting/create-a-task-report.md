@@ -41,8 +41,8 @@ Het resulterende rapport helpt gebruikers zich op late taken concentreren, verst
 >[!TIP]
 >
 >Breek uit uw spatulas en het mengen bakken en ben bereid om &quot;recepten&quot;in onze [ Klant van Adobe Workfront te proberen die Cookbook ](/help/assets/workfront-customer-reporting-cookbook.pdf) meldt. Binnen zult u geleidelijke instructies voor 10 rapporten vinden, klaar voor u om in uw milieu vandaag te slaan.
->>We hebben favoriete rapporten verzameld van klanten en ze samengebracht in een hanteerbaar, gemakkelijk verteerbaar, kookboek dat je kunt meenemen en uittesten in je eigen Workfront-keuken.
->>Deze 10 rapporten komen van klanten die enkel zoals u zijn. Wij zijn de ongelooflijke klanten die een van hun favoriete rapporten hebben gedeeld, enorm dankbaar dat ze zich over verschillende sectoren, afdelingen, teams, posities en allemaal in verschillende bedrijven hebben verspreid. Sommige rapporten zijn eenvoudig (maar ongelooflijk nuttig), en sommige zijn complexer om uw rapportering naar het volgende niveau te brengen.
+>&#x200B;>We hebben favoriete rapporten verzameld van klanten en ze samengebracht in een hanteerbaar, gemakkelijk verteerbaar, kookboek dat je kunt meenemen en uittesten in je eigen Workfront-keuken.
+>&#x200B;>Deze 10 rapporten komen van klanten die enkel zoals u zijn. Wij zijn de ongelooflijke klanten die een van hun favoriete rapporten hebben gedeeld, enorm dankbaar dat ze zich over verschillende sectoren, afdelingen, teams, posities en allemaal in verschillende bedrijven hebben verspreid. Sommige rapporten zijn eenvoudig (maar ongelooflijk nuttig), en sommige zijn complexer om uw rapportering naar het volgende niveau te brengen.
 
 
 ### Activiteit 1: Een notitierapport maken met aanwijzingen
@@ -178,7 +178,7 @@ Filter op identiteitskaart van het project van de verzoekrij waar terugkoppelt k
 
    * [!UICONTROL Issue] > [!UICONTROL Name]
    * [!UICONTROL Primary Contact] > [!UICONTROL Name]
-      * Opmerking: dit wordt weergegeven met &quot;Eigenaar:Naam&quot; als kolomlabel. U kunt dit in &quot;Gerapporteerd door&quot;veranderen door op Geavanceerde Opties te klikken en &quot;Gerapporteerd door&quot;in het **gebied van het Etiket van de Kolom van de 0} Douane te typen.**
+      * Opmerking: dit wordt weergegeven met &quot;Eigenaar:Naam&quot; als kolomlabel. U kunt dit in &quot;Gerapporteerd door&quot;veranderen door op Geavanceerde Opties te klikken en &quot;Gerapporteerd door&quot;in het **gebied van het Etiket van de Kolom van de 0&rbrace; Douane te typen.**
    * [!UICONTROL Issue] > [!UICONTROL Process type]
    * [!UICONTROL Issue] > [!UICONTROL Process name]
    * [!UICONTROL Issue] > [!UICONTROL Process grade]
