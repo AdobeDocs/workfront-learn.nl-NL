@@ -1,6 +1,6 @@
 ---
 title: Een taakrapport maken
-description: Leer hoe u een taakrapport maakt met een complex filter en de rapporten vindt die u maakt in Workfront.
+description: Meer informatie over hoe u een taakrapport met een complex filter maakt en de rapporten vindt die u in Workfront maakt.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -15,7 +15,7 @@ doc-type: video
 source-git-commit: e10995fb5e3c452df3177a4a29e187e862a1b4a5
 workflow-type: tm+mt
 source-wordcount: '1005'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,7 +25,7 @@ De video verstrekt een geleidelijke gids bij het creëren van een douanerapport 
 
 Het resulterende rapport helpt gebruikers zich op late taken concentreren, verstrekt inzicht in gebiedsdelen, en vereenvoudigt navigatie aan de gastheerprojecten. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448348/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
 ## Toetsen
 
@@ -41,8 +41,8 @@ Het resulterende rapport helpt gebruikers zich op late taken concentreren, verst
 >[!TIP]
 >
 >Breek uit uw spatulas en het mengen bakken en ben bereid om &quot;recepten&quot;in onze [ Klant van Adobe Workfront te proberen die Cookbook ](/help/assets/workfront-customer-reporting-cookbook.pdf) meldt. Binnen zult u geleidelijke instructies voor 10 rapporten vinden, klaar voor u om in uw milieu vandaag te slaan.
->&#x200B;>We hebben favoriete rapporten verzameld van klanten en ze samengebracht in een hanteerbaar, gemakkelijk verteerbaar, kookboek dat je kunt meenemen en uittesten in je eigen Workfront-keuken.
->&#x200B;>Deze 10 rapporten komen van klanten die enkel zoals u zijn. Wij zijn de ongelooflijke klanten die een van hun favoriete rapporten hebben gedeeld, enorm dankbaar dat ze zich over verschillende sectoren, afdelingen, teams, posities en allemaal in verschillende bedrijven hebben verspreid. Sommige rapporten zijn eenvoudig (maar ongelooflijk nuttig), en sommige zijn complexer om uw rapportering naar het volgende niveau te brengen.
+>>We hebben favoriete rapporten verzameld van klanten en ze samengebracht in een hanteerbaar, gemakkelijk verteerbaar, kookboek dat je kunt meenemen en uittesten in je eigen Workfront-keuken.
+>>Deze 10 rapporten komen van klanten die enkel zoals u zijn. Wij zijn de ongelooflijke klanten die een van hun favoriete rapporten hebben gedeeld, enorm dankbaar dat ze zich over verschillende sectoren, afdelingen, teams, posities en allemaal in verschillende bedrijven hebben verspreid. Sommige rapporten zijn eenvoudig (maar ongelooflijk nuttig), en sommige zijn complexer om uw rapportering naar het volgende niveau te brengen.
 
 
 ### Activiteit 1: Een notitierapport maken met aanwijzingen
@@ -119,9 +119,9 @@ Neem vragen op voor het volgende:
 
 ### Activiteit 2: Een feedbackrapport voor een beheerder maken
 
-Dit is een uitgifterapport waarin alle problemen worden weergegeven uit een wachtrij voor feedbackverzoeken die voor systeembeheerders is gemaakt. U kunt zien hoe te om deze verzoekrij in te creëren [ creeer een systeem admin terugkoppelt verzoekrij ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=nl-NL) leerprogramma.
+Dit is een uitgifterapport waarin alle problemen worden weergegeven uit een wachtrij voor feedbackverzoeken die voor systeembeheerders is gemaakt. U kunt zien hoe te om deze verzoekrij in te creëren [ creeer een systeem admin terugkoppelt verzoekrij ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) leerprogramma.
 
-Dit rapport gebruikt ook een aangepast formulier. Leren hoe te om een douanevorm tot stand te brengen, zie [ creeer en deel een douanevorm ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=nl-NL) leerprogramma.
+Dit rapport gebruikt ook een aangepast formulier. Leren hoe te om een douanevorm tot stand te brengen, zie [ creeer en deel een douanevorm ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) leerprogramma.
 
 Dit aangepaste formulier moet de objecttypen Project en Issue gebruiken en moet als volgt worden gemaakt:
 
@@ -178,7 +178,7 @@ Filter op identiteitskaart van het project van de verzoekrij waar terugkoppelt k
 
    * [!UICONTROL Issue] > [!UICONTROL Name]
    * [!UICONTROL Primary Contact] > [!UICONTROL Name]
-      * Opmerking: dit wordt weergegeven met &quot;Eigenaar:Naam&quot; als kolomlabel. U kunt dit in &quot;Gerapporteerd door&quot;veranderen door op Geavanceerde Opties te klikken en &quot;Gerapporteerd door&quot;in het **gebied van het Etiket van de Kolom van de 0&rbrace; Douane te typen.**
+      * Opmerking: dit wordt weergegeven met &quot;Eigenaar:Naam&quot; als kolomlabel. U kunt dit in &quot;Gerapporteerd door&quot;veranderen door op Geavanceerde Opties te klikken en &quot;Gerapporteerd door&quot;in het **gebied van het Etiket van de Kolom van de 0} Douane te typen.**
    * [!UICONTROL Issue] > [!UICONTROL Process type]
    * [!UICONTROL Issue] > [!UICONTROL Process name]
    * [!UICONTROL Issue] > [!UICONTROL Process grade]
