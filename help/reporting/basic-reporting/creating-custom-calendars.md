@@ -1,19 +1,19 @@
 ---
 title: Een aangepast kalenderrapport maken
-description: Leer hoe u uw eigen aangepaste kalender kunt maken met uw werk en persoonlijke time-off.
+description: Leer hoe u een aangepaste kalender kunt maken met de tijdelijke items en de persoonlijke tijd uit.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-29T00:00:00Z
+last-substantial-update: 2025-06-23T00:00:00Z
 thumbnail: create-a-custom-calendar.png
 jira: KT-10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,5 @@ In deze video leert u hoe u:
 * Werkitems toevoegen aan de kalendergroep
 * Een tijd van een kalender maken
 
->[!VIDEO](https://video.tv.adobe.com/v/3452399/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops)
 
