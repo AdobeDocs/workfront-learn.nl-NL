@@ -8,12 +8,13 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ In deze video leert u hoe u:
 
 >[!TIP]
 >
->Gebruik de het gebiedsbron en naam van de Gebruikers van de Taak > van identiteitskaart wanneer het bouwen van filters die taak bekijken of taakinformatie uitgeven.  Bij deze optie wordt naar alle   gebruikers die zijn toegewezen aan de taak of uitgave, niet alleen de &quot;eigenaar&quot; of de primaire ontvanger.
+>Gebruik de het gebiedsbron en naam van de Gebruikers van de Taak > van identiteitskaart wanneer het bouwen van filters die taak bekijken of taakinformatie uitgeven.  Bij deze optie wordt gekeken naar alle gebruikers die aan de taak of uitgave zijn toegewezen, niet alleen naar de &quot;eigenaar&quot; of de primaire ontvanger.
 
 >[!TIP]
 >
@@ -44,7 +45,7 @@ In deze video leert u hoe u:
 
 ### Activiteit 1
 
-Deze week heb je wat extra tijd, dus je wilt zien of er iemand in je team is die hulp kan gebruiken bij het toewijzen van taken. Maak een taakfilter om te zoeken naar taken die deze week moeten worden uitgevoerd en die nog niet zijn voltooid.
+Deze week heb je wat extra tijd, dus je wilt zien of er iemand in je team is die hulp kan gebruiken bij het toewijzen van taken. Creeer een taakfilter om taken te vinden die aan uw huisteam worden toegewezen die deze week worden verwacht en nog niet voltooid zijn.
 
 ### Antwoord 1
 
