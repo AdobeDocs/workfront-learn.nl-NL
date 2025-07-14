@@ -1,6 +1,6 @@
 ---
-title: Uw beurt om een kalenderrapport te creëren
-description: Leer hoe u een agenda voor klanten maakt waarin uw onvolledige taken en problemen worden weergegeven.
+title: Activiteit - Een kalenderrapport maken
+description: Stap voor stap instructies op hoe te om een klantenkalender te creëren die uw onvolledige taken en kwesties toont.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,18 +11,14 @@ last-substantial-update: 2025-06-23T00:00:00Z
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
+source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
 
-# Uw beurt om een kalenderrapport te creëren
-
-In deze activiteit zult u ervaring op het creëren van uw eigen kalender krijgen.
-
-## Activiteit: Een kalender maken
+# Activiteit - Een kalenderrapport maken
 
 Maak een klantkalender met de naam &quot;Mijn onvolledige werk&quot;.
 
