@@ -7,11 +7,12 @@ thumbnail: 336818.png
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2025-07-22T00:00:00Z
 team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: a3174fcd208a2483bc3728932ae4d31b2e155e6b
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
