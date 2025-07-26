@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Bekijk ingebouwde projectfilters om te zien hoe ze zijn gebouwd
 * Maak uw eigen projectfilter met wat u hebt geleerd
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469866/?quality=12&learn=on&captions=dut)
 
 ## &quot;Ingebouwde projectfilters begrijpen&quot;-activiteiten
 
