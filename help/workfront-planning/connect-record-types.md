@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Leer hoe u recordtypen kunt verbinden in Workfront Planning om workflows te stroomlijnen, helderheid te verhogen en de verantwoordingsplicht en efficiëntie van teams te verbeteren. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463804/?learn=on&enablevpops&captions=dut)
 
