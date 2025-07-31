@@ -46,5 +46,5 @@ Workfront-klanten gebruiken doorgaans deze twee wiskundige expressiesets:
 
 >[!NOTE]
 >
->Voor een volledige lijst van uitdrukkingen en meer informatie over elke, ga naar de [ Berekende gegevensuitdrukkingen ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) documentatiepagina.
+>Voor een volledige lijst van uitdrukkingen en meer informatie over elke, ga naar de [ Berekende gegevensuitdrukkingen ](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) documentatiepagina.
 
