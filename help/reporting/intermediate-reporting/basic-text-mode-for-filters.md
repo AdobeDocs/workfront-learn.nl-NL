@@ -1,6 +1,6 @@
 ---
-title: Basismodus voor filters begrijpen
-description: Leer welke tekstmodus is, welke camel is en welke standaardtekstmodus u kunt gebruiken in uw rapportfilters in Workfront.
+title: Basistekstmodus voor filters begrijpen
+description: Leer over tekstwijze, camel geval, en één of andere basistekstwijze die u in uw rapportfilters in Workfront kunt gebruiken.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -12,9 +12,9 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 721f246178c0a1dc396b9fe8db53a90e26246775
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -23,25 +23,25 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ Begrijp rapporteringselementen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=nl-NL)
->* [ Begrijp het melden componenten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=nl-NL)
->* [ creeer een basisfilter ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=nl-NL)
+>* [ Begrijp rapporteringselementen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [ Begrijp het melden componenten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [ creeer een basisfilter ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=en)
 
 
 >[!TIP]
 >
 >* Om een diepgaander inzicht in tekstwijze te verkrijgen adviseren wij het letten op de geregistreerde webinar gebeurtenis [ vragen de Deskundige - Inleiding aan de Wijze van de Tekst die ](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en) meldt, die één uur in lengte is.
->* Om nog meer over tekstwijze te leren adviseren wij het letten op [ Geavanceerde het melden ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=nl-NL) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
+>* Om nog meer over tekstwijze te leren adviseren wij het letten op [ Geavanceerde het melden ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
 >* Klik hier voor toegang [[!UICONTROL API Explorer] ](https://developer.adobe.com/workfront/api-explorer/)
 
 
-In deze video leert u:
+In deze video leert u meer over:
 
-* Welke tekstmodus is ingesteld
-* Wat kamelendoosje is
-* Een standaardtekstmodus voor &quot;plug-and-play&quot; die u in rapportfilters kunt gebruiken
+* Tekstmodus
+* Camel case
+* Sommige _blokken van de tekstwijze_ u in uw rapportfilters kunt gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/3470328/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## De activiteiten van &quot;Understanding basic text mode for filters&quot;
 

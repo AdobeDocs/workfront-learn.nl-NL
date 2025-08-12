@@ -1,6 +1,6 @@
 ---
 title: Basistekstmodus voor groepen begrijpen
-description: Leer welke tekstmodus is, welke camel is en welke standaardtekstmodus u kunt gebruiken in uw groepen in Workfront.
+description: Leer over tekstwijze, camel geval, en één of andere basistekstwijze die u in uw rapportgroepen in Workfront kunt gebruiken.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -8,12 +8,13 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -22,24 +23,24 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ Begrijp rapporteringselementen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=nl-NL)
->* [ Begrijp het melden componenten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=nl-NL)
->* [ creeer een basisgroepering ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=nl-NL)
+>* [ Begrijp rapporteringselementen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [ Begrijp het melden componenten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [ creeer een basisgroepering ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
 
 
 >[!TIP]
 >
->* Om een diepgaander inzicht in tekstwijze te verkrijgen adviseren wij het letten op de geregistreerde webinar gebeurtenis [ vragen de Deskundige - Inleiding aan de Wijze van de Tekst die ](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=nl-NL) meldt, die één uur in lengte is.
->* Om nog meer over tekstwijze te leren adviseren wij het letten op [ Geavanceerde het melden ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=nl-NL) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
+>* Om een diepgaander inzicht in tekstwijze te verkrijgen adviseren wij het letten op de geregistreerde webinar gebeurtenis [ vragen de Deskundige - Inleiding aan de Wijze van de Tekst die ](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en) meldt, die één uur in lengte is.
+>* Om nog meer over tekstwijze te leren adviseren wij het letten op [ Geavanceerde het melden ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
 >* Klik hier voor toegang [[!UICONTROL API Explorer] ](https://developer.adobe.com/workfront/api-explorer/)
 
 In deze video leert u:
 
 * Welke tekstmodus is ingesteld
 * Wat kamelendoosje is
-* De standaardtekstmodus &quot;Plug and Play&quot; die u in de groepen kunt gebruiken
+* Sommige _blokken van de tekstwijze_ u kunt in uw rapportgroeperingen gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/3428982/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
 ## De activiteiten van de &quot;Begrijpen basistekstwijze voor groeperingen&quot;
 
