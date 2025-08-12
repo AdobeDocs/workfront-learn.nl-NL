@@ -41,7 +41,7 @@ In deze video leert u meer over:
 * Camel case
 * Sommige _blokken van de tekstwijze_ u in uw rapportfilters kunt gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470328/?quality=12&learn=on&captions=dut)
 
 ## De activiteiten van &quot;Understanding basic text mode for filters&quot;
 
