@@ -24,7 +24,7 @@ ht-degree: 0%
 
 De video bevat een gedetailleerde handleiding voor het maken en beheren van aanvragen in Workfront. Hierin wordt uitgelegd hoe een aanvraag wordt gemaakt. U begint met het selecteren van &quot;Verzoeken&quot; in het hoofdmenu en het klikken op de knop &quot;Nieuw verzoek&quot;. &#x200B; De gebruikers kunnen een verzoektype van douane-ontworpen rijen kiezen die aan de werkschema&#39;s van hun organisatie worden aangepast.
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470908/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 
