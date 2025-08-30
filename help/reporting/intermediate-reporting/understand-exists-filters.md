@@ -25,7 +25,7 @@ In deze video leert u hoe u een EXISTS-filter kunt maken om &quot;Goedkeuring pr
 
 Voor een meer diepgaande analyse op hoe BESTAAT de functie, gelieve [ te zien de complexe filters van de Wijze van de Tekst gebruikend EXISTS verklaringen ](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) documentatie creëren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471209/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Voorbeelden van bestaande filters
 
