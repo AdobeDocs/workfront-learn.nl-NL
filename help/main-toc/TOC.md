@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront-tutorials
-source-git-commit: db1cc100b1d5d55446353dac3547ab01486f3d53
+source-git-commit: 008028af1fe9dd98c12a7a7413ed21cb65e324b2
 workflow-type: tm+mt
-source-wordcount: '2242'
+source-wordcount: '2246'
 ht-degree: 1%
 
 ---
@@ -137,6 +137,7 @@ ht-degree: 1%
       + [Een aanvraag indienen](/help/manage-work/issues-requests/make-a-request.md)
       + [Verzoeken zoeken en beheren](/help/manage-work/issues-requests/find-requests.md)
       + [Uitgiftetoewijzingen beheren](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [De status van het probleem bijwerken](/help/manage-work/tasks/update-the-issue-status.md)
       + [Een verzoek bijwerken](/help/manage-work/issues-requests/update-a-request.md)
       + [Een uitgave/verzoek omzetten in een project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [Een uitgave/verzoek omzetten in een taak](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
@@ -326,10 +327,10 @@ ht-degree: 1%
       + [Adobe Workfront-plug-ins gebruiken om te integreren met Creative Cloud](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Grondbeginselen van Adobe Experience Manager {#adobe-assets-essentials}
-      + [ Vormend de integratie ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=nl-NL)
-      + [ Metagegevens van de Toewijzing ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=nl-NL)
-      + [ Verzendende documenten en het verbinden activa ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=nl-NL)
-      + [ Handelend versiegeschiedenis ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=nl-NL)
+      + [ Vormend de integratie ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [ Metagegevens van de Toewijzing ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [ Verzendende documenten en het verbinden activa ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [ Handelend versiegeschiedenis ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Verbeter uw werkschema met de Integratie van de Reeks](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -341,13 +342,13 @@ ht-degree: 1%
       + [De invoegtoepassing Microsoft Outlook installeren](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [ Adobe Workfront voor het Overzicht van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=nl-NL)
-      + [ installeer Adobe Workfront voor Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=nl-NL)
-      + [ Toegang Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=nl-NL)
-      + [ Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=nl-NL)
-      + [ creeer de taken van Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=nl-NL)
-      + [ legt Adobe Workfront verzoeken van Microsoft Teams  voor](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=nl-NL)
-      + [ beheer Adobe Workfront berichten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=nl-NL)
+      + [ Adobe Workfront voor het Overzicht van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [ installeer Adobe Workfront voor Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [ Toegang Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [ Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [ creeer de taken van Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [ legt Adobe Workfront verzoeken van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html) voor
+      + [ beheer Adobe Workfront berichten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [Workfront for [!UICONTROL Slack] begrijpen](/help/integrations/slack/introduction-to-workfront-for-slack.md)
