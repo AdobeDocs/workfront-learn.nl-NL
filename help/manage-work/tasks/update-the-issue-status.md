@@ -19,7 +19,7 @@ ht-degree: 0%
 
 In deze video leert u meer over de status van uitgaven en de aanbevolen procedures voor het gebruik ervan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472971/?quality=12&learn=on&enablevpops&captions=dut)
 
 ## Toetsen
 
