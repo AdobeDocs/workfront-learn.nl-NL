@@ -351,7 +351,7 @@ ht-degree: 1%
       + [ Toegang Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
       + [ Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
       + [ creeer de taken van Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
-      + [ legt Adobe Workfront verzoeken van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html) voor
+      + [ legt Adobe Workfront verzoeken van Microsoft Teams  voor](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
       + [ beheer Adobe Workfront berichten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
