@@ -22,6 +22,6 @@ ht-degree: 0%
 
 De functie Canvasdashboards is een andere manier om dashboards te maken in Workfront. Het is momenteel in General Beta, wat betekent dat alle klanten van Workfront de eigenschap kunnen gebruiken, als zij in bèta worden ingeschreven. Een systeembeheerder moet de inschrijving doen. In deze video ziet u hoe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474026/?quality=12&learn=on&enablevpops&captions=dut)
 
 Voor meer informatie zie het [ overzicht ](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) artikel van de Dashboards van het Canvas.
