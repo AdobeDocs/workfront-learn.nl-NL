@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* [ Inleiding aan de Dashboards van het Canvas ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
-De eerste dingen u moet doen alvorens u een het rapport van het Dashboard van het Canvas **** kunt creëren zijn:
+De eerste dingen u moet doen alvorens u een het rapport van het Dashboard van het Canvas **&#x200B;**&#x200B;kunt creëren zijn:
 
 * Inschrijven in de bètaversie van het dashboard van het canvas, en
 * Een canvasdashboard maken
