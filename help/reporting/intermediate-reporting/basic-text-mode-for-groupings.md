@@ -40,7 +40,7 @@ In deze video leert u:
 * Wat kamelendoosje is
 * Sommige _blokken van de tekstwijze_ u kunt in uw rapportgroeperingen gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428982/?quality=12&learn=on&captions=dut)
 
 ## De activiteiten van de &quot;Begrijpen basistekstwijze voor groeperingen&quot;
 
