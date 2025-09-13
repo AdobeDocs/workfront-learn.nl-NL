@@ -11,9 +11,9 @@ jira: KT-18773
 last-substantial-update: 2025-09-12T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 062a7f3576c4d5af02b04340e9763a82a9b8c721
+source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* [ Inleiding aan de Dashboards van het Canvas ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
-De eerste dingen u moet doen alvorens u een het rapport van het Dashboard van het Canvas **&#x200B;**&#x200B;kunt creëren zijn:
+De eerste dingen u moet doen alvorens u een het rapport van het Dashboard van het Canvas **** kunt creëren zijn:
 
 * Inschrijven in de bètaversie van het dashboard van het canvas, en
 * Een canvasdashboard maken
@@ -34,6 +34,11 @@ De eerste dingen u moet doen alvorens u een het rapport van het Dashboard van he
 >[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops)
 
 **voor meer informatie zie de volgende hulpartikelen:**
-[ Overzicht van de Dashboards van het Canvas ](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[ Bouw een lijstrapport in een Dashboard van het Canvas ](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[ Overzicht van de Dashboards van het Canvas ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[ Bouw een lijstrapport in een Dashboard van het Canvas ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+
+## Aanbevolen zelfstudies over dit onderwerp
+
+* [ Inleiding aan de Dashboards van het Canvas ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [ creeer een KPI- rapport op een Dashboard van het Canvas ](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 
