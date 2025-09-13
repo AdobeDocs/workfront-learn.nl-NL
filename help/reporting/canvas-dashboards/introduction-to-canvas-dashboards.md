@@ -24,7 +24,7 @@ De functie Canvasdashboards is een andere manier om dashboards te maken in Workf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
 
-Voor meer informatie zie het [ overzicht ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) artikel van de Dashboards van het Canvas.
+Voor meer informatie zie het [ overzicht ](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) artikel van de Dashboards van het Canvas.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
