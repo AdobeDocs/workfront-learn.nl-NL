@@ -11,7 +11,7 @@ jira: KT-9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
@@ -62,4 +62,4 @@ Maak een Workfront-webhaak die wacht op nieuwe updates die worden gemaakt en reg
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=nl-NL)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

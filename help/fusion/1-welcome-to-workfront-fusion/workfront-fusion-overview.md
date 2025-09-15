@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b57236354534f5f2cede5aec308a3210ed1aa2e1
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 9%
@@ -60,6 +60,6 @@ De uitdagingen zijn voor degenen die iets willen proberen dat andere concepten i
 
 De geleidelijke instructies worden verstrekt om u door de walkthrough oefeningen te helpen krijgen.
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=nl-NL)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
 Er is ook de gemeenschap van de Fusie 2.0 van de a [ Workfront ](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) waar u vragen kunt posten.

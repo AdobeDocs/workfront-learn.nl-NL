@@ -11,9 +11,9 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -53,10 +53,10 @@ U zult een schaduw rond om het even welk segment in uw scenario van a **begin-it
 
 Deze oefening bouwt op wat u in de analyse leerde, maar de oplossing wordt niet verstrekt.
 
-Creeer een nieuw scenario aan som alle uren het programma geopende taken in projecten in de marketing portefeuille. Vervolgens verzendt u een e-mail met de tekst &quot;Uw projectteam {Projectnaam} heeft zich {samengevat uren} van het totaal van de {geplande uren} geplande uren aangemeld, waarmee u zich op {percentage} van het plan bevindt.&quot;
+Creeer een nieuw scenario aan som alle uren het programma geopende taken in projecten in de marketing portefeuille. Vervolgens verzendt u een e-mail met de tekst &quot;Uw {Project Name} projectteam heeft zich {summed hours} van de totale {planned hours} geplande uren aangemeld, waarmee u zich op {percentage} van het abonnement plaatst.&quot;
 
 **Uitdaging:** zie of kunt u het zelfde ding maar voor uren doen dat slechts dit jaar wordt geregistreerd.
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=nl-NL)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

@@ -11,7 +11,7 @@ jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
 workflow-type: tm+mt
 source-wordcount: '853'
 ht-degree: 0%
@@ -105,4 +105,4 @@ Maak in de module Meerdere variabelen instellen voor Pokemon-tekens een variabel
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=nl-NL)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

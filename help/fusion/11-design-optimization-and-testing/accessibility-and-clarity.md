@@ -10,7 +10,7 @@ level: Beginner
 jira: KT-11037
 recommendations: noDisplay,catalog
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 0%
@@ -61,7 +61,7 @@ Dan ga naar de hoger-juiste hoek, klik Opties, en selecteer creëren scenario.
 
 ### Een sjabloon maken
 
-U kunt een malplaatje in de sectie van de Malplaatjes van het Team tot stand brengen. De sjabloon die u maakt, is beschikbaar voor u en uw team, maar wanneer u op de knop Publish klikt, kunt u deze delen met personen buiten uw team.
+U kunt een malplaatje in de sectie van de Malplaatjes van het Team tot stand brengen. De sjabloon die u maakt, is beschikbaar voor u en uw team, maar wanneer u op de knop Publiceren klikt, kunt u de sjabloon delen met personen buiten uw team.
 
 ![ een beeld van een scenario met fout behandeling ](assets/design-optimization-and-testing-7.png)
 
@@ -73,4 +73,4 @@ Schakel het selectievakje &quot;In wizard gebruiken&quot; in om instructies toe 
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=nl-NL)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
