@@ -31,7 +31,7 @@ De eerste dingen u moet doen alvorens u een het rapport van het Dashboard van he
 
 [ Inleiding aan de Dashboards van het Canvas ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) toont u stap voor stap hoe te om beide van deze te doen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474848/?quality=12&learn=on&enablevpops&captions=dut)
 
 **voor meer informatie zie de volgende hulpartikelen:**
 [ Overzicht van de Dashboards van het Canvas ](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
