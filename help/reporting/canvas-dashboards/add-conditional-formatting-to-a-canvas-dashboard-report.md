@@ -1,14 +1,14 @@
 ---
-title: Een KPI-rapport maken op een Canvasdashboard
-description: Leer hoe u een KPI-rapport maakt op een Canvas-dashboard.
+title: Voorwaardelijke opmaak toevoegen aan een Canvasdashboardrapport
+description: Leer hoe u voorwaardelijke opmaak toevoegt aan een Canvas-dashboardrapport.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-jira: KT-18769
-last-substantial-update: 2025-09-11T00:00:00Z
+jira: KT-18771
+last-substantial-update: 2025-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: d57243ce49378e45188e27ac3fd7c69e2e224d1a
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Een KPI-rapport maken op een Canvasdashboard
+# Voorwaardelijke opmaak toevoegen aan een Canvasdashboardrapport
 
 >[!PREREQUISITES]
 >
@@ -31,14 +31,15 @@ De eerste dingen u moet doen alvorens u een het rapport van het Dashboard van he
 
 [ Inleiding aan de Dashboards van het Canvas ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) toont u stap voor stap hoe te om beide van deze te doen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops)
 
 **voor meer informatie zie de volgende hulpartikelen:**
 [ Overzicht van de Dashboards van het Canvas ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[ Bouw een KPI- rapport in een Dashboard van het Canvas ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[ Bouw een lijstrapport in een Dashboard van het Canvas ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
 * [ Inleiding aan de Dashboards van het Canvas ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [ creeer een KPI- rapport op een Dashboard van het Canvas ](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [Een tabelrapport maken op een canvasdashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
-* [Voorwaardelijke opmaak toevoegen aan een Canvasdashboardrapport](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
+
