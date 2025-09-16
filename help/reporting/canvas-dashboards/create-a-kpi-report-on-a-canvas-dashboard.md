@@ -34,8 +34,8 @@ De eerste dingen u moet doen alvorens u een het rapport van het Dashboard van he
 >[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
 
 **voor meer informatie zie de volgende hulpartikelen:**
-[ Overzicht van de Dashboards van het Canvas ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[ Bouw een KPI- rapport in een Dashboard van het Canvas ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[ Overzicht van de Dashboards van het Canvas ](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[ Bouw een KPI- rapport in een Dashboard van het Canvas ](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
