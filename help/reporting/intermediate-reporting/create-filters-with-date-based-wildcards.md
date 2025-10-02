@@ -41,7 +41,7 @@ In deze video leert u hoe u:
 1. Hoe zou u de filterregel bouwen om projecten te vinden die vorige week werden verwacht?
 1. De volgende filterregels maken deel uit van een taakrapport u regelmatig gebruikt. Welk soort resultaten krijgt u uit dit verslag?
 
-![ een beeld van het scherm om een taakfilter met een op datum-gebaseerde vervanging ](assets/date-wildcard-answer-1.png) tot stand te brengen
+![&#x200B; een beeld van het scherm om een taakfilter met een op datum-gebaseerde vervanging &#x200B;](assets/date-wildcard-answer-1.png) tot stand te brengen
 
 ### Antwoorden
 

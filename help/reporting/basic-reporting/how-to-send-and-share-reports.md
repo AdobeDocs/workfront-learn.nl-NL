@@ -46,7 +46,7 @@ Verzend elke maandag om 5.00 uur een rapport als spreadsheet van Excel. Dit is e
 
 ### Antwoord 1
 
-![ een beeld van het scherm aan opstelling die rapportleveringen herhalen ](assets/send-a-report.png)
+![&#x200B; een beeld van het scherm aan opstelling die rapportleveringen herhalen &#x200B;](assets/send-a-report.png)
 
 1. Geef een rapport weer dat u hebt gemaakt en kies **[!UICONTROL Send Report]** in het menu **[!UICONTROL Report Actions]** .
 1. Klik op de tab **[!UICONTROL Repeating Deliveries]** .

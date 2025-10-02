@@ -46,21 +46,21 @@ Leer een geheel nieuw projectmalplaatje en van een bestaand project tot stand te
 
 Workfront-gebruikers kunnen [!UICONTROL Blueprints] gebruiken om projectsjablonen samen te stellen. Met deze functie in het hoofdmenu hebt u toegang tot vooraf gebouwde gebruiksklare sjablonen die zijn gericht op een afdeling en een specifiek ontwikkelingsniveau. Deze malplaatjes geven gebruikers een hoofdbegin aan herhaalbare projectverwezenlijking en de hulp handhaaft consistentie over projecten gelijkend in werkingsgebied.
 
-![ Blauwdrukken in Hoofdmenu ](assets/pt-blueprints-01.png)
+![&#x200B; Blauwdrukken in Hoofdmenu &#x200B;](assets/pt-blueprints-01.png)
 
 Elke gebruiker met licentie kan bladeren in de lijst met blauwdrukken die beschikbaar is in Workfront. U kunt een blauwdruk niet direct toepassen wanneer het creëren van een nieuw project (zoals het omzetten van een taak of een verzoek in een project). Een zeer belangrijk verschil tussen een blauwdruk en een projectmalplaatje is dat een blauwdruk wordt gebruikt om een malplaatje te maken, terwijl een malplaatje wordt gebruikt om een project tot stand te brengen. **de blauwdruk moet door een systeembeheerder voor het overeenkomstige malplaatje worden geïnstalleerd om worden gecreeerd.**
 
 Als u een interessante blauwdruk vindt, kunt u op **[!UICONTROL Details]** klikken voor meer informatie.
 
-![ Lijst van blauwdrukken ](assets/pt-blueprints-02.png)
+![&#x200B; Lijst van blauwdrukken &#x200B;](assets/pt-blueprints-02.png)
 
 In het scherm [!UICONTROL Details] wordt meer uitleg gegeven over de blauwdruk, inclusief de installatiegeschiedenis als de blauwdruk is geïnstalleerd.
 
-![ Details over het gebruik van een blauwdruk ](assets/pt-blueprints-03.png)
+![&#x200B; Details over het gebruik van een blauwdruk &#x200B;](assets/pt-blueprints-03.png)
 
 Als de blauwdruk is geïnstalleerd, kunt u op **[!UICONTROL See details]** klikken om koppelingen te maken naar de sjabloon die is gemaakt en naar andere objecten die zijn gemaakt ter ondersteuning van de sjabloon.
 
-![ Details over de installatie van een blauwdruk ](assets/pt-blueprints-04.png)
+![&#x200B; Details over de installatie van een blauwdruk &#x200B;](assets/pt-blueprints-04.png)
 
 Als de blauwdruk nog niet is geïnstalleerd, kunt u deze aanvragen bij de systeembeheerder.
 

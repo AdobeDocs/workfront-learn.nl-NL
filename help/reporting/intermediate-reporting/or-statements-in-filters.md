@@ -31,7 +31,7 @@ De video demonstreert ook het maken van filters voor taken met behulp van filter
 
 U wilt onvolledige taken vinden die aan u worden toegewezen of die niet aan niemand worden toegewezen. U stelt een filter zo in dat het eronder lijkt. Geeft dit filter u de gewenste resultaten? Waarom of waarom niet?
 
-![ Een afbeelding van een onjuist gemaakte OR-instructie in [!DNL Workfront]](assets/or-statement-your-turn-1.png)
+![&#x200B; Een afbeelding van een onjuist gemaakte OR-instructie in [!DNL Workfront]](assets/or-statement-your-turn-1.png)
 
 ### Antwoorden
 
@@ -45,4 +45,4 @@ In plaats daarvan genereert dit filter een lijst met de volgende gegevens:
 
 Het filter moet er net zo uitzien als hieronder. Merk op dit filter de filterregel voor taakvolledigheid op beide kanten van OR heeft.
 
-![ Een beeld van behoorlijk gecreeerd OF verklaring in [!DNL Workfront]](assets/or-statement-your-turn-2.png)
+![&#x200B; Een beeld van behoorlijk gecreeerd OF verklaring in [!DNL Workfront]](assets/or-statement-your-turn-2.png)

@@ -53,7 +53,7 @@ Maak een taakweergave met de naam &quot;Taakstatusweergave&quot; met de volgende
 
 ### Antwoord 1
 
-![ een beeld van het scherm om een mening van de taakstatus tot stand te brengen ](assets/view-exercise.png)
+![&#x200B; een beeld van het scherm om een mening van de taakstatus tot stand te brengen &#x200B;](assets/view-exercise.png)
 
 1. Ga in een takenlijstrapport naar de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL New View]** .
 1. Geef de weergave de naam &#39;Taakstatusweergave&#39;.
@@ -86,7 +86,7 @@ Maak een taakweergave met de naam &quot;Weergave van mijlpaal&quot; met de volge
 
 ### Antwoord 2
 
-![ een beeld van het scherm om een milestone mening ](assets/view-milestone-exercise-1.png) te creëren
+![&#x200B; een beeld van het scherm om een milestone mening &#x200B;](assets/view-milestone-exercise-1.png) te creëren
 
 1. Ga in een lijst met projecttaken naar de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL New View]** .
 1. Geef uw weergave de naam &#39;Weergave van mijlpaal&#39;.
@@ -94,7 +94,7 @@ Maak een taakweergave met de naam &quot;Weergave van mijlpaal&quot; met de volge
 1. Klik in het veld [!UICONTROL Show in this column] op het pictogram &quot;min&quot; in het veld [!UICONTROL Task >> Predecessors] , typ &quot;[!UICONTROL milestone name]&quot; en klik op &quot;[!UICONTROL Name]&quot; in de lijst.
 1. Klik op **[!UICONTROL Save]**.
 
-![ een beeld van een taaklijst gebruikend een milestone mening ](assets/view-milestone-exercise-2.png)
+![&#x200B; een beeld van een taaklijst gebruikend een milestone mening &#x200B;](assets/view-milestone-exercise-2.png)
 
 ### Activiteit 3: Een type duur en een weergave met taakbeperkingen maken
 
@@ -118,7 +118,7 @@ Wijzig [!UICONTROL Field Format] in de kolommen [!UICONTROL Start On] en [!UICON
 
 ### Antwoord 3
 
-![ een beeld van het scherm dat de duurtypes en de mening van taakbeperkingen toont ](assets/view-activity-3.png)
+![&#x200B; een beeld van het scherm dat de duurtypes en de mening van taakbeperkingen toont &#x200B;](assets/view-activity-3.png)
 
 1. Ga in een lijst met projecttaken naar de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL New View]** .
 1. Geef de weergave de naam &quot;Weergave Duur en taakbeperkingen&quot;.
@@ -156,7 +156,7 @@ Creeer een mening van het projectmalplaatje genoemd &quot;Standaard+actieve stat
 
 ### Antwoord 4
 
-![ een beeld van het scherm om een actieve de statusmening van het projectmalplaatje te tonen ](assets/view-activity-4.png)
+![&#x200B; een beeld van het scherm om een actieve de statusmening van het projectmalplaatje te tonen &#x200B;](assets/view-activity-4.png)
 
 1. Ga in een lijst met projectsjablonen naar de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL New View]** .
 1. Geef de weergave de naam Standaard+actieve status.

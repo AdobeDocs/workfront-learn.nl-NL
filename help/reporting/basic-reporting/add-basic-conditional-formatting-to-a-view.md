@@ -56,7 +56,7 @@ Dit zal u vlekken problemen taken zonder de kolom voor vooruitgangsstatus als de
 
 ### Antwoord 1
 
-![ een beeld van het scherm om een nieuwe kolomregel ](assets/conditional-formatting-exercise.png) tot stand te brengen
+![&#x200B; een beeld van het scherm om een nieuwe kolomregel &#x200B;](assets/conditional-formatting-exercise.png) tot stand te brengen
 
 1. Ga in een takenlijstrapport naar de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL New View]** .
 1. Geef de weergave de naam Standaard + Voortgang.

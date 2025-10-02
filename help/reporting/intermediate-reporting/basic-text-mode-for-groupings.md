@@ -23,16 +23,16 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ Begrijp rapporteringselementen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
->* [ Begrijp het melden componenten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
->* [ creeer een basisgroepering ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
+>* [&#x200B; Begrijp rapporteringselementen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [&#x200B; Begrijp het melden componenten &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [&#x200B; creeer een basisgroepering &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
 
 
 >[!TIP]
 >
->* Om een diepgaander inzicht in tekstwijze te verkrijgen adviseren wij het letten op de geregistreerde webinar gebeurtenis [ vragen de Deskundige - Inleiding aan de Wijze van de Tekst die ](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting) meldt, die één uur in lengte is.
->* Om nog meer over tekstwijze te leren adviseren wij het letten op [ Geavanceerde het melden ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
->* Klik hier voor toegang [[!UICONTROL API Explorer] ](https://developer.adobe.com/workfront/api-explorer/)
+>* Om een diepgaander inzicht in tekstwijze te verkrijgen adviseren wij het letten op de geregistreerde webinar gebeurtenis [&#x200B; vragen de Deskundige - Inleiding aan de Wijze van de Tekst die &#x200B;](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting) meldt, die één uur in lengte is.
+>* Om nog meer over tekstwijze te leren adviseren wij het letten op [&#x200B; Geavanceerde het melden &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
+>* Klik hier voor toegang [[!UICONTROL API Explorer] &#x200B;](https://developer.adobe.com/workfront/api-explorer/)
 
 In deze video leert u:
 
@@ -58,7 +58,7 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![ het schermbeeld dat van A projecttaken toont die door 4 ouders ](assets/4-parents-grouping.png) worden gegroepeerd
+![&#x200B; het schermbeeld dat van A projecttaken toont die door 4 ouders &#x200B;](assets/4-parents-grouping.png) worden gegroepeerd
 
 
 ### Taak - Percentage volledige groepering
@@ -80,7 +80,7 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![ het schermbeeld dat van A projecttaken toont die door percent volledig ](assets/percent-complete-grouping.png) worden gegroepeerd
+![&#x200B; het schermbeeld dat van A projecttaken toont die door percent volledig &#x200B;](assets/percent-complete-grouping.png) worden gegroepeerd
 
 ### Taak - statusEquatesWith, dan status
 
@@ -104,7 +104,7 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![ het schermbeeld dat van A projecttaken toont die door statusEquatesWith ](assets/status-equates-with.png) worden gegroepeerd
+![&#x200B; het schermbeeld dat van A projecttaken toont die door statusEquatesWith &#x200B;](assets/status-equates-with.png) worden gegroepeerd
 
 
 ### Goedkeuring proef - groep per projectnaam
@@ -115,7 +115,7 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![ het schermbeeld dat van A goedkeuringen van het Bewijs toont die door projectnaam ](assets/proof-approvals-grouped-by-project-name.png) worden gegroepeerd
+![&#x200B; het schermbeeld dat van A goedkeuringen van het Bewijs toont die door projectnaam &#x200B;](assets/proof-approvals-grouped-by-project-name.png) worden gegroepeerd
 
 
 ### Goedkeuring proefdrukken - Groeperen op documentnaam
@@ -126,5 +126,5 @@ group.0.valuefield=documentVersion:document:name
 group.0.valueformat=HTML
 ```
 
-![ het schermbeeld dat van A goedkeuringen van het Bewijs toont die door projectnaam ](assets/proof-approvals-grouped-by-doc-name.png) worden gegroepeerd
+![&#x200B; het schermbeeld dat van A goedkeuringen van het Bewijs toont die door projectnaam &#x200B;](assets/proof-approvals-grouped-by-doc-name.png) worden gegroepeerd
 

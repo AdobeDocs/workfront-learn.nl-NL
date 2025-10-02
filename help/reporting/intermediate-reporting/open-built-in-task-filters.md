@@ -40,7 +40,7 @@ U wilt ervoor zorgen dat u zich bewust bent van taken die aan een van uw teams z
 
 Zo ziet het filter eruit:
 
-![ een beeld van het scherm om een taakfilter ](assets/opening-built-in-task-filters-1.png) tot stand te brengen
+![&#x200B; een beeld van het scherm om een taakfilter &#x200B;](assets/opening-built-in-task-filters-1.png) tot stand te brengen
 
 Stel de kolomweergave in om de velden op te nemen waarin u geïnteresseerd bent of waarin u online wilt kunnen bewerken. Bijvoorbeeld, kon u een kolom van Toewijzingen omvatten zodat kon u een teamlid aan een taak direct van het rapport toewijzen.
 
@@ -48,4 +48,4 @@ U zou de lijst kunnen willen groeperen die op de naam van het team wordt gebasee
 
 Zo ziet het verslag eruit:
 
-![ een beeld van een taakrapport ](assets/opening-built-in-task-filters-2.png)
+![&#x200B; een beeld van een taakrapport &#x200B;](assets/opening-built-in-task-filters-2.png)
