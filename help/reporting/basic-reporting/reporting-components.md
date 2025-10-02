@@ -80,5 +80,5 @@ Voorbeelden: Nieuw, Huidig, $$TODAYbw, Beschrijving
 
 >[!TIP]
 >
->Voor hulp die specifieke gebiedsnamen in Workfront begrijpen, kijk in de [&#x200B; Verklarende woordenlijst van de terminologie van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
+>Voor hulp die specifieke gebiedsnamen in Workfront begrijpen, kijk in de [&#x200B; Verklarende woordenlijst van de terminologie van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=nl-NL).
 
