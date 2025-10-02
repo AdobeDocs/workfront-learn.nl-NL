@@ -38,7 +38,7 @@ De video legt uit hoe u grafieken kunt gebruiken om gegevens effectief te visual
 
 In de video wordt benadrukt hoe diagrammen als taart en gestapelde kolomgrafieken inzicht kunnen verschaffen in taakdistributie en projectprestaties, waardoor gebruikers projecten kunnen vergelijken en de taakvoortgang visueel kunnen begrijpen. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450020/?quality=12&learn=on&captions=dut)
 
 ## Toetsen
 

@@ -27,7 +27,7 @@ In deze video zult u:
 * Meer informatie over enkele handige rapportelementen voor problemen
 * Leer hoe u uw eigen filter voor uitgaven maakt
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469991/?quality=12&learn=on&captions=dut)
 
 
 ## Activiteiten van ingebouwde uitgiftefilters
