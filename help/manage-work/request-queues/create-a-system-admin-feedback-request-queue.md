@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ creeer een verzoekrij ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=nl-NL)
->* [ creeer een verzoekstroom ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=nl-NL)
+>* [ creeer een verzoekrij ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
+>* [ creeer een verzoekstroom ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* Of u bent reeds comfortabel met het creëren van een verzoekrij die een verpletterende regel en een douaneformulier gebruikt.
 
 De video verstrekt een geleidelijke gids bij het creëren van een terugkoppel verzoekrij voor systeembeheerders.
@@ -34,7 +34,7 @@ In de video wordt het belang benadrukt van participatie van gebruikers en transp
 &#x200B;Voor meer informatie vindt u koppelingen naar zelfstudies voor het maken van rapporten en aangepaste formulieren.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3450503/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 ## Toetsen
 
@@ -45,9 +45,9 @@ In de video wordt het belang benadrukt van participatie van gebruikers en transp
 * **het Testen en Toegankelijkheid:** de rij wordt getest met steekproefverzoeken, die functionaliteit verzekeren. Het wordt gepubliceerd als rij van het hulpverzoek, toegankelijk voor alle gebruikers, met een standaardvoltooiingsduur van 10 dagen.
 
 
-Leren hoe te om tot het **team te leiden Admin terugkoppelt rapport** gebruikt in de video, **creeer een admin team terugkoppelt rapportactiviteit** in [ creeer een taakrapport ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) leerprogramma.
+Leren hoe te om tot het **team te leiden Admin terugkoppelt rapport** gebruikt in de video, **creeer een admin team terugkoppelt rapportactiviteit** in [ creeer een taakrapport ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report) leerprogramma.
 
-Leren hoe te om een douanevorm tot stand te brengen, zie [ creeer en deel een douanevorm ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=nl-NL) leerprogramma.
+Leren hoe te om een douanevorm tot stand te brengen, zie [ creeer en deel een douanevorm ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) leerprogramma.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: a3174fcd208a2483bc3728932ae4d31b2e155e6b
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In deze video zult u:
 * Meer informatie over enkele handige taakrapportelementen
 * Leer hoe u uw eigen taakfilter maakt
 
->[!VIDEO](https://video.tv.adobe.com/v/3469594/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
 ## Activiteiten van ingebouwde taakfilters begrijpen
 

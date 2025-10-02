@@ -12,9 +12,9 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '792'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ In de video wordt uitgelegd hoe u in Workfront weergaven kunt maken en aanpassen
 
 De video benadrukt de flexibiliteit van weergaven in Workfront en biedt stapsgewijze instructies voor het maken, aanpassen en beheren van deze weergaven.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450244/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
 ## Toetsen
 
@@ -133,9 +133,9 @@ Wijzig [!UICONTROL Field Format] in de kolommen [!UICONTROL Start On] en [!UICON
 1. Klik nogmaals op **[!UICONTROL Add Column]** .
 1. Typ in het veld [!UICONTROL Show in this column] [!UICONTROL "constraint"] en selecteer [!UICONTROL "Constraint Date"] onder de bron van het taakveld.
 1. Selecteer de kolom [!UICONTROL Start On] en klik op [!UICONTROL Advanced Options] .
-1. Selecteer onder de vervolgkeuzelijst [!UICONTROL Field Format] de optie [!UICONTROL "10/17/60 3:00 AM"] .
+1. Onder de [!UICONTROL Field Format] drop-down uitgezochte [!UICONTROL "10/17/60 3:00 AM&quot;].
 1. Selecteer de kolom [!UICONTROL Due On] en klik op [!UICONTROL Advanced Options] .
-1. Selecteer onder de vervolgkeuzelijst [!UICONTROL Field Format] de optie [!UICONTROL "10/17/60 3:00 AM"] .
+1. Onder de [!UICONTROL Field Format] drop-down uitgezochte [!UICONTROL "10/17/60 3:00 AM&quot;].
 1. Klik op **[!UICONTROL Save]**.
 
 ### Activiteit 4: Een actieve statusweergave van een projectsjabloon maken

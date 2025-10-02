@@ -12,10 +12,10 @@ jira: KT-8861
 last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '383'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ In deze video leert u:
 * Wanneer een matrixrapport nuttig kan zijn
 * En hoe te om een matrixrapport te creëren
 
->[!VIDEO](https://video.tv.adobe.com/v/3448189/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
 ## Toetsen
 
@@ -54,7 +54,7 @@ U wilt dat de aanvraagrijen op de rijgroepen verschijnen. De status wordt weerge
 
    ![ een beeld van het scherm om een nieuw kwestie tot stand te brengen rapport groeperen ](assets/matrix-report-groupings.png)
 
-1. Ga naar de tab **[!UICONTROL Filters]** .
+1. Ga naar het tabblad **[!UICONTROL Filters]**.
 1. Om ervoor te zorgen u slechts verzoeken in actieve verzoekrijen ziet, voeg de volgende filterregels toe:
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Equal] > [!UICONTROL Current]

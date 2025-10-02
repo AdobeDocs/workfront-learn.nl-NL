@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: ecccb7fa340f9ad8bff15a5767848ab016e00876
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In deze video leert u hoe u:
 * Een aangepaste datum maken met jokertekens, kenmerken, operatoren en wijzigingstoetsen
 * Een aangepast datumbereik maken met jokertekens
 
->[!VIDEO](https://video.tv.adobe.com/v/3464544/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
 
 
 ## &quot;Filters maken met jokertekens op basis van datum&quot;-activiteiten

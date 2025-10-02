@@ -12,7 +12,7 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '538'
 ht-degree: 0%
@@ -38,7 +38,7 @@ De video legt uit hoe u grafieken kunt gebruiken om gegevens effectief te visual
 
 In de video wordt benadrukt hoe diagrammen als taart en gestapelde kolomgrafieken inzicht kunnen verschaffen in taakdistributie en projectprestaties, waardoor gebruikers projecten kunnen vergelijken en de taakvoortgang visueel kunnen begrijpen. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3450020/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
 ## Toetsen
 
@@ -73,13 +73,13 @@ Het einde van het kwartaal nadert en u wilt zien hoe recent voltooide projecten 
 1. Voeg op het tabblad **[!UICONTROL Filters]** twee filterregels toe:
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Complete]
-   * [!UICONTROL Project] >[!UICONTROL &#x200B; Actual Completion Date] > [!UICONTROL Last Quarter]
+   * [!UICONTROL Project] >[!UICONTROL  Actual Completion Date] > [!UICONTROL Last Quarter]
 
    ![ een beeld van het scherm om filters aan een rapport toe te voegen ](assets/chart-report-filters.png)
 
 1. Kies op het tabblad **[!UICONTROL Chart]** de optie **[!UICONTROL Column]** voor het diagramtype.
-1. Kies [!UICONTROL Planned Cost] bij [!UICONTROL Left (Y) Axis] .
-1. Kies [!UICONTROL Name] bij [!UICONTROL Bottom (X) Axis] .
+1. Kies [!UICONTROL Left (Y) Axis] bij [!UICONTROL Planned Cost] .
+1. Kies [!UICONTROL Bottom (X) Axis] bij [!UICONTROL Name] .
 1. Klik op de knop **[!UICONTROL Combination Chart]** en selecteer [!UICONTROL Actual Cost] in het veld **[!UICONTROL Value]** .
 1. Selecteer Regel in het veld **[!UICONTROL Chart Type]** .
 1. Klik op het kleurvak om de [!UICONTROL Actual Cost] -kleur te wijzigen. Selecteer een kleur.

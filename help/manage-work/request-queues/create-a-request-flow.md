@@ -13,7 +13,7 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: bf2c07a33a168a99544e148c06bd656d50f1ca92
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Deze video verstrekt een geleidelijke gids bij het creëren van een verzoekstroo
 De video toont dan aan hoe te om rijonderwerpen tot stand te brengen, die met het verpletteren van regels, onderwerpgroepen, douanevormen, goedkeuringsprocessen, en standaardduur verbonden zijn.
 Tot slot toont de video hoe te om de opstelling te testen door een verzoek voor te leggen om het correct wordt verpletterd. &#x200B; Als er problemen optreden, kunt u de wachtrij aanpassen. &#x200B; De video benadrukt het belang om de structuur en de functionaliteit van de verzoekstroom te verifiëren om behoorlijk het verpletteren en organisatie te verzekeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433828/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
 
 ## Toetsen
 

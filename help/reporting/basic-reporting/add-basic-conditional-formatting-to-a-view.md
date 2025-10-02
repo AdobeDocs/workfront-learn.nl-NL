@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In deze video leert u:
 * Wat voorwaardelijke opmaak is in een weergave
 * Voorwaardelijke opmaak maken en wijzigen
 
->[!VIDEO](https://video.tv.adobe.com/v/3445447/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
 
 ## Overzicht van voorwaardelijke opmaak
