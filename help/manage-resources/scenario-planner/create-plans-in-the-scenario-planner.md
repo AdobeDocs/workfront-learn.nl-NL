@@ -28,8 +28,8 @@ In deze video leert u hoe u een abonnement maakt in de [!DNL Scenario Planner] .
 
 Wanneer u een plan maakt, kunt u bepalen of de taakrolleninspanning in VTE&#39;s of uren moet worden geschat. Het systeemgebrek is FTE maar dat kan worden geschakeld wanneer het creëren van een plan.
 
-![ Uitgezocht [!UICONTROL FTE] of [!UICONTROL Hours] in het [!UICONTROL New Plan] venster ](assets/scenario-planner-1.png)
+![&#x200B; Uitgezocht [!UICONTROL FTE] of [!UICONTROL Hours] in het [!UICONTROL New Plan] venster &#x200B;](assets/scenario-planner-1.png)
 
 Nadat het plan wordt gecreeerd, worden alle aantallen toegevoegd voor baanrollen in het plan, de scenario&#39;s van het plan, en om het even welke initiatieven ingegaan en getoond in het geselecteerde formaat. Die indeling wordt boven aan kolommen weergegeven waarvoor taakrolinformatie nodig is.
 
-![ Informatie weergeven in [!UICONTROL FTE] of [!UICONTROL Hours] in de [!DNL Scenario Planner]](assets/scenario-planner-2.png)
+![&#x200B; Informatie weergeven in [!UICONTROL FTE] of [!UICONTROL Hours] in de [!DNL Scenario Planner]](assets/scenario-planner-2.png)

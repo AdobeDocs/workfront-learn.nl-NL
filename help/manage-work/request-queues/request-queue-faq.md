@@ -1,6 +1,6 @@
 ---
 title: Antwoorden op veelgestelde vragen over aanvraagwachtrijen
-description: Krijg antwoorden aan gemeenschappelijke vragen over verzoekrijen in  [!DNL  Workfront].
+description: Krijg antwoorden aan gemeenschappelijke vragen over verzoekrijen in  [!DNL &#x200B; Workfront].
 feature: Work Management
 type: Tutorial
 role: Admin, User
@@ -50,9 +50,9 @@ Als u een verzoek van de verzoekrij opent kunt u op de projectnaam in het broodk
 
 Ja. Wanneer u een aangepast formulier maakt, selecteert u zowel [!UICONTROL Project] als [!UICONTROL Issue] als de objecttypen. U kunt een project ook uitgeven douanevorm om het type van uitgiftobjecten en vice versa te omvatten.
 
-![ Beeld dat hoe te om 2 objecten types te selecteren wanneer het creëren van een douanevorm ](assets/faq-image-1.png) toont
+![&#x200B; Beeld dat hoe te om 2 objecten types te selecteren wanneer het creëren van een douanevorm &#x200B;](assets/faq-image-1.png) toont
 
-![ Beeld dat hoe te om 2 objecten types te selecteren wanneer het uitgeven van een douanevorm ](assets/faq-image-2.png) toont
+![&#x200B; Beeld dat hoe te om 2 objecten types te selecteren wanneer het uitgeven van een douanevorm &#x200B;](assets/faq-image-2.png) toont
 
 Voeg het aangepaste formulier toe aan de aanvraag. Wanneer u het verzoek in een project omzet zal het douaneformulier automatisch aan het nieuwe project vastmaken en de waarden in om het even welke gebieden zullen in zowel het verzoek als de projecten douaneformulieren verschijnen.
 
@@ -67,9 +67,9 @@ Bekijk deze video voor meer informatie:
 
 **wat is de beste manier om voor verzoekrijen in een rapport te filtreren?**
 
-Als uw projectfilter **Rij>>Is Openbaar >>Gelijk>>niets** omvat zal uw rapport slechts projecten tonen die **** verzoekrijen {zijn.
+Als uw projectfilter **Rij>>Is Openbaar >>Gelijk>>niets** omvat zal uw rapport slechts projecten tonen die **&#x200B;**&#x200B;verzoekrijen &lbrace;zijn.
 
-Als uw projectfilter **Rij>>Is Openbaar>>Niet Gelijk>>niets** omvat zal uw rapport slechts projecten tonen die **** verzoekrijen zijn.
+Als uw projectfilter **Rij>>Is Openbaar>>Niet Gelijk>>niets** omvat zal uw rapport slechts projecten tonen die **&#x200B;**&#x200B;verzoekrijen zijn.
 
 Bekijk deze video voor meer informatie:
 

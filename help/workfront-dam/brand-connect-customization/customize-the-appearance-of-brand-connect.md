@@ -30,13 +30,13 @@ In deze video leert u hoe u:
 
 Met de optie [!UICONTROL Font] onder het menu [!UICONTROL Appearance] kunt u alle tekst in het geselecteerde lettertype in de hele [!UICONTROL Brand Portal] opmaken. Meer dan 800 Google-lettertypen worden ondersteund.
 
-![ De optie [!UICONTROL Font] onder de menustijl [!UICONTROL Appearance] voor [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
+![&#x200B; De optie [!UICONTROL Font] onder de menustijl [!UICONTROL Appearance] voor [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
 
 ## Homepage-widgets
 
 Pas de vormgeving van uw [!UICONTROL Brand Connect] -startpagina aan uw organisatie aan. Met widgets kunt u elementen toevoegen, zoals mappen en afbeeldingsregelaars. Als uw organisatie meerdere [!UICONTROL Brand Connects] heeft, heeft elke organisatie een eigen startpagina, die u een verschillende vormgeving kunt geven.
 
-![ het schermschot van A van beschikbare widgets voor uw [!UICONTROL Brand Connect] homepage ](assets/03-brand-connect-home-page-widgets.png)
+![&#x200B; het schermschot van A van beschikbare widgets voor uw [!UICONTROL Brand Connect] homepage &#x200B;](assets/03-brand-connect-home-page-widgets.png)
 
 Deze widgets zijn beschikbaar:
 
@@ -52,7 +52,7 @@ Deze widgets zijn beschikbaar:
 
 **F. Gevulde Beschrijving** - ga een blok van de tekstexemplaar aan vertoning op een grijze achtergrond in.
 
-**G. HTML** - gebruik HTML en CSS om douaneinhoud tot stand te brengen. U kunt bijvoorbeeld een koppeling naar een video insluiten. Er zijn sommige [ markeringen van HTML ](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html) te vermijden.
+**G. HTML** - gebruik HTML en CSS om douaneinhoud tot stand te brengen. U kunt bijvoorbeeld een koppeling naar een video insluiten. Er zijn sommige [&#x200B; markeringen van HTML &#x200B;](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html) te vermijden.
 
 ## Een zoekbalk toevoegen
 

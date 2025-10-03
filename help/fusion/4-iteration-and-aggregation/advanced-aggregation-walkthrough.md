@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Bel een webservice om details over meerdere landen te retourneren en de totale bevolking van alle landen, gegroepeerd per subregio, te identificeren.
 
-![ een beeld van het scenario van de Fusie ](assets/iteration-and-aggregation-3.png)
+![&#x200B; een beeld van het scenario van de Fusie &#x200B;](assets/iteration-and-aggregation-3.png)
 
 ## Geavanceerde samenvoegingsanalyse
 
@@ -59,4 +59,4 @@ Creeer een nieuw scenario aan som alle uren het programma geopende taken in proj
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

@@ -25,7 +25,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ leer aan opeenvolgingstaken ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
+>* [&#x200B; leer aan opeenvolgingstaken &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Of u bent al comfortabel met voorgangers in uw projecten
 
 
@@ -39,8 +39,8 @@ In deze video leert u meer over:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
 
-Voor meer informatie over het gebruiken van predecessors zie [ de taakpredecessors van het Gebruik ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
+Voor meer informatie over het gebruiken van predecessors zie [&#x200B; de taakpredecessors van het Gebruik &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
 
-Voor meer informatie over taakbeperkingen zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html) begrijpen en beheren.
+Voor meer informatie over taakbeperkingen zie [&#x200B; de types van duur en taakbeperkingen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html) begrijpen en beheren.
 
-Voor meer informatie over dwars-project predecessors zien [ predecessors begrijpen dwars-project ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).
+Voor meer informatie over dwars-project predecessors zien [&#x200B; predecessors begrijpen dwars-project &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Begrijp hoe te om de module van de Schakelaar te gebruiken wanneer u complexere of dynamische gegevenstransformaties moet uitvoeren.
 
-![ een beeld gebruikend de schakelaarmodule ](assets/beyond-basic-modules-4.png)
+![&#x200B; een beeld gebruikend de schakelaarmodule &#x200B;](assets/beyond-basic-modules-4.png)
 
 ## De moduleanalyse van de schakelaar
 
@@ -34,4 +34,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

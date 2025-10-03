@@ -1,6 +1,6 @@
 ---
 title: Een sjabloon voor een geautomatiseerde workflow bewerken
-description: Leer hoe te om veranderingen in een bestaand geautomatiseerd het proefdrukken werkschemamalplaatje in  [!DNL  Workfront] aan te brengen.
+description: Leer hoe te om veranderingen in een bestaand geautomatiseerd het proefdrukken werkschemamalplaatje in  [!DNL &#x200B; Workfront] aan te brengen.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -31,7 +31,7 @@ Als u sjablonen up-to-date houdt, bent u zeker van consistentie in uw revisie- e
 
 De opties voor delen, kopiëren en verwijderen van de sjabloon staan boven aan het venster met sjabloondetails voor elke sjabloon. Als u een sjabloon verwijdert, heeft dit geen invloed op proefdrukken waarop de sjabloon is toegepast, maar het betekent wel dat de sjabloon niet meer beschikbaar is.
 
-![ venster van de Details van het Malplaatje ](assets/proof-system-setup-edit-templates-details-area.png)
+![&#x200B; venster van de Details van het Malplaatje &#x200B;](assets/proof-system-setup-edit-templates-details-area.png)
 
 
 Klik op de pijl links van het woord [!UICONTROL Details] om de sectie uit of samen te vouwen.
@@ -60,7 +60,7 @@ Hier volgen de wijzigingen in de proefdruksjabloon die u kunt aanbrengen in de s
 
 In het gebied [!UICONTROL Shared With] worden de proefdrukgebruikers weergegeven die de sjabloon kunnen gebruiken. Verwijder mensen die de sjabloon niet meer hoeven te gebruiken door op het menu met drie punten uiterst rechts van hun naam te klikken en [!UICONTROL Remove] te selecteren.
 
-![[!UICONTROL Shared With] list ](assets/proof-system-setups-edit-template-shared-with.png)
+![[!UICONTROL Shared With] list &#x200B;](assets/proof-system-setups-edit-template-shared-with.png)
 
 U kunt echter geen personen toevoegen aan de lijst voor gedeeld gebruik vanuit deze sectie. Ga hiervoor terug naar de bovenkant van het venster met sjabloondetails en klik op de knop [!UICONTROL Share template] .
 
@@ -70,4 +70,4 @@ U kunt echter geen personen toevoegen aan de lijst voor gedeeld gebruik vanuit d
 
 In deze sectie wordt geen informatie vastgelegd over wanneer de sjabloon op proefdrukken is gebruikt.
 
-![ de activiteitenlijst van het Bewijs ](assets/proof-system-setups-edit-template-activity.png)
+![&#x200B; de activiteitenlijst van het Bewijs &#x200B;](assets/proof-system-setups-edit-template-activity.png)

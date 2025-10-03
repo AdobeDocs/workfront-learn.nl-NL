@@ -24,7 +24,7 @@ BESTAANDE filters zijn geavanceerd, de filters van de tekstwijze, die ons toesta
 
 In deze video leert u hoe u een EXISTS-filter kunt maken om &quot;Goedkeuring proef voor huidige projecten&quot; te zien in een rapport met proefdrukgoedkeuringen.
 
-Voor een meer diepgaande analyse op hoe BESTAAT de functie, gelieve [ te zien de complexe filters van de Wijze van de Tekst gebruikend EXISTS verklaringen ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) documentatie creëren.
+Voor een meer diepgaande analyse op hoe BESTAAT de functie, gelieve [&#x200B; te zien de complexe filters van de Wijze van de Tekst gebruikend EXISTS verklaringen &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) documentatie creëren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 

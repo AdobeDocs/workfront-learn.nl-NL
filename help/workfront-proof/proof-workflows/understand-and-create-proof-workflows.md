@@ -1,6 +1,6 @@
 ---
 title: Workflows voor proefdrukken begrijpen als onderdeel van projecttijdlijnen
-description: Leer welke informatie te verzamelen om een proefwerkschema en het verschil tussen basis en geavanceerde proefdrukwerkschema's in  [!DNL  Workfront] tot stand te brengen.
+description: Leer welke informatie te verzamelen om een proefwerkschema en het verschil tussen basis en geavanceerde proefdrukwerkschema's in  [!DNL &#x200B; Workfront] tot stand te brengen.
 activity: use
 feature: Workfront Proof
 type: Tutorial

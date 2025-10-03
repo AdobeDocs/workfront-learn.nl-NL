@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Leer hoe u uw Fusion-inspanningsbestanden instelt.
 
-1. Download de [ uitoefeningsdossiers van de Fusie ](/help/assets/fusion-exercise-files.zip).
+1. Download de [&#x200B; uitoefeningsdossiers van de Fusie &#x200B;](/help/assets/fusion-exercise-files.zip).
 
 1. Bekijk de video voor informatie over het uploaden van deze bestanden naar een map in Workfront.
 

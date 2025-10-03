@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Herzie de uitvoeringsgeschiedenis voor het &quot;Gebruikend het machtige filter&quot;scenario om te begrijpen wat gebeurde toen de uitvoeringen voorkwamen en hoe zij werden gestructureerd toen zij werden in werking gesteld.
 
-![ een beeld van uitvoeringsgeschiedenis in een scenario van de Fusie ](assets/execution-history-and-scheduling-1.png)
+![&#x200B; een beeld van uitvoeringsgeschiedenis in een scenario van de Fusie &#x200B;](assets/execution-history-and-scheduling-1.png)
 
 ## Analyse van de uitvoeringshistorie
 
@@ -35,11 +35,11 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 De fullText onderzoek is beschikbaar in het geschiedenislusje van een scenario, toestaand u om naar om het even welke gegevens te zoeken die in het scenario worden verwerkt.
 
-![ een beeld van het onderzoek van de uitvoeringsgeschiedenis ](assets/execution-history-and-scheduling-2.png)
+![&#x200B; een beeld van het onderzoek van de uitvoeringsgeschiedenis &#x200B;](assets/execution-history-and-scheduling-2.png)
 
 In plaats van elke uitvoering te openen om naar gegevens te zoeken, zoekt Fulltext over alle uitvoeringen binnen één enkel scenario. De zoekresultaten bevatten een lijst met uitvoeringen waarin de gegevens zijn gevonden. U kunt op elke gewenste uitvoering klikken om verder te zoeken.
 
-![ een beeld van een onderzoek van de uitvoeringsgeschiedenis ](assets/execution-history-and-scheduling-3.png)
+![&#x200B; een beeld van een onderzoek van de uitvoeringsgeschiedenis &#x200B;](assets/execution-history-and-scheduling-3.png)
 
 De zoekresultaten bevatten enkele handige pictogrammen in de onderstaande afbeelding.
 
@@ -51,13 +51,13 @@ C - De uitvoerings-id.
 
 D—Kopieer de uitvoerings-id.
 
-![ een beeld van een resultaten van het het onderzoeksonderzoek van de uitvoeringsgeschiedenis ](assets/execution-history-and-scheduling-4.png)
+![&#x200B; een beeld van een resultaten van het het onderzoeksonderzoek van de uitvoeringsgeschiedenis &#x200B;](assets/execution-history-and-scheduling-4.png)
 
 Wanneer u op een uitvoering klikt, laadt Workfront Fusion de uitvoering en de module waarin het zoekresultaat is gevonden. En het opent de uitvoeringsinspecteur op de module die de onderzoeksgegevens bevat.
 
-![ een beeld van een verbindingen van de uitvoeringsgeschiedenis ](assets/execution-history-and-scheduling-5.png)
+![&#x200B; een beeld van een verbindingen van de uitvoeringsgeschiedenis &#x200B;](assets/execution-history-and-scheduling-5.png)
 
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Kijk naar een specifiek project in Workfront en bekijk dan alle taken binnen dat project. Dan zult u de module van het verhogingshulpmiddel gebruiken om het aantal taken binnen het project te tellen, tot slot zult u de Vastgestelde veranderlijke module gebruiken om het Aantal Kinderen van het Aantal Open Kwesties af te trekken om een numerieke waarde voor elk van de taakbundels te produceren.
 
-![ een beeld van het scenario van de Fusie ](assets/iteration-and-aggregation-1.png)
+![&#x200B; een beeld van het scenario van de Fusie &#x200B;](assets/iteration-and-aggregation-1.png)
 
 ## Inleiding aan iteratoranalyse
 
@@ -34,4 +34,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

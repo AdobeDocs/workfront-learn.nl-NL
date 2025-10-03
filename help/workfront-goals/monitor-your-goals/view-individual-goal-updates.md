@@ -1,6 +1,6 @@
 ---
 title: Individuele doelupdates weergeven in  [!DNL Workfront Goals]
-description: Leer hoe u uw individuele doelen kunt bekijken in de updatestream van [!UICONTROL Pulse] in [!DNL   Doelen].
+description: Leer hoe u uw individuele doelen kunt bekijken in de updatestream van [!UICONTROL Pulse] in [!DNL &#x200B;  Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -37,7 +37,7 @@ Het kan zijn dat u soms te veel informatie in de [!UICONTROL Pulse] stream krijg
    * Beweeg over de naam van een filter, dan klik **uitgeven** pictogram naast zijn naam om het aan te passen en specifieke namen van gebruikers, teams, groepen, of de naam van uw organisatie toe te voegen.
    * Klik [!UICONTROL **Nieuwe Filter**] om een nieuw filter tot stand te brengen, dan selecteren van de lijst van opties om door [!UICONTROL Period] aan te passen en te filtreren, [!UICONTROL Status], [!UICONTROL Progress], en/of [!UICONTROL Owner].
 
-   ![ Een afbeelding van het [!UICONTROL Filters] -deelvenster in [!DNL Workfront Goals]](assets/18-workfront-goals-pulse-stream.png)
+   ![&#x200B; Een afbeelding van het [!UICONTROL Filters] -deelvenster in [!DNL Workfront Goals]](assets/18-workfront-goals-pulse-stream.png)
 
 **Nota:** Uw het filtreren selectie wordt bewaard en de informatie in andere secties van [!DNL Goals] toont volgens deze informatie. U kunt de doelen zoeken en filteren in verschillende gedeelten van het gebied [!DNL Goals] in [!DNL Workfront] :
 

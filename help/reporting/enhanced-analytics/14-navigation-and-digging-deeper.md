@@ -38,7 +38,7 @@ Aan de hand van deze informatie kunt u bepalen:
 * Als gebruikers zich richten op de juiste zaken.
 * Hoeveel de reikwijdte van een project veranderde in die periode wanneer een specifiek project wordt geselecteerd.
 
-![ een beeld dat een projectlooppas met aantallen op gebieden toont die in hieronder kogels worden beschreven ](assets/section-2-7.png)
+![&#x200B; een beeld dat een projectlooppas met aantallen op gebieden toont die in hieronder kogels worden beschreven &#x200B;](assets/section-2-7.png)
 
 Op het diagram kunt u zien:
 

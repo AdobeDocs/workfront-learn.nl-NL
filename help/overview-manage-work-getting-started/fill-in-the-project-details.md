@@ -33,4 +33,4 @@ In deze video leert u meer over de meest gebruikte projectinstellingen die u nod
 * [Navigeren door de projectpagina](/help/manage-work/projects/navigate-the-project-page.md)
 * [Leer vier manieren om een project te maken](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Aan de slag met het plannen van een project](/help/manage-work/projects/getting-started-plan-a-project.md)
-* [ geeft projecten ](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects) uit
+* [&#x200B; geeft projecten &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects) uit

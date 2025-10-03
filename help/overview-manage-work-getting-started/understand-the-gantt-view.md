@@ -29,7 +29,7 @@ In deze video leert u hoe u kunt werken:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
-U kunt meer online met het artikel leren, [ worden begonnen met de grafiek van Gantt ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
+U kunt meer online met het artikel leren, [&#x200B; worden begonnen met de grafiek van Gantt &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

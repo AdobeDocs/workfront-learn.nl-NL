@@ -23,7 +23,7 @@ ht-degree: 0%
 
 De processen van de goedkeuring op projecten, taken, en kwesties staan een projectmanager toe om deskundige bevestiging te krijgen dat het werk onmiddellijk is gedaan alvorens vooruit te gaan. De projectmanager kan een goedkeuringsproces voor elke situatie (dit wordt genoemd geworden enig-gebruik goedkeuringsproces) tot stand brengen of van een lijst van misschien vele goedkeuringsprocessen kiezen die eerder zijn gecreeerd om aan gemeenschappelijke behoeften (deze zijn genoemd als globaal, of bestaand, goedkeuringsprocessen) te voldoen.
 
-Wanneer de objectstatus verandert in een status die is opgegeven in het goedkeuringsproces, wordt de fiatteur op verschillende manieren op de hoogte gesteld van het beoordelen van het werk en het goedkeuren of afwijzen ervan. Aangezien het hele project kan worden gepauzeerd in afwachting van een goedkeuring, moeten de fiatteurs er van tevoren van op de hoogte zijn dat zij om goedkeuring kunnen worden verzocht. Indien een fiatteur om welke reden dan ook buiten het kantoor is, mogen zij hun goedkeuringen delegeren aan een gekwalificeerde plaatsvervanger. Zie [ de taken, kwesties, en goedkeuringen van de Afgevaardigde ](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md) voor details.
+Wanneer de objectstatus verandert in een status die is opgegeven in het goedkeuringsproces, wordt de fiatteur op verschillende manieren op de hoogte gesteld van het beoordelen van het werk en het goedkeuren of afwijzen ervan. Aangezien het hele project kan worden gepauzeerd in afwachting van een goedkeuring, moeten de fiatteurs er van tevoren van op de hoogte zijn dat zij om goedkeuring kunnen worden verzocht. Indien een fiatteur om welke reden dan ook buiten het kantoor is, mogen zij hun goedkeuringen delegeren aan een gekwalificeerde plaatsvervanger. Zie [&#x200B; de taken, kwesties, en goedkeuringen van de Afgevaardigde &#x200B;](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md) voor details.
 
 In deze video leert u hoe u een algemeen goedkeuringsproces en een goedkeuringsproces voor één gebruik kunt maken voor een project, taak of uitgave.
 
@@ -43,11 +43,11 @@ Als u automatische goedkeuringen voor uitgaven wilt instellen in een aanvraagwac
 
 Selecteer bij het maken of bewerken van een [!UICONTROL Queue topic] het algemene goedkeuringsproces in het veld **[!UICONTROL Default Approval]** .
 
-![ Beeld dat hoe te om een standaardgoedkeuringsproces in een rijonderwerp te selecteren ](assets/automatic-issue-approval-1.png)
+![&#x200B; Beeld dat hoe te om een standaardgoedkeuringsproces in een rijonderwerp te selecteren &#x200B;](assets/automatic-issue-approval-1.png)
 
 Mogelijk moet u het goedkeuringsproces voor uitgaven bewerken om ervoor te zorgen dat **[!UICONTROL Previous status]** niet is ingesteld op het moment dat de goedkeuring wordt geweigerd. De reden hiervoor is dat de vorige status **[!UICONTROL New]** is. Dit is ook de status die het goedkeuringsproces activeert. Het is dus de status waarop deze wordt ingesteld wanneer deze wordt goedgekeurd. Om verwarring te voorkomen wanneer de goedkeuring van het probleem wordt afgewezen, is het beter om de status in te stellen op een soort **[!UICONTROL Won't Resolve]** of een aangepaste status die voor dit doel is gemaakt.
 
-![ Beeld dat het veranderen van de status toont te gebruiken wanneer de kwestie wordt verworpen ](assets/automatic-issue-approval-2.png)
+![&#x200B; Beeld dat het veranderen van de status toont te gebruiken wanneer de kwestie wordt verworpen &#x200B;](assets/automatic-issue-approval-2.png)
 
 
 ## Aanbevolen zelfstudies over dit onderwerp

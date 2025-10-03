@@ -1,6 +1,6 @@
 ---
 title: Prioriteit geven aan werk in [!UICONTROL Home]
-description: Leer hoe u items in de [!UICONTROL Work List] kunt markeren als prioritaire toewijzingen op de startpagina. Dan filter de lijst om uw prioritaire werk in  [!DNL  Workfront] te zien.
+description: Leer hoe u items in de [!UICONTROL Work List] kunt markeren als prioritaire toewijzingen op de startpagina. Dan filter de lijst om uw prioritaire werk in  [!DNL &#x200B; Workfront] te zien.
 feature: Work Management
 type: Tutorial
 role: User

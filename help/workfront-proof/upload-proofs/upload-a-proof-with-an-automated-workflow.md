@@ -34,7 +34,7 @@ In deze video leert u:
 
 De instellingen onder aan het venster voor het uploaden van proefdrukken zijn optioneel. Vraag uw organisatie daarom of en hoe u deze instellingen gebruikt.
 
-![ een beeld van het [!UICONTROL New Proof] venster met [!UICONTROL Stage settings] benadrukte.](assets/additional-proof-workflow-settings.png)
+![&#x200B; een beeld van het [!UICONTROL New Proof] venster met [!UICONTROL Stage settings] benadrukte.](assets/additional-proof-workflow-settings.png)
 
 * **[!UICONTROL Lock stage]—** Hiermee voorkomt u dat personen in deze werkstroomfase opmerkingen maken of beslissingen wijzigen nadat hun werkstroom is voltooid.
 * **[!UICONTROL Transfer primary decision rights to]—** versnelt het proofingproces door een primaire besluitvormer aan te wijzen. Wanneer deze optie is ingesteld, herkent [!DNL Workfront] de bewijsbeslissing van deze persoon als de beslissing. Zodra die persoon zijn beslissing heeft genomen, is het stadium voorbij en zijn er geen andere beslissingen nodig.
@@ -47,7 +47,7 @@ Onder aan het venster voor het uploaden van proefdrukken staan verschillende pro
 Learn more about these in the Proof settings section of the Configure a proof article.
 -->
 
-![ een beeld van de [!UICONTROL Proof settings] sectie van het proefupload venster.](assets/additional-proof-workflow-settings-2.png)
+![&#x200B; een beeld van de [!UICONTROL Proof settings] sectie van het proefupload venster.](assets/additional-proof-workflow-settings-2.png)
 
 <!--
 ### Learn more
@@ -64,7 +64,7 @@ Learn more about these in the Proof settings section of the Configure a proof ar
 
 U ziet dat u op de lijst met proefontvangers staat, omdat u de proefdruk uploadt. Hierdoor hebt u ook de eigenaar van de proefdruk, die u bewerkingsrechten voor de proefdruk geeft, zodat u onder andere de workflowinstellingen kunt wijzigen of een nieuwe versie kunt uploaden.
 
-![ een beeld van het proefupload venster met de proefeigenaar die in de lijst van ontvangers wordt benadrukt.](assets/proof-owner.png)
+![&#x200B; een beeld van het proefupload venster met de proefeigenaar die in de lijst van ontvangers wordt benadrukt.](assets/proof-owner.png)
 
 Als u de proefdruk alleen uploadt maar de workflow door iemand anders wordt beheerd, kunt u de eigenaar van de proefdruk wijzigen door op de koppeling [!UICONTROL Owner] te klikken en de naam ervan in te voeren. Dit wordt aanbevolen als iemand anders dan de oorspronkelijke uploader een versie uploadt.
 

@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Gebruikend een karakter Pokemon in een spreadsheet, roep de Pijn API door een schakelaar van HTTP om meer informatie over dat karakter te verzamelen en te posten.
 
-![ een beeld van het scenario van de Fusie ](assets/universal-connectors-and-routing-1.png)
+![&#x200B; een beeld van het scenario van de Fusie &#x200B;](assets/universal-connectors-and-routing-1.png)
 
 ## Inleiding aan universele connectors analyse
 
@@ -41,4 +41,4 @@ URL voor oefening: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

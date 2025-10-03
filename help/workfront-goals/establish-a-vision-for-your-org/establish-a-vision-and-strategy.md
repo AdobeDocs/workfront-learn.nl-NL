@@ -43,7 +43,7 @@ Overweeg deze concepten wanneer het bepalen van de aangewezen kadentie voor uw o
 
 De volgende afbeelding illustreert de relatie en het cyclische karakter van deze ervaring, tussen niet alleen doelstellingen op langere en kortere termijn, maar ook inspanningen op langere en kortere termijn.
 
-![ grafisch van A van een strategische uitvoeringscyclus ](assets/02-workfront-goals-strategic-execution-cycle.png)
+![&#x200B; grafisch van A van een strategische uitvoeringscyclus &#x200B;](assets/02-workfront-goals-strategic-execution-cycle.png)
 
 1. **langetermijndoelstellingen** zijn typisch bredere onderneming of organisatorische doelstellingen die 12 of meer maanden zullen vergen om te bereiken. Ze worden waarschijnlijk niet uitgevoerd met speciale werkinspanningen. De meeste bedrijven en organisaties hebben een aantal niveaus van deze langetermijndoelstellingen bovenaan in de hiërarchie die kortetermijndoelstellingen verenigen onder één enkel, breed einddoel.
 1. **initiatieven op lange termijn** vertegenwoordigen de raming op hoog niveau van het werkinspanning die wordt toegewezen aan aandrijvingsverrichtingen. Deze initiatieven zullen uiteindelijk worden verfijnd tot meer kostbare inspanningen (d.w.z. project, taken, enz.). Hoewel dit doorgaans langer werk is, bijvoorbeeld 12 of meer maanden, kunnen deze in sommige gevallen een groepering zijn van verschillende initiatieven van zes of meer maanden die met hetzelfde resultaat overeenkomen.
@@ -56,4 +56,4 @@ Your turn graphic
 
 Laten we even oefenen en toepassen wat je tot nu toe hebt geleerd. Begin door een aanvankelijke reeks doelstellingen voor uw team in kaart te brengen. U zou dit kunnen gehoord hebben die als cascading doelstellingen of een doelhiërarchie wordt bedoeld. Let op hoe ze allemaal teruggaan naar het langetermijndoel en van daaruit worden getrapt. Maak je geen zorgen om in deze fase te definitief te zijn. Dit is uw kans om al uw doelstellingen op tafel te krijgen. We zullen deze verder verfijnen naarmate we verder gaan.
 
-![ grafisch van A om doelstellingen op korte en lange termijn in kaart te brengen ](assets/03-workfront-goals-goal-mapping.png)
+![&#x200B; grafisch van A om doelstellingen op korte en lange termijn in kaart te brengen &#x200B;](assets/03-workfront-goals-goal-mapping.png)

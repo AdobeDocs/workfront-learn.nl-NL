@@ -1,6 +1,6 @@
 ---
 title: Mijlpalen toepassen
-description: Leer hoe te om milestone wegen op een  [!DNL  Workfront]  project toe te passen en zeer belangrijke taken als milestone stappen binnen het project te associëren.
+description: Leer hoe te om milestone wegen op een  [!DNL &#x200B; Workfront]  project toe te passen en zeer belangrijke taken als milestone stappen binnen het project te associëren.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -33,7 +33,7 @@ In deze video leert u hoe u:
 
 >[!TIP]
 >
->Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [ een basismening ](/help/reporting/basic-reporting/create-a-basic-view.md) creëren.
+>Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [&#x200B; een basismening &#x200B;](/help/reporting/basic-reporting/create-a-basic-view.md) creëren.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

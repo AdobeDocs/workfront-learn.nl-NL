@@ -39,6 +39,6 @@ In de video wordt uitgelegd hoe u factureringssnelheden voor taakrollen in een p
 ## Aanbevolen zelfstudies over dit onderwerp
 
 * [Zoeken naar financiële informatie](/help/manage-work/project-finances/find-financial-information.md)
-* [ de financiën van de Update ](/help/manage-work/project-finances/update-and-review-finances.md)
+* [&#x200B; de financiën van de Update &#x200B;](/help/manage-work/project-finances/update-and-review-finances.md)
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
 

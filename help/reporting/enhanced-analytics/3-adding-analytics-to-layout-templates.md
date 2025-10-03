@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Net als de meeste andere functies in Workfront hebt u toegang tot [!UICONTROL Enhanced analytics] via het hoofdmenu. Maar [!UICONTROL Analytics] staat standaard niet in het hoofdmenu.
 
-![ Een afbeelding van het hoofdmenu ](assets/analytics-on-main-menu.png)
+![&#x200B; Een afbeelding van het hoofdmenu &#x200B;](assets/analytics-on-main-menu.png)
 
 Als u het daar niet ziet, zal uw systeem of groepsbeheerder het voor u moeten toevoegen. Ze doen dat in een lay-outsjabloon. In de onderstaande video wordt uitgelegd hoe u dit doet.
 

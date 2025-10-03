@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer de handige gewoonte om onvolledige uitvoeringen op te slaan en begrijp de waarde die wordt geboden wanneer bundels opnieuw worden uitgevoerd na het evalueren en corrigeren van fouten.
 
-![ een beeld van een scenario met fout behandeling ](assets/troubleshooting-and-error-handling-8.png)
+![&#x200B; een beeld van een scenario met fout behandeling &#x200B;](assets/troubleshooting-and-error-handling-8.png)
 
 ## Doorloop onvolledige executies
 
@@ -32,4 +32,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

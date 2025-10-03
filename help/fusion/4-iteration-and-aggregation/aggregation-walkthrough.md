@@ -24,7 +24,7 @@ ht-degree: 1%
 
 Gebruikend het &quot;Inleiding aan herhaling&quot;scenario u in de laatste analyse bouwde, voegt de geplande uren op elke het werk taak in het project samen en verzendt een e-mail naar zich met die informatie.
 
-![ een beeld van het scenario van de Fusie ](assets/iteration-and-aggregation-2.png)
+![&#x200B; een beeld van het scenario van de Fusie &#x200B;](assets/iteration-and-aggregation-2.png)
 
 ## Samentellwalkthrough
 
@@ -36,4 +36,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

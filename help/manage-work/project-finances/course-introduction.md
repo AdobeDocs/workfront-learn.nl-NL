@@ -1,6 +1,6 @@
 ---
 title: Cursusintroductie
-description: Leer hoe te om het budget van een project te gebruiken, kosten en opbrengst te volgen, en uitgaven in  [!DNL  Workfront] te behandelen.
+description: Leer hoe te om het budget van een project te gebruiken, kosten en opbrengst te volgen, en uitgaven in  [!DNL &#x200B; Workfront] te behandelen.
 activity: use
 feature: Work Management
 type: Tutorial

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de correcte weg over te gaan, dan creeer een taak voor elk karakter.
 
-![ een beeld van het scenario van de Fusie ](assets/universal-connectors-and-routing-2.png)
+![&#x200B; een beeld van het scenario van de Fusie &#x200B;](assets/universal-connectors-and-routing-2.png)
 
 ## Routers doorlopen
 
@@ -44,9 +44,9 @@ Als u moeite hebt om uw eigen superheldtoken te openen, kunt u dit gedeelde toke
 
 Met het veld Zoeken-items boven aan de deelvensters met toewijzingen kunt u snel velden in het deelvenster zoeken, zelfs als deze in arrays zijn genest. De zoekopdracht is niet hoofdlettergevoelig.
 
-![ een beeld van het eerste onderzoekspaneel ](assets/universal-connectors-and-routing-3.png)
+![&#x200B; een beeld van het eerste onderzoekspaneel &#x200B;](assets/universal-connectors-and-routing-3.png)
 
-![ een beeld van het tweede onderzoekspaneel ](assets/universal-connectors-and-routing-4.png)
+![&#x200B; een beeld van het tweede onderzoekspaneel &#x200B;](assets/universal-connectors-and-routing-4.png)
 
 ## Tips en trucs voor het werken met API&#39;s
 
@@ -97,12 +97,12 @@ Maak in de module Meerdere variabelen instellen voor Pokemon-tekens een variabel
 
 **Hint:** Er zijn slechts zes verschillende verklaringen Pokemon met een overeenkomstig niveau.
 
-![ een beeld van Stats ](assets/universal-connectors-and-routing-5.png)
+![&#x200B; een beeld van Stats &#x200B;](assets/universal-connectors-and-routing-5.png)
 
 **Uitdaging:** zie of kunt u de serieformules gebruiken om de Ababilities te krijgen om de zelfde manier zoals hierboven als verschillende rijen eerder dan een koord van waarden te tonen die door een komma worden gescheiden. Er staat een tip in de schermafbeelding hieronder.
 
-![ een beeld van een serienaam ](assets/universal-connectors-and-routing-6.png)
+![&#x200B; een beeld van een serienaam &#x200B;](assets/universal-connectors-and-routing-6.png)
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

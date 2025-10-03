@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Bekijk vorige doorlichtingsoefeningen waar eenvoudige en complexe arrays werden gebruikt. We zullen bekijken hoe we deze gevonden hebben en hoe we de informatie zo nodig kunnen gebruiken met behulp van arrayfuncties.
 
-![ een beeld van een scenario van de Fusie ](assets/final-functional-bits-and-bobs-1.png)
+![&#x200B; een beeld van een scenario van de Fusie &#x200B;](assets/final-functional-bits-and-bobs-1.png)
 
 ## Arrays walkthrough
 
@@ -33,4 +33,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

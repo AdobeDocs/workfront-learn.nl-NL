@@ -44,11 +44,11 @@ Door een dashboard te gebruiken, kunnen de leiders in om het even welk deel van 
 
 Klik op Dashboards in het menu Main in de rechterbovenhoek om het dashboards-gebied te openen.
 
-![ een beeld van de optie van Dashboards in het belangrijkste menu ](assets/workfront-4-executives-1.png)
+![&#x200B; een beeld van de optie van Dashboards in het belangrijkste menu &#x200B;](assets/workfront-4-executives-1.png)
 
 Leaders hebben via de navigatie in het linkerdeelvenster toegang tot de verschillende dashboards waarover ze beschikken.
 
-![ een beeld van de pagina van Dashboards ](assets/workfront-4-executives-2.png)
+![&#x200B; een beeld van de pagina van Dashboards &#x200B;](assets/workfront-4-executives-2.png)
 
 * **Alle Dashboards**: Toont de dashboards die u of andere gebruikers hebben gecreeerd, en die u toestemmingen aan minstens mening hebt.
 * **Mijn Dashboards**: Toont de dashboards die u hebt gebouwd.
@@ -58,7 +58,7 @@ Met een dashboard kunnen leiders dingen als &quot;Kosten, Ontvangsten &amp; Begr
 
 Rapporten in Workfront kunnen uw werknemers helpen verantwoording af te leggen. De sleutel tot het leveraging van rapporten is een duidelijke workflow voor de manier waarop uw organisatie deze gebruikt. Zorg ervoor dat iedereen goed begrijpt welke verslagen worden gebruikt om succes te meten.
 
-![ Voorbeeld van rapporten in een Dashboard in Workfront ](assets/workfront-4-executives-3.png)
+![&#x200B; Voorbeeld van rapporten in een Dashboard in Workfront &#x200B;](assets/workfront-4-executives-3.png)
 
 Voorbeeld van rapporten in een dashboard in Workfront
 
@@ -66,7 +66,7 @@ Voorbeeld van rapporten in een dashboard in Workfront
 
 Communiceer met het projectteam binnen het project zelf zodat zullen alle projectmededelingen gemakkelijk toegankelijk zijn.
 
-![ een beeld van de pagina van Updates ](assets/workfront-4-executives-4.png)
+![&#x200B; een beeld van de pagina van Updates &#x200B;](assets/workfront-4-executives-4.png)
 
 
 ## Een aanvraag indienen
@@ -85,5 +85,5 @@ In deze video leert u hoe u:
 
 In [!UICONTROL Home] kunt u eenvoudig naar items zoeken die op uw goedkeuring wachten.
 
-![ een beeld van de Homepage ](assets/workfront-4-executives-5.png)
+![&#x200B; een beeld van de Homepage &#x200B;](assets/workfront-4-executives-5.png)
 

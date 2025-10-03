@@ -37,7 +37,7 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Toevoegen aan uw terminologie
 
-![ een beeld van een horlogeverslag en een module van de douane webhaak ](assets/understand-the-basics-3.png)
+![&#x200B; een beeld van een horlogeverslag en een module van de douane webhaak &#x200B;](assets/understand-the-basics-3.png)
 
 ### Triggermodules
 
@@ -47,7 +47,7 @@ De modules van de trekker kunnen slechts als eerste module worden gebruikt en ku
 
 **Onmiddellijke Trekker (bliksemschicht op Trekker)** - onmiddellijk teweeggebracht gebaseerd op webhaak.
 
-![ een beeld van creeer verslag en een onderzoeksmodule ](assets/understand-the-basics-4.png)
+![&#x200B; een beeld van creeer verslag en een onderzoeksmodule &#x200B;](assets/understand-the-basics-4.png)
 
 ### Handelingen en zoekmodules
 
@@ -57,4 +57,4 @@ De modules van de trekker kunnen slechts als eerste module worden gebruikt en ku
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

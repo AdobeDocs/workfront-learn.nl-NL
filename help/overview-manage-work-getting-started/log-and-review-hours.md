@@ -1,6 +1,6 @@
 ---
 title: Logboek- en controleuren
-description: Neem openstaande uren op en herzie geregistreerde uren alvorens een project in  [!DNL  Workfront] te sluiten.
+description: Neem openstaande uren op en herzie geregistreerde uren alvorens een project in  [!DNL &#x200B; Workfront] te sluiten.
 activity: use
 team: Technical Marketing
 feature: Work Management

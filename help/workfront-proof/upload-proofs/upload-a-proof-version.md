@@ -1,6 +1,6 @@
 ---
 title: Een proefdrukversie uploaden
-description: Leer hoe te om een nieuwe versie van een proef te uploaden en een het proefdrukken werkschema op de versie in  [!DNL  Workfront] toe te passen.
+description: Leer hoe te om een nieuwe versie van een proef te uploaden en een het proefdrukken werkschema op de versie in  [!DNL &#x200B; Workfront] toe te passen.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -31,7 +31,7 @@ In deze video leert u hoe u:
 
 Als u een proefdruk hebt geopend in de conceptviewer, kunt u rechtstreeks vanuit het menu Versie beginnen met het uploaden van een versie. Klik op de koppeling [!UICONTROL New version] die rechtstreeks naar de pagina &quot;[!UICONTROL upload a new version]&quot; moet worden geleid en voltooi de upload.
 
-![ een beeld van de het proeven kijker met het versiemenu in de upper-left hoek en [!UICONTROL New version] benadrukte verbinding werd uitgebreid.](assets/upload-version-from-viewer.png)
+![&#x200B; een beeld van de het proeven kijker met het versiemenu in de upper-left hoek en [!UICONTROL New version] benadrukte verbinding werd uitgebreid.](assets/upload-version-from-viewer.png)
 
 ## Uw beurt
 

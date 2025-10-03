@@ -1,6 +1,6 @@
 ---
 title: De status van toegewezen werk wijzigen in [!UICONTROL Home]
-description: Leer hoe u de status van toewijzingen wijzigt om aan te geven dat werk wordt uitgevoerd vanaf de pagina [!UICONTROL Home] . Begrijp waarom de status in  [!DNL  Workfront] belangrijk is.
+description: Leer hoe u de status van toewijzingen wijzigt om aan te geven dat werk wordt uitgevoerd vanaf de pagina [!UICONTROL Home] . Begrijp waarom de status in  [!DNL &#x200B; Workfront] belangrijk is.
 feature: Work Management
 type: Tutorial
 role: User
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Het doel van de status in [!DNL  Workfront]
+* Het doel van de status in [!DNL &#x200B; Workfront]
 * Hoe de status van werktoewijzingen te wijzigen
 
 >[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
@@ -31,7 +31,7 @@ In deze video leert u:
 
 Wanneer u uw werktoewijzingen in [!UICONTROL Home] bekijkt, ziet u mogelijk een knop met de tekst [!UICONTROL Start Task] of [!UICONTROL Start Issue] .
 
-![[!DNL Workfront] [!UICONTROL Home] pagina waar de knop staat [!UICONTROL Start Task] . ](assets/worker-fundamentals-1.png)
+![[!DNL Workfront] [!UICONTROL Home] pagina waar de knop staat [!UICONTROL Start Task] . &#x200B;](assets/worker-fundamentals-1.png)
 
 Wanneer u op [!UICONTROL Start Task] klikt, verandert dit automatisch de status van uw taak in Bezig (of een status die het equivalent is bij uw organisatie).
 

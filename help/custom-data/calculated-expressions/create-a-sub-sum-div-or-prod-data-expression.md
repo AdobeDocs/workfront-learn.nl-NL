@@ -45,11 +45,11 @@ En aangezien de tijd in notulen wordt gevolgd en het aangewezen formaat is om de
 
 Als de notatie wordt gewijzigd in Number bij het maken van het berekende veld in het aangepaste formulier, kunt u de getalnotatie wijzigen wanneer u het veld toevoegt in een weergave.
 
-![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/round01.png)
+![&#x200B; Werklastverdelingsmechanisme met gebruiksrapport &#x200B;](assets/round01.png)
 
 Als de veldindeling echter bij het maken van een aangepast veld als Tekst wordt gelaten, kan de indeling niet gemakkelijk worden gewijzigd in de weergave. De expressie ROUND moet worden gebruikt om te voorkomen dat getallen zoals deze in uw project worden weergegeven:
 
-![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/round02.png)
+![&#x200B; Werklastverdelingsmechanisme met gebruiksrapport &#x200B;](assets/round02.png)
 
 <b> Gebruik de ROUND gegevensuitdrukking op een berekend gebied </b>
 
@@ -59,6 +59,6 @@ Een uitdrukking zou als dit worden gestructureerd: ROUND (gegevenspunt, #)
 
 In de uitdrukking die het verschil tussen geplande en daadwerkelijke uren berekent, gebruik deze uitdrukking - DIV (SUB ({workRequired}, {actualWorkRequired}), 60) - als eerste gegevenspunt. Zorg er vervolgens voor dat het getal uit die expressie niet meer dan 2 posities naar rechts van het decimaalteken loopt.
 
-![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/round03.png)
+![&#x200B; Werklastverdelingsmechanisme met gebruiksrapport &#x200B;](assets/round03.png)
 
 De uitdrukking zou als dit kunnen worden geschreven: ROUND (DIV (SUB ({workRequired}, {actualWorkRequired}), 60), 2).

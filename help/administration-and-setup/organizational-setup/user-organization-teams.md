@@ -40,19 +40,19 @@ U kunt ook teams maken en instellingen instellen via het [!UICONTROL Teams] -geb
 1. Voeg de teamleden toe.
 1. Klik op **[!UICONTROL Create]**.
 
-![ menu van het Team op [!UICONTROL Teams] pagina ](assets/admin-fund-create-team.png)
+![&#x200B; menu van het Team op [!UICONTROL Teams] pagina &#x200B;](assets/admin-fund-create-team.png)
 
 Zodra het team is gemaakt, bewerkt u de instellingen door het team te selecteren in de lijst en op [!UICONTROL Team Settings] rechts in het venster te klikken.
 
 Pas de instellingen aan, zoals een lay-outsjabloon toewijzen of meer teamleden toevoegen. Daarnaast kunt u de knop [!UICONTROL Work On It] en de knop Gereed die dit team te zien krijgt, aanpassen bij het toewijzen van taken en het uitvoeren van taken.
 
-![[!UICONTROL Edit Team] window ](assets/admin-fund-team-settings.png)
+![[!UICONTROL Edit Team] window &#x200B;](assets/admin-fund-team-settings.png)
 
 De knop [!UICONTROL Work On It] geeft [!DNL Workfront] standaard de opdracht aan de taak te werken zonder de status van de taak te wijzigen in Bezig (of een gelijkwaardige status). Als u wilt dat [!DNL Workfront] de status automatisch wijzigt, wijzigt u de knop [!UICONTROL Work On It] in een knop [!UICONTROL Start] . Controleer enkel de doos in de teammontages.
 
 Wanneer op de knop [!UICONTROL Start] wordt geklikt, verandert de status van de taak of uitgave van Nieuw in de geselecteerde taak in de teaminstellingen. [!DNL Workfront] registreert ook een daadwerkelijke begindatum voor de taak.
 
-![[!UICONTROL Work On It] sectie van [!UICONTROL Edit Team] window ](assets/admin-fund-start-button-team.png)
+![[!UICONTROL Work On It] sectie van [!UICONTROL Edit Team] window &#x200B;](assets/admin-fund-start-button-team.png)
 
 Sla eventuele wijzigingen op als u klaar bent.
 

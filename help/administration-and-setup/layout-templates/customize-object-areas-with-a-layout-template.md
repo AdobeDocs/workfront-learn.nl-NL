@@ -1,6 +1,6 @@
 ---
 title: Objectvlakken aanpassen met een lay-outsjabloon
-description: Leer hoe te om een lay-outmalplaatje te gebruiken om, punten in het linkerpaneelmenu toe te voegen te verwijderen en te herschikken in  [!DNL  Workfront].
+description: Leer hoe te om een lay-outmalplaatje te gebruiken om, punten in het linkerpaneelmenu toe te voegen te verwijderen en te herschikken in  [!DNL &#x200B; Workfront].
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

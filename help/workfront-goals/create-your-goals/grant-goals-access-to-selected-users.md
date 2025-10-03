@@ -31,4 +31,4 @@ Systeembeheerders kunnen bijhouden hoeveel [!DNL Workfront Goals] -licenties zij
 1. Klik op **[!UICONTROL Licenses]**.
 1. U kunt het totale aantal [!DNL Workfront Goals] licenties zien en het aantal licenties dat via toegangsniveaus is toegewezen.
 
-![ Een schermafbeelding van het aantal [!DNL Workfront Goals] -licenties in het gedeelte Instellingen van [!DNL Workfront]](assets/02-workfront-goals-licenses.png)
+![&#x200B; Een schermafbeelding van het aantal [!DNL Workfront Goals] -licenties in het gedeelte Instellingen van [!DNL Workfront]](assets/02-workfront-goals-licenses.png)

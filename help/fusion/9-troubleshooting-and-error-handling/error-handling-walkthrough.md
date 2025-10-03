@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Begrijp hoe de standaardfout behandeling voorkomt en hoe te om specifieke modulefout behandeling toe te voegen gebruikend richtlijnen.
 
-![ een beeld van een scenario met fout behandeling ](assets/troubleshooting-and-error-handling-7.png)
+![&#x200B; een beeld van een scenario met fout behandeling &#x200B;](assets/troubleshooting-and-error-handling-7.png)
 
 ## Fout bij afhandeling van analyse
 
@@ -32,4 +32,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

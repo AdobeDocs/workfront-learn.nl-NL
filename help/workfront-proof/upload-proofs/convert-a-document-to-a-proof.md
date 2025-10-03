@@ -1,6 +1,6 @@
 ---
 title: Een document converteren naar een proefdruk
-description: Leer hoe te om een proef van een document te produceren dat reeds in  [!DNL  Workfront] bestaat, een werkschema aan een proef toe te voegen, en een werkschema toe te voegen of uit te geven na proefverwezenlijking.
+description: Leer hoe te om een proef van een document te produceren dat reeds in  [!DNL &#x200B; Workfront] bestaat, een werkschema aan een proef toe te voegen, en een werkschema toe te voegen of uit te geven na proefverwezenlijking.
 activity: use
 feature: Workfront Proof
 type: Tutorial

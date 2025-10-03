@@ -29,14 +29,14 @@ Kan alleen worden gebruikt als de eerste module en retourneert nul, één of mee
 * **Onmiddellijke Trekker** (Bliksemschicht op Trekker) - onmiddellijk teweeggebracht gebaseerd op webhaak.
 * **Gepland Trekker** (Klok op Trekker) - speciale mogelijkheden om spoor van het laatste verwerkte verslag te houden.
 
-![ een beeld van trekkermodules ](assets/beyond-basic-modules-1.png)
+![&#x200B; een beeld van trekkermodules &#x200B;](assets/beyond-basic-modules-1.png)
 
 ### Handelingen en zoekmodules
 
 * **Actie** — Gebruikt om (creeer, Gelezen, Update, en Schrapping) verrichtingen uit te voeren CRUD.
 * **Zoekopdrachten** — Gebruikt om naar nul, één, of meer verslagen te zoeken en keert deze als bundels terug die individueel in verdere modules zullen worden verwerkt, tenzij bijeengevoegd.
 
-![ een beeld van actie en onderzoeksmodules ](assets/beyond-basic-modules-2.png)
+![&#x200B; een beeld van actie en onderzoeksmodules &#x200B;](assets/beyond-basic-modules-2.png)
 
 ### Bekend worden met extra apps en gemeenschappelijke modules
 

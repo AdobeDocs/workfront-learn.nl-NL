@@ -29,7 +29,7 @@ In deze video leert u:
 
 ## Vluchtschema
 
-![ een beeld van een grafiek van het vliegplan met aantallen passende hieronder kogels ](assets/section-2-1.png)
+![&#x200B; een beeld van een grafiek van het vliegplan met aantallen passende hieronder kogels &#x200B;](assets/section-2-1.png)
 
 Op het diagram ziet u:
 
@@ -53,7 +53,7 @@ Aan de hand van deze informatie over uw projecten kunt u bepalen:
 
 De projectvoorwaarde is een visuele weergave van hoe het project vordert. Workfront bepaalt de voorwaarde die op vooruitgangsstatus van taken binnen het project wordt gebaseerd.
 
-![ een beeld van mogelijke vooruitgangsstatussen ](assets/section-2-2.png)
+![&#x200B; een beeld van mogelijke vooruitgangsstatussen &#x200B;](assets/section-2-2.png)
 
 De voorwaarde van een project kan worden geplaatst:
 
@@ -62,7 +62,7 @@ De voorwaarde van een project kan worden geplaatst:
 
 Workfront raadt u aan het voorwaardetype in te stellen op Progress Status zodat u een duidelijke indicatie hebt van de werkelijke voortgang van het project, op basis van de voortgang van uw taken.
 
-![ een beeld van mogelijke vooruitgangsstatussen ](assets/section-2-3.png)
+![&#x200B; een beeld van mogelijke vooruitgangsstatussen &#x200B;](assets/section-2-3.png)
 
 Wanneer ingesteld op Voortgangsstatus, kan de projectvoorwaarde:
 
@@ -72,4 +72,4 @@ Wanneer ingesteld op Voortgangsstatus, kan de projectvoorwaarde:
 
 >[!NOTE]
 >
->De voorwaarden kunnen voor uw milieu worden aangepast, zodat kunt u meer dan drie opties vinden of de namen kunnen verschillend zijn dan hierboven. Voor informatie over het aanpassen van voorwaarden, zie het artikel [ creeer of geef een douanevoorwaarde ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en) uit.
+>De voorwaarden kunnen voor uw milieu worden aangepast, zodat kunt u meer dan drie opties vinden of de namen kunnen verschillend zijn dan hierboven. Voor informatie over het aanpassen van voorwaarden, zie het artikel [&#x200B; creeer of geef een douanevoorwaarde &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en) uit.

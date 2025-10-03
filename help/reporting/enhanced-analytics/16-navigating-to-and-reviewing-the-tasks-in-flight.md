@@ -39,7 +39,7 @@ Aan de hand van deze gegevens kunt u bepalen:
 * Hoe dicht een taak aan voltooiing is.
 * Met wie moet u over een specifieke taak spreken?
 
-![ een beeld dat een taken in vluchtgrafiek met aantallen op gebieden toont die in de kogels hieronder worden beschreven ](assets/section-2-11.png)
+![&#x200B; een beeld dat een taken in vluchtgrafiek met aantallen op gebieden toont die in de kogels hieronder worden beschreven &#x200B;](assets/section-2-11.png)
 
 Op het diagram kunt u zien:
 

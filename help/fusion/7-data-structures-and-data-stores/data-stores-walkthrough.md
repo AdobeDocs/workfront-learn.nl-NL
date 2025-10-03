@@ -24,7 +24,7 @@ In deze oefening gebruiken wij een gegevensopslag om bedrijfnamen tussen een lij
 
 Dit maakt deel uit van een eenrichtingssynchronisatie van bedrijven in Workfront en een ander systeem. Momenteel wordt alleen synchronisatie uitgevoerd tussen een CSV-bestand en Workfront. Maar het zal ook een lijst in een gegevensopslag handhaven die spoor van Workfront identiteitskaart (WFID) en bedrijfsidentiteitskaart in het CSV dossier (CID) voor elk bedrijf zal houden. Op die manier kunnen we dit op een gegeven moment in de toekomst tot een tweerichtingssynchronisatie maken.
 
-![ een beeld van een scenario van de Fusie ](assets/data-structures-and-data-stores-2.png)
+![&#x200B; een beeld van een scenario van de Fusie &#x200B;](assets/data-structures-and-data-stores-2.png)
 
 ## Analyse van gegevenswinkels
 
@@ -46,4 +46,4 @@ De opslag van gegevens wordt niet ontworpen om als gegevenspakhuis of logboekreg
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

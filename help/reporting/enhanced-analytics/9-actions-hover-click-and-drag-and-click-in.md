@@ -42,14 +42,14 @@ Wanneer u in bepaalde delen van een diagram klikt, worden extra grafieken of een
 
 **de Gebruikers het programma opende:** paarse dozen tonen dat de mensen op het huisteam op die dag het programma opende. Een donkerdere tint geeft een groter aantal personen aan die zich aanmelden.
 
-![ een beeld van paarse gearceerde dozen ](assets/purple-shaded-boxes.png)
+![&#x200B; een beeld van paarse gearceerde dozen &#x200B;](assets/purple-shaded-boxes.png)
 
 **de statusverandering van de Taak:** Roze dozen tonen dat de mensen op het huisteam de status van een taak op die dag veranderden. Een donkerdere schaduw geeft aan dat er een groter aantal taakstatussen wordt gewijzigd.
 
-![ een beeld van roze gearceerde dozen ](assets/pink-shaded-boxes.png)
+![&#x200B; een beeld van roze gearceerde dozen &#x200B;](assets/pink-shaded-boxes.png)
 
 **voltooide Taken:** Blauwe dozen tonen dat de mensen op het huisteam een taak op die dag voltooiden. Een donkerdere schaduw geeft een hoger aantal taken aan die worden voltooid.
 
-![ een beeld van blauwe gearceerde dozen ](assets/blue-shaded-boxes.png)
+![&#x200B; een beeld van blauwe gearceerde dozen &#x200B;](assets/blue-shaded-boxes.png)
 
-Voor meer informatie zie [ de Activiteit door teamvisualisatie ](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en) begrijpen.
+Voor meer informatie zie [&#x200B; de Activiteit door teamvisualisatie &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/activity-by-team-overview.html?lang=en) begrijpen.

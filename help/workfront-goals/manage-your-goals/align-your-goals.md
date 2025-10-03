@@ -1,6 +1,6 @@
 ---
 title: Lijn uw doelstellingen uit
-description: Leer hoe u door de pagina [!UICONTROL Goal Alignment] in [!DNL   Doelen].
+description: Leer hoe u door de pagina [!UICONTROL Goal Alignment] in [!DNL &#x200B;  Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial

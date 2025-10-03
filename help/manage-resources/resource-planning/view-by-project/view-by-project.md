@@ -35,19 +35,19 @@ Om de kolommen te veranderen die verschijnen en de Netto kolomberekening zodat i
 
 * Klik op het vervolgkeuzemenu Uren en selecteer Aanpassen.
 
-![ pas optie in dropdown menu aan ](assets/NetHours01.png)
+![&#x200B; pas optie in dropdown menu aan &#x200B;](assets/NetHours01.png)
 
 * In het Customize getoonde metriekvakje, bepaal welke kolommen verschijnen en controleer het vakje naast Geplande (PLN) waarden van het Gebruik in NETTO berekeningen.
 
-![ Gebruik geplande waarden in NETTO berekeningsoptie ](assets/NetHours02.png)
+![&#x200B; Gebruik geplande waarden in NETTO berekeningsoptie &#x200B;](assets/NetHours02.png)
 
 **Nota**: U kunt de kolommen en de berekeningen voor de verschillende meningstypes in de Planner van het Middel uitgeven door een optie op de linkerkant van de doos te selecteren.
 
-![ het typeopties van de Mening ](assets/NetHours03.jpg)
+![&#x200B; het typeopties van de Mening &#x200B;](assets/NetHours03.jpg)
 
 * Nadat u op Opslaan hebt geklikt, wordt het vak gesloten en wordt het scherm vernieuwd.
 
-![ hulpmiddel van de de planner van het Middel ](assets/NetHours04.jpg)
+![&#x200B; hulpmiddel van de de planner van het Middel &#x200B;](assets/NetHours04.jpg)
 
 De Planner van het Middel toont wat u over uw vraag en aanbod zonder complexe spreadsheets en round-robin mededeling moet weten.
 

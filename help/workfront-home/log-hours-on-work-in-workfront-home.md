@@ -1,6 +1,6 @@
 ---
 title: Hoe kan ik uren aan werk inloggen in [!UICONTROL Home]
-description: Leer hoe te om tijd op het werktaken in  [!DNL  Workfront] te registreren. Begrijp waarom het registreren tijd bij uw organisatie kan worden vereist.
+description: Leer hoe te om tijd op het werktaken in  [!DNL &#x200B; Workfront] te registreren. Begrijp waarom het registreren tijd bij uw organisatie kan worden vereist.
 feature: Work Management
 type: Tutorial
 role: User

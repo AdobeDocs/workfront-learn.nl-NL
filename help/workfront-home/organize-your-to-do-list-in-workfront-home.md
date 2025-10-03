@@ -1,6 +1,6 @@
 ---
 title: Organiseer uw aan-doe lijst in  [!DNL Workfront] [!UICONTROL Home]
-description: Leer hoe te om toegewezen werk te filtreren en te sorteren, werk identificeren dat klaar is te beginnen, en werktaken in  [!DNL  Workfront] goed te keuren.
+description: Leer hoe te om toegewezen werk te filtreren en te sorteren, werk identificeren dat klaar is te beginnen, en werktaken in  [!DNL &#x200B; Workfront] goed te keuren.
 feature: Work Management
 type: Tutorial
 role: User
@@ -37,4 +37,4 @@ In deze video leert u hoe u:
 >
 >Standaard staan de oudste items die u hebt, boven aan de [!UICONTROL Work List] . Als u uw het werkpunten in dalende orde wilt hebben verschijnen, klik de pijlen rechts van de Groep door gebied.
 
-![ Beeld van een scherm dat uw het werklijst toont die door vervaldatum wordt gegroepeerd.](assets/work-list-arrows.png)
+![&#x200B; Beeld van een scherm dat uw het werklijst toont die door vervaldatum wordt gegroepeerd.](assets/work-list-arrows.png)

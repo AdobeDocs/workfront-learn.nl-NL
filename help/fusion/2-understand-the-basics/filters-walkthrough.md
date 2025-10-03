@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Gebruikend de &quot;Voorbij basisafbeelding&quot;analyse oefening u vroeger creeerde, voeg een filter tussen de twee modules in de modules toe om projecten slechts tot stand te brengen die een &quot;Rode&quot;projectkleur in de Lijst van het Project hebben.
 
-![ een beeld van het scenario van de Fusie ](assets/understand-the-basics-2.png)
+![&#x200B; een beeld van het scenario van de Fusie &#x200B;](assets/understand-the-basics-2.png)
 
 ## Filters doorlopen
 
@@ -49,4 +49,4 @@ Wijzig de filter u tijdens de filteranalyse creeerde om slechts projecten toe te
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

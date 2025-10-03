@@ -1,6 +1,6 @@
 ---
 title: Een project delen
-description: Leer hoe te om een project te delen zodat de belanghebbenden en anderen die in het project geinteresseerd zijn in het werk kunnen hebben dat gebruikend  [!DNL  Workfront] wordt gedaan.
+description: Leer hoe te om een project te delen zodat de belanghebbenden en anderen die in het project geinteresseerd zijn in het werk kunnen hebben dat gebruikend  [!DNL &#x200B; Workfront] wordt gedaan.
 activity: use
 team: Technical Marketing
 feature: Work Management

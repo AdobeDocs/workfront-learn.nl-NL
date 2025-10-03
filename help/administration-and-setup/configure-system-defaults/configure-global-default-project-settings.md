@@ -54,15 +54,15 @@ Begin door naar het [!UICONTROL Setup] -gebied te navigeren:
 
 Vergrendel een voorkeur om te voorkomen dat groepsbeheerders die instelling voor hun groep aanpassen.
 
-![ Vergrendeld voorkeursbericht ](assets/admin-fund-preferences-locked-3.png)
+![&#x200B; Vergrendeld voorkeursbericht &#x200B;](assets/admin-fund-preferences-locked-3.png)
 
 Ontgrendel de voorkeur om het voor groepsbeheerders ter beschikking te stellen om aan te passen.
 
-![ Ontgrendeld voorkeursbericht ](assets/admin-fund-preferences-unlocked-4.png)
+![&#x200B; Ontgrendeld voorkeursbericht &#x200B;](assets/admin-fund-preferences-unlocked-4.png)
 
 Sommige instellingen kunnen niet worden ontgrendeld en blijven algemene systeeminstellingen.
 
-![ Vergrendeld voorkeursbericht ](assets/admin-fund-preferences-always-locked-5.png)
+![&#x200B; Vergrendeld voorkeursbericht &#x200B;](assets/admin-fund-preferences-always-locked-5.png)
 
 ### Voorkeuren voor groepen en subgroepen instellen
 
@@ -75,7 +75,7 @@ Voor instellingen die door de systeembeheerder zijn ontgrendeld, kunnen de groep
 1. Breng de benodigde wijzigingen aan voor elk van de ontgrendelde voorkeuren.
 1. Selecteer **[!UICONTROL Save]**.
 
-![[!UICONTROL Project Status] -sectie op [!UICONTROL Group] page ](assets/admin-fund-group-preferences.png)
+![[!UICONTROL Project Status] -sectie op [!UICONTROL Group] page &#x200B;](assets/admin-fund-group-preferences.png)
 
 Als uw organisatie geen groepsbeheerders gebruikt, kan de systeembeheerder de voorkeursinstellingen voor de verschillende groepen beheren.
 

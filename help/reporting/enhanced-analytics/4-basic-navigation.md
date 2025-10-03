@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Gebruik de knop [!UICONTROL Analytics] om naar [!UICONTROL Main Menu] in Workfront te navigeren.
 
-![ Een afbeelding waarmee de functie [!UICONTROL Analytics] in de Workfront wordt gevonden [!UICONTROL main menu]](assets/Navigate-NWE.png)
+![&#x200B; Een afbeelding waarmee de functie [!UICONTROL Analytics] in de Workfront wordt gevonden [!UICONTROL main menu]](assets/Navigate-NWE.png)
 
 In deze video ziet u:
 

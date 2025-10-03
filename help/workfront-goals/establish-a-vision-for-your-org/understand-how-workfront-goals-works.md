@@ -39,7 +39,7 @@ Neem vervolgens een stap terug en kijk naar je mensen. Bepaal wie volledige behe
 >
 >Wanneer het identificeren van de primaire doelbezitters, houd in overweging dat u strategische doelstellingen voor ondernemingsresultaten, niet persoonlijke ontwikkelingsdoelstellingen plaatst. Workfront raadt u alleen aan ontwikkelingsdoelen toe te voegen die direct bijdragen aan of de drijvende kracht zijn achter zakelijke en bedrijfsdoelen.
 
-![ Lege organigram ](assets/01-workfront-goals-blank-org-chart.png)
+![&#x200B; Lege organigram &#x200B;](assets/01-workfront-goals-blank-org-chart.png)
 
 In [!DNL Workfront Goals], deel 2: Uw doelen maken en beheren, wordt uitgelegd hoe u uw instellingen kunt instellen en configureren.
 

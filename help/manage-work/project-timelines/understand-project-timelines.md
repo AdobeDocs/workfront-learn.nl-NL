@@ -32,7 +32,7 @@ Wat u gaat leren:
 
 >[!IMPORTANT]
 >
->Voor een volledigere verklaring van duurtypes en taakbeperkingen zie [ de types van duur en taakbeperkingen ](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md) begrijpen en beheren.
+>Voor een volledigere verklaring van duurtypes en taakbeperkingen zie [&#x200B; de types van duur en taakbeperkingen &#x200B;](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md) begrijpen en beheren.
 
 ## Toetsen
 

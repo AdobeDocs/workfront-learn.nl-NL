@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Dit scenario leidt tot een gemakwinkel app zodat kunnen zij gemakkelijk bepalen al dan niet een klant oud genoeg is om alcohol te kopen. De kassier hoeft alleen de naam en geboortedatum van de klant EN een geverifieerde clienttoken te plaatsen in een URL die is opgegeven. Zodra ingegaan, zal dat ons scenario teweegbrengen om de aangewezen reactie te berekenen en het aan de aanvrager terug te keren.
 
-![ een beeld gebruikend de schakelaarmodule ](assets/beyond-basic-modules-5.png)
+![&#x200B; een beeld gebruikend de schakelaarmodule &#x200B;](assets/beyond-basic-modules-5.png)
 
 ## Webhooks doorlopen
 
@@ -43,7 +43,7 @@ Als u de doorlichting wilt volgen, moet u de gratis Postman-toepassing downloade
 1. Kies formuliergegevens onder het subtabblad Autorisatie.
 1. Maak drie toetsen voor Naam, Verjaardatum en ClientToken.
 
-![ een beeld gebruikend de schakelaarmodule ](assets/beyond-basic-modules-6.png)
+![&#x200B; een beeld gebruikend de schakelaarmodule &#x200B;](assets/beyond-basic-modules-6.png)
 
 ## Uw beurt
 
@@ -62,4 +62,4 @@ Maak een Workfront-webhaak die wacht op nieuwe updates die worden gemaakt en reg
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

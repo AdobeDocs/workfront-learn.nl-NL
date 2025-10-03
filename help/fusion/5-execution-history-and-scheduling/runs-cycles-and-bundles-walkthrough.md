@@ -22,7 +22,7 @@ ht-degree: 0%
 
 De praktijk met verschillende scenario configuraties om het gebruiken van looppas en cycli te onderzoeken.
 
-![ een beeld van looppas en cyclusmontages ](assets/execution-history-and-scheduling-6.png)
+![&#x200B; een beeld van looppas en cyclusmontages &#x200B;](assets/execution-history-and-scheduling-6.png)
 
 ## De looppas, cycli, en bundels loopt door
 
@@ -34,4 +34,4 @@ Workfront raadt u aan om de video met een doorlichting te bekijken voordat u pro
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

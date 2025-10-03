@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Zoek informatie over een project in Workfront en verzend een e-mail met verwante informatie.
 
-![ een beeld van het scenario van de Fusie ](assets/universal-connectors-and-routing-8.png)
+![&#x200B; een beeld van het scenario van de Fusie &#x200B;](assets/universal-connectors-and-routing-8.png)
 
 ## Variabelen ophalen/instellen doorlopen
 
@@ -45,4 +45,4 @@ Maak een kloon van het &quot;het Delen variabelen tussen het verpletteren van we
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

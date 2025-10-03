@@ -66,7 +66,7 @@ Hieronder volgen enkele zaken die u in overweging kunt nemen voordat u doelstell
 
 1. Klik op **[!UICONTROL Copy goal]**. Het gekopieerde doel wordt opgeslagen met een status Concept.
 
-   ![ een beeld van het [!UICONTROL Goal Details] paneel in [!DNL Workfront Goals] met de [!UICONTROL Copy] optie ](assets/03-workfront-goals-copy-a-goal.png)
+   ![&#x200B; een beeld van het [!UICONTROL Goal Details] paneel in [!DNL Workfront Goals] met de [!UICONTROL Copy] optie &#x200B;](assets/03-workfront-goals-copy-a-goal.png)
 
 1. Klik op het pictogram met drie punten en selecteer vervolgens **[!UICONTROL Activate]** , waarmee de doelstatus wordt bijgewerkt naar Actief. Het doel moet een bijbehorende activiteit hebben of resulteren in &quot;activeren.&quot;
 

@@ -35,7 +35,7 @@ In deze video leert u:
 * De volgende modules worden verwerkt.
 * De status van de uitvoering van het scenario is gemarkeerd als &quot;succes.&quot;
 
-![ een beeld van een richtlijn van het Hervatten ](assets/troubleshooting-and-error-handling-2.png)
+![&#x200B; een beeld van een richtlijn van het Hervatten &#x200B;](assets/troubleshooting-and-error-handling-2.png)
 
 ### Break
 
@@ -44,7 +44,7 @@ In deze video leert u:
 * Als er onverwerkte bundels zijn, gaat de uitvoering van het scenario normaal voort.
 * De status van de uitvoering van het scenario wordt gemarkeerd als &quot;waarschuwing.&quot;
 
-![ een beeld van een richtlijn van de Onderbreking ](assets/troubleshooting-and-error-handling-3.png)
+![&#x200B; een beeld van een richtlijn van de Onderbreking &#x200B;](assets/troubleshooting-and-error-handling-3.png)
 
 ### Negeren
 
@@ -52,7 +52,7 @@ In deze video leert u:
 * Als er onverwerkte bundels zijn, gaat de uitvoering van het scenario normaal voort.
 * De status van de uitvoering van het scenario is gemarkeerd als &quot;succes.&quot;
 
-![ een beeld van een Negeren richtlijn ](assets/troubleshooting-and-error-handling-4.png)
+![&#x200B; een beeld van een Negeren richtlijn &#x200B;](assets/troubleshooting-and-error-handling-4.png)
 
 ## Richtlijnen — Scenario-stops
 
@@ -67,7 +67,7 @@ In deze video leert u:
 >
 >Dit is het standaardgedrag als geen route van de foutenmanager aan de module in bijlage is en &quot;het Opslaan van Onvolledige Uitvoeringen&quot;het plaatsen onder de montages van het Scenario niet wordt gecontroleerd.
 
-![ een beeld van een richtlijn van het Terugschroeven van prijzen ](assets/troubleshooting-and-error-handling-5.png)
+![&#x200B; een beeld van een richtlijn van het Terugschroeven van prijzen &#x200B;](assets/troubleshooting-and-error-handling-5.png)
 
 ### Vastleggen
 
@@ -75,4 +75,4 @@ In deze video leert u:
 * Als er onverwerkte bundels zijn, gaat de uitvoering van het scenario normaal voort.
 * De status van de uitvoering van het scenario is gemarkeerd als &quot;succes.&quot;
 
-![ een beeld van een Commit richtlijn ](assets/troubleshooting-and-error-handling-6.png)
+![&#x200B; een beeld van een Commit richtlijn &#x200B;](assets/troubleshooting-and-error-handling-6.png)

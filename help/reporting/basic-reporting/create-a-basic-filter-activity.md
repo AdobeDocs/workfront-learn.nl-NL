@@ -30,7 +30,7 @@ Hieronder vindt u stapsgewijze instructies.
 
 ## Antwoord op Activiteit 1
 
-![ een beeld van het scherm om een nieuw filter ](assets/basic-filter-activity-1.png) tot stand te brengen
+![&#x200B; een beeld van het scherm om een nieuw filter &#x200B;](assets/basic-filter-activity-1.png) tot stand te brengen
 
 1. Navigeer naar het [!UICONTROL Projects] -gebied vanuit [!UICONTROL Main Menu] . Dit toont u een lijst van projecten.
 1. Klik op het menu **[!UICONTROL Filter]** en selecteer [!UICONTROL Legacy Filters] als dit nog niet het geval is.
@@ -53,7 +53,7 @@ Hieronder vindt u stapsgewijze instructies.
 
 ## Antwoord op Activiteit 2
 
-![ een beeld van het scherm om een nieuw filter ](assets/basic-filter-activity-2.png) tot stand te brengen
+![&#x200B; een beeld van het scherm om een nieuw filter &#x200B;](assets/basic-filter-activity-2.png) tot stand te brengen
 
 1. Navigeer naar het [!UICONTROL Projects] -gebied vanuit [!UICONTROL Main Menu] . Dit toont u een lijst van projecten.
 1. Klik op het menu **[!UICONTROL Filter]** en selecteer [!UICONTROL Legacy Filters] als dit nog niet het geval is.

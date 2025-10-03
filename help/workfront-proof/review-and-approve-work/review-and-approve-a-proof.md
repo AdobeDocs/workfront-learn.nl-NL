@@ -32,7 +32,7 @@ Zodra u weet wat wordt verwacht, kunt u beginnen met het herzien van een proef.
 
 Als een element gereed is voor revisie en goedkeuring, ontvangt u een e-mailbericht.
 
-![ een beeld van een nieuwe proefe-mail die om de overzicht en goedkeuring van twee proefdrukken in [!DNL  Workfront] verzoekt.](assets/new-proof-emails.png)
+![&#x200B; een beeld van een nieuwe proefe-mail die om de overzicht en goedkeuring van twee proefdrukken in [!DNL &#x200B; Workfront] verzoekt.](assets/new-proof-emails.png)
 
 Deze proefkoppeling is uniek voor u. Als u de koppeling deelt met iemand anders, worden eventuele opmerkingen en markeringen die deze persoon heeft, van uw naam voorzien.
 
@@ -49,7 +49,7 @@ Als u klaar bent om de revisie te starten, hoeft u alleen maar op de blauwe knop
 
 Als u in [!DNL Workfront] werkt en u bent gevraagd een proefdruk goed te keuren, vindt u een toewijzing in de [!UICONTROL My Approvals] widget van [!DNL Workfront] [!UICONTROL Home] .
 
-![ een beeld van [!UICONTROL My Approvals] widget in [!DNL Workfront] [!UICONTROL Home].](assets/open-proof-from-home.png)
+![&#x200B; een beeld van [!UICONTROL My Approvals] widget in [!DNL Workfront] [!UICONTROL Home].](assets/open-proof-from-home.png)
 
 Het is belangrijk om op te merken dat de proefdrukken in [!DNL Workfront] [!UICONTROL Home] slechts verschijnen als u wordt toegewezen om het goed te keuren. Als u alleen de proefdruk wilt controleren, wordt deze niet weergegeven in [!DNL Workfront] [!UICONTROL Home] .
 
@@ -63,7 +63,7 @@ U kunt ook proefdrukken vinden om op een [!DNL Workfront] dashboard te herzien d
 
 Als u normaal met projecten, taken of problemen werkt in [!DNL Workfront] , opent u de proefdruk liever rechtstreeks vanuit de sectie [!DNL Documents] van dat item.
 
-![ een beeld van de [!UICONTROL Documents] sectie die in een [!DNL  Workfront] taak wordt gevonden met de [!UICONTROL Open Proof] benadrukte verbinding.](assets/open-proof-from-documents.png)
+![&#x200B; een beeld van de [!UICONTROL Documents] sectie die in een [!DNL &#x200B; Workfront] taak wordt gevonden met de [!UICONTROL Open Proof] benadrukte verbinding.](assets/open-proof-from-documents.png)
 
 1. Klik op de naam van het project, de taak of de uitgave.
 2. Klik op [!UICONTROL Documents] in het menu van het linkerdeelvenster van de pagina van het item.
@@ -74,11 +74,11 @@ Als u normaal met projecten, taken of problemen werkt in [!DNL Workfront] , open
 
 Nadat u een bewijs hebt geopend zult u a **besluit van het Merk** knoop bij de bovenkant zien, naast **toevoegen commentaar**. Als u geen fiatteur bent voor deze proef zult u deze knoop niet zien.
 
-![ een beeld van de eerste de besluitvormingsknoop van het Merk.](assets/make-decision-1.png)
+![&#x200B; een beeld van de eerste de besluitvormingsknoop van het Merk.](assets/make-decision-1.png)
 
 Wanneer u bereid bent om een besluit te nemen klik de **besluit** knoop van het Merk om uw besluitvormingsopties te zien. Selecteer uw keus, dan klik de andere **besluit** hieronder knoop van het Merk.
 
-![ een beeld van de tweede de besluitvormingsknoop van het Merk.](assets/make-decision-2.png)
+![&#x200B; een beeld van de tweede de besluitvormingsknoop van het Merk.](assets/make-decision-2.png)
 
 ## Een bewijs controleren en goedkeuren
 

@@ -23,7 +23,7 @@ Een flexibel team in Workfront voltooit zijn werk van de iteratiepagina [ 1 ]. H
 
 In deze video leert u hoe u een flexibel team kunt maken, de methode voor de scrum kunt selecteren en de instellingen voor het scrum-team kunt bepalen.
 
-![ pagina van Teams ](assets/scrum-agile-team-page.png)
+![&#x200B; pagina van Teams &#x200B;](assets/scrum-agile-team-page.png)
 
 ### Een geheel nieuw scrubteam instellen
 

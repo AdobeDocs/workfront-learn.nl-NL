@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer hoe u JSON kunt maken en parseren in een scenario dat uw ontwerpbehoeften ondersteunt.
 
-![ een beeld van een scenario van de Fusie ](assets/final-functional-bits-and-bobs-2.png)
+![&#x200B; een beeld van een scenario van de Fusie &#x200B;](assets/final-functional-bits-and-bobs-2.png)
 
 ## Arrays walkthrough
 
@@ -38,4 +38,4 @@ In deze video leert u hoe u:
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

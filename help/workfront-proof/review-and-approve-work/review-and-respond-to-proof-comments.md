@@ -1,6 +1,6 @@
 ---
 title: Opmerkingen bij proefdrukken bekijken en hierop reageren
-description: Leer hoe u proefdrukopmerkingen weergeeft en erop reageert vanuit de proefdrukviewer en vanuit de sectie [!UICONTROL Updates] van  [!DNL  Workfront] .
+description: Leer hoe u proefdrukopmerkingen weergeeft en erop reageert vanuit de proefdrukviewer en vanuit de sectie [!UICONTROL Updates] van  [!DNL &#x200B; Workfront] .
 activity: use
 feature: Workfront Proof
 type: Tutorial

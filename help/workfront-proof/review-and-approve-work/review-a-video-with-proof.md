@@ -1,6 +1,6 @@
 ---
 title: Een video met proefafdruk bekijken
-description: Leer hoe u viewerinstellingen aanpast en tijdstempels toevoegt aan een video door proefdrukken uit te voeren in  [!DNL  Workfront] .
+description: Leer hoe u viewerinstellingen aanpast en tijdstempels toevoegt aan een video door proefdrukken uit te voeren in  [!DNL &#x200B; Workfront] .
 activity: use
 feature: Workfront Proof
 type: Tutorial

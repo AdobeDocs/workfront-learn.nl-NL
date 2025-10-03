@@ -37,7 +37,7 @@ Aan de hand van deze informatie kunt u bepalen:
 * De activiteit van één project in vergelijking met andere projecten.
 * Welke gebruikers werken aan een project en met welke frequentie.
 
-![ een beeld dat projectactiviteit met aantallen op gebieden toont die in hieronder kogels worden beschreven ](assets/section-2-5.png)
+![&#x200B; een beeld dat projectactiviteit met aantallen op gebieden toont die in hieronder kogels worden beschreven &#x200B;](assets/section-2-5.png)
 
 Op het diagram kunt u zien:
 

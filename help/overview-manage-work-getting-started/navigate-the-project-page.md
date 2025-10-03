@@ -1,6 +1,6 @@
 ---
 title: Navigeren door de projectpagina
-description: Leer hoe te om de details van een project te bekijken, welke informatie in de taaklijst toont, waar te om documenten te uploaden, en hoe te om de updategeschiedenis in  [!DNL  Workfront] te bekijken.
+description: Leer hoe te om de details van een project te bekijken, welke informatie in de taaklijst toont, waar te om documenten te uploaden, en hoe te om de updategeschiedenis in  [!DNL &#x200B; Workfront] te bekijken.
 activity: use
 feature: Work Management
 thumbnail: 335085.jpeg
@@ -36,7 +36,7 @@ In deze video leert u:
 
 De projectpagina is gevuld met vele eigenschappen om u te helpen uw werk leiden. Werk met uw systeembeheerder als er een optie is u nodig hebt maar niet in uw geval van [!DNL Workfront] ziet. Hier volgen enkele van de hoofdfuncties voor projectpagina&#39;s.
 
-![ Schermafbeelding van projectpagina ](assets/project-page-graphic-for-planner-v2.png)
+![&#x200B; Schermafbeelding van projectpagina &#x200B;](assets/project-page-graphic-for-planner-v2.png)
 
 1. **spoor Breadcrumb:** navigeer door het programma en de portefeuillehiërarchie achter het project.
 2. **het type van Objecten:** het tonen van het objecten type op de het landen pagina helpt u identificeren wat u in [!DNL Workfront] bekijkt. De term &#39;project&#39; kan door de systeembeheerder van [!DNL Workfront] worden aangepast.

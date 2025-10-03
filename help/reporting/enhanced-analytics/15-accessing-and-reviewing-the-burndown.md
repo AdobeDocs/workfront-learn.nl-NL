@@ -37,7 +37,7 @@ Aan de hand van deze informatie kunt u bepalen:
 * Hoe problemen die zich voordeden (ongeplande werkzaamheden) de geplande werkzaamheden hebben beïnvloed.
 * Welke gebeurtenissen uw project voorbij de geplande voltooiingsdatum verlengden.
 
-![ een beeld dat een burndown grafiek met aantallen op gebieden toont die in hieronder kogels worden beschreven ](assets/section-2-9.png)
+![&#x200B; een beeld dat een burndown grafiek met aantallen op gebieden toont die in hieronder kogels worden beschreven &#x200B;](assets/section-2-9.png)
 
 Op het diagram kunt u zien:
 

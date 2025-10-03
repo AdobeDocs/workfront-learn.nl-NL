@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Verander de projectnaam, de geplande begindatum, en de prioriteit van het &quot;Aanvankelijke scenario ontwerp&quot;u in de eerste analyse gebruikend de formules van het kaartpaneel creeerde.
 
-![ een beeld van het scenario van de Fusie ](assets/understand-the-basics-1.png)
+![&#x200B; een beeld van het scenario van de Fusie &#x200B;](assets/understand-the-basics-1.png)
 
 ## Buiten basisanalyse van toewijzingen
 
@@ -54,4 +54,4 @@ Creeer een taak in elk project u als deel van de vorige analyse creeerde.
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
