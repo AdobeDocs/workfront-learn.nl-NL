@@ -27,7 +27,7 @@ Geplande uren zijn van cruciaal belang voor het beheer van de hulpbronnen in Wor
 Zij helpen ook de tijd die aan taken wordt besteed te volgen, toekomstige ramingen te verbeteren, en verwachtingen met werknemers te verduidelijken.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445339/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 
 ## Toetsen

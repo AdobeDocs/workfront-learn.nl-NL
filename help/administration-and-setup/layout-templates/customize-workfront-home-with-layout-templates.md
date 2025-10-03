@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer hoe u uw gebruikers in [!UICONTROL Home] -gebied kunt aanpassen om snel en eenvoudig werk te openen, te volgen, goed te keuren en bij te werken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432784/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 <br>
 </br>
@@ -37,4 +37,4 @@ In deze video leert u hoe u:
 * Items verwijderen uit [!UICONTROL Home]
 * Items toevoegen aan [!UICONTROL Home]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432317/?quality=12&learn=on&enablevpops=1&captions=dut)

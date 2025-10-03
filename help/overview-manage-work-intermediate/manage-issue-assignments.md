@@ -31,7 +31,7 @@ In deze video leert u hoe u:
 * Voortgang van problemen bijwerken
 * De status van het probleem bijwerken
 
->[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446961/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

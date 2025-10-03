@@ -25,7 +25,7 @@ In deze video leert u hoe u:
 * Uw eigen updates uitvoeren op goedkeuringsaanvragen
 * Workfront-meldingen zoeken
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440150/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 <!--
 learn more URLS

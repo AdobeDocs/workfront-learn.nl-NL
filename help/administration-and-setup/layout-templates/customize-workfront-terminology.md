@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In deze video leert u hoe u terminologie instelt met een lay-outsjabloon.
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445480/?quality=12&learn=on&enablevpops=1&captions=dut)

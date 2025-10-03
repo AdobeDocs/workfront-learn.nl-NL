@@ -23,4 +23,4 @@ In deze video leert u hoe u:
 
 * Recent werk weergeven via [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435932/?quality=12&learn=on&enablevpops=1&captions=dut)

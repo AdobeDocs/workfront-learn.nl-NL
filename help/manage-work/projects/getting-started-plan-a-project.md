@@ -25,7 +25,7 @@ De video biedt aanwijzingen voor het effectief plannen van een project in Workfr
 
 De video benadrukt het belang van realistische tijdlijnen, teambeschikbaarheid, en nauwkeurige planning om een sterke basis voor projectsucces te creëren. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448573/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Toetsen
 

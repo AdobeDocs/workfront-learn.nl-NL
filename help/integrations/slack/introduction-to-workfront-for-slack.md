@@ -23,7 +23,7 @@ In deze video zult u:
 
 * Ontdek een inleiding over wat u zult leren van andere [!DNL Workfront] for [!DNL Slack] video&#39;s.
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435921/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 >[!NOTE]
 >

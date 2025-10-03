@@ -21,7 +21,7 @@ In deze video leert u hoe u:
 * Einde van de delegatieperiode
 * Gedelegeerde goedkeuringen zoeken
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446382/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 <!--
 learn more URLS

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Leer hoe u artikelen kunt onderverdelen in kleinere artikelen, de prioriteit van artikelen kunt wijzigen op de achtergrond en kunt vaststellen dat artikelen klaar zijn om in een herhaling te worden geplaatst.
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428935/?quality=12&learn=on&enablevpops=1&captions=dut)

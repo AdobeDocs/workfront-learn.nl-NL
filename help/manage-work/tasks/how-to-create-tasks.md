@@ -22,7 +22,7 @@ ht-degree: 0%
 De video biedt een zelfstudie over het maken van taken in een Workfront-project, waarin zowel de lange methode als handmatige sneltoetsen worden besproken. Het benadrukt flexibiliteit in het creëren van taken en verstrekt uiteinden voor efficiënt taakbeheer.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428972/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Toetsen
 

@@ -27,7 +27,7 @@ In deze video leert u meer over:
 * geplande, geplande en feitelijke datums, en
 * Hoe ze worden gebruikt bij het berekenen van de status van de voortgang
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436613/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 >[!NOTE]
 >

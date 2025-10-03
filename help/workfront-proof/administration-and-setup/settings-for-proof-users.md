@@ -29,7 +29,7 @@ In deze video leert u hoe u:
 * Gebruikersinstellingen voor proefdrukken aanpassen in [!DNL &#x200B; Workfront]
 * Gebruikersinstellingen voor proefdrukken aanpassen in de back-endinstellingen
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432924/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 <!--
 Lean More URLs

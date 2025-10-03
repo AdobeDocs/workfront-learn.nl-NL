@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Gebruikers toevoegen aan een bestaande workflow
 * Een bestaande workflow overschakelen op een geautomatiseerde workflow
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445458/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Uw beurt
 

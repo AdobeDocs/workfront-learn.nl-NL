@@ -26,7 +26,7 @@ In deze video leert u:
 * Hoe proefgebruikers kunnen profiteren van workflowsjablonen
 * Hoe te beginnen plannend welke malplaatjes om te creëren
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441303/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 <!--
 Learn More Icon

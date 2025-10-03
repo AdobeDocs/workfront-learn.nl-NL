@@ -28,7 +28,7 @@ In deze video leert u:
 * Werkinspanning gebruiken
 * Hoe te om een de taakmening van de Werkinspanning tot stand te brengen
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447405/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 Voor meer informatie over [!UICONTROL Work Effort], zie het [&#x200B; het overzicht van de Werkinspanning van het Werk &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=nl-NL) artikel.
 

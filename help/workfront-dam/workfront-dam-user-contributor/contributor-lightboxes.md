@@ -27,7 +27,7 @@ In deze video leert u hoe u:
 * Samenwerken met een lichtbak
 * De inhoud van een lichtbak delen
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432178/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Mappen versus lichtbakken
 

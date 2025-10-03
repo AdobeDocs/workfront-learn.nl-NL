@@ -25,4 +25,4 @@ Om mensen echt te kunnen helpen, moeten managers plannen maken en plannen maken 
 Deze taak kan echter iets eenvoudiger zijn met de Resource Planner van Workfront voor bronnen.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437260/?quality=12&learn=on&enablevpops=1&captions=dut)

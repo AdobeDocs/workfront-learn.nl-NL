@@ -25,7 +25,7 @@ In deze video zult u:
 * Zie [!UICONTROL View by Project] weergave
 * Leer hoe de middelinformatie in deze mening wordt getoond
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431630/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 Voor de Mening door de optie van het Project, is het gebrek om de Begroeide kolom te tonen, die het geschatte aantal middelen nodig voor een project van een bedrijfscase trekt, als het is ingevuld. Dit betekent ook de Netto kolom is, door gebrek, gebruikend de aantallen van de Beoogde kolom om u te vertellen hoeveel middelen worden verlaten.
 

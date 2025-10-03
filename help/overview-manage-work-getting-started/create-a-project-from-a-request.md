@@ -28,7 +28,7 @@ In deze video leert u hoe u:
 * Selecteer de gewenste projectsjabloon
 * De conversie van verzoek naar project voltooien
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446628/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 
 ## Aanbevolen zelfstudies over dit onderwerp

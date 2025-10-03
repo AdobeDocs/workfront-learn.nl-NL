@@ -24,7 +24,7 @@ In deze video leert u meer over:
 * Groepen
 * Teams
 
->[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444280/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 Voordat u aan de slag gaat, zijn er enkele belangrijke termen waarmee u vertrouwd kunt raken wanneer u gebruikersorganisaties in [!DNL Workfront] verkent.
 

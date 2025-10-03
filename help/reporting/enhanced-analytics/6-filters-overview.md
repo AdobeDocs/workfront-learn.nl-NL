@@ -27,7 +27,7 @@ In deze video leert u:
 * Een filter toevoegen met een aangepast formulier
 * Tips voor filteren
 
->[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439643/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 >[!NOTE]
 >

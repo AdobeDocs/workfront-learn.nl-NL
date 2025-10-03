@@ -30,7 +30,7 @@ In deze video leert u:
 * Hoe duurfactor in projectchronologie
 * Aanbevelingen voor beste praktijken voor het gebruiken van taakduur
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449349/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

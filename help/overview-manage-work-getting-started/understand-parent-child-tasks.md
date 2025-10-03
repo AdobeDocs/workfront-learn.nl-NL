@@ -26,7 +26,7 @@ In deze video leert u:
 
 * Hoe taken worden gestructureerd in een [!DNL Workfront] -project
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445602/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

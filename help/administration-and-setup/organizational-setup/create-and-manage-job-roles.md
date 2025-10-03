@@ -26,4 +26,4 @@ In deze video leert u:
 * Hoe te om baanrollen te creëren.
 * Hoe te om baanrollen op gebruikers toe te passen zodat kunnen zij aan het correcte werk worden toegewezen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452432/?quality=12&learn=on&enablevpops=1&captions=dut)

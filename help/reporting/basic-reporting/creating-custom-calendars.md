@@ -34,5 +34,5 @@ In deze video leert u hoe u:
 * Werkitems toevoegen aan de kalendergroep
 * Een tijd van een kalender maken
 
->[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452399/?quality=12&learn=on&enablevpops=1&captions=dut)
 

@@ -25,7 +25,7 @@ ht-degree: 0%
 In de video worden verschillende methoden uitgelegd voor het toewijzen van taken in een projectplan. Het benadrukt het gebruiken van hulpmiddelen zoals filters, malplaatjes, en de eigenschappen van het middelbeheer om taaktaken te stroomlijnen en projectwerkschema&#39;s te optimaliseren.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445747/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Toetsen
 

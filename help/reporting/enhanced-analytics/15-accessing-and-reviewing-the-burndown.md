@@ -26,7 +26,7 @@ In deze video leert u:
 * Hoe te om tot de burndown grafiek toegang te hebben
 * Hoe te om het verband tussen resterende uren, de projectvoorwaarde, en snelheid op een project te begrijpen
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438890/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Snelheid van project bijhouden
 

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 In de video ziet u hoe u een uitgave of aanvraag omzet in een project.
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446628/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Toetsen
 

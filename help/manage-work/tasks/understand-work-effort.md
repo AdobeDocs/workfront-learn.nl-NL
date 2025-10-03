@@ -24,7 +24,7 @@ ht-degree: 0%
 In de video wordt uitgelegd hoe u de functie Werkinspanning in Workfront kunt gebruiken om geplande uren voor taken te ramen wanneer nauwkeurige schattingen moeilijk zijn te bepalen.
 Het toont hoe te om een mening van de Inspanning van het douanewerk tot stand te brengen om taakbeheer te stroomlijnen door relevante kolommen zoals de Inspanning van het Werk, Geplande Uren Type van Duur toe te voegen
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447405/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Toetsen
 

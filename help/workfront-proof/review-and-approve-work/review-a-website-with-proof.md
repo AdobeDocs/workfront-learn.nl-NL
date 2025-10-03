@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Opmerkingen maken bij een statische proefdruk van een website
 * Opmerkingen maken over een interactieve proefdruk van websites
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445968/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 <!--
 ## Learn more

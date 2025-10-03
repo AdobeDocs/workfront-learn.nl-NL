@@ -25,7 +25,7 @@ In deze video leert u hoe u:
 * Een weergave selecteren om [!DNL Workfront's] verschillende datumtypen te vergelijken
 * Voortgangsstatus gebruiken om de voortgang van het werk bij te houden
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436613/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 >[!NOTE]
 >

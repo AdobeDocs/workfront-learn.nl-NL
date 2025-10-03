@@ -24,4 +24,4 @@ In deze videozelfstudie leert u:
 
 * Hoe te om middelbeheer hulpmiddelen-duur en geplande data, geplande uren, en baanroltaken te optimaliseren
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431653/?quality=12&learn=on&enablevpops=1&captions=dut)

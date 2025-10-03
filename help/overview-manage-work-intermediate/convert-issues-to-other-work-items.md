@@ -23,7 +23,7 @@ ht-degree: 0%
 
 In deze video leert u hoe u een uitgave of aanvraag kunt omzetten in een taak.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445436/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 >[!NOTE]
 >

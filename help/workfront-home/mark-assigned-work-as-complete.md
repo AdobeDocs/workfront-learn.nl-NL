@@ -26,7 +26,7 @@ In deze video leert u:
 * Waarom status belangrijk is in [!DNL &#x200B; Workfront]
 * Filteren van de [!UICONTROL Work List] om te zien hoe het werk is voltooid
 
->[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444291/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 
 ## Twee andere manieren om aan te geven dat het werk volledig is

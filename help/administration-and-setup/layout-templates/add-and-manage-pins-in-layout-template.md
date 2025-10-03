@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Leer wat een speld is en hoe u belangrijke of relevante pagina&#39;s voor een reeks gebruikers vastzet door lay-outsjablonen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428942/?quality=12&learn=on&enablevpops=1&captions=dut)

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 In de video wordt uitgelegd hoe u de functie voor de weergave van raden in Workfront kunt gebruiken als alternatief voor het weergeven en beheren van projecttaken. &#x200B; In de mening van de Raad, worden de taken getoond als kaarten op een Kanban-Stijl raad, toestaand gebruikers om, taken binnen of tussen kolommen te sorteren te groeperen en te bewegen. &#x200B; Als u een taak verplaatst, wordt de status automatisch bijgewerkt. Dit wordt weerspiegeld in de weergave met taaklijsten. &#x200B; Gebruikers kunnen nieuwe kaarten maken, die nieuwe taken in het project genereren en deze rechtstreeks in de overzichtsweergave bewerken of toewijzen. &#x200B; De kolommen en de kaarten kunnen worden gevormd, en de taken kunnen worden gerangschikt gebruikend predecessors in de mening van de taaklijst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432420/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Toetsen
 

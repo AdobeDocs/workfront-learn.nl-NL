@@ -28,7 +28,7 @@ In deze video leert u:
 * De weergave [!UICONTROL Board] gebruiken
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432420/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

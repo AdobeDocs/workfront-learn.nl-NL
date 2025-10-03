@@ -29,7 +29,7 @@ In deze video leert u hoe u:
 * Een mijlpaal toevoegen aan een taak
 * Aanbevolen procedures voor het toepassen van mijlpalen
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3430288/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 >[!TIP]
 >

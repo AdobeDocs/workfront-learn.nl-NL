@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe de Planning van Workfront de efficiency van het team van UX door project het volgen te centraliseren en ontwerpwerk met bedrijfsdoelstellingen te richten versterkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452186/?learn=on&enablevpops=1&captions=dut)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer welke vereisten nodig zijn om het hulpmiddel van de Planning van Workfront toe te voegen en het voor gebruikers in uw geval zichtbaar te maken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447972/?learn=on&enablevpops=1&captions=dut)

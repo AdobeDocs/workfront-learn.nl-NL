@@ -13,7 +13,7 @@ ht-degree: 1%
 
 Een bibliotheek met trainingsvideo&#39;s en artikelen die zijn ontworpen om u te helpen de functies en instellingen van Workfront beter te begrijpen.  Hieronder vindt u een verzameling van best practices, gekrulde oefeningen en andere bronnen die u en uw organisatie helpen om met Workfront succesvol te zijn.
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428920/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 <!-- 
 

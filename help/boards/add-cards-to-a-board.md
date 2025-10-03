@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe u kaarten toevoegt aan een bord dat gloednieuw is of aan een reeds bestaand werkitem.
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428964/?quality=12&learn=on&enablevpops=1&captions=dut)

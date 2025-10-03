@@ -28,7 +28,7 @@ In deze video leert u hoe u filters, weergaven en groepen kunt gebruiken om te b
 * Informatie op taakniveau
 * Informatie op emissieniveau
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453072/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

@@ -21,5 +21,5 @@ ht-degree: 0%
 
 Leer het doel van programma&#39;s, om hen tot stand te brengen en uit te geven, en extra montages om beter te bepalen wanneer het werk kan worden gedaan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422184/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428978/?quality=12&learn=on&enablevpops=1&captions=dut)
 

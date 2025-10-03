@@ -27,4 +27,4 @@ In deze video leert u hoe u:
 * Items toevoegen aan de [!UICONTROL Main Menu]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432310/?quality=12&learn=on&enablevpops=1&captions=dut)

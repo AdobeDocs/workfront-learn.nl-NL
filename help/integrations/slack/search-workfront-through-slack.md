@@ -23,4 +23,4 @@ In deze video leert u hoe u:
 
 * Zoeken [!DNL Workfront] tot en met [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437516/?quality=12&learn=on&enablevpops=1&captions=dut)

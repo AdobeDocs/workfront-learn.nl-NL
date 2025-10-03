@@ -27,4 +27,4 @@ In deze video leert u hoe u:
 * Verbinding maken met een externe API
 * Gebruik de formule-editor om informatie uit een array te extraheren
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435881/?quality=12&learn=on&enablevpops=1&captions=dut)

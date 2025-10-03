@@ -26,4 +26,4 @@ In deze video leert u:
 * Hoe te boor neer op een project in de de plangrafiek van de Vlucht om de grafiek van de Burndown en de Taken in vluchtgrafiek te maken verschijnen
 * Een tijdframefilter maken om in te zoomen binnen een datumbereik
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437271/?quality=12&learn=on&enablevpops=1&captions=dut)

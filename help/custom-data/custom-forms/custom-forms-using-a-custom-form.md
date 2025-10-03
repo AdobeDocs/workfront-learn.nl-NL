@@ -23,4 +23,4 @@ ht-degree: 0%
 
 In deze video leert u hoe u een aangepaste toepassing kunt koppelen aan objecten in Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431635/?quality=12&learn=on&enablevpops=1&captions=dut)

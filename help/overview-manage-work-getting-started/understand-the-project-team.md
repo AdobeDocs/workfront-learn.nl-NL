@@ -27,7 +27,7 @@ In deze video leert u:
 
 * Wat het projectteam kan worden gebruikt en hoe te om het te handhaven
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444595/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

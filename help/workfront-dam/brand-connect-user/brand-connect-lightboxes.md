@@ -27,7 +27,7 @@ In deze video leert u hoe u:
 * Lichtbakken controleren en beheren
 * Samenwerken op een lichtbak
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454356/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Lichtbakken versus mappen
 

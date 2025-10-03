@@ -26,7 +26,7 @@ In deze video leert u:
 * Hoe te om tot de Taken in vluchtgrafiek toegang te hebben
 * Hoe snel te zien welke taken niet in een project zijn voltooid
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437006/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Gegevens op taakniveau
 

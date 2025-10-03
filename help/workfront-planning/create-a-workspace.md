@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Ontdek hoe u werkruimten kunt maken in Adobe Workfront Planning.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447966/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448267/?learn=on&enablevpops=1&captions=dut)

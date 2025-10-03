@@ -28,7 +28,7 @@ In deze video leert u hoe u:
 * De deadline van het revisie- en goedkeuringsproces instellen
 * Het automatische werkstroomsjabloon delen met anderen
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454257/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Aanvullende opties voor werkgebiedactivering
 

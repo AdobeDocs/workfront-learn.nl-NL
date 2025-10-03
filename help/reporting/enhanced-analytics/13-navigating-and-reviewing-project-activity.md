@@ -25,7 +25,7 @@ In deze video leert u:
 
 * Hoe te om projecten te vergelijken die op gebruikers worden gebaseerd het programma werden geopend, veranderingen van de taakstatus, en voltooide taken
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437442/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Projectwerk vergelijken
 

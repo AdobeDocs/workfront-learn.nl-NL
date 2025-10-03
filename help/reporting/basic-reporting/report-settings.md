@@ -27,4 +27,4 @@ In deze video leert u:
 * Hoe te om uw rapport met de toegangsrechten van een specifieke gebruiker in werking te stellen
 * Hoe te opstelling en gebruiksrapportherinneringen
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445869/?quality=12&learn=on&enablevpops=1&captions=dut)

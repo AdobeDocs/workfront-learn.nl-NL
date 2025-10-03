@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Tags toewijzen aan gebruikers op [!DNL Workfront] updates
 * Reageren op bestaande updates
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445283/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Tips voor het bijwerken van werk in [!UICONTROL Home]
 

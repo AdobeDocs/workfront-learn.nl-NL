@@ -26,7 +26,7 @@ In deze video leert u meer over:
 * Projecten plannen vanaf de begin- of einddatum
 * Taakbeperkingen
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435841/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 >[!IMPORTANT]
 >

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 In de video wordt het belang van een bedrijfscase in projectbeheer uitgelegd. Het benadrukt dat het volledig invullen van de bedrijfscase managers grondig helpt om projecten te analyseren en voorrang te geven die voor de zelfde middelen concurreren. &#x200B; Als de bedrijfscase eenmaal is voltooid, verandert de projectstatus in &quot;Gevraagd&quot; en wordt de algemene score berekend voor vergelijking in het Portfolio Optimization Tool. &#x200B; Hoewel geen van de velden verplicht is, wordt de besluitvorming verbeterd door meer gedetailleerde informatie. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442850/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Toetsen
 

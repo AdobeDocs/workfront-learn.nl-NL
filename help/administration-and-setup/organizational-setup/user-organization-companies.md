@@ -25,4 +25,4 @@ In deze video leert u:
 * Definitie van Workfront-ondernemingen
 * Hoe te om bedrijven en vereniging tot stand te brengen
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432856/?quality=12&learn=on&enablevpops=1&captions=dut)

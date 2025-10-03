@@ -27,4 +27,4 @@ In deze video leert u:
 * Het datumbereik wijzigen
 * Hoe te om KPIs met twee verschillende filters naast elkaar te vergelijken
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440253/?quality=12&learn=on&enablevpops=1&captions=dut)

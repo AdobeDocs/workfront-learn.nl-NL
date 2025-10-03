@@ -28,7 +28,7 @@ Wat u gaat leren:
 * Verschillende weergaven in Workfront, zoals de standaardweergave voor planning en de statusweergave voor voortgangscontrole, waaronder markeringen voor voortgang, opmerkingen, documenten, problemen, goedkeuringen, kritieke paden en mijlpalen. Recente activiteiten kunnen worden bijgehouden voor updates en notities.
 * De planning kan van een begindatum of een voltooiingsdatum worden gedaan, waarbij Workfront de overeenkomstige data berekent op basis van de duur van de taak en voorgangers. De video adviseert het plannen van van een begindatum voor kritieke voltooiingsdata om wat spack toe te staan. De beperkingen van de taak, zoals &quot;zo spoedig mogelijk&quot;en &quot;zo laat mogelijk,&quot;worden ook behandeld, tonend hoe zij taak het plannen beïnvloeden. U kunt aangepaste weergaven maken om taakbeperkingen weer te geven.
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435841/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 >[!IMPORTANT]
 >

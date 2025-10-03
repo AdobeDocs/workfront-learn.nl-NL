@@ -24,7 +24,7 @@ In deze video leert u hoe u:
 * Voorgestelde doelen evalueren en activeren
 * Driemaandelijkse doelstellingen trapsgewijs en uitlijnen
 
->[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432162/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 <!--
 Pro-tips graphic

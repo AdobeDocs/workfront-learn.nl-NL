@@ -27,7 +27,7 @@ Wanneer de objectstatus verandert in een status die is opgegeven in het goedkeur
 
 In deze video leert u hoe u een algemeen goedkeuringsproces en een goedkeuringsproces voor één gebruik kunt maken voor een project, taak of uitgave.
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434693/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 >[!TIP]
 >

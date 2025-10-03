@@ -79,7 +79,7 @@ In deze video leert u hoe u:
 * Een aanvraag indienen
 * Verzonden verzoeken bekijken
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3470908/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Objecten die nog moeten worden goedgekeurd
 

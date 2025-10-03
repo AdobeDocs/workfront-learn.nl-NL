@@ -30,7 +30,7 @@ Gebruikend het &quot;Inleiding aan herhaling&quot;scenario u in de laatste analy
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
->[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428976/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 
 

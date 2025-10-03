@@ -22,7 +22,7 @@ In deze video leert u hoe u:
 * Verzonden verzoeken weergeven
 * Een concept van een verzoek zoeken
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3470908/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Snelle en eenvoudige toegang tot wachtrijpaden voor aanvragen
 

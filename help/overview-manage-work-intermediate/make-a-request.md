@@ -34,7 +34,7 @@ In deze video leert u hoe u:
 * Een concept van een verzoek zoeken
 * Zie de laatste drie aanvraagpaden
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3470908/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

@@ -52,4 +52,4 @@ In deze video leert u het volgende doen vanuit uw Creative Cloud-app:
 * Logtijd
 * Uw werk markeren voltooid
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431667/?quality=12&learn=on&enablevpops=1&captions=dut)

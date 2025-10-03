@@ -28,7 +28,7 @@ In deze video leert u hoe u:
 * Mapdetails weergeven
 * Metagegevens en trefwoorden van elementen weergeven en bijwerken
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453927/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Basiszoekcriteria
 

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe u kaarten op een kaart kunt reorganiseren, kopiëren, archiveren, verwijderen en loskoppelen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428952/?quality=12&learn=on&enablevpops=1&captions=dut)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Leer hoe u personen en teams toevoegt aan en verwijdert van een board, zodat deze toegang krijgen tot de informatie van het bord.
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428962/?quality=12&learn=on&enablevpops=1&captions=dut)

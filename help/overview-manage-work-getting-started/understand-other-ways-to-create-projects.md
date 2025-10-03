@@ -30,7 +30,7 @@ In deze video leert u hoe u:
 * Een bestaand project kopiëren
 * Een [!DNL Microsoft Project] -bestand importeren
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432168/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

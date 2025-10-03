@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Deze video bevat een gedetailleerde handleiding over het beheer van taken in Workfront. Het benadrukt efficiënt taakbeheer, met inbegrip van het uitgeven, het schrappen, het toevoegen, het dupliceren, en het reorganiseren van taken binnen een projectplan.
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448562/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Toetsen
 

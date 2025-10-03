@@ -32,7 +32,7 @@ In deze video leert u hoe u:
 
 * De invoegtoepassing Microsoft Outlook installeren
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431662/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 >[!IMPORTANT]
 >

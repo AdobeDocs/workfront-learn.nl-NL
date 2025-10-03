@@ -25,4 +25,4 @@ In deze video leert u hoe u:
 * Werk markeren als prioritaire toewijzingen
 * Filter de [!UICONTROL Work List] om alleen de prioritaire taak te zien
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438538/?quality=12&learn=on&enablevpops=1&captions=dut)

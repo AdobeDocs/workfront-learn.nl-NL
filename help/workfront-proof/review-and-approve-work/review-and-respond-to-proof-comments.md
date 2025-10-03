@@ -26,4 +26,4 @@ In deze video leert u hoe u:
 * Proefdrukopmerkingen weergeven in de sectie [!UICONTROL Updates]
 * Reageren op een proefdrukopmerking in de sectie [!UICONTROL Updates]
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438659/?quality=12&learn=on&enablevpops=1&captions=dut)

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 De video biedt een zelfstudie over hoe, waarom en hoe vaak de taakstatus moet worden bijgewerkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471173/?quality=12&learn=on&enablevpops=1&captions=dut)
 
 ## Toetsen
 

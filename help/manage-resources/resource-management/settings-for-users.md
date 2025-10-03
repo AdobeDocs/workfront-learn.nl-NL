@@ -28,4 +28,4 @@ In deze videozelfstudie leert u over instellingen voor:
 * Persoonlijke tijd uit
 * Functies
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432159/?quality=12&learn=on&enablevpops=1&captions=dut)
