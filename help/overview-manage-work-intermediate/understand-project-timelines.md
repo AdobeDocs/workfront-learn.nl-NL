@@ -30,4 +30,4 @@ In deze video leert u meer over:
 
 >[!IMPORTANT]
 >
->Voor een volledigere verklaring van duurtypes en taakbeperkingen zie [&#x200B; de types van duur en taakbeperkingen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=en) begrijpen en beheren.
+>Voor een volledigere verklaring van duurtypes en taakbeperkingen zie [&#x200B; de types van duur en taakbeperkingen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=nl-NL) begrijpen en beheren.

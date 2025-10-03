@@ -33,9 +33,9 @@ Integreer Workfront met Creative Cloud om het werk te vinden en bij te werken da
 
 U moet de juiste insteekmodule installeren voor de Adobe Creative Cloud-toepassing die u gebruikt:
 
-* Voor Photoshop, zie [&#x200B; Adobe Workfront voor Photoshop installeren en openen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
-* Voor XD, zie [&#x200B; Adobe Workfront voor XD installeren en openen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* Voor InDesign, Illustrator, Premiere Pro, en After Effects, zie [&#x200B; Adobe Workfront voor ontwerp en video installeren en openen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* Voor Photoshop, zie [&#x200B; Adobe Workfront voor Photoshop installeren en openen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=nl-NL&)
+* Voor XD, zie [&#x200B; Adobe Workfront voor XD installeren en openen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=nl-NL&)
+* Voor InDesign, Illustrator, Premiere Pro, en After Effects, zie [&#x200B; Adobe Workfront voor ontwerp en video installeren en openen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=nl-NL&)
 
 >[!NOTE]
 >

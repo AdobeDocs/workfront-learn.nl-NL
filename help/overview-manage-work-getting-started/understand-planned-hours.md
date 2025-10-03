@@ -38,5 +38,5 @@ In deze video leert u:
 * [Begrijp taakduur](/help/manage-work/tasks/understand-task-durations.md)
 * [Leren om taken uit te voeren](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Begrijpen [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
-* [&#x200B; Overzicht van Tijdopnamen &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
-* [&#x200B; tijd van het Logboek &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+* [&#x200B; Overzicht van Tijdopnamen &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/timesheets/details/timesheets-overview)
+* [&#x200B; tijd van het Logboek &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

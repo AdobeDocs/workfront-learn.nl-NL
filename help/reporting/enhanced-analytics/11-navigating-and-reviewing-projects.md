@@ -72,4 +72,4 @@ Wanneer ingesteld op Voortgangsstatus, kan de projectvoorwaarde:
 
 >[!NOTE]
 >
->De voorwaarden kunnen voor uw milieu worden aangepast, zodat kunt u meer dan drie opties vinden of de namen kunnen verschillend zijn dan hierboven. Voor informatie over het aanpassen van voorwaarden, zie het artikel [&#x200B; creeer of geef een douanevoorwaarde &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en) uit.
+>De voorwaarden kunnen voor uw milieu worden aangepast, zodat kunt u meer dan drie opties vinden of de namen kunnen verschillend zijn dan hierboven. Voor informatie over het aanpassen van voorwaarden, zie het artikel [&#x200B; creeer of geef een douanevoorwaarde &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=nl-NL) uit.

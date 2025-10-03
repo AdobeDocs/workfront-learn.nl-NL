@@ -36,5 +36,5 @@ In deze video leert u hoe u:
 
 >[!IMPORTANT]
 >
->Als u de Workfront Add-in niet kunt vinden zoals beschreven in de video, moet uw IT-afdeling mogelijk eerst een aantal installatiewerkzaamheden uitvoeren. De gedetailleerde instructies kunnen in [&#x200B; Opstelling Adobe Workfront voor Vooruitzichten &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html) worden gevonden.
+>Als u de Workfront Add-in niet kunt vinden zoals beschreven in de video, moet uw IT-afdeling mogelijk eerst een aantal installatiewerkzaamheden uitvoeren. De gedetailleerde instructies kunnen in [&#x200B; Opstelling Adobe Workfront voor Vooruitzichten &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=nl-NL) worden gevonden.
 

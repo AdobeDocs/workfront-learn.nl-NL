@@ -24,8 +24,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een verzoekstroom &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [&#x200B; creeer globaal en een enig-gebruiks goedkeuringsproces &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [&#x200B; creeer een verzoekstroom &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [&#x200B; creeer globaal en een enig-gebruiks goedkeuringsproces &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
 De video legt uit hoe een standaardgoedkeuringsproces wordt toegepast bij het maken van een aanvraagwachtrij. &#x200B; Wanneer een verzoek wordt gecreeerd, begint het met de status &quot;Nieuw - in afwachting van Goedkeuring,&quot;en een goedkeuringsbericht wordt verzonden naar de aangewezen fiatteur. &#x200B; Indien goedgekeurd, verandert de status in &quot;Nieuw,&quot;toestaand individuen om met het werk te beginnen. &#x200B; Als deze wordt geweigerd, wordt de status mogelijk ten onrechte teruggezet op &quot;Nieuw&quot; vanwege een algemene fout in de instelling van het goedkeuringsproces. &#x200B;
@@ -47,4 +47,4 @@ De video benadrukt dat het goedkeuringsproces wordt teweeggebracht wanneer de st
 * [Taken, problemen en goedkeuringen delegeren](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Groepsspecifieke goedkeuringsprocedures begrijpen](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Een aanvraagstroom maken](/help/manage-work/request-queues/create-a-request-flow.md)
-* [&#x200B; creeer globaal en een enig-gebruiks goedkeuringsproces &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [&#x200B; creeer globaal en een enig-gebruiks goedkeuringsproces &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

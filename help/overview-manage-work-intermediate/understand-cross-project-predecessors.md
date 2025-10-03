@@ -26,7 +26,7 @@ Predecessors voor verschillende projecten zijn een eenvoudige manier om afhankel
 
 >[!PREREQUISITES]
 >
->* [&#x200B; leer aan opeenvolgingstaken &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
+>* [&#x200B; leer aan opeenvolgingstaken &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=nl-NL)
 >* Of u bent al comfortabel met voorgangers in uw projecten
 
 
@@ -38,4 +38,4 @@ In deze video leert u:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
-Leer hoe te om tot het **dwars-project predecessors en de opvolgers** mening en **dwars-project predecessors en opvolgers** rapport te leiden dat in de video wordt gebruikt, [&#x200B; basistekstwijze voor meningen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en) leerprogramma begrijpen en zeker zijn en de voorwaarde daar vermelde leerprogramma&#39;s nemen, als u moet.
+Leer hoe te om tot het **dwars-project predecessors en de opvolgers** mening en **dwars-project predecessors en opvolgers** rapport te leiden dat in de video wordt gebruikt, [&#x200B; basistekstwijze voor meningen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=nl-NL) leerprogramma begrijpen en zeker zijn en de voorwaarde daar vermelde leerprogramma&#39;s nemen, als u moet.

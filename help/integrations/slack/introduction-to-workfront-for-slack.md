@@ -27,5 +27,5 @@ In deze video zult u:
 
 >[!NOTE]
 >
->Voor informatie over hoe te om [!UICONTROL Workfront for Slack] te vormen, zie [&#x200B; Adobe Workfront voor Slack &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=en).
+>Voor informatie over hoe te om [!UICONTROL Workfront for Slack] te vormen, zie [&#x200B; Adobe Workfront voor Slack &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=nl-NL).
 

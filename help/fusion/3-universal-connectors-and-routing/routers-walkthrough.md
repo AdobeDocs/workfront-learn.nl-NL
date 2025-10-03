@@ -105,4 +105,4 @@ Maak in de module Meerdere variabelen instellen voor Pokemon-tekens een variabel
 
 ## Meer informatie? We raden het volgende aan:
 
-[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

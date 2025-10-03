@@ -42,7 +42,7 @@ In de video wordt de nadruk gelegd op de flexibiliteit van Gantt-diagrammen, zod
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
-U kunt meer online met het artikel leren, [&#x200B; worden begonnen met de grafiek van Gantt &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
+U kunt meer online met het artikel leren, [&#x200B; worden begonnen met de grafiek van Gantt &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=nl-NL).
 
 ## Toetsen
 

@@ -39,4 +39,4 @@ Het hulpprogramma Dev beschikt over een aantal geavanceerde functies waarmee u b
 
 ## Meer informatie? We raden het volgende aan:
 
-[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
