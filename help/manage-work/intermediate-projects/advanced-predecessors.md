@@ -12,7 +12,7 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ leer aan opeenvolgingstaken ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=nl-NL)
+>* [ leer aan opeenvolgingstaken ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Of u bent al comfortabel met voorgangers in uw projecten
 
 
@@ -36,10 +36,10 @@ In deze video leert u meer over:
 * Fouten in afhankelijkheidslus
 * Korte bezuinigingen en beste praktijken
 
->[!VIDEO](https://video.tv.adobe.com/v/3454534/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
 
-Voor meer informatie over het gebruiken van predecessors zie [ de taakpredecessors van het Gebruik ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=nl-NL).
+Voor meer informatie over het gebruiken van predecessors zie [ de taakpredecessors van het Gebruik ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html).
 
-Voor meer informatie over taakbeperkingen zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=nl-NL) begrijpen en beheren.
+Voor meer informatie over taakbeperkingen zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html) begrijpen en beheren.
 
-Voor meer informatie over dwars-project predecessors zien [ predecessors begrijpen dwars-project ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=nl-NL).
+Voor meer informatie over dwars-project predecessors zien [ predecessors begrijpen dwars-project ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html).

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: b31a0e6255d7e298ac95b14c308ca3fa5fb8e1d3
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '701'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Wat u gaat leren:
 * Verschillende weergaven in Workfront, zoals de standaardweergave voor planning en de statusweergave voor voortgangscontrole, waaronder markeringen voor voortgang, opmerkingen, documenten, problemen, goedkeuringen, kritieke paden en mijlpalen. Recente activiteiten kunnen worden bijgehouden voor updates en notities.
 * De planning kan van een begindatum of een voltooiingsdatum worden gedaan, waarbij Workfront de overeenkomstige data berekent op basis van de duur van de taak en voorgangers. De video adviseert het plannen van van een begindatum voor kritieke voltooiingsdata om wat spack toe te staan. De beperkingen van de taak, zoals &quot;zo spoedig mogelijk&quot;en &quot;zo laat mogelijk,&quot;worden ook behandeld, tonend hoe zij taak het plannen beïnvloeden. U kunt aangepaste weergaven maken om taakbeperkingen weer te geven.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435841/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

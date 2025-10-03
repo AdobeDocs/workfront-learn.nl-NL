@@ -11,7 +11,7 @@ doc-type: video
 jira: KT-8870
 recommendations: noDisplay,catalog
 exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Bekijk deze video met Workfront Joel Pettigrew, productmanager voor [!UICONTROL Enhanced analytics] , om te leren hoe analyses tot stand zijn gekomen en welke spannende mogelijkheden het mogelijk maakt.
 
->[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on&enablevpops=1)

@@ -1,6 +1,6 @@
 ---
 title: De status van toegewezen werk wijzigen in [!UICONTROL Home]
-description: Leer hoe u de status van toewijzingen wijzigt om aan te geven dat werk wordt uitgevoerd vanaf de pagina [!UICONTROL Home] . Begrijp waarom de status in  [!DNL &#x200B; Workfront] belangrijk is.
+description: Leer hoe u de status van toewijzingen wijzigt om aan te geven dat werk wordt uitgevoerd vanaf de pagina [!UICONTROL Home] . Begrijp waarom de status in  [!DNL  Workfront] belangrijk is.
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ thumbnail: 335101.png
 jira: KT-8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 In deze video leert u:
 
-* Het doel van de status in [!DNL &#x200B; Workfront]
+* Het doel van de status in [!DNL  Workfront]
 * Hoe de status van werktoewijzingen te wijzigen
 
->[!VIDEO](https://video.tv.adobe.com/v/3443436/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
 
 ## Opstarten versus eraan werken
 

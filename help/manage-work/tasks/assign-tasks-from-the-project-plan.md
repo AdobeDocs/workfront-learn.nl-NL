@@ -13,7 +13,7 @@ jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 In de video worden verschillende methoden uitgelegd voor het toewijzen van taken in een projectplan. Het benadrukt het gebruiken van hulpmiddelen zoals filters, malplaatjes, en de eigenschappen van het middelbeheer om taaktaken te stroomlijnen en projectwerkschema&#39;s te optimaliseren.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3445747/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

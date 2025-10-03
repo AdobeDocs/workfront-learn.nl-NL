@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 In de video wordt uitgelegd hoe u een project maakt op basis van een sjabloon. &#x200B; Als u de rechten hebt om een sjabloon te openen, kunt u deze gebruiken als een sneltoets om een project te maken. &#x200B; Open hiertoe de sjabloon, open het menu met drie punten en selecteer &quot;Project maken&quot; &#x200B; Dit neemt u aan het scherm waar u de projectdetails kunt uitgeven. &#x200B; Klik op Project maken als u klaar bent. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3456019/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

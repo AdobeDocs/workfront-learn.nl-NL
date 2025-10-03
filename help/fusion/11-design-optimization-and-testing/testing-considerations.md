@@ -11,7 +11,7 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -32,7 +32,7 @@ In deze video leert u hoe u:
 * Gedetailleerde en deelbare documentatie maken
 * Diepte, breedte, complexiteit en belasting testen
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
 
 ## Controlelijst voor het testen van overwegingen
 
@@ -48,4 +48,4 @@ Prioriteit geven aan testen gedurende de gehele levenscyclus van uw Workfront Fu
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

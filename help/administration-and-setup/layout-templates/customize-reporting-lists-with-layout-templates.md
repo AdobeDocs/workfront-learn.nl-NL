@@ -11,7 +11,7 @@ thumbnail: 335079.png
 jira: KT-8765
 exl-id: 00653fc8-0d12-49de-995a-6068d3fb7a2d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Filters, weergaven en groepen verwijderen
 * Filters, weergaven en groepen toevoegen
 
->[!VIDEO](https://video.tv.adobe.com/v/3432917/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops=1)
 
 ## Standaardwaarden lijst instellen
 

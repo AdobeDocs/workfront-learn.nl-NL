@@ -11,7 +11,7 @@ jira: KT-9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Installeer en gebruik de verschillende gebieden in Workfront Dev Tool om een die
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
->[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335303/?quality=12&learn=on&enablevpops=1)
 
 
 ## Het gereedschap Ontwikkelen downloaden
@@ -39,4 +39,4 @@ Het hulpprogramma Dev beschikt over een aantal geavanceerde functies waarmee u b
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

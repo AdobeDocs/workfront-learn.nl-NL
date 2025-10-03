@@ -11,7 +11,7 @@ thumbnail: 335133.png
 jira: KT-8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u:
 * Een workflow toepassen met een proefdruksjabloon
 * Een geautomatiseerde workflow helemaal opnieuw instellen
 
->[!VIDEO](https://video.tv.adobe.com/v/3453017/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops=1)
 
 
 

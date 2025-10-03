@@ -1,6 +1,6 @@
 ---
 title: Een video met proefafdruk bekijken
-description: Leer hoe u viewerinstellingen aanpast en tijdstempels toevoegt aan een video door proefdrukken uit te voeren in  [!DNL &#x200B; Workfront] .
+description: Leer hoe u viewerinstellingen aanpast en tijdstempels toevoegt aan een video door proefdrukken uit te voeren in  [!DNL  Workfront] .
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,7 +11,7 @@ thumbnail: 335144.png
 jira: KT-8847
 exl-id: 42715056-5edb-4619-8754-d48392677d51
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In deze video leert u hoe u:
 * Met een tijdstempel gemarkeerde opmerkingen toevoegen aan een video
 * De viewerinstellingen aanpassen
 
->[!VIDEO](https://video.tv.adobe.com/v/3444228/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

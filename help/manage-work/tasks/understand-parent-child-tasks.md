@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 In deze video wordt de taakstructuur in Workfront uitgelegd. Taken zijn essentiële onderdelen van een project en vertegenwoordigen de benodigde werkonderdelen voor voltooiing. &#x200B; In de video wordt het belang benadrukt van een nauwkeurige organisatie van taken als een belangrijke stap in de planning en het beheer van projecten. Het toont aan hoe te beginnen met het werken met taken en verklaart de ouder-kind taakverhoudingen.
 &#x200B;Bovenliggende taken fungeren als organisatoren, waarbij het project in fasen, fasen of mijlpalen wordt gegroepeerd en niet aan personen wordt toegewezen. De taken van het kind, of subtasks, vertegenwoordigen actionable werk dat aan teamleden wordt toegewezen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445602/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 0365d4500823639edc167ab296efcb8b0b2291ad
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 De video biedt een overzicht van het beheer van een project nadat de status is gewijzigd in &quot;Huidig&quot; &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3445173/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

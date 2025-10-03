@@ -11,7 +11,7 @@ jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Herzie de uitvoeringsgeschiedenis voor het &quot;Gebruikend het machtige filter&
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
->[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on&enablevpops=1)
 
 
 ## Volledige-tekstzoekopdracht op het tabblad Historie
@@ -60,4 +60,4 @@ Wanneer u op een uitvoering klikt, laadt Workfront Fusion de uitvoering en de mo
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

@@ -13,7 +13,7 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In de video ziet u hoe u voorgangers voor nieuwe taken instelt, zodat de volgord
 &#x200B;Het benadrukt het belang om met voorgangers te werken om hun impact op de projecttijdlijnen te begrijpen en beveelt aan om voor een efficiënte projectplanning gebruik te maken van tijdsduur en voorgangers.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447326/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

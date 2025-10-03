@@ -1,6 +1,6 @@
 ---
 title: Een sjabloon voor een geautomatiseerde workflow bewerken
-description: Leer hoe te om veranderingen in een bestaand geautomatiseerd het proefdrukken werkschemamalplaatje in  [!DNL &#x200B; Workfront] aan te brengen.
+description: Leer hoe te om veranderingen in een bestaand geautomatiseerd het proefdrukken werkschemamalplaatje in  [!DNL  Workfront] aan te brengen.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,7 +12,7 @@ last-substantial-update: 2024-08-08T00:00:00Z
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '535'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Elke fase van een geautomatiseerde workflow heeft een eigen sectie waarin u dead
 
 In deze video worden enkele wijzigingen getoond die u kunt aanbrengen in het gebied [!UICONTROL Workflow] . Raadpleeg de lijst met opsommingstekens in deze video, waarin deze instellingen worden bekeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432619/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
 
 Hier volgen de wijzigingen in de proefdruksjabloon die u kunt aanbrengen in de sectie [!UICONTROL Workflow] :
 
@@ -54,7 +54,7 @@ Hier volgen de wijzigingen in de proefdruksjabloon die u kunt aanbrengen in de s
 * Ga naar het menu met drie punten helemaal rechts van de naam van een ontvanger om deze uit de lijst te verwijderen, ze tot de primaire besluitvormer voor die werkstroomfase te maken of de proefdrukrol en e-mailwaarschuwingsinformatie te bewerken.
 * U hebt twee opties om ontvangers aan de lijst toe te voegen.
    1. Ga in de rechterbovenhoek van elke werkgebiedsectie naar het menu [!UICONTROL More] en selecteer [!UICONTROL Add people to stage] . Nadat u het [!UICONTROL Add people to stage] -venster hebt geopend, klikt u op het werkgebied waaraan u de bestanden wilt toevoegen. Voer vervolgens hun naam of e-mailadres in de lijst met ontvangers in en wijs een proefdrukrol en e-mailwaarschuwing toe. Klik op de knop [!UICONTROL Add people] wanneer u klaar bent.
-   1. Selecteer [!UICONTROL Add people to stage] boven aan het gebied [!UICONTROL Workflow] .
+   1. Selecteer [!UICONTROL Workflow] boven aan het gebied [!UICONTROL Add people to stage] .
 
 ## Sjabloon delen
 

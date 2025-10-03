@@ -11,7 +11,7 @@ jira: KT-9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -24,7 +24,7 @@ In deze video leert u:
 
 * Drie kernconcepten waaruit Workfront Fusion bestaat: scenario&#39;s, apps en modules
 
->[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on&enablevpops=1)
 
 ## Terminologie voor kernbegrippen
 
@@ -38,7 +38,7 @@ In deze video leert u:
 
 Veel Workfront Fusion-gebruikers bereiken een punt waar ze denken aan alle systemen die ze gebruiken en vragen uiteindelijk: &quot;Heeft Workfront Fusion connectors naar ___ software?&quot; (Vul de blanco in voor de systemen die u gebruikt.)
 
-De eenvoudigste manier om te bepalen of Workfront Fusion een vooraf gebouwde connector heeft, is om de functie App toevoegen te gebruiken en een app op naam te zoeken. U kunt de [ Apps en hun modules ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=nl-NL) artikel op Experience League voor een lijst van toepassingen ook controleren Workfront Fusion kan verbinden met.
+De eenvoudigste manier om te bepalen of Workfront Fusion een vooraf gebouwde connector heeft, is om de functie App toevoegen te gebruiken en een app op naam te zoeken. U kunt de [ Apps en hun modules ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) artikel op Experience League voor een lijst van toepassingen ook controleren Workfront Fusion kan verbinden met.
 
 Connectors zijn niet alleen beperkt tot de apps in dit artikel. Als de app waarmee u wilt werken geen vooraf gebouwde aansluiting heeft, kunt u deze modules gebruiken om rechtstreeks verbinding te maken met de webservice:
 

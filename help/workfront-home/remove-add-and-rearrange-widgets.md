@@ -10,7 +10,7 @@ last-substantial-update: 2023-09-25T00:00:00Z
 jira: KT-14017
 thumbnail: 3424529.jpeg
 exl-id: c4e26745-7fdb-4ca2-a968-b1f062afb514
-source-git-commit: de01a10ce6efaa298051eeb58469b16dcf39ba2c
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 Leer widgets op de startpagina verwijderen, toevoegen en opnieuw rangschikken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448979/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops=1)
 
 
 >[!NOTE]
 >
-> Om meer informatie over elke widget te vinden, ga [ begonnen met Nieuw Huis in Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=nl-NL) artikel.
+> Om meer informatie over elke widget te vinden, ga [ begonnen met Nieuw Huis in Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en) artikel.
 

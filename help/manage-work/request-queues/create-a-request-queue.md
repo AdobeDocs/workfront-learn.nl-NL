@@ -13,7 +13,7 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 De video biedt een stapsgewijze handleiding voor het maken van een aanvraagwachtrij in Workfont. &#x200B; De video eindigt door aan te tonen hoe te om een verzoek te verzenden gebruikend de pas gecreëerde rij, die het proces toont om details in te gaan en de voorlegging te verifiëren op het &quot;voorgelegde verzoeken&quot;lusje. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

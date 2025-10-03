@@ -13,7 +13,7 @@ last-substantial-update: 2024-06-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Geplande uren zijn van cruciaal belang voor het beheer van de hulpbronnen in Wor
 Zij helpen ook de tijd die aan taken wordt besteed te volgen, toekomstige ramingen te verbeteren, en verwachtingen met werknemers te verduidelijken.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3445339/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
 
 
 ## Toetsen
@@ -44,5 +44,5 @@ Zij helpen ook de tijd die aan taken wordt besteed te volgen, toekomstige raming
 * [Begrijp taakduur](/help/manage-work/tasks/understand-task-durations.md)
 * [Leren om taken uit te voeren](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Begrijpen [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
-* [ Overzicht van Tijdopnamen ](https://experienceleague.adobe.com/nl/docs/workfront/using/timesheets/details/timesheets-overview)
-* [ tijd van het Logboek ](https://experienceleague.adobe.com/nl/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+* [ Overzicht van Tijdopnamen ](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
+* [ tijd van het Logboek ](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

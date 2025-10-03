@@ -1,6 +1,6 @@
 ---
 title: Navigeren door de proefdrukviewer
-description: Leer hoe te om een proef te bewegen rond, binnen te zoemen of uit op de inhoud, de duimnagelkolom, de commentaren van de filterproefdruk, en meer in de  [!DNL &#x200B; Workfront]  het proefdrukken kijker te gebruiken.
+description: Leer hoe te om een proef te bewegen rond, binnen te zoemen of uit op de inhoud, de duimnagelkolom, de commentaren van de filterproefdruk, en meer in de  [!DNL  Workfront]  het proefdrukken kijker te gebruiken.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,7 +11,7 @@ thumbnail: 335140.png
 jira: KT-8840
 exl-id: 1534a43f-1c52-4078-b47b-11d96b7b5c98
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In deze video leert u hoe u:
 * De kolom Opmerkingen filteren
 * De proefdruk sluiten
 
->[!VIDEO](https://video.tv.adobe.com/v/3449858/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on&enablevpops=1)
 
 <!-- 
 ## Learn more

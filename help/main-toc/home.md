@@ -1,19 +1,19 @@
 ---
-title: Workfront Tutorials
+title: Workfront-zelfstudies
 description: Een bibliotheek met trainingsvideo's en artikelen die zijn ontworpen om u te helpen de functies en instellingen van Workfront beter te begrijpen.  Hieronder vindt u een verzameling van best practices, gekrulde oefeningen en andere bronnen die u en uw organisatie helpen om met Workfront succesvol te zijn.
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 2d9e6ca1aa49d223d99d71d78b295614160281e4
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Workfront Tutorials {#overview}
+# Workfront-zelfstudies {#overview}
 
 Een bibliotheek met trainingsvideo&#39;s en artikelen die zijn ontworpen om u te helpen de functies en instellingen van Workfront beter te begrijpen.  Hieronder vindt u een verzameling van best practices, gekrulde oefeningen en andere bronnen die u en uw organisatie helpen om met Workfront succesvol te zijn.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428920/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops=1)
 
 <!-- 
 

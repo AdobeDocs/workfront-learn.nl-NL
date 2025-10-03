@@ -1,6 +1,6 @@
 ---
 title: Een proefdrukversie uploaden
-description: Leer hoe te om een nieuwe versie van een proef te uploaden en een het proefdrukken werkschema op de versie in  [!DNL &#x200B; Workfront] toe te passen.
+description: Leer hoe te om een nieuwe versie van een proef te uploaden en een het proefdrukken werkschema op de versie in  [!DNL  Workfront] toe te passen.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,7 +11,7 @@ thumbnail: 336096.png
 jira: KT-8836
 exl-id: 57774ffc-a3e3-4802-9ea2-75ab47c7cc11
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In deze video leert u hoe u:
 * Nieuwe versie van proefdruk uploaden
 * Een proefdrukworkflow toepassen op de versie
 
->[!VIDEO](https://video.tv.adobe.com/v/3441857/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
 
 ## Een versie uploaden vanuit de proefdrukviewer
 

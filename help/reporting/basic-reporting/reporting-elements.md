@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: 7a6bf5fe51622de59749b821009e5d645d04719f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -24,7 +24,7 @@ De video verklaart hoe te om Workfront te gebruiken rapporteert elementen-filter
 
 De video laat ook zien hoe u rapportelementen kunt aanpassen en delen met anderen. &#x200B; Met deze gereedschappen kunnen gebruikers hun lijst met rapporten aanpassen aan hun behoeften voor een betere zichtbaarheid en een beter beheer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447794/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

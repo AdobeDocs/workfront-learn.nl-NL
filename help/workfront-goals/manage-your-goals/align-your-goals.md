@@ -1,6 +1,6 @@
 ---
 title: Lijn uw doelstellingen uit
-description: Leer hoe u door de pagina [!UICONTROL Goal Alignment] in [!DNL &#x200B;  Doelen].
+description: Leer hoe u door de pagina [!UICONTROL Goal Alignment] in [!DNL   Doelen].
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 0%
@@ -52,4 +52,4 @@ In deze video leert u hoe u:
 * Richt doelstellingen gebruikend zowel een bottom-up als een top-down benadering
 * Navigeren door de sectie [!UICONTROL Goal Alignment]
 
->[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops=1)

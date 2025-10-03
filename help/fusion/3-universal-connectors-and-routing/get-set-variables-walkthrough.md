@@ -11,7 +11,7 @@ jira: KT-9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Zoek informatie over een project in Workfront en verzend een e-mail met verwante
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
->[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on&enablevpops=1)
 
 
 ## Uw beurt
@@ -45,4 +45,4 @@ Maak een kloon van het &quot;het Delen variabelen tussen het verpletteren van we
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

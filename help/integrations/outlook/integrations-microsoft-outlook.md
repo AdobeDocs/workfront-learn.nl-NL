@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Leer hoe te om [!UICONTROL Microsoft Outlook Add-in] te installeren om de **kale
 
 U kunt de instellingen voor **[!DNL Workfront Home calendar]** als volgt configureren:
 
-* Integreer met een webversie van [!DNL Outlook] in een door de cloud gehoste versie [!DNL Office 365] of [!DNL Outlook Live] . U kunt alle gebeurtenissen in uw [!DNL Workfront] [!UICONTROL Home Calendar] kalender en alle bijbehorende kalenders die u selecteert, zoals verjaardagen en feestdagen, weergeven.[!DNL Outlook]
+* Integreer met een webversie van [!DNL Outlook] in een door de cloud gehoste versie [!DNL Office 365] of [!DNL Outlook Live] . U kunt alle gebeurtenissen in uw [!DNL Outlook] [!DNL Workfront] kalender en alle bijbehorende kalenders die u selecteert, zoals verjaardagen en feestdagen, weergeven.[!UICONTROL Home Calendar]
 
 * Help u uw werkbelasting te volgen op basis van uw beschikbare werkuren op de toewijzingsbalk.
 
@@ -32,9 +32,9 @@ In deze video leert u hoe u:
 
 * De invoegtoepassing Microsoft Outlook installeren
 
->[!VIDEO](https://video.tv.adobe.com/v/3431662/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >
->Als u de Workfront Add-in niet kunt vinden zoals beschreven in de video, moet uw IT-afdeling mogelijk eerst een aantal installatiewerkzaamheden uitvoeren. De gedetailleerde instructies kunnen in [ Opstelling Adobe Workfront voor Vooruitzichten ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=nl-NL) worden gevonden.
+>Als u de Workfront Add-in niet kunt vinden zoals beschreven in de video, moet uw IT-afdeling mogelijk eerst een aantal installatiewerkzaamheden uitvoeren. De gedetailleerde instructies kunnen in [ Opstelling Adobe Workfront voor Vooruitzichten ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html) worden gevonden.
 

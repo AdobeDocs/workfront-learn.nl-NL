@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: ed10cc29-d0dd-4b15-abd8-da1758399f8b
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -31,7 +31,7 @@ In deze video zult u:
 * Begrijp de waarde van projectmalplaatjes wanneer het toewijzen van taken
 * Begrijp de waarde van het toewijzen van taken aan teams
 
->[!VIDEO](https://video.tv.adobe.com/v/3445747/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more urls:

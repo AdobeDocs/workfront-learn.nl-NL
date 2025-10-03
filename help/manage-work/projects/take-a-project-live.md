@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 In de video wordt uitgelegd wat de laatste stappen zijn om een project live te zetten door de status te wijzigen in &quot;current&quot; &#x200B; Alvorens dit te doen, benadrukt het het herzien van zeer belangrijke projectelementen, met inbegrip van taaknamen, duur, geplande uren, voordecessors, begin en voltooiingsdata, en taken om ervoor te zorgen alles nauwkeurig en behoorlijk wordt geplaatst. &#x200B; Zodra het project levend is, zal de projectmanager berichten ontvangen die op globale en persoonlijke montages worden gebaseerd, en het project zal in rapporten en filters voor actieve projecten verschijnen. &#x200B; Dit is het officiële begin van het werk. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3438993/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

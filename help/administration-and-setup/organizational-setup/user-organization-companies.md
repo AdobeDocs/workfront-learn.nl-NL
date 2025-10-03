@@ -11,7 +11,7 @@ thumbnail: 335069.png
 jira: KT-8757
 exl-id: 1a48aa59-ae69-4bd9-843c-8edfc0bdb517
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -25,4 +25,4 @@ In deze video leert u:
 * Definitie van Workfront-ondernemingen
 * Hoe te om bedrijven en vereniging tot stand te brengen
 
->[!VIDEO](https://video.tv.adobe.com/v/3432856/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on&enablevpops=1)

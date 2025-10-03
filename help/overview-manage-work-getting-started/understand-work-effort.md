@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 hide: true
 exl-id: 09a06302-1cce-4023-bd73-5b8dbe6531e4
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -28,9 +28,9 @@ In deze video leert u:
 * Werkinspanning gebruiken
 * Hoe te om een de taakmening van de Werkinspanning tot stand te brengen
 
->[!VIDEO](https://video.tv.adobe.com/v/3447405/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
-Voor meer informatie over [!UICONTROL Work Effort], zie het [ het overzicht van de Werkinspanning van het Werk ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=nl-NL) artikel.
+Voor meer informatie over [!UICONTROL Work Effort], zie het [ het overzicht van de Werkinspanning van het Werk ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

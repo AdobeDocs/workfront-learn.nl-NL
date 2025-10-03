@@ -13,7 +13,7 @@ jira: KT-13737
 doc-type: video
 hide: true
 exl-id: 1ed29279-3452-49db-976a-157e4ed4c678
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Predecessors voor verschillende projecten zijn een eenvoudige manier om afhankel
 
 >[!PREREQUISITES]
 >
->* [ leer aan opeenvolgingstaken ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=nl-NL)
+>* [ leer aan opeenvolgingstaken ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=en)
 >* Of u bent al comfortabel met voorgangers in uw projecten
 
 
@@ -36,6 +36,6 @@ In deze video leert u:
 * Een voorganger voor meerdere projecten maken
 * Hoe te om dwars-project predecessors in rapporten te volgen
 
->[!VIDEO](https://video.tv.adobe.com/v/3428949/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
-Leer hoe te om tot het **dwars-project predecessors en de opvolgers** mening en **dwars-project predecessors en opvolgers** rapport te leiden dat in de video wordt gebruikt, [ basistekstwijze voor meningen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=nl-NL) leerprogramma begrijpen en zeker zijn en de voorwaarde daar vermelde leerprogramma&#39;s nemen, als u moet.
+Leer hoe te om tot het **dwars-project predecessors en de opvolgers** mening en **dwars-project predecessors en opvolgers** rapport te leiden dat in de video wordt gebruikt, [ basistekstwijze voor meningen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=en) leerprogramma begrijpen en zeker zijn en de voorwaarde daar vermelde leerprogramma&#39;s nemen, als u moet.

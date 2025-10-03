@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8965
 exl-id: fdda9461-e96d-4e34-8d80-99059e5394b0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 [!UICONTROL Workfront DAM] is een DAM-oplossing (Digital Asset Management) die speciaal is ontwikkeld voor het beheren, beheren en publiceren van uw marketing en creatieve middelen. Deze kan worden gebruikt in combinatie met workflows die u al hebt in [!DNL Workfront] , waar u projecten, taaktoewijzingen en andere taken kunt beheren. Gebruik [!DNL Workfront] om elementaanvragen te maken en vervolgens de productie en revisie van elementen te beheren. Voltooide en goedgekeurde elementen cureren, opslaan en distribueren met [!UICONTROL Workfront DAM] .
 
 
-Als systeembeheerder bent u verantwoordelijk voor het instellen en onderhouden van [!UICONTROL Workfront DAM] . U hebt uw belanghebbenden nodig om inzicht te verschaffen in hun processen, zodat u hen een systeem kunt bieden dat aan hun behoeften voldoet. Deze belanghebbenden kunnen onder meer:
+Als systeembeheerder bent u verantwoordelijk voor het instellen en onderhouden van [!UICONTROL Workfront DAM] . U hebt uw belanghebbenden nodig om insight in hun processen te voorzien, zodat u hen een systeem kunt bieden dat aan hun behoeften voldoet. Deze belanghebbenden kunnen onder meer:
 
 * Interne klanten, zoals verkoopmanagers, advertenties of marketingspecialisten
 * Productiebeheerder
@@ -35,4 +35,4 @@ In deze video zult u:
 * Elementen zoeken en weergeven
 * Onderzoek hoe de omslagstructuur activaorganisatie en toegang beïnvloedt
 
->[!VIDEO](https://video.tv.adobe.com/v/3431628/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops=1)

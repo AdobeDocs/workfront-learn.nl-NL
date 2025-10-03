@@ -12,7 +12,8 @@ jira: KT-17578
 last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
@@ -23,14 +24,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ creeer een verzoekstroom ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [ creeer globaal en een enig-gebruiks goedkeuringsproces ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [ creeer een verzoekstroom ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [ creeer globaal en een enig-gebruiks goedkeuringsproces ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
 De video legt uit hoe een standaardgoedkeuringsproces wordt toegepast bij het maken van een aanvraagwachtrij. &#x200B; Wanneer een verzoek wordt gecreeerd, begint het met de status &quot;Nieuw - in afwachting van Goedkeuring,&quot;en een goedkeuringsbericht wordt verzonden naar de aangewezen fiatteur. &#x200B; Indien goedgekeurd, verandert de status in &quot;Nieuw,&quot;toestaand individuen om met het werk te beginnen. &#x200B; Als deze wordt geweigerd, wordt de status mogelijk ten onrechte teruggezet op &quot;Nieuw&quot; vanwege een algemene fout in de instelling van het goedkeuringsproces. &#x200B;
 De video benadrukt dat het goedkeuringsproces wordt teweeggebracht wanneer de status aan &quot;Nieuw wordt geplaatst,&quot;dat het gebrek voor nieuwe verzoeken is. &#x200B; Als deze optie wordt afgewezen, verandert de status standaard terug naar de vorige status, wat niet ideaal is voor nieuwe aanvragen. &#x200B; In plaats daarvan moet een andere status worden gekozen, bijvoorbeeld &quot;Geen oplossing&quot;. &#x200B; De video merkt ook op dat er geen &quot;Geweigerde&quot;status door gebrek wordt verstrekt, maar een systeembeheerder kan tot creëren indien nodig. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3455030/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 
@@ -46,4 +47,4 @@ De video benadrukt dat het goedkeuringsproces wordt teweeggebracht wanneer de st
 * [Taken, problemen en goedkeuringen delegeren](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [Groepsspecifieke goedkeuringsprocedures begrijpen](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [Een aanvraagstroom maken](/help/manage-work/request-queues/create-a-request-flow.md)
-* [ creeer globaal en een enig-gebruiks goedkeuringsproces ](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [ creeer globaal en een enig-gebruiks goedkeuringsproces ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

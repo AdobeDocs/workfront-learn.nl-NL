@@ -12,7 +12,7 @@ jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -35,12 +35,12 @@ Fusion is een add-on product dat in sommige Workfront-pakketten is opgenomen en 
 
 Als u iets wilt doen in Fusion, moet u lid zijn van een team binnen een organisatie. Uw beheerder van het Fusiesysteem zal teams in uw organisatie tot stand brengen en zal gebruikers uitnodigen om op één of meerdere teams te zijn.
 
-Uw beheerder van het Fusion-systeem stuurt u een nieuwe gebruikersuitnodiging, die zal bestaan uit twee e-mails. Wanneer u beide e-mails hebt ontvangen volg de instructies in [ Login als nieuwe gebruiker ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=nl-NL).
+Uw beheerder van het Fusion-systeem stuurt u een nieuwe gebruikersuitnodiging, die zal bestaan uit twee e-mails. Wanneer u beide e-mails hebt ontvangen volg de instructies in [ Login als nieuwe gebruiker ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/log-in-as-a-new-user.html?lang=en).
 
 Als u de beheerder van het Systeem van de Fusie bent zult u de volgende leerprogramma&#39;s willen raadplegen om te leren hoe te om teams tot stand te brengen en nieuwe gebruikers toe te voegen.
 
-* [ begrijp organisaties, teams, en gebruikers ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=nl-NL)
-* [ Analyse van het Beleid ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=nl-NL)
+* [ begrijp organisaties, teams, en gebruikers ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/understand-organizations-teams-and-users.html?lang=en)
+* [ Analyse van het Beleid ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/workfront-fusion-administration/administration-walkthrough.html?lang=en)
 
 ## Inleiding en technologiestrategie
 
@@ -50,4 +50,4 @@ In deze video ziet u:
 * Fusion core- en ontwerpmogelijkheden
 * Een Fusion-voorbeeldscenario
 
->[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops=1)

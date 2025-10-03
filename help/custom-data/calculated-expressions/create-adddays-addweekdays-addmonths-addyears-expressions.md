@@ -11,9 +11,9 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ In deze video leert u:
 * Wat de expressies ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR berekenen
 * Een ADDWEEKDAYS-gegevensexpressie maken in een berekend veld
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops=1)
 
 ## Aanvullende voorbeelden
 
@@ -50,4 +50,4 @@ De klant legt de datum vast waarop een factuur is verzonden via een aangepast da
 
 Zodra de factuur is verzonden, moet deze binnen 30 dagen worden ingevuld en ingediend. Om die voltooiing en het indienen van datum automatisch te produceren, wordt een berekend gebied ADDDAYS gebruikt samen met het de douaneveld van de Datum van de Verzending van de factuur. De expressie ziet er als volgt uit:
 
-ADDDAYS({DE:Invoice-verzenddatum},30)
+ADDDAYS({DE:Invoice Submission Date},30)

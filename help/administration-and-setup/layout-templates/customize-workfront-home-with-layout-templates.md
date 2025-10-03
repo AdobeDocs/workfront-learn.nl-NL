@@ -11,7 +11,7 @@ thumbnail: 335081.jpeg
 jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Leer hoe u uw gebruikers in [!UICONTROL Home] -gebied kunt aanpassen om snel en eenvoudig werk te openen, te volgen, goed te keuren en bij te werken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432784/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
 
 <br>
 </br>
@@ -37,4 +37,4 @@ In deze video leert u hoe u:
 * Items verwijderen uit [!UICONTROL Home]
 * Items toevoegen aan [!UICONTROL Home]
 
->[!VIDEO](https://video.tv.adobe.com/v/3432317/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)

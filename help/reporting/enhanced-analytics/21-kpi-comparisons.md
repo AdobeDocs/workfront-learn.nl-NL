@@ -12,7 +12,7 @@ jira: KT-8739
 recommendations: noDisplay,catalog
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -27,4 +27,4 @@ In deze video leert u:
 * Het datumbereik wijzigen
 * Hoe te om KPIs met twee verschillende filters naast elkaar te vergelijken
 
->[!VIDEO](https://video.tv.adobe.com/v/3440253/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops=1)

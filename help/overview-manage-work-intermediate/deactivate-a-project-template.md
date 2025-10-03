@@ -14,7 +14,7 @@ doc-type: video
 recommendations: noDisplay,catalog
 hide: true
 exl-id: d1246b53-922e-44f5-b4db-c68afa974c71
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -28,11 +28,11 @@ In deze video leert u:
 * Hoe te om een projectmalplaatje te delen dat rechten verleent om het te activeren en te deactiveren.
 * Een projectsjabloon activeren en deactiveren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444996/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 ## Leer hoe u een aangepaste weergave maakt om de actieve status van projectsjablonen te bekijken en te bewerken
 
-Om een mening van het projectmalplaatje met een actieve statuskolom tot stand te brengen, zie de **actieve de statusmening van het malplaatje van het Project** activiteit in [ een basismening ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=nl-NL) creëren.
+Om een mening van het projectmalplaatje met een actieve statuskolom tot stand te brengen, zie de **actieve de statusmening van het malplaatje van het Project** activiteit in [ een basismening ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en) creëren.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

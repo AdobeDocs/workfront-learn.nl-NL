@@ -12,7 +12,7 @@ jira: kt-8857
 last-substantial-update: 2025-04-30T00:00:00Z
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
 doc-type: video
-source-git-commit: af53d11fcf3e81c8ea0176f4db9dcec77e9195ed
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 In deze video wordt uitgelegd hoe u in Workfront filters kunt maken en gebruiken om lijstrapporten aan te passen op basis van specifieke criteria. &#x200B; Met filters kunnen gebruikers omlaag gaan met lijsten, zoals taken, projecten of documenten, door voorwaarden te definiëren. &#x200B; Alleen items die overeenkomen met de filtervoorwaarden en toegankelijk zijn voor de aangemelde gebruiker, worden in de lijst weergegeven. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

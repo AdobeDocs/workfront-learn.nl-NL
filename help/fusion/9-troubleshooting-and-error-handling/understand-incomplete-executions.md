@@ -11,7 +11,7 @@ jira: KT-9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In deze video leert u:
 * Onvolledige executies
 * Hoe te om een fout te behandelen die in een onvolledige uitvoering resulteert
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops=1)
 
 ## Fouten die leiden tot onvolledige uitvoeringen
 
@@ -45,4 +45,4 @@ Als een fout op een andere module voorkomt en er geen route van de foutenmanager
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

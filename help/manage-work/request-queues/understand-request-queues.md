@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 In deze video wordt het concept &#39;Request Queues&#39; in Workfront uitgelegd, evenals het doel en de manier waarop verzoeken moeten worden verzonden en beheerd. &#x200B; De Queues van het verzoek dienen als gecentraliseerde plaats voor het voorleggen van diverse soorten verzoeken. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447016/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

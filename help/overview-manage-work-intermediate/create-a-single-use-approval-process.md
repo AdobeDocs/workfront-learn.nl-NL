@@ -12,7 +12,7 @@ jira: KT-8962
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Wanneer de objectstatus verandert in een status die is opgegeven in het goedkeur
 
 In deze video leert u hoe u een algemeen goedkeuringsproces en een goedkeuringsproces voor één gebruik kunt maken voor een project, taak of uitgave.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434693/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

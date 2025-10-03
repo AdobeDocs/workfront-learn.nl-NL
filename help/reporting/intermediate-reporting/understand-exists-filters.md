@@ -10,7 +10,8 @@ level: Intermediate
 jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
-source-git-commit: 7be0b8cce9cba04927d6704d0009b482bbcf4b41
+exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 0%
@@ -23,9 +24,9 @@ BESTAANDE filters zijn geavanceerd, de filters van de tekstwijze, die ons toesta
 
 In deze video leert u hoe u een EXISTS-filter kunt maken om &quot;Goedkeuring proef voor huidige projecten&quot; te zien in een rapport met proefdrukgoedkeuringen.
 
-Voor een meer diepgaande analyse op hoe BESTAAT de functie, gelieve [ te zien de complexe filters van de Wijze van de Tekst gebruikend EXISTS verklaringen ](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) documentatie creëren.
+Voor een meer diepgaande analyse op hoe BESTAAT de functie, gelieve [ te zien de complexe filters van de Wijze van de Tekst gebruikend EXISTS verklaringen ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) documentatie creëren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471209/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## Voorbeelden van bestaande filters
 

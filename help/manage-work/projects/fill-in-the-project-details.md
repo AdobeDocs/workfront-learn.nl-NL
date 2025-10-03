@@ -12,10 +12,10 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 In deze video leert u meer over de meest gebruikte projectinstellingen die u nodig hebt bij het maken van een project.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 
@@ -37,8 +37,8 @@ In deze video leert u meer over de meest gebruikte projectinstellingen die u nod
 
 ## Aanbevolen zelfstudies en artikelen over dit onderwerp
 
-* [Basisproject maken](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Inzicht in maken van basisprojecten](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Navigeren door de projectpagina](/help/manage-work/projects/navigate-the-project-page.md)
 * [Leer vier manieren om een project te maken](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Aan de slag met het plannen van een project](/help/manage-work/projects/getting-started-plan-a-project.md)
-* [ geeft projecten ](https://experienceleague.adobe.com/nl/docs/workfront/using/manage-work/projects/manage-projects/edit-projects) uit
+* [ geeft projecten ](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects) uit

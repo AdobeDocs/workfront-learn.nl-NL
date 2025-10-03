@@ -1,6 +1,6 @@
 ---
 title: Hoe kan ik uren aan werk inloggen in [!UICONTROL Home]
-description: Leer hoe te om tijd op het werktaken in  [!DNL &#x200B; Workfront] te registreren. Begrijp waarom het registreren tijd bij uw organisatie kan worden vereist.
+description: Leer hoe te om tijd op het werktaken in  [!DNL  Workfront] te registreren. Begrijp waarom het registreren tijd bij uw organisatie kan worden vereist.
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In deze video leert u:
 * De waarde van logboektijd
 * Hoe te tijd op werktaken registreren
 
->[!VIDEO](https://video.tv.adobe.com/v/3438604/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
 
 ## Tips voor het aanmelden van uren op werk in [!DNL Home]
 

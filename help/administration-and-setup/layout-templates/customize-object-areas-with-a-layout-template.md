@@ -1,6 +1,6 @@
 ---
 title: Objectvlakken aanpassen met een lay-outsjabloon
-description: Leer hoe te om een lay-outmalplaatje te gebruiken om, punten in het linkerpaneelmenu toe te voegen te verwijderen en te herschikken in  [!DNL &#x200B; Workfront].
+description: Leer hoe te om een lay-outmalplaatje te gebruiken om, punten in het linkerpaneelmenu toe te voegen te verwijderen en te herschikken in  [!DNL  Workfront].
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -11,7 +11,7 @@ thumbnail: 335075.png
 jira: KT-8763
 exl-id: 5f4845ec-3107-4519-aac6-d5ec868202fa
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -26,4 +26,4 @@ In deze video leert u hoe u:
 * Items toevoegen aan het menu van het linkerdeelvenster
 * Items opnieuw rangschikken in het deelvenstermenu
 
->[!VIDEO](https://video.tv.adobe.com/v/3432897/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on&enablevpops=1)

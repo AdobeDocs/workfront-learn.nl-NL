@@ -13,7 +13,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 In de video wordt uitgelegd hoe de voortgang van het project wordt bijgehouden met behulp van Projectmetriek. &#x200B; Het toont de toegang tot van het lusje van Metriek in het linkerpaneel van een project, dat het scrollen en het klikken &quot;Meer tonen kan vereisen.&quot; In het KPI-gebied bovenaan ziet u de belangrijkste prestatie-indicatoren, zoals voltooide, onvolledige en achterstallige taken. &#x200B; Gebruikers kunnen op indicatoren klikken om specifieke taken weer te geven en grafieken gebruiken om taken of problemen per status of prioriteit te groeperen. &#x200B; Als u de muis over kolommen beweegt, worden er hoeveelheden weergegeven en ziet u in het diagram de verhouding tussen voltooide en onvolledige taken of problemen. &#x200B; Metrische gegevens kunnen taken van de ontvanger ook weergeven op basis van hun status (voltooid, onvolledig, komend of achterstallig). &#x200B; Voorkeuren voor het weergeven van metriek worden opgeslagen voor toekomstige bezoeken. &#x200B; Ten slotte ziet u in de video hoe u de metrische pagina met de knop Exporteren als een PNG-bestand kunt exporteren. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439176/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

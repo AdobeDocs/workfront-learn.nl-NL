@@ -1,6 +1,6 @@
 ---
 title: Een proefdrukworkflow bewerken
-description: Leer hoe te om een proefdrukdeadline bij te werken, gebruikers aan een bestaand werkschema toe te voegen, en een bestaand werkschema aan een geautomatiseerde werkschema in  [!DNL &#x200B; Workfront] te schakelen.
+description: Leer hoe te om een proefdrukdeadline bij te werken, gebruikers aan een bestaand werkschema toe te voegen, en een bestaand werkschema aan een geautomatiseerde werkschema in  [!DNL  Workfront] te schakelen.
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,7 +11,7 @@ thumbnail: 335138.png
 jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Gebruikers toevoegen aan een bestaande workflow
 * Een bestaande workflow overschakelen op een geautomatiseerde workflow
 
->[!VIDEO](https://video.tv.adobe.com/v/3445458/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops=1)
 
 ## Uw beurt
 

@@ -12,10 +12,10 @@ jira: KT-8856
 last-substantial-update: 2025-05-15T00:00:00Z
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0755d62240ab307d3759c47c4561264cb4baadab
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '411'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -34,7 +34,7 @@ Hieronder vindt u stapsgewijze instructies.
 
 1. Navigeer naar het [!UICONTROL Projects] -gebied vanuit [!UICONTROL Main Menu] . Dit toont u een lijst van projecten.
 1. Klik op het menu **[!UICONTROL Filter]** en selecteer [!UICONTROL Legacy Filters] als dit nog niet het geval is.
-1. Selecteer **[!UICONTROL New Filter]** .
+1. Selecteer **[!UICONTROL New Filter]**.
 1. Geef het filter de naam &quot;Alle projecten in het marketingportfolio&quot;.
 1. Klik op **[!UICONTROL Add Filter Rule]**.
 1. Klik op **selecteer een gebied** gebied en begin de woorden &quot;[!UICONTROL portfolio name] te typen.&quot; Selecteer vervolgens [!UICONTROL Name] onder de veldbron van [!UICONTROL Portfolio] .
@@ -49,7 +49,7 @@ In deze video maakt u een projectfilter met de naam &quot;Projecten waarvan ik e
 
 Hieronder vindt u stapsgewijze instructies.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443385/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops=1)
 
 ## Antwoord op Activiteit 2
 
@@ -57,7 +57,7 @@ Hieronder vindt u stapsgewijze instructies.
 
 1. Navigeer naar het [!UICONTROL Projects] -gebied vanuit [!UICONTROL Main Menu] . Dit toont u een lijst van projecten.
 1. Klik op het menu **[!UICONTROL Filter]** en selecteer [!UICONTROL Legacy Filters] als dit nog niet het geval is.
-1. Selecteer **[!UICONTROL New Filter]** .
+1. Selecteer **[!UICONTROL New Filter]**.
 1. Geef uw filter de naam &quot;Projecten waarvan ik eigenaar ben en die deze maand worden gesloten&quot;.
 1. Klik op **[!UICONTROL Add Filter Rule]**.
 1. Klik op **selecteer een gebied** gebied en begin het woord &quot;Eigenaar.&quot; te typen Klik nu op Eigenaar-id onder het veld [!UICONTROL Project] .

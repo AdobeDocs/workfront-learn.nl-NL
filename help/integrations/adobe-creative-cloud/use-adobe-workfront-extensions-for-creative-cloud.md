@@ -13,7 +13,7 @@ exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="Integratie" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -33,9 +33,9 @@ Integreer Workfront met Creative Cloud om het werk te vinden en bij te werken da
 
 U moet de juiste insteekmodule installeren voor de Adobe Creative Cloud-toepassing die u gebruikt:
 
-* Voor Photoshop, zie [ Adobe Workfront voor Photoshop installeren en openen ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=nl-NL&)
-* Voor XD, zie [ Adobe Workfront voor XD installeren en openen ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=nl-NL&)
-* Voor InDesign, Illustrator, Premiere Pro, en After Effects, zie [ Adobe Workfront voor ontwerp en video installeren en openen ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=nl-NL&)
+* Voor Photoshop, zie [ Adobe Workfront voor Photoshop installeren en openen ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
+* Voor XD, zie [ Adobe Workfront voor XD installeren en openen ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
+* Voor InDesign, Illustrator, Premiere Pro, en After Effects, zie [ Adobe Workfront voor ontwerp en video installeren en openen ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
 
 >[!NOTE]
 >
@@ -52,4 +52,4 @@ In deze video leert u het volgende doen vanuit uw Creative Cloud-app:
 * Logtijd
 * Uw werk markeren voltooid
 
->[!VIDEO](https://video.tv.adobe.com/v/3431667/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)

@@ -13,7 +13,7 @@ exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 De video bevat een gids over het beheer van valuta&#39;s in het Workfront-systeem voor financiële controle. &#x200B; Het legt uit dat de standaardvaluta de Amerikaanse dollar is, maar er kunnen wereldwijd extra valuta&#39;s worden ingesteld, of voor afzonderlijke projecten en functies.
 In de video wordt benadrukt dat het systeem geen actuele wisselkoersen biedt, zodat gebruikers deze extern moeten aanschaffen. &#x200B; Zodra geplaatst, worden de wisselkoersen het gebrek voor projecten of baanrollen maar niet automatisch bijwerken; de gebruikers met aangewezen toestemmingen moeten hen manueel bijwerken. &#x200B; Na het instellen van valuta&#39;s kunnen gebruikers nieuwe projecten maken en een keuze maken uit de beschikbare valutaopties, waarbij ze de wisselkoersen voor afzonderlijke projecten kunnen aanpassen. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

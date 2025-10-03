@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '787'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Navigeren door de projectpagina
 
-Deze video biedt een overzicht van het navigeren en beheren van de projectpagina in Workfront. &#x200B; Belangrijkste kenmerken zijn:
+Deze video biedt een overzicht van het navigeren en beheren van de projectpagina in Workfront. &#x200B; De belangrijkste functies zijn onder meer:
 
 * **Kopbal van het Project:** toont essentiële informatie zoals volledig percentage, projectmanager, geplande voltooiingsdatum, projectvoorwaarde, en status. &#x200B; De status helpt het werkgebied van het project bij te houden en activeert meldingen. &#x200B;
 * **BreadcrumbNavigatie:** toont de plaatsing van het project binnen het programma en de portefeuille van de organisatie, met klikbare verbindingen voor gemakkelijke navigatie. &#x200B;
@@ -33,7 +33,7 @@ Deze video biedt een overzicht van het navigeren en beheren van de projectpagina
 * **Sectie van Documenten:** laat het uploaden en het leiden van project-verwante dossiers en proeven toe. &#x200B; Documenten die zijn gekoppeld aan taken worden uitgebreid tot het projectniveau, zodat u ze gemakkelijk kunt openen. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449732/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 
@@ -70,7 +70,7 @@ De projectpagina is gevuld met vele eigenschappen om u te helpen uw werk leiden.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Basisproject maken](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Inzicht in maken van basisprojecten](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Leer vier manieren om een project te maken](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [De projectdetails invullen](/help/manage-work/projects/fill-in-the-project-details.md)
 

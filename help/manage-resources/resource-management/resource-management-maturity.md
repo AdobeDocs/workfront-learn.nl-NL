@@ -11,7 +11,7 @@ thumbnail: 335160.png
 jira: KT-8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Sommigen van jullie zijn echter wellicht verder op weg naar beheersing van hulpb
 
 ## Vier stadia van de rijpheid van het middelenbeheer
 
->[!VIDEO](https://video.tv.adobe.com/v/3431657/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops=1)
 
 
 ## Hoe verder?

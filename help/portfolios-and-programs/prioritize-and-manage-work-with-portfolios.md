@@ -12,7 +12,7 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In de video wordt uitgelegd hoe u het Portfolio Optimization-hulpprogramma in Wo
 
 De video benadrukt het belang van het voltooien van bedrijfsgevallen voor nauwkeurige vergelijkingen en geeft stapsgewijze instructies voor het effectief optimaliseren en beheren van projectprioriteiten. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3446281/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

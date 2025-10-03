@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 56b8ea1a-d0cc-47ec-8d88-5f0ef204656f
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -30,7 +30,7 @@ In deze video leert u:
 * Hoe u geplande uren inschat
 * Hoe te om geplande uren aan taken toe te voegen
 
->[!VIDEO](https://video.tv.adobe.com/v/3445339/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
 
 
 ## Aanbevolen zelfstudies en artikelen over dit onderwerp
@@ -38,5 +38,5 @@ In deze video leert u:
 * [Begrijp taakduur](/help/manage-work/tasks/understand-task-durations.md)
 * [Leren om taken uit te voeren](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [Begrijpen [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
-* [ Overzicht van Tijdopnamen ](https://experienceleague.adobe.com/nl/docs/workfront/using/timesheets/details/timesheets-overview)
-* [ tijd van het Logboek ](https://experienceleague.adobe.com/nl/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)
+* [ Overzicht van Tijdopnamen ](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/details/timesheets-overview)
+* [ tijd van het Logboek ](https://experienceleague.adobe.com/en/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

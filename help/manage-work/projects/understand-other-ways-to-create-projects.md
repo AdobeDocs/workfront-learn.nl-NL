@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 0%
@@ -55,7 +55,7 @@ De video biedt een uitgebreide gids over het maken van projecten in Workfront me
 
 In de video wordt de nadruk gelegd op de flexibiliteit van Workfront bij het maken van projecten via sjablonen, krassen, kopiëren of importeren, catering naar andere gebruikersbehoeften. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3432168/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 
@@ -74,7 +74,7 @@ In de video wordt de nadruk gelegd op de flexibiliteit van Workfront bij het mak
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [Basisproject maken](/help/manage-work/projects/understand-basic-project-creation.md)
+* [Inzicht in maken van basisprojecten](/help/manage-work/projects/understand-basic-project-creation.md)
 * [Navigeren door de projectpagina](/help/manage-work/projects/navigate-the-project-page.md)
 * [De projectdetails invullen](/help/manage-work/projects/fill-in-the-project-details.md)
 

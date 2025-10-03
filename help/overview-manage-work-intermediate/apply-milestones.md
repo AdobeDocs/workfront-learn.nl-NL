@@ -1,6 +1,6 @@
 ---
 title: Mijlpalen toepassen
-description: Leer hoe te om milestone wegen op een  [!DNL &#x200B; Workfront]  project toe te passen en zeer belangrijke taken als milestone stappen binnen het project te associëren.
+description: Leer hoe te om milestone wegen op een  [!DNL  Workfront]  project toe te passen en zeer belangrijke taken als milestone stappen binnen het project te associëren.
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -14,7 +14,7 @@ hide: true
 doc-type: video
 exl-id: ae199222-6f1e-4d01-9ef9-16892edfdde7
 recommendations: noDisplay,catalog
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In deze video leert u hoe u:
 * Een mijlpaal toevoegen aan een taak
 * Aanbevolen procedures voor het toepassen van mijlpalen
 
->[!VIDEO](https://video.tv.adobe.com/v/3430288/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

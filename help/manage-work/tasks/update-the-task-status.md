@@ -8,7 +8,8 @@ level: Beginner
 last-substantial-update: 2025-08-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18799
-source-git-commit: db1cc100b1d5d55446353dac3547ab01486f3d53
+exl-id: 2b485695-578c-4c1d-b7c5-52af326487b2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 De video biedt een zelfstudie over hoe, waarom en hoe vaak de taakstatus moet worden bijgewerkt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471173/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

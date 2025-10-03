@@ -13,7 +13,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In deze video leert u hoe u:
 * Een document uploaden
 * Training zoeken over het uploaden van proefdrukken
 
->[!VIDEO](https://video.tv.adobe.com/v/3440376/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

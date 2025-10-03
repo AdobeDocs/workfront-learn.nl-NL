@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -26,4 +26,4 @@ In deze video leert u:
 * Wat is [!UICONTROL Workfront DAM] en Merk Connect
 * Hoe [!UICONTROL Brand Connect] wordt gebruikt
 
->[!VIDEO](https://video.tv.adobe.com/v/335245/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335245/?quality=12&learn=on&enablevpops=1)

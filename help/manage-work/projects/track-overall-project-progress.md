@@ -12,7 +12,7 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In de video wordt uitgelegd hoe u de voortgang van het project kunt bijhouden aa
 
 De video benadrukt het belang van regelmatige updates door teamleden en pro-actief probleembeheer om nauwkeurige het volgen en geschikte projectvoltooiing te verzekeren. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447416/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

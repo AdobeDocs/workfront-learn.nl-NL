@@ -11,7 +11,7 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Tags toewijzen aan gebruikers op [!DNL Workfront] updates
 * Reageren op bestaande updates
 
->[!VIDEO](https://video.tv.adobe.com/v/3445283/?quality=12&learn=on&enablevpops&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops=1)
 
 ## Tips voor het bijwerken van werk in [!UICONTROL Home]
 
