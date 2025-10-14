@@ -26,7 +26,7 @@ De eerste standaardinstelling die moet worden voltooid, bepaalt de standaardproe
 
 Proefrollen bepalen wat een gebruiker met een proef-enkel blik het kan doen, commentaren maken, het goedkeuren, etc. [!DNL Workfront] raadt aan standaardinstellingen voor de proefdrukrol in te stellen voor alle gebruikers, zodat ontvangers sneller en eenvoudiger aan proefdrukken kunnen worden toegevoegd en werkstromen sneller en eenvoudiger kunnen worden ingesteld.
 
-![ de rollen van het proef kunnen worden geselecteerd wanneer het uploaden van een proef ](assets/proof-system-setups-proof-role-example.png)
+![&#x200B; de rollen van het proef kunnen worden geselecteerd wanneer het uploaden van een proef &#x200B;](assets/proof-system-setups-proof-role-example.png)
 
 Deze standaardproefrol kan echter worden gewijzigd wanneer afzonderlijke proefdrukken worden geüpload, zodat iedereen in staat is de rol te vervullen die hij in het beoordelings- en goedkeuringsproces nodig heeft.
 
@@ -39,7 +39,7 @@ Deze standaardproefrol kan echter worden gewijzigd wanneer afzonderlijke proefdr
 1. Klik op de knop naast de gewenste standaardproefdrukrol voor nieuwe [!DNL Workfront] -gebruikers en gebruikers van gastproefdrukken voor &quot;niet-ontvangende&quot; gebruikers. Dit zijn doorgaans [!DNL Workfront] -gebruikers die toegang hebben tot een proefdruk, maar die geen van de personen zijn die aan de workflow zijn toegewezen.
 1. Sla de wijzigingen op.
 
-![ Overzicht en de montages van de Goedkeuring in Workfront ](assets/proof-system-setups-workfront-defaults.png)
+![&#x200B; Overzicht en de montages van de Goedkeuring in Workfront &#x200B;](assets/proof-system-setups-workfront-defaults.png)
 
 Bedenk wat de meeste gebruikers en gasten van uw account verwachten als ze aan een proefwerkstroom worden toegevoegd. Dit moet uw standaardinstelling zijn.
 

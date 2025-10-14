@@ -29,15 +29,15 @@ Begin met deze standaard standaardrapporten om uw teams te helpen proefdrukken t
 
 Met dit rapporttype kunt u uitstaande proefdrukken bijhouden om ervoor te zorgen dat de termijnen worden nageleefd.
 
-![ Uitgezocht [!UICONTROL Proof Approval] van [!UICONTROL New Report] drop-down menu ](assets/proof-system-setups-proof-approval-report.png)
+![&#x200B; Uitgezocht [!UICONTROL Proof Approval] van [!UICONTROL New Report] drop-down menu &#x200B;](assets/proof-system-setups-proof-approval-report.png)
 
-Tot de opties voor weergave en filter behoren [!UICONTROL decision date] , [!UICONTROL proof approval] , [!UICONTROL approver stage] , [!UICONTROL workflow template] en [!UICONTROL requester information] . Bij rapportage in de tekstmodus kunt u een groep maken die de lijst indeelt op documentnaam. Zie [ basistekstwijze voor groeperingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=nl-NL) begrijpen.
+Tot de opties voor weergave en filter behoren [!UICONTROL decision date] , [!UICONTROL proof approval] , [!UICONTROL approver stage] , [!UICONTROL workflow template] en [!UICONTROL requester information] . Bij rapportage in de tekstmodus kunt u een groep maken die de lijst indeelt op documentnaam. Zie [&#x200B; basistekstwijze voor groeperingen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=nl-NL) begrijpen.
 
 Wanneer het schrijven van de rapporten van de proefdrukgoedkeuring, zorg ervoor u informatie met betrekking tot de recentste versie van de proefdrukken krijgt. [!DNL Workfront] raadt u aan deze veldbron en veldnaam op te nemen in het filter:
 
 **[!UICONTROL Proof Approval]>>[!UICONTROL Is Current Document Version]**
 
-![ het lusje van Filters in rapportbouwer ](assets/proof-system-setups-proof-approval-report-is-current-version.png)
+![&#x200B; het lusje van Filters in rapportbouwer &#x200B;](assets/proof-system-setups-proof-approval-report-is-current-version.png)
 
 Dit is nuttig wanneer u over proefdrukken rapporteert die veelvoudige versies hebben zodat maakt het rapport van slechts de huidige versie van elk bewijs een lijst die goedkeuring vereist. Hiermee worden de eerdere versies uitgefilterd die u niet meer hoeft te bewerken.
 
@@ -45,7 +45,7 @@ Dit is nuttig wanneer u over proefdrukken rapporteert die veelvoudige versies he
 
 Met dit rapporttype kunt u versies beheren en bijhouden in [!DNL Workfront] .
 
-![ Uitgezocht [!UICONTROL Document Version] van [!UICONTROL New Report] drop-down menu ](assets/proof-system-setups-document-version-report.png)
+![&#x200B; Uitgezocht [!UICONTROL Document Version] van [!UICONTROL New Report] drop-down menu &#x200B;](assets/proof-system-setups-document-version-report.png)
 
 Tot de weergaveopties behoren de gegevens van de deelvensters [!UICONTROL document version] , [!UICONTROL document] , [!UICONTROL entered by] , [!UICONTROL proof approval status] , [!UICONTROL proof creator] en [!UICONTROL document provider] .
 
@@ -57,7 +57,7 @@ U kunt de naam van het proefdrukstadium tonen dat momenteel voor elk document op
 
 **[!UICONTROL Document Versions]>>[!UICONTROL Active Proof Stages]**
 
-![ het lusje van Filters in rapportbouwer ](assets/proof-system-setups-active-proof-stages.png)
+![&#x200B; het lusje van Filters in rapportbouwer &#x200B;](assets/proof-system-setups-active-proof-stages.png)
 
 Als momenteel geen werkgebied actief is, is de kolom leeg.
 
@@ -69,7 +69,7 @@ Gebruik de [!UICONTROL Proof Creator] -veldbron om informatie te rapporteren ove
 
 Deze veldbron >> keuzelijst is ook beschikbaar als filter.
 
-![ het lusje van Filters in rapportbouwer ](assets/proof-system-setups-proof-creator-name.png)
+![&#x200B; het lusje van Filters in rapportbouwer &#x200B;](assets/proof-system-setups-proof-creator-name.png)
 
 <!--
 Learn More Icon

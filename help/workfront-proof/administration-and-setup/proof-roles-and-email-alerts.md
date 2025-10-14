@@ -26,7 +26,7 @@ Laten we eens kijken naar een aantal basistevetoepassingen:
 * **rol van het Bewijs -** bepaalt wat een gebruiker met een proef (b.v., commentaar, prijsverhoging, keurt goed, enz.) kan doen.
 * **e-mailalarm —** E-mails die naar mensen in het proefdrukwerkschema worden verzonden wanneer er activiteit op de proef is.
 
-![ een beeld van het [!UICONTROL New Proof] venster met de [!UICONTROL Proof role] en [!UICONTROL Email alerts] benadrukte kolommen.](assets/proof-roles-and-email-alerts.png)
+![&#x200B; een beeld van het [!UICONTROL New Proof] venster met de [!UICONTROL Proof role] en [!UICONTROL Email alerts] benadrukte kolommen.](assets/proof-roles-and-email-alerts.png)
 
 Uw beheerder van het proefdruksysteem kan standaardproefdrukrollen en e-mailalarm voor de proefdrukgebruikers van uw organisatie plaatsen. Deze informatie kan bovendien worden ingebouwd in proefwerkstroomsjablonen (ook wel geautomatiseerde werkstroomsjablonen genoemd).
 

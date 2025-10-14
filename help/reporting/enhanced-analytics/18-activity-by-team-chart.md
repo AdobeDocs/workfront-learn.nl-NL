@@ -30,7 +30,7 @@ Aan de hand van deze informatie kunt u bepalen:
 * Welke huisteams worden overwerkt of gebruiken meer het systeem.
 * Als de distributie van het werk voor het huisteam aangewezen is.
 
-![ een beeld dat een activiteit door teamgrafiek met aantallen op gebieden toont die in hieronder kogels worden beschreven ](assets/section-3-1.png)
+![&#x200B; een beeld dat een activiteit door teamgrafiek met aantallen op gebieden toont die in hieronder kogels worden beschreven &#x200B;](assets/section-3-1.png)
 
 Op het diagram kunt u zien:
 

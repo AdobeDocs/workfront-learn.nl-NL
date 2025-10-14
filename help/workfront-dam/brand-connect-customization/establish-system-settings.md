@@ -25,7 +25,7 @@ Meld u aan bij [!UICONTROL Workfront DAM] voor toegang tot de instellingen.
 1. Klik het **montagespictogram** in de navigatiebar en selecteer **[!UICONTROL Brand Connect]**. Of klik op **[!UICONTROL Brands]** in de navigatiebalk.
 1. Klik vervolgens op de optie **[!UICONTROL Edit]** rechtsboven in het deelvenster [!UICONTROL Brand Connect] . Als uw organisatie meerdere [!UICONTROL Brand Connects] heeft, moet u controleren of u de juiste organisatie bewerkt.
 
-![ A het schermschot van het Merk verbindt montagespaneel ](assets/01-brand-portal-settings.png)
+![&#x200B; A het schermschot van het Merk verbindt montagespaneel &#x200B;](assets/01-brand-portal-settings.png)
 
 Neem contact op met uw [!UICONTROL Workfront] -consultant als u vragen hebt over een van deze instellingen.
 

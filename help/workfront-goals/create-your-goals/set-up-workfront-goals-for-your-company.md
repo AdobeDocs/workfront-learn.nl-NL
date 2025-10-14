@@ -51,4 +51,4 @@ Individuele contribuanten kunnen [!DNL Workfront Goals] gebruiken om:
 * De vooruitgang en de verwezenlijking ervan meten in verband met strategische doelstellingen.
 * Pas zonodig persoonlijke doelstellingen aan om in overeenstemming met bedrijfsrichting te blijven.
 
-![ grafisch van A van verschillende rollen voor de Doelen van Workfront ](assets/01-workfront-goals-choose-your-role.png)
+![&#x200B; grafisch van A van verschillende rollen voor de Doelen van Workfront &#x200B;](assets/01-workfront-goals-choose-your-role.png)

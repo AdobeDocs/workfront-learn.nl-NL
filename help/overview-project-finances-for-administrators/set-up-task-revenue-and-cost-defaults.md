@@ -49,4 +49,4 @@ Selecteer **[!UICONTROL Setup]** in het hoofdmenu.
 1. Selecteer in de sectie [!UICONTROL New Task Default] de gewenste [!UICONTROL Revenue Type] en [!UICONTROL Cost Type] .
 1. Klik op Opslaan als u klaar bent.
 
-![ een beeld van vestiging opbrengst en kostengebreken ](assets/setting-up-finances-3.png)
+![&#x200B; een beeld van vestiging opbrengst en kostengebreken &#x200B;](assets/setting-up-finances-3.png)

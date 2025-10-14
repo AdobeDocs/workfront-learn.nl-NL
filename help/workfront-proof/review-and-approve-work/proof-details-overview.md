@@ -27,15 +27,15 @@ Als proefdrukmanager of eigenaar kunt u dieper in de details achter een proefdru
 
 Selecteer een proefdruk in de documentenlijst en klik vervolgens op het pictogram Samenvatting rechtsboven in het scherm.
 
-![ een beeld van de [!UICONTROL Documents] sectie van een project met geselecteerde proef.](assets/document-summary-1.png)
+![&#x200B; een beeld van de [!UICONTROL Documents] sectie van een project met geselecteerde proef.](assets/document-summary-1.png)
 
 Klik vervolgens op Overzicht om de overzichtssectie uit te vouwen.
 
-![ een beeld van de [!UICONTROL Documents] sectie van een project met geselecteerde proef en het summiere paneel uitgevouwen. Zowel worden het pictogram van het samenvattingspaneel als het samenvattingsvenster gemarkeerd.](assets/document-summary-2.png)
+![&#x200B; een beeld van de [!UICONTROL Documents] sectie van een project met geselecteerde proef en het summiere paneel uitgevouwen. Zowel worden het pictogram van het samenvattingspaneel als het samenvattingsvenster gemarkeerd.](assets/document-summary-2.png)
 
 Schuif vervolgens omlaag naar de sectie Proofing. Hier ziet u de eigenaar van de proefdrukken, de voortgang, het aantal opmerkingen, de status en de vervaldatum.
 
-![ een beeld van de [!UICONTROL Documents] sectie van een project met geselecteerde proef en het summiere paneel uitgevouwen. Zowel worden het pictogram van het samenvattingspaneel als het samenvattingsvenster gemarkeerd.](assets/document-summary-3.png)
+![&#x200B; een beeld van de [!UICONTROL Documents] sectie van een project met geselecteerde proef en het summiere paneel uitgevouwen. Zowel worden het pictogram van het samenvattingspaneel als het samenvattingsvenster gemarkeerd.](assets/document-summary-3.png)
 
 Nota: De [!UICONTROL Approvals] sectie in het summiere paneel is voor **document** goedkeuringen en **is niet** gebonden aan het de proefoverzicht en goedkeuringsproces. De twee processen zijn gescheiden in [!DNL Workfront] .
 
@@ -43,11 +43,11 @@ Nota: De [!UICONTROL Approvals] sectie in het summiere paneel is voor **document
 
 Klik op [!UICONTROL Document Details] voor meer informatie over de proefdruk.
 
-![ een beeld van de [!UICONTROL Documents] sectie van een project met geselecteerde proef en [!UICONTROL Document Details] benadrukt.](assets/document-summary-4.png)
+![&#x200B; een beeld van de [!UICONTROL Documents] sectie van een project met geselecteerde proef en [!UICONTROL Document Details] benadrukt.](assets/document-summary-4.png)
 
 Hiermee gaat u naar de pagina [!UICONTROL Document Details] en een aantal aanvullende opties in het linkerdeelvenster.
 
-![ een beeld van de pagina van de proef in [!DNL &#x200B; Workfront].](assets/document-details.png)
+![&#x200B; een beeld van de pagina van de proef in [!DNL &#x200B; Workfront].](assets/document-details.png)
 
 Het is belangrijk om op te merken dat de mogelijkheid om informatie met betrekking tot het proefdrukproces te zien afhankelijk is van uw proefdruktoestemmingen in [!DNL Workfront].
 
@@ -65,7 +65,7 @@ Laten we eens nader naar twee van de secties kijken: [!UICONTROL Proofing Viewer
 
 Met deze instellingen kunt u de toegang tot de proefdruk zelf beheren.
 
-![ een beeld van [!UICONTROL Proofing Viewer Settings] van de pagina van de proef met de [!UICONTROL Proofing Viewer Settings] optie die in het linkerpaneelmenu wordt benadrukt.](assets/proofing-settings-on-details-page.png)
+![&#x200B; een beeld van [!UICONTROL Proofing Viewer Settings] van de pagina van de proef met de [!UICONTROL Proofing Viewer Settings] optie die in het linkerpaneelmenu wordt benadrukt.](assets/proofing-settings-on-details-page.png)
 
 * **[!UICONTROL Require login. This proof cannot be shared with guest users]—** De proefdruk kan alleen worden gedeeld met personen met een [!DNL Workfront] -proeflicentie.
 * **[!UICONTROL Require decisions to be electronically signed]—** Wanneer u een proefdruk deelt, is dit alleen mogelijk als de ontvanger over proefdrukmachtigingen beschikt in [!DNL Workfront] en als de ontvanger de proefdruk elektronisch ondertekent door zijn wachtwoord voor proefdrukken in te voeren wanneer hij of zij een proefdrukbeslissing neemt. (Opmerking: het proefdrukwachtwoord is anders dan het wachtwoord voor [!DNL Workfront] . Het wachtwoord voor proefdrukken is niet gemakkelijk toegankelijk, zodat de meeste ontvangers dit wachtwoord niet weten.) Adobe raadt u aan contact op te nemen met uw [!DNL Workfront] consultant voordat u deze functie gebruikt.
@@ -79,7 +79,7 @@ Met deze instellingen kunt u de toegang tot de proefdruk zelf beheren.
 
 Op deze pagina worden alle activiteiten bijgehouden die op de proefdruk zijn uitgevoerd, plus de e-mailberichten die met betrekking tot deze proefdruk zijn verzonden.
 
-![ een beeld van de [!UICONTROL Proofing Activity] sectie van de pagina van de proef met de [!UICONTROL Proofing Activity] optie die in het linkerpaneelmenu wordt benadrukt.](assets/proofing-activity-in-details.png)
+![&#x200B; een beeld van de [!UICONTROL Proofing Activity] sectie van de pagina van de proef met de [!UICONTROL Proofing Activity] optie die in het linkerpaneelmenu wordt benadrukt.](assets/proofing-activity-in-details.png)
 
 De sectie **[!UICONTROL Activity]** bevat tijdstempels voor opmerkingen en beslissingen, plus de persoon die deze heeft gemaakt. Ook wordt bijgehouden wanneer testwerkstroomfasen zijn gestart, wanneer een ontvanger voor het eerst een proefdruk heeft geopend en andere informatie die een bewijsleider of eigenaar wil weten. Deze details kunnen nuttig zijn wanneer u probeert om dingen te ontdekken zoals, waarom een het proefdrukken werkschemafase nooit uit, bijvoorbeeld werd geschopt.
 
@@ -89,7 +89,7 @@ Adobe raadt de conceptmanager en de eigenaar van het bewijs aan de informatie in
 
 Als u klaar bent met werken in de sectie [!UICONTROL Document Details] , gebruikt u het pad van de broodkruimel om terug te keren naar de sectie [!UICONTROL Documents] van het project, de taak of geeft u de proefdruk op in de bijlage.
 
-![ een beeld van het broodkruimelspoor in de kopbal.](assets/proof-breadcrumb.png)
+![&#x200B; een beeld van het broodkruimelspoor in de kopbal.](assets/proof-breadcrumb.png)
 
 <!--
 #### Learn more

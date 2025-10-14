@@ -26,7 +26,7 @@ Leer hoe u met de formules van het deelvenster Toewijzing velden kunt bewerken o
 
 Verander de projectnaam, de geplande begindatum, en de prioriteit van de Beyond Basis analyse oefeningen gebruikend de formules van het kaartpaneel.
 
-![ voorbij Basis Afbeelding 1 van de Toewijzing ](../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
+![&#x200B; voorbij Basis Afbeelding 1 van de Toewijzing &#x200B;](../12-exercises/assets/beyond-basic-mapping-walkthrough-1.png)
 
 ## Te volgen stappen
 
@@ -34,7 +34,7 @@ Verander de projectnaam, de geplande begindatum, en de prioriteit van de Beyond 
 
 1. Selecteer de optie Klonen rechts van het ontwerp van het Eerste scenario in de scenario-sectie, zoals hieronder wordt getoond. Geef deze de naam &quot;Buiten de basistoewijzing&quot;.
 
-   ![ voorbij Basis Afbeelding 2 van de Toewijzing ](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
+   ![&#x200B; voorbij Basis Afbeelding 2 van de Toewijzing &#x200B;](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
 
    **nu gaan wij het mappingpaneel in Create Workfront projectenmodule gebruiken om de projectnaam, geplande begindatum, en prioritaire gebieden te vormen.**
 
@@ -49,7 +49,7 @@ Verander de projectnaam, de geplande begindatum, en de prioriteit van de Beyond 
 
    **op dit punt, zou uw kaartbord als dit moeten kijken:**
 
-   ![ voorbij Basis Afbeelding 3 van de Toewijzing ](../12-exercises/assets/beyond-basic-mapping-walkthrough-3.png)
+   ![&#x200B; voorbij Basis Afbeelding 3 van de Toewijzing &#x200B;](../12-exercises/assets/beyond-basic-mapping-walkthrough-3.png)
 
 1. Klik op OK en vervolgens eenmaal op Uitvoeren.
 1. Zoek het project in uw Workfront-exemplaar om te controleren of alles correct is toegewezen.

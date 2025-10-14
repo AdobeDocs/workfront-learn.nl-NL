@@ -29,8 +29,8 @@ Als u bijvoorbeeld een aangepast formulier met de naam Video Marketing Informati
 1. Selecteer in de lijst Informatie over videomarmering.
 1. Klik op **[!UICONTROL Export]** onder aan de lijst.
 
-![ de opties van de vormuitvoer van de Douane ](assets/custom-forms-export-1.png)
+![&#x200B; de opties van de vormuitvoer van de Douane &#x200B;](assets/custom-forms-export-1.png)
 
 Er wordt een opgemaakt PDF-bestand gedownload.
 
-![ Steekproef van uitgevoerde douanevorm ](assets/custom-forms-export-2.png)
+![&#x200B; Steekproef van uitgevoerde douanevorm &#x200B;](assets/custom-forms-export-2.png)

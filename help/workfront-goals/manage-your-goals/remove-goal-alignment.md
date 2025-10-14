@@ -25,6 +25,6 @@ Wat gebeurt er als de afstemming tussen doelen niet langer zinvol is? U kunt de 
 1. Klik checkbox naast het kinddoel u van het ouderdoel wilt losmaken.
 1. Klik op het pictogram X naast het potloodpictogram.
 
-![ Een schermafbeelding van de optie [!UICONTROL Remove alignment] in [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
+![&#x200B; Een schermafbeelding van de optie [!UICONTROL Remove alignment] in [!DNL Workfront Goals]](assets/08-workfront-goals-remove-goal-alignment.png)
 
 Het doel wordt een zelfstandig doel en de vooruitgang ervan beïnvloedt niet langer de vooruitgang van het oorspronkelijke hoofddoel. Vergeet niet activiteiten of resultaten toe te voegen aan de doelen om de voortgang te meten en deze naar een actieve status te verplaatsen.

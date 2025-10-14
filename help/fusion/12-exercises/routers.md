@@ -26,7 +26,7 @@ Begrijp het belang van routers en hoe zij kunnen worden gebruikt om verschillend
 
 Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de correcte weg over te gaan, dan creeer een taak voor elk karakter.
 
-![ Beeld van Routers 1 ](../12-exercises/assets/routers-walkthrough-1.png)
+![&#x200B; Beeld van Routers 1 &#x200B;](../12-exercises/assets/routers-walkthrough-1.png)
 
 ## Te volgen stappen
 
@@ -34,7 +34,7 @@ Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de 
 
    **creeer een nieuwe weg voor superhelden door modules te klonen en een router toe te voegen.**
 
-   ![ Beeld van Routers 2 ](../12-exercises/assets/routers-walkthrough-2.png)
+   ![&#x200B; Beeld van Routers 2 &#x200B;](../12-exercises/assets/routers-walkthrough-2.png)
 
 1. Klik met de rechtermuisknop op de informatiemodule Pokemon ophalen en kies Klonen. Als u eenmaal gekloond hebt, sleept u de code en sluit u deze aan op de lijn tussen de nieuwe HTTP-module en de CSV-module parseren.
 
@@ -49,7 +49,7 @@ Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de 
 
    **Uw scenario zou als dit moeten kijken:**
 
-   ![ Beeld van Routers 3 ](../12-exercises/assets/routers-walkthrough-3.png)
+   ![&#x200B; Beeld van Routers 3 &#x200B;](../12-exercises/assets/routers-walkthrough-3.png)
 
    **daarna, gaat u de in kaart gebrachte waarden in de nieuwe gekloonde modules veranderen.**
 
@@ -64,21 +64,21 @@ Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de 
 1. Klik met de rechtermuisknop op elke superheldmodule en selecteer Alleen deze module uitvoeren. Hierdoor wordt de gegevensstructuur gegenereerd die u voor toewijzing moet zien.
 1. Nadat u beide uitvoert, verander het aantal &quot;332&quot;op elk gebied URL in Kolom 4 die van de Parse CSV module in kaart wordt gebracht.
 
-   ![ Beeld van Routers 4 ](../12-exercises/assets/routers-walkthrough-4.png)
+   ![&#x200B; Beeld van Routers 4 &#x200B;](../12-exercises/assets/routers-walkthrough-4.png)
 
    **nu kunt u in de Vastgestelde veelvoudige variabelen module in de superheldweg klikken en de naam, de hoogte, het gewicht, en de capaciteiten bijwerken.**
 
 1. Werk de gebieden van de Naam en van de Abonnementen van Get superheldmogelijkheden module-Module 8 bij.
 
-   ![ Beeld van Routers 5 ](../12-exercises/assets/routers-walkthrough-5.png)
+   ![&#x200B; Beeld van Routers 5 &#x200B;](../12-exercises/assets/routers-walkthrough-5.png)
 
 1. Werk de gebieden van de Hoogte en van het Gewicht van de Get superheldverschijningsmodule-Module 6 bij.
 
-   ![ Beeld 6 van Routers 6 ](../12-exercises/assets/routers-walkthrough-6.png)
+   ![&#x200B; Beeld 6 van Routers 6 &#x200B;](../12-exercises/assets/routers-walkthrough-6.png)
 
    **wanneer u wordt gedaan, zouden uw variabelen als dit moeten kijken. Merk op dat de moduleaantallen op de gebiedswaarden verschijnen.**
 
-   ![ Beeld van Routers 7 ](../12-exercises/assets/routers-walkthrough-7.png)
+   ![&#x200B; Beeld van Routers 7 &#x200B;](../12-exercises/assets/routers-walkthrough-7.png)
 
 1. Klik op OK en sla het scenario op.
 
@@ -87,7 +87,7 @@ Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de 
 1. Maak in Workfront een leeg project. Geef het project de naam &quot;Shipping Manifest Project&quot; en kopieer de project-id van de URL.
 1. Keer aan de Fusie van Workfront terug en klik in het centrum van de router om een andere weg tot stand te brengen.
 
-   ![ Beeld 8 van Routers 8 ](../12-exercises/assets/routers-walkthrough-8.png)
+   ![&#x200B; Beeld 8 van Routers 8 &#x200B;](../12-exercises/assets/routers-walkthrough-8.png)
 
 1. Klik in het midden van de lege module die wordt weergegeven en voeg een recordmodule maken toe vanuit de Workfront-app.
 1. Plaats het Type van Verslag aan Taak en selecteer identiteitskaart van het Project van de Gebieden aan de sectie van de Kaart.
@@ -95,7 +95,7 @@ Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de 
 1. Selecteer nu het veld Naam in de sectie Velden aan kaart.
 1. Noem de taak &quot;[ Karakter ] van [ Franchise ],&quot;het nemen van de karakternaam en de franchise naam van het Csv- dossier. Kolom 3 is de tekennaam en kolom 2 is de naam van de franchise.
 
-   ![ Beeld 9 van Routers 9 ](../12-exercises/assets/routers-walkthrough-9.png)
+   ![&#x200B; Beeld 9 van Routers 9 &#x200B;](../12-exercises/assets/routers-walkthrough-9.png)
 
 1. Klik op OK en wijzig de naam van deze module in &quot;Een taak maken voor elk teken&quot;.
 
@@ -110,8 +110,8 @@ Gebruik een router om de bundels van Pokemon versus van superhelden onderaan de 
 
    {het Beeld 11 van 10} Routers ![&#128279;](../12-exercises/assets/routers-walkthrough-11.png)
 
-   ![ Beeld van Routers 10 ](../12-exercises/assets/routers-walkthrough-10.png)
+   ![&#x200B; Beeld van Routers 10 &#x200B;](../12-exercises/assets/routers-walkthrough-10.png)
 
 1. Sla het scenario op en klik eenmaal op Uitvoeren. Gebruik de inspecteurs van de uitvoering om te verifiëren alle verrichtingen succesvol waren, en controletaken die in uw project van Workfront werden gecreeerd.
 
-   ![ Beeld van Routers 12 ](../12-exercises/assets/routers-walkthrough-12.png)
+   ![&#x200B; Beeld van Routers 12 &#x200B;](../12-exercises/assets/routers-walkthrough-12.png)

@@ -23,11 +23,11 @@ Met [!DNL Workfront] kunt u met opmerkingen of opmerkingen het werk bijhouden en
 
 Proefacties zijn een &quot;markering&quot; of &quot;label&quot; voor een opmerking en worden vaak gebruikt om aan te geven dat een actie is ondernomen of moet worden ondernomen met betrekking tot de opmerking. Handelingen kunnen worden geselecteerd via het pictogram of het menu Meer voor elke opmerking.
 
-![ een beeld van een proef in de het proefdrukken kijker met het vlagpictogram dat op de commentaar en de beschikbare bewijsacties zichtbaar wordt benadrukt.](assets/manage-comments-1.png)
+![&#x200B; een beeld van een proef in de het proefdrukken kijker met het vlagpictogram dat op de commentaar en de beschikbare bewijsacties zichtbaar wordt benadrukt.](assets/manage-comments-1.png)
 
 U bent bijvoorbeeld verantwoordelijk voor de beslissing welke van de correcties tijdens het controleproces daadwerkelijk moeten worden uitgevoerd. Met behulp van een handeling kunt u de relevante opmerkingen markeren, zodat een ontwerper of editor weet welke revisies u wilt maken. Die persoon kan dan een andere actie gebruiken om aan te geven dat er wijzigingen zijn aangebracht.
 
-![ een beeld van een proef in de het proefdrukken kijker met de [!UICONTROL To Do] proefdrukactie die op de commentaar wordt benadrukt.](assets/manage-comments-2.png)
+![&#x200B; een beeld van een proef in de het proefdrukken kijker met de [!UICONTROL To Do] proefdrukactie die op de commentaar wordt benadrukt.](assets/manage-comments-2.png)
 
 Als u geen acties ziet die in uw opmerkingen worden vermeld, heeft uw organisatie deze niet ingesteld. Bespreek met uw het proef systeembeheerder als u denkt de acties iets zijn uw organisatie zou moeten gebruiken.
 
@@ -35,11 +35,11 @@ De functie &quot;Commentaar oplossen&quot; wordt doorgaans gebruikt om aan te ge
 
 Los de opmerking op door op het pictogram van het vinkje te klikken. Hierdoor wordt een groen vinkje op de opmerking geplaatst, zodat u gemakkelijk kunt zien welke opmerkingen zijn gecontroleerd terwijl u door de kolom Opmerkingen scant.
 
-![ een beeld van een proef in de het proefdrukken kijker met het controletekenpictogram dat op de commentaar wordt benadrukt.](assets/manage-comments-4.png)
+![&#x200B; een beeld van een proef in de het proefdrukken kijker met het controletekenpictogram dat op de commentaar wordt benadrukt.](assets/manage-comments-4.png)
 
 U kunt de kolom met opmerkingen filteren op beide functies, zodat u kunt bijhouden wat u ziet wanneer u met de proefdruk werkt.
 
-![ een beeld van de commentaarfilters in de het proeven kijker met de [!UICONTROL Actions] en [!UICONTROL General] benadrukte het filtreren opties.](assets/manage-comments-3.png)
+![&#x200B; een beeld van de commentaarfilters in de het proeven kijker met de [!UICONTROL Actions] en [!UICONTROL General] benadrukte het filtreren opties.](assets/manage-comments-3.png)
 
 ## Uw beurt
 

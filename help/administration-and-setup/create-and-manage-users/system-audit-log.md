@@ -36,7 +36,7 @@ Elke geregistreerde of geregistreerde actie toont:
 * Alle details die aan de actie zijn gekoppeld
 * Het IP-adres
 
-![[!UICONTROL Audit Log] list ](assets/admin-fund-audit-log-2.JPG)
+![[!UICONTROL Audit Log] list &#x200B;](assets/admin-fund-audit-log-2.JPG)
 
 ## Het controlelogboek exporteren
 
@@ -44,7 +44,7 @@ Door de gegevens van het auditlogboek te exporteren, kunnen systeembeheerders de
 
 Auditlogboeken kunnen worden geëxporteerd in een CSV-bestand (een bestand met komma&#39;s als scheidingsteken) dat kan worden geopend in een spreadsheettoepassing of normale teksteditor. Het exporteren is beperkt tot 50.000 rijen tegelijk. Gebruik de filters om de lijst te verkleinen als het totaal groter is dan 50.000.
 
-![[!UICONTROL Export] op [!UICONTROL Audit Logs] page ](assets/admin-fund-audit-log-3.png)
+![[!UICONTROL Export] op [!UICONTROL Audit Logs] page &#x200B;](assets/admin-fund-audit-log-3.png)
 
 <!--
 learn more URLs

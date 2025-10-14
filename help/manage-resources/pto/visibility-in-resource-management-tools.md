@@ -24,7 +24,7 @@ Kennis van wie beschikbaar is en wanneer essentieel is voor de planning en het b
 
 De tijd van een gebruiker weg wordt weerspiegeld in Beschikbare (AVL) kolom in de middelplanner. Workfront trekt de tijd van gemarkeerd op hun kalender van de beschikbare tijd af, zoals berekend door Workfront op basis van toegewezen planning, taakrolpercentage, enz.
 
-![ Tijd weg in beschikbare kolom ](assets/vis_01.png)
+![&#x200B; Tijd weg in beschikbare kolom &#x200B;](assets/vis_01.png)
 
 ## Werklastverdeling
 
@@ -32,4 +32,4 @@ In de werklastbalans wordt de tijd uit weergegeven als grijze balken in de kalen
 
 De time-off-indicator belet echter niet dat het werk aan de gebruiker wordt toegewezen via Workload Balancer. Als het werk wordt toegewezen, toont de Balancer van de Werklast de persoon over-toegewezen tijdens de tijd van periode is.
 
-![ Tijd van grijze bar ](assets/vis_02.png)
+![&#x200B; Tijd van grijze bar &#x200B;](assets/vis_02.png)

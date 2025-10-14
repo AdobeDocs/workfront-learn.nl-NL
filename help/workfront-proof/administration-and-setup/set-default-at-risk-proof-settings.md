@@ -23,7 +23,7 @@ U wilt instellingen opgeven voor risicomeldingen die [!DNL Workfront] verzendt. 
 
 De kennisgeving van het risico is standaard ingeschakeld, een bewijs wordt 24 uur voor de uiterste datum van het bewijs als &quot;risicovol&quot; beschouwd. [!DNL Workfront] raadt u aan deze melding ingeschakeld te laten met het tijdsbestek van 24 uur. Als de proefomzettingstermijn in uw organisatie uren in plaats van dagen is, kunt u deze verkorten tot slechts een paar uur.
 
-![ montages van het Bewijs voor bij risicoberichten ](assets/proof-system-setups-at-risk-default-1.png)
+![&#x200B; montages van het Bewijs voor bij risicoberichten &#x200B;](assets/proof-system-setups-at-risk-default-1.png)
 
 1. Selecteer **[!UICONTROL Proofing]** in [!DNL Workfront’s] [!UICONTROL Main Menu] .
 1. Selecteer **[!UICONTROL Account Settings]** in de bovenste navigatiebalk.

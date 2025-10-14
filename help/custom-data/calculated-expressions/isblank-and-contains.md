@@ -22,11 +22,11 @@ Zowel CONTAINS als ISBLANK uitdrukkingen worden gebruikt om eenvoudige waar of v
 
 Bijvoorbeeld, om te zien of heeft een project een beschrijving, gebruik de uitdrukking ISBLANK. Als het beschrijvingsveld leeg is, retourneert de expressie de waarde true. Als het beschrijvingsveld niet leeg is, wordt de waarde false geretourneerd.
 
-![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/isblank01.png)
+![&#x200B; Werklastverdelingsmechanisme met gebruiksrapport &#x200B;](assets/isblank01.png)
 
 Als u wilt zoeken naar een specifieke waarde in de beschrijving, bijvoorbeeld &quot;liefdadigheidsgebeurtenis&quot;, gebruikt u de tekstexpressie CONTAINS. Als in de beschrijving &quot;liefdadigheidsgebeurtenis&quot; wordt gevonden, wordt in het berekende veld &quot;true&quot; weergegeven. Er wordt &quot;false&quot; weergegeven als er geen &quot;liefdadigheidsgebeurtenis&quot; wordt gevonden.
 
-![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/isblank02.png)
+![&#x200B; Werklastverdelingsmechanisme met gebruiksrapport &#x200B;](assets/isblank02.png)
 
 ## ISBLANK
 
@@ -34,7 +34,7 @@ De ISBLANK-tekstexpressie bevat de naam van de expressie en één gegevenspunt.
 
 **ISBLANK ({gegevenspunt})**
 
-![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/isblank03.png)
+![&#x200B; Werklastverdelingsmechanisme met gebruiksrapport &#x200B;](assets/isblank03.png)
 
 In het voorbeeld hierboven—waar u wilt weten of het project een beschrijving heeft—zou de expressie zijn:
 
@@ -52,7 +52,7 @@ In het bovenstaande voorbeeld (waarin wordt gezocht naar &quot;liefdadigheidsgeb
 
 **BEVAT (&quot;liefdadigheidsgebeurtenis&quot;, {description})**
 
-![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/isblank04.png)
+![&#x200B; Werklastverdelingsmechanisme met gebruiksrapport &#x200B;](assets/isblank04.png)
 
 **Nota**: De BEVAT uitdrukking is gevoelig geval. Als &#39;Charity Event&#39; bijvoorbeeld een hoofdletter is in het beschrijvingsveld, maakt u die zin in de expressie met een hoofdletter.
 

@@ -31,7 +31,7 @@ Het doel van dit scenario is een app te maken om te verkopen aan winkels met gem
 1. Wanneer het een post ontvangt zal het het aan één van de volgende modules uitvoeren.
 1. De volgende module keert een antwoord op de aanvrager terug.
 
-   ![ Beeld Webhooks 1 ](../12-exercises/assets/webhooks-walkthrough-1.png)
+   ![&#x200B; Beeld Webhooks 1 &#x200B;](../12-exercises/assets/webhooks-walkthrough-1.png)
 
 ## Te volgen stappen
 
@@ -45,29 +45,29 @@ Het doel van dit scenario is een app te maken om te verkopen aan winkels met gem
 1. Klik op Opslaan.
 
 
-   ![ Beeld Webhooks 2 ](../12-exercises/assets/webhooks-walkthrough-2.png)
+   ![&#x200B; Beeld Webhooks 2 &#x200B;](../12-exercises/assets/webhooks-walkthrough-2.png)
 
 1. In het kaartpaneel Webhooks is een URL gemaakt voor deze specifieke webhaak. Klik op &quot;Adres kopiëren naar klembord&quot; om die URL te kopiëren.
 1. Klik op OK.
 1. Klik eenmaal op Uitvoeren.
-1. Gebruik de URL in Postman om een naam en geboortedatum naar uw aangepaste webhaak te verzenden. Voor instructies bij vestiging Postman, zie de [ analyse van Webhooks ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=nl-NL) leerprogramma.
+1. Gebruik de URL in Postman om een naam en geboortedatum naar uw aangepaste webhaak te verzenden. Voor instructies bij vestiging Postman, zie de [&#x200B; analyse van Webhooks &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=nl-NL) leerprogramma.
 
    **het de modulepaneel van Webhooks zou als dit moeten kijken:**
 
-   ![ Beeld Webhooks 3 ](../12-exercises/assets/webhooks-walkthrough-3.png)
+   ![&#x200B; Beeld Webhooks 3 &#x200B;](../12-exercises/assets/webhooks-walkthrough-3.png)
 
    **Webhaak is nu in een staat waar het naar gegevens luistert om de gegevensstructuur te bepalen.**
 
 1. U kunt de gegevensstructuur van de lading bepalen die u verwacht te krijgen (gegevensstructuren zullen later worden besproken). Als u geen gegevensstructuur definieert, bepaalt Fusion automatisch de gegevensstructuur wanneer de post wordt verzonden.
 1. Aan de Postman-zijde wilt u de gekopieerde URL verzenden. De post moet basisformuliergegevens bevatten. Voor dit voorbeeld hebt u drie velden nodig: Naam, Verjaardatum en ClientToken.
 
-   ![ Beeld Webhooks 4 ](../12-exercises/assets/webhooks-walkthrough-4.png)
+   ![&#x200B; Beeld Webhooks 4 &#x200B;](../12-exercises/assets/webhooks-walkthrough-4.png)
 
 1. Nadat je op Verzenden vanuit Postman hebt geklikt, kun je aangeven dat de advertentie is geaccepteerd.
 1. Dit is het punt waar uw scenario zal tonen dat de gegevensstructuur met succes is bepaald.
 1. U kunt zien dat de gegevens zijn ontvangen door de uitvoeringscontrole te openen.
 
-   ![ Beeld Webhooks 5 ](../12-exercises/assets/webhooks-walkthrough-5.png)
+   ![&#x200B; Beeld Webhooks 5 &#x200B;](../12-exercises/assets/webhooks-walkthrough-5.png)
 
    **opstelling die voor cliënttokens verplettert.**
 
@@ -76,23 +76,23 @@ Het doel van dit scenario is een app te maken om te verkopen aan winkels met gem
 1. Stel de status in op 401.
 1. Stel de hoofdtekst in op {&quot;error&quot;: &quot;Failed to authenticate request. Controleer uw clienttoken&quot;}.
 
-   ![ Beeld Webhooks 6 ](../12-exercises/assets/webhooks-walkthrough-6.png)
+   ![&#x200B; Beeld Webhooks 6 &#x200B;](../12-exercises/assets/webhooks-walkthrough-6.png)
 
 1. Creeer een filter tussen de router en de de reactiemodule van de Webhaak. Geef deze de naam &quot;Client token does not match&quot;.
 1. Voor Voorwaarde, gebruik het clientToken gebied van de trekkermodule en doe een numerieke &quot;niet gelijk aan&quot;vergelijking aan aantal 5121933.
 
-   ![ Beeld Webhooks 7 ](../12-exercises/assets/webhooks-walkthrough-7.png)
+   ![&#x200B; Beeld Webhooks 7 &#x200B;](../12-exercises/assets/webhooks-walkthrough-7.png)
 
 1. Voeg in het onderste pad een andere WebHaak-reactiemodule toe. Dit is ons pad voor wanneer het clienttoken overeenkomt.
 1. Stel de status in op 200.
 1. Gebruik bij het instellen van de hoofdtekst de functies van het deelvenster Toewijzing om te testen of de persoon 21 of ouder is. Als ze zijn, ga dan terug &quot;Je bent oud genoeg om te drinken!&quot;, anders ga je terug &quot;Je hebt geen geluk..&quot;
 
-   ![ Beeld 9 van Webhooks ](../12-exercises/assets/webhooks-walkthrough-9.png)
+   ![&#x200B; Beeld 9 van Webhooks &#x200B;](../12-exercises/assets/webhooks-walkthrough-9.png)
 
 1. Creeer een filter tussen de router en de de reactiemodule van de Webhaak op de lagere weg. Geef het de naam &quot;Clienttoken komt overeen.&quot;
 1. Voor Voorwaarde, gebruik het clientToken gebied van de trekkermodule en doe een numerieke &quot;Gelijk aan&quot;vergelijking aan aantal 5121933.
 
 
-   ![ Beeld Webhooks 8 ](../12-exercises/assets/webhooks-walkthrough-8.png)
+   ![&#x200B; Beeld Webhooks 8 &#x200B;](../12-exercises/assets/webhooks-walkthrough-8.png)
 
 1. Klik op de Plannende knoop onder Looppas eens om uw scenario te activeren zodat om het even welke tijd er een nieuwe post is het zal worden ontvangen, ga neer één van beide weg, en produceer een reactie.

@@ -32,7 +32,7 @@ Laten we beginnen met ervoor te zorgen dat de juiste mensen toegang hebben tot e
 
 &lt;!Download de handleiding voor stapsgewijze instructies.&gt;
 
-![ de beheersmontages van het Middel één pager ](assets/rm_setup01.png)
+![&#x200B; de beheersmontages van het Middel één pager &#x200B;](assets/rm_setup01.png)
 
 
 ## Werklastbalans en gebruiksrapport
@@ -41,4 +41,4 @@ Samen met de Planner van het Middel en de Pools van het Middel, hebben de gebrui
 
 Er is geen andere instelling nodig voor toegang tot of beheer van bronnen via deze gereedschappen.
 
-![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/rm_setup02.png)
+![&#x200B; Werklastverdelingsmechanisme met gebruiksrapport &#x200B;](assets/rm_setup02.png)

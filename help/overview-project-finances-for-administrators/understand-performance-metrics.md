@@ -37,7 +37,7 @@ De opties voor [!UICONTROL PIM] zijn gebaseerd op uren en kosten.
 * **berekent op projectniveau** - [!UICONTROL EAC] voor de oudertaak en het project worden bepaald gebruikend de daadwerkelijke uren/daadwerkelijke arbeidskosten in [!UICONTROL EAC] formules. De berekening omvat de werkelijke uren/kosten en uitgaven die rechtstreeks aan de bovenliggende taak of het bovenliggende project zijn toegevoegd.
 * R **omhoog vanaf taken/subtasks** - [!UICONTROL EAC] voor de oudertaak en het project worden bepaald door omhoog [!UICONTROL EAC] voor elke kindtaak toe te voegen. Deze berekening sluit de werkelijke uren/kosten uit die rechtstreeks aan een bovenliggende taak of project worden toegevoegd.
 
-De [!UICONTROL EAC] berekeningen worden vermeld in [ Berekenen schatten bij Voltooiing (EAC) ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=nl-NL).
+De [!UICONTROL EAC] berekeningen worden vermeld in [&#x200B; Berekenen schatten bij Voltooiing (EAC) &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=nl-NL).
 
 **Metriek van Prestaties: Montages**
 
@@ -49,7 +49,7 @@ Als u de standaardinstellingen van [!UICONTROL PIM] en [!UICONTROL EAC] wilt ins
 1. Selecteer voor [!UICONTROL Estimate at Completion] Berekenen op projectniveau of Naar boven rollen op basis van taken/subtaken.
 1. Klik op **[!UICONTROL Save]** onder in het venster.
 
-![ een beeld van het [!UICONTROL Project Preferences] scherm ](assets/setting-up-finances-1.png)
+![&#x200B; een beeld van het [!UICONTROL Project Preferences] scherm &#x200B;](assets/setting-up-finances-1.png)
 
 **Reeks [!UICONTROL PIM] op individuele projecten**
 
@@ -60,6 +60,6 @@ Als u de standaardinstellingen van [!UICONTROL PIM] en [!UICONTROL EAC] wilt ins
 1. Selecteer op uren of op kosten-gebaseerd.
 1. Klik op **[!UICONTROL Save]** Wijzigingen om te voltooien.
 
-![ een beeld van het [!UICONTROL Project Details] scherm ](assets/setting-up-finances-2.png)
+![&#x200B; een beeld van het [!UICONTROL Project Details] scherm &#x200B;](assets/setting-up-finances-2.png)
 
 [!UICONTROL PIM] kan op een projectmalplaatje, in [!UICONTROL Finance] sectie van de malplaatjedetails worden geplaatst.

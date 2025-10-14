@@ -26,7 +26,7 @@ Begrijp hoe de looppas, de cycli, en de bundels zich het gebruiken van de uitvoe
 
 De praktijk met verschillende scenario configuraties om het gebruiken van looppas en cycli te onderzoeken.
 
-![ het ontdekken van looppas cycli en bundelsBeeld 1 ](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
+![&#x200B; het ontdekken van looppas cycli en bundelsBeeld 1 &#x200B;](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
 
 ## Te volgen stappen
 
@@ -42,28 +42,28 @@ De praktijk met verschillende scenario configuraties om het gebruiken van looppa
 1. Open op de Fusion-werkbalk de Scenario-instellingen en wijzig het veld Max. aantal cycli van 1 naar 3.
 1. Klik op OK.
 
-   ![ het ontdekken van looppas cycli en bundelsBeeld 1 ](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
+   ![&#x200B; het ontdekken van looppas cycli en bundelsBeeld 1 &#x200B;](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-1.png)
 
 
    **Plan het scenario om elke minuut in werking te stellen.**
 
 1. Klik op het klokpictogram bij de triggermodule en wijzig het veld Minuten in 1 minuut.
 
-   ![ het ontdekken van looppas cycli en bundelsBeeld 2 ](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
+   ![&#x200B; het ontdekken van looppas cycli en bundelsBeeld 2 &#x200B;](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
 
 1. Vervolgens schakelt u de planningstoets onder de knop Eén maal uitvoeren naar Aan. Sla uw scenario op.
 
-   ![ het onderzoeken looppas cycli en bundels Beeld 3 ](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
+   ![&#x200B; het onderzoeken looppas cycli en bundels Beeld 3 &#x200B;](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
 
 1. Ga naar de Geschiedenis van de Uitvoering voor het scenario en bekijk aangezien een nieuw geschiedenisverslag binnen de volgende minuut verschijnt. Mogelijk moet u de pagina vernieuwen.
 
-   ![ het ontdekken van looppas cycli en bundelsBeeld 1 ](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-4.png)
+   ![&#x200B; het ontdekken van looppas cycli en bundelsBeeld 1 &#x200B;](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-4.png)
 
 1. Klik de knoop van Details van een looppas. Klik door het Eenvoudige login in het juiste paneel, gelijkend op wat u in het gedeelte van de uitvoeringsgeschiedenis van de opleiding van de Fusie van Workfront deed.
 1. Records van verwerkte bewerkingen worden opgedeeld in cycli.
 
-   ![ het ontdekken van looppas cycli en bundels Beeld 5 ](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)
+   ![&#x200B; het ontdekken van looppas cycli en bundels Beeld 5 &#x200B;](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)
 
 1. Met een vervolgkeuzemenu rechtsboven in het venster kunt u de drie cycli selecteren die u instelt om elke keer te worden uitgevoerd.
 
-   ![ het onderzoeken looppas cycli en bundels Beeld 6 ](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-6.png)
+   ![&#x200B; het onderzoeken looppas cycli en bundels Beeld 6 &#x200B;](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-6.png)

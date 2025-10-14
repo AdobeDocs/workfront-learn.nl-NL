@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Het toevoegen van gebruikers één voor één kan tijdrovend en overweldigend zijn. Met [!DNL Workfront] kan een systeembeheerder meerdere gebruikers tegelijk toevoegen met de functie Importeren.
 
-![[!UICONTROL Import People] menuoptie ](assets/admin-fund-adding-users-5.png)
+![[!UICONTROL Import People] menuoptie &#x200B;](assets/admin-fund-adding-users-5.png)
 
 1. Selecteer **[!UICONTROL Users]** in het menu [!UICONTROL Main Menu] .
 1. Selecteer de pijl op de knop **[!UICONTROL New Person]** en selecteer **[!UICONTROL Import People]** .
@@ -31,11 +31,11 @@ Het toevoegen van gebruikers één voor één kan tijdrovend en overweldigend zi
 1. Selecteer de knop **[!UICONTROL Choose File]** als de gebruikerslijst eenmaal is opgeslagen.
 1. Navigeer naar het spreadsheetbestand van de gebruiker en selecteer het.
 
-![ het venster van Mensen van de Invoer ](assets/admin-fund-adding-users-6.png)
+![&#x200B; het venster van Mensen van de Invoer &#x200B;](assets/admin-fund-adding-users-6.png)
 
 De geïmporteerde gebruikers worden weergegeven in de lijst [!UICONTROL Users] . Bewerk indien nodig de informatie over individuele of meerdere gebruikers.
 
-![ lijst van Gebruikers ](assets/admin-fund-adding-users-7.png)
+![&#x200B; lijst van Gebruikers &#x200B;](assets/admin-fund-adding-users-7.png)
 
 ## Gebruikers importeren: starten gebruiken
 
@@ -47,7 +47,7 @@ paragraph below needs URL to article
 
 Zie Gegevens importeren in Workfront via Kick-Start voor meer informatie.
 
-![[!UICONTROL Import Data] ([!UICONTROL Kick-Starts]) venster in [!UICONTROL Setup] gebied ](assets/admin-fund-adding-users-8.png)
+![[!UICONTROL Import Data] ([!UICONTROL Kick-Starts]) venster in [!UICONTROL Setup] gebied &#x200B;](assets/admin-fund-adding-users-8.png)
 
 <!--
 Learn more URLs

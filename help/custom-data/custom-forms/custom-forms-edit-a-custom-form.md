@@ -32,4 +32,4 @@ U kunt gegevens op een aangepast formulier bewerken nadat het formulier aan een 
 1. Typ gegevens in één aangepast veld, zelfs als de vereiste velden in andere aangepaste formulieren voor het object nog niet zijn ingevuld.
 1. Klik op **[!UICONTROL Save Changes]**.
 
-![ het venster van de Details van de Taak die een douaneformulier tonen wordt uitgegeven ](assets/custom-forms-edit-a-custom-form.jpg)
+![&#x200B; het venster van de Details van de Taak die een douaneformulier tonen wordt uitgegeven &#x200B;](assets/custom-forms-edit-a-custom-form.jpg)

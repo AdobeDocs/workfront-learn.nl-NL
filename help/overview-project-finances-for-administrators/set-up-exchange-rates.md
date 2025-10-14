@@ -27,7 +27,7 @@ De standaard basisvaluta van Workfront is de Amerikaanse dollar. Dit is de valut
 
 ## Valuta&#39;s en wisselkoersen instellen
 
-![ een beeld van het selecteren van wisselkoersen ](assets/setting-up-finances-4.png)
+![&#x200B; een beeld van het selecteren van wisselkoersen &#x200B;](assets/setting-up-finances-4.png)
 
 **Uitgezocht [!UICONTROL Setup] van het belangrijkste menu.**
 
@@ -39,7 +39,7 @@ De standaard basisvaluta van Workfront is de Amerikaanse dollar. Dit is de valut
 1. Als een andere valuta dan de Amerikaanse dollar de standaardvaluta van het [!DNL Workfront] -systeem moet zijn, klikt u op de knop naast de valutanaam.
 1. Klik op **[!UICONTROL Save]** wanneer alle valuta&#39;s zijn toegevoegd.
 
-![ een beeld van het toevoegen van een munt aan de lijst van wisselkoersen ](assets/setting-up-finances-5.png)
+![&#x200B; een beeld van het toevoegen van een munt aan de lijst van wisselkoersen &#x200B;](assets/setting-up-finances-5.png)
 
 >[!NOTE]
 >

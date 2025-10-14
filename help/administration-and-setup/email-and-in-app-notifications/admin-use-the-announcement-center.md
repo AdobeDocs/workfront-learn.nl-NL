@@ -29,11 +29,11 @@ this has the same content as the system administrator notification setup and man
 
 Het berichtpictogram toont ongelezen berichten en aankondigingen die door [!DNL Workfront] worden verzonden. Aankondigingen in de lijst worden gelabeld en kunnen worden geopend als u er op wilt klikken.
 
-![ Aankondiging in berichtlijst onder berichtpictogram ](assets/admin-fund-announcements-1.png)
+![&#x200B; Aankondiging in berichtlijst onder berichtpictogram &#x200B;](assets/admin-fund-announcements-1.png)
 
 Systeembeheerders kunnen de [!UICONTROL announcement center] ook gebruiken om [!DNL Workfront] -brede berichten naar gebruikers te verzenden. U kunt herinneringen verzenden over wie om steun te contacteren, een &quot;punt van de dag,&quot;aanbieden en meer.
 
-![[!UICONTROL All Announcements] link ](assets/admin-fund-announcements-2.png)
+![[!UICONTROL All Announcements] link &#x200B;](assets/admin-fund-announcements-2.png)
 
 **om een aankondiging** te verzenden
 
@@ -45,8 +45,8 @@ Systeembeheerders kunnen de [!UICONTROL announcement center] ook gebruiken om [!
 1. Voeg bestanden toe om te delen door op de knop **[!UICONTROL Add Attachment]** te klikken, indien van toepassing.
 1. Klik op **[!UICONTROL Send]**.
 
-![ die een aankondiging op de [!UICONTROL Announcements] pagina ](assets/admin-fund-announcements-3.png) schrijft
+![&#x200B; die een aankondiging op de [!UICONTROL Announcements] pagina &#x200B;](assets/admin-fund-announcements-3.png) schrijft
 
 Het aankondigingsgebied lijkt op een inbox, met ontvangen berichten in het linkerpaneel. Klik op een bericht om het te lezen.
 
-![ de pagina van Mededelingen ](assets/admin-fund-announcements-4.png)
+![&#x200B; de pagina van Mededelingen &#x200B;](assets/admin-fund-announcements-4.png)

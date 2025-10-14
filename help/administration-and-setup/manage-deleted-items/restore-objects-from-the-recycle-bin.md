@@ -29,7 +29,7 @@ Wanneer het object wordt verwijderd met de prullenbak, plaatst Workfront het obj
 1. Klik **KringloopBak** in het linkerpaneel.
 1. Selecteer **onlangs schrapte**.
 
-![ onlangs Geschrapte sectie van de Bak van de Recycling in het gebied van de Opstelling ](assets/admin-fund-recycle-bin-1.png)
+![&#x200B; onlangs Geschrapte sectie van de Bak van de Recycling in het gebied van de Opstelling &#x200B;](assets/admin-fund-recycle-bin-1.png)
 
 Elk herstelbaar object heeft een tab om het gemakkelijker te maken het item te vinden dat moet worden teruggezet.
 
@@ -37,11 +37,11 @@ Elk herstelbaar object heeft een tab om het gemakkelijker te maken het item te v
 1. Schakel het selectievakje naast de objecten die u wilt herstellen in.
 1. Klik **herstellen** knoop.
 
-![ Punten die in de Bak van de Recycling worden geselecteerd ](assets/admin-fund-recycle-bin-2.png)
+![&#x200B; Punten die in de Bak van de Recycling worden geselecteerd &#x200B;](assets/admin-fund-recycle-bin-2.png)
 
 Het object of de objecten die worden hersteld, worden kort weergegeven in een [!UICONTROL In Progress] -sectie. Nadat het scherm is vernieuwd, worden een of meer objecten niet meer op het scherm weergegeven omdat het is hersteld. De items worden weergegeven op de positie waar ze zich eerder in [!DNL Workfront] bevonden. U kunt ze controleren op het [!UICONTROL Recently Restored] -scherm.
 
-![ onlangs Herstelde sectie van de Bak van de Kringloop in het gebied van de Opstelling ](assets/admin-fund-recycle-bin-3.png)
+![&#x200B; onlangs Herstelde sectie van de Bak van de Kringloop in het gebied van de Opstelling &#x200B;](assets/admin-fund-recycle-bin-3.png)
 
 De beheerders van de groep kunnen een project herstellen dat met de groep wordt geassocieerd zij, samen met om het even welke taken, kwesties, of documenten verbonden aan het project leiden.
 

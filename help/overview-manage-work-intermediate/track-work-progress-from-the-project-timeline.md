@@ -31,7 +31,7 @@ Het percentage voltooide werktaken wordt soms gebruikt om te meten hoe het werk 
 >Hoewel het percentage voltooide werktaken handmatig moet worden bijgewerkt, wordt het percentage voltooid van een bovenliggende taak berekend door Workfront op basis van het percentage voltooid en de duur of de geplande uren van elke onderliggende taak. Dit betekent dat je een betere procentuele volledige nauwkeurigheid krijgt als je grote taken opsplitst in kleinere subtaken.
 
 
-![ de taaklijst die van het Project [!UICONTROL Percent Complete] kolom ](assets/planner-fund-task-percent-complete.png) toont
+![&#x200B; de taaklijst die van het Project [!UICONTROL Percent Complete] kolom &#x200B;](assets/planner-fund-task-percent-complete.png) toont
 
 Er zijn drie keer wanneer het percentage voltooide automatisch verandert:
 
@@ -51,8 +51,8 @@ Terwijl u het project bekijkt, controleert u de taaktoewijzingen. Misschien is h
 
 Soms worden de taakbeperkingen veranderd en je realiseert het niet. Restricties kunnen het gedrag van uw tijdlijn beïnvloeden, dus u moet ervoor zorgen dat deze zijn ingesteld op de gewenste manier.
 
-![ de taaklijst van het Project die de kolom van de taakbeperking toont ](assets/planner-fund-task-constraint.png)
+![&#x200B; de taaklijst van het Project die de kolom van de taakbeperking toont &#x200B;](assets/planner-fund-task-constraint.png)
 
 Maak een aangepaste weergave die de kolom [!UICONTROL Task Constraint] bevat om deze informatie weer te geven in uw takenlijst. Als u het project van een begindatum plant, wilt u uw taken de [!UICONTROL As Soon As Possible] ([!UICONTROL ASAP]) beperking hebben.
 
-Voor meer details over taakbeperkingen zie [ de types van duur en taakbeperkingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=nl-NL) begrijpen en beheren.
+Voor meer details over taakbeperkingen zie [&#x200B; de types van duur en taakbeperkingen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=nl-NL) begrijpen en beheren.

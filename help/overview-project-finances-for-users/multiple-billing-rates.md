@@ -27,23 +27,23 @@ Met de nieuwe mogelijkheid voor meerdere factureringssnelheden van [!DNL Workfro
 
 1. Ga naar de landingspagina van het project. Selecteer **[!UICONTROL Billing Rates]** in het linkerdeelvenster.
 
-   ![ Een afbeelding van het selecteren [!UICONTROL Billing Rates] in [!DNL Workfront]](assets/project-finances-1.png)
+   ![&#x200B; Een afbeelding van het selecteren [!UICONTROL Billing Rates] in [!DNL Workfront]](assets/project-finances-1.png)
 
 1. Klik op de knop **[!UICONTROL Add Billing Rate]** op het tabblad **[!UICONTROL Billing Rates]** . Selecteer **[!UICONTROL New Billing Rate]** in de vervolgkeuzelijst.
 
-   ![ Een afbeelding van het selecteren [!UICONTROL New Billing Rate] in [!DNL Workfront]](assets/project-finances-2.png)
+   ![&#x200B; Een afbeelding van het selecteren [!UICONTROL New Billing Rate] in [!DNL Workfront]](assets/project-finances-2.png)
 
 1. Het dialoogvenster [!UICONTROL New Billing Rate] wordt weergegeven. Selecteer in het vervolgkeuzemenu **[!UICONTROL Job Role]** de taakrol waarop de nieuwe factureringsfrequentie wordt toegepast.
 
-   ![ Een beeld van het selecteren van baanrollen in een nieuwe het facturerings tarief in [!DNL Workfront]](assets/project-finances-3.png)
+   ![&#x200B; Een beeld van het selecteren van baanrollen in een nieuwe het facturerings tarief in [!DNL Workfront]](assets/project-finances-3.png)
 
 1. Nadat de taakrol is geselecteerd, worden het veld [!UICONTROL Default Billing Rate] en het veld [!UICONTROL Billing Rate 1] weergegeven. Voer de nieuwe factureringssnelheid in het veld [!UICONTROL Billing Rate 1] in. Als die factureringssnelheid van toepassing is op het hele project (afgelopen, heden en volgende uren die zijn geregistreerd), klikt u op de knop **[!UICONTROL Save]** .
 
-   ![ Een beeld van het bewaren van een nieuw het factureringstarief dat op het volledige project in [!DNL Workfront]](assets/project-finances-5.png) van toepassing is
+   ![&#x200B; Een beeld van het bewaren van een nieuw het factureringstarief dat op het volledige project in [!DNL Workfront]](assets/project-finances-5.png) van toepassing is
 
 1. Klik op de knop **[!UICONTROL Add Rate]** als de nieuwe factureringsfrequentie slechts gedurende een bepaalde periode van toepassing is. De velden [!UICONTROL Billing Rate 1 End Date] en [!UICONTROL Billing Rate 2] worden weergegeven. Voer de einddatum in voor [!UICONTROL Billing Rate 1] . U kunt geen Begindatum voor [!UICONTROL Billing Rate 1] invoeren omdat het systeem ervan uitgaat dat het project aan het begin is gestart.
 
-   ![ een beeld van het creëren van een nieuw factureringstarief dat op een bepaalde periode van toepassing is, die bij het begin van het project in [!DNL Workfront]](assets/project-finances-6.png) beginnen
+   ![&#x200B; een beeld van het creëren van een nieuw factureringstarief dat op een bepaalde periode van toepassing is, die bij het begin van het project in [!DNL Workfront]](assets/project-finances-6.png) beginnen
 
 1. Indien dit niet het geval is:
 
@@ -55,4 +55,4 @@ Met de nieuwe mogelijkheid voor meerdere factureringssnelheden van [!DNL Workfro
    * Klik op **[!UICONTROL Save]** als u klaar bent.
    * Alle factureringssnelheden worden weergegeven op het tabblad [!UICONTROL Billing Rates] van het project.
 
-   ![ een beeld van het creëren van nieuwe het factureringspercentages die op de verschillende tijdsperioden in [!DNL Workfront]](assets/project-finances-7.png) van toepassing zijn
+   ![&#x200B; een beeld van het creëren van nieuwe het factureringspercentages die op de verschillende tijdsperioden in [!DNL Workfront]](assets/project-finances-7.png) van toepassing zijn

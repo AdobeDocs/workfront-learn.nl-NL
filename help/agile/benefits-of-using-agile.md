@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Zoals de naam suggereert, maakt de Agile methodologie teams beter in staat om richting en nadruk snel te veranderen. Software- en marketingbedrijven zijn zich vooral bewust van de tendens dat de vraag van week tot week verandert. Met Agile kunnen teams het werk dat ze doen opnieuw evalueren en in bepaalde stappen aanpassen om ervoor te zorgen dat wanneer het werk en het landschap van de klant veranderen, de focus ook voor het team verandert.
 
-![ het werkstroom van de Gelijkheid ](assets/agile-work-stream.png)
+![&#x200B; het werkstroom van de Gelijkheid &#x200B;](assets/agile-work-stream.png)
 
 ## Transparantie in het werk van een team
 

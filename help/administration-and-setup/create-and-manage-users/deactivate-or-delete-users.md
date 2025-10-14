@@ -37,7 +37,7 @@ In zeldzame gevallen, zoals bij een onbedoelde vermelding of een testgebruiker, 
 
 [!DNL Workfront] **&#x200B;**&#x200B;adviseert sterk het deactiveren van een gebruiker in plaats van het schrappen van een gebruiker. Door deactivering blijft de gebruikersinformatie in [!DNL Workfront] behouden, die nodig kan zijn voor nauwkeurige rapportage, projectbeheer, enzovoort. Als u vragen hebt of u een gebruiker moet deactiveren of verwijderen, neemt u contact op met uw [!DNL Workfront] consultant of [!DNL Workfront] klantenondersteuning.
 
-![ Meer menu dat opties op [!DNL Users] pagina ](assets/admin-fund-adding-users-11.png) toont
+![&#x200B; Meer menu dat opties op [!DNL Users] pagina &#x200B;](assets/admin-fund-adding-users-11.png) toont
 
 ### Een gebruiker deactiveren of verwijderen
 

@@ -23,11 +23,11 @@ Wanneer u als nieuwe gebruiker voor een Workfront Fusion-exemplaar wordt uitgeno
 
 Bij één e-mail hoort een opmerking die de beheerder van het Workfront Fusion-systeem heeft toegevoegd toen hij uw profiel heeft gemaakt en u heeft uitgenodigd voor de organisatie. Onder aan de e-mail bevindt zich de knop [!UICONTROL Accept The Role] . **klik nog niet deze knoop!**
 
-![ een beeld van uw e-mailuitnodiging ](assets/new-user-1.png)
+![&#x200B; een beeld van uw e-mailuitnodiging &#x200B;](assets/new-user-1.png)
 
 Het andere e-mailbericht bevat uw aanmeldingsgegevens.
 
-![ een beeld van uw e-mailuitnodiging ](assets/new-user-2.png)
+![&#x200B; een beeld van uw e-mailuitnodiging &#x200B;](assets/new-user-2.png)
 
 Als u Workfront Fusion wilt gebruiken, klikt u op de knop [!UICONTROL Sign In] in de tweede e-mail en meldt u zich aan met het opgegeven wachtwoord.
 

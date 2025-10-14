@@ -31,7 +31,7 @@ Als uw organisatie [!DNL Workfront] gebruikt om projectgerelateerde financiële 
 
 De uitgaven kunnen op individuele taken of het project zelf worden het programma geopend. Ongeacht welk item de uitgave wordt aangemeld, kunt u alle uitgaven weergeven in de [!UICONTROL Expenses] -sectie van het project zelf.
 
-![[!UICONTROL Expenses] sectie van een project ](assets/expense-section.png)
+![[!UICONTROL Expenses] sectie van een project &#x200B;](assets/expense-section.png)
 
 ## Factureringsgegevens
 
@@ -43,7 +43,7 @@ U moet toegang hebben tot financiële gegevens in [!DNL Workfront] om facturerin
 
 Met een blik bij de [!UICONTROL Finance] informatie in [!UICONTROL Project Details] kunt u daadwerkelijke aantallen voor voordeel, opbrengst, en kosten zien.
 
-![ sectie van Financiën van [!UICONTROL Project Details] venster op een project ](assets/finance-section-project-details.png)
+![&#x200B; sectie van Financiën van [!UICONTROL Project Details] venster op een project &#x200B;](assets/finance-section-project-details.png)
 
 De meeste financiële informatie in de [!UICONTROL Project Details] wordt ingesteld tijdens het maken van het project. De nummers die u hier ziet, zijn gebaseerd op die informatie. Dus als je een project sluit, is er echt niets dat je nodig hebt om de financiële details bij te werken of toe te voegen.
 

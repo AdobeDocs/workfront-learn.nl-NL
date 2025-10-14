@@ -30,7 +30,7 @@ Indien nodig kunnen aanvullende statussen worden gemaakt. Alleen systeembeheerde
 
 U kunt een bestaande status bewerken om de naam, de typen uitgaven waaraan de status is toegewezen, de gerelateerde kleur enzovoort te wijzigen.
 
-![ de statuslijst van de kwestie met [!UICONTROL Edit] benadrukte optie ](assets/admin-fund-edit-issue-status.png)
+![&#x200B; de statuslijst van de kwestie met [!UICONTROL Edit] benadrukte optie &#x200B;](assets/admin-fund-edit-issue-status.png)
 
 1. Klik op **[!UICONTROL Setup]** in de **[!UICONTROL Main Menu]** .
 1. Vouw de sectie **[!UICONTROL Project Preferences]** in het linkermenu uit.
@@ -44,18 +44,18 @@ U kunt een bestaande status bewerken om de naam, de typen uitgaven waaraan de st
 1. Schakel de selectievakjes in voor het type uitgave waarop de status moet worden toegepast.
 1. Klik op **[!UICONTROL Save]**.
 
-![ Venster voor het creëren van een nieuwe status ](assets/admin-fund-edit-issue-status-2.png)
+![&#x200B; Venster voor het creëren van een nieuwe status &#x200B;](assets/admin-fund-edit-issue-status-2.png)
 
 ### Statustoewijzingen
 
 Niet alle statussen kunnen aan alle emissietypen worden toegewezen. De pagina [!UICONTROL Statuses] bevat kolommen die aangeven voor welk type uitgave elke status kan worden gebruikt.
 
-![ de Orde van de Verandering die op het lusje van Kwesties van de pagina van Statussen wordt benadrukt ](assets/admin-fund-issue-type-statuses.png)
+![&#x200B; de Orde van de Verandering die op het lusje van Kwesties van de pagina van Statussen wordt benadrukt &#x200B;](assets/admin-fund-issue-type-statuses.png)
 
 
 Als u alleen de statussen wilt zien die aan een specifiek type uitgave zijn toegewezen, klikt u op de naam van het type uitgave boven aan het venster.
 
-![[!UICONTROL Issue] tabblad van [!UICONTROL Status] pagina met gemarkeerde kolommen ](assets/admin-fund-statuses-issue-type.png)
+![[!UICONTROL Issue] tabblad van [!UICONTROL Status] pagina met gemarkeerde kolommen &#x200B;](assets/admin-fund-statuses-issue-type.png)
 
 Van hieruit kunt u de problemen naar de gewenste volgorde slepen in de vervolgkeuzelijst [!UICONTROL Status] .
 

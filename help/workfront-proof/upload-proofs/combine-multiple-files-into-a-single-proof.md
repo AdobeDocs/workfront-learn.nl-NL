@@ -38,19 +38,19 @@ Proefdrukken combineren:
 1. Ontvangers van bewijsstukken toevoegen, een deadline instellen, enzovoort.
 1. Klik op [!UICONTROL Create Proof] om het uploaden te voltooien.
 
-![ een beeld van het [!UICONTROL New proof] venster met de geuploade dossiers lijst en [!UICONTROL Single proof] benadrukte secties.](assets/combine-proofs.png)
+![&#x200B; een beeld van het [!UICONTROL New proof] venster met de geuploade dossiers lijst en [!UICONTROL Single proof] benadrukte secties.](assets/combine-proofs.png)
 
 Zodra de proefdruk is geüpload, ziet u deze als een ZIP-bestand op het tabblad [!UICONTROL Documents] .
 
 Er is niets anders nodig om het gecombineerde bestand weer te geven. Klik op [!UICONTROL Open Proof] zoals gewoonlijk en de proefdruk wordt geopend in de proefdrukviewer.
 
-![ een beeld van de proefkijker met zichtbaar een multi-paginaproef.](assets/combine-proofs-2.png)
+![&#x200B; een beeld van de proefkijker met zichtbaar een multi-paginaproef.](assets/combine-proofs-2.png)
 
 ## Hoe zit het met het combineren van videobestanden?
 
 Het combineren van bestanden is helaas niet mogelijk wanneer rijke mediabestanden, zoals video&#39;s, animaties en interactieve URL&#39;s in de lijst staan.
 
-![ een beeld van foutenmelding die u verklaart kan videodossiers niet combineren.](assets/combine-proofs-error.png)
+![&#x200B; een beeld van foutenmelding die u verklaart kan videodossiers niet combineren.](assets/combine-proofs-error.png)
 
 
 ## Uw beurt

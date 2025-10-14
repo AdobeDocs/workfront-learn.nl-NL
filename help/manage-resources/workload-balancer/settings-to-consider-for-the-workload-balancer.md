@@ -28,7 +28,7 @@ Er zijn een aantal instellingen voor werklastbalans die u in de afzonderlijke we
 
 U kunt deze in- of uitschakelen via het pictogram Instellingen werklastverdeling.
 
-![ de montagespictogram van de Balans van de Werkbelasting ](assets/STC_01.png)
+![&#x200B; de montagespictogram van de Balans van de Werkbelasting &#x200B;](assets/STC_01.png)
 
 ## Uren opnemen uit uitgaven
 
@@ -38,11 +38,11 @@ Voor een beter inzicht in de volledige werklast van een gebruiker raadt Workfron
 
 Controleer gewoon de optie Inclusief uren van uitgaven in het gedeelte Instellingen werklastverdeling.
 
-![ omvat uren van kwesties ](assets/STC_02.png)
+![&#x200B; omvat uren van kwesties &#x200B;](assets/STC_02.png)
 
 In het gedeelte Toegewezen werk worden de problemen weergegeven als lichte maroon-balken.
 
-![ kwesties benadrukken ](assets/STC_03.png)
+![&#x200B; kwesties benadrukken &#x200B;](assets/STC_03.png)
 
 ### Projectdatums
 
@@ -50,15 +50,15 @@ Een andere optie die beschikbaar is via de instellingen voor werklastverdeling i
 
 De standaardinstelling toont toegewezen werk op basis van de geplande datums die in het project zijn ingevoerd.
 
-![ toegewezen werk met tijdkader ](assets/STC_04.png)
+![&#x200B; toegewezen werk met tijdkader &#x200B;](assets/STC_04.png)
 
 Omdat de geplande datums zijn gebaseerd op de voortgang en voltooiing van eerdere taken in het project, kunt u in real-time een weergave krijgen van het tijdstip waarop een taak wordt gestart of voltooid. Dit is vooral handig wanneer u naar werklasten kijkt.
 
-![ echt - tijdkader ](assets/STC_05.png)
+![&#x200B; echt - tijdkader &#x200B;](assets/STC_05.png)
 
 U kunt schakelen tussen het weergeven van geplande en geplande datums met de optie Geprojecteerde datums weergeven in de instellingen voor werklastverdeling.
 
-![ tonen geprojecteerde data ](assets/STC_06.png)
+![&#x200B; tonen geprojecteerde data &#x200B;](assets/STC_06.png)
 
 ### Voltooide taken
 
@@ -66,4 +66,4 @@ Voltooide taken worden samen met de taken die momenteel worden uitgevoerd of op 
 
 Schakel de optie Voltooid werk tonen uit in de instellingen voor werklastverdeling.
 
-![ tonen voltooid werk ](assets/STC_07.png)
+![&#x200B; tonen voltooid werk &#x200B;](assets/STC_07.png)

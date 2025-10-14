@@ -35,7 +35,7 @@ ht-degree: 0%
       + [Leren om taken uit te voeren](learn-to-sequence-tasks.md)
       + [Begrijp geplande uren](understand-planned-hours.md)
       + [Projecttijdlijnen begrijpen](understand-project-timelines.md)
-      + [ begrijp datatypen en vooruitgangsstatus ](understand-task-dates-and-progress-status.md)
+      + [&#x200B; begrijp datatypen en vooruitgangsstatus &#x200B;](understand-task-dates-and-progress-status.md)
       + [Begrijpen [!UICONTROL Work Effort]](understand-work-effort.md)
       + [Een project live laten gaan](take-a-project-live.md)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
       + [Een project delen](share-a-project.md)
       + [Begrijp het projectteam](understand-the-project-team.md)
       + [Projectcommunicatie begrijpen](understand-project-communication.md)
-      + [ het projectinformatie van de Mening ](view-project-information.md)
+      + [&#x200B; het projectinformatie van de Mening &#x200B;](view-project-information.md)
       + [De voortgang van het project bijhouden](track-overall-project-progress.md)
       + [Voortgang van het werk bijhouden met projectmetriek](track-work-progress-with-project-metrics.md)
       + [Voortgang bijhouden vanaf de projecttijdlijn](track-work-progress-from-the-project-timeline.md)

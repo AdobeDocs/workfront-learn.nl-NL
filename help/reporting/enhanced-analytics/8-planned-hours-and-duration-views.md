@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In de grafieken van de Verbranding en van de Verspreiding van het Project, kunt u de informatie door geplande uren of duur bekijken, afhankelijk van wat u nauwkeuriger voor uw milieu van Workfront acht.
 
-![ een beeld van het selecteren van geplande uren eerder dan duur ](assets/section-1-5.png)
+![&#x200B; een beeld van het selecteren van geplande uren eerder dan duur &#x200B;](assets/section-1-5.png)
 
 
 
@@ -30,4 +30,4 @@ Geplande uren is de standaardinstelling. Als u naar de duur overschakelt, blijft
 
 ## Wat betekent de grootte van het vak en de kleurschaduw?
 
-Kleinere, lichtere blauwe vakken geven minder uren aan, terwijl grotere vakken en donkere tinten blauw meer uren aangeven in vergelijking. Voor meer informatie zie [ Begrijp de het treemap visualisatie van het Project ](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=nl-NL).
+Kleinere, lichtere blauwe vakken geven minder uren aan, terwijl grotere vakken en donkere tinten blauw meer uren aangeven in vergelijking. Voor meer informatie zie [&#x200B; Begrijp de het treemap visualisatie van het Project &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=nl-NL).

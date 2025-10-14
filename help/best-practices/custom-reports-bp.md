@@ -86,7 +86,7 @@ Op gebruiker-gebaseerde vervangingen maken rapporten flexibeler, toestaand rappo
 </br>
 </br>
 
-Voor instructies op hoe te om op gebruiker-gebaseerde vervangingen in rapporten te gebruiken zie [ filters met op gebruiker-gebaseerde vervangingen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=nl-NL) creëren.
+Voor instructies op hoe te om op gebruiker-gebaseerde vervangingen in rapporten te gebruiken zie [&#x200B; filters met op gebruiker-gebaseerde vervangingen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=nl-NL) creëren.
 
 **Beste praktijken**
 

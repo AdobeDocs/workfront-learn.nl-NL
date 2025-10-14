@@ -26,13 +26,13 @@ Begrijp hoe te om groeperingen te gebruiken wanneer het groeperen.
 
 Bel een webservice om details over meerdere landen te retourneren en de totale bevolking van alle landen, gegroepeerd per subregio, te identificeren.
 
-![ Geavanceerde Beeld van de Samenvoeging 1 ](../12-exercises/assets/advanced-aggregation-walkthrough-1.png)
+![&#x200B; Geavanceerde Beeld van de Samenvoeging 1 &#x200B;](../12-exercises/assets/advanced-aggregation-walkthrough-1.png)
 
 ## Te volgen stappen
 
 **krijgt landdetails.**
 
-![ Geavanceerde Beeld van de Samenvoeging 2 ](../12-exercises/assets/advanced-aggregation-walkthrough-2.png)
+![&#x200B; Geavanceerde Beeld van de Samenvoeging 2 &#x200B;](../12-exercises/assets/advanced-aggregation-walkthrough-2.png)
 
 1. Creeer een nieuw scenario en noem het &quot;Geavanceerde samenvoeging.&quot;
 1. Stel de triggermodule in op HTTP - Een aanvraagmodule maken.
@@ -44,7 +44,7 @@ Bel een webservice om details over meerdere landen te retourneren en de totale b
 
    **de output is één enkele bundel, maar het komt in een serie met 24 inzamelingen, voor elk Spaans sprekend land.**
 
-   ![ Geavanceerde Beeld 3 van de Samenvoeging ](../12-exercises/assets/advanced-aggregation-walkthrough-3.png)
+   ![&#x200B; Geavanceerde Beeld 3 van de Samenvoeging &#x200B;](../12-exercises/assets/advanced-aggregation-walkthrough-3.png)
 
    **u moet subregion informatie voor elk van de landen verzamelen, zodat zult u een extra verzoek van HTTP moeten maken.**
 
@@ -53,7 +53,7 @@ Bel een webservice om details over meerdere landen te retourneren en de totale b
 
    + Klik op het nummer en wijzig de index indien nodig, maar in dit geval wilt u alleen het eerste item.
 
-![ Geavanceerde Beeld 4 van de Samenvoeging ](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
+![&#x200B; Geavanceerde Beeld 4 van de Samenvoeging &#x200B;](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
 1. Controleer het antwoord Parsen in het deelvenster Toewijzing en klik op OK.
 1. Wijzig de naam &quot;Landgegevens ophalen&quot;.
@@ -68,11 +68,11 @@ Bel een webservice om details over meerdere landen te retourneren en de totale b
 1. Klik met de rechtermuisknop tussen de HTTP-modules en voeg de Iterator Flow Control-module toe.
 1. Selecteer in het veld Array de optie Gegevens in de module Landen ophalen.
 
-   ![ Geavanceerde Beeld van de Samenvoeging 5 ](../12-exercises/assets/advanced-aggregation-walkthrough-5.png)
+   ![&#x200B; Geavanceerde Beeld van de Samenvoeging 5 &#x200B;](../12-exercises/assets/advanced-aggregation-walkthrough-5.png)
 
 1. In de Get module van de Details van het Land, werk het gebied URL bij om het naamgebied van de iterator in plaats van van van de Get module van Landen te nemen.
 
-   ![ Geavanceerde Beeld 6 van de Samenvoeging ](../12-exercises/assets/advanced-aggregation-walkthrough-6.png)
+   ![&#x200B; Geavanceerde Beeld 6 van de Samenvoeging &#x200B;](../12-exercises/assets/advanced-aggregation-walkthrough-6.png)
 
 1. Voeg nu een numerieke aggregator toe na Get Country Details om de populaties te groeperen en samen te tellen.
 1. De bronmodule is de iteratormodule.
@@ -80,7 +80,7 @@ Bel een webservice om details over meerdere landen te retourneren en de totale b
 1. De waarde is [ gegevens:populatie ] van de Get module van de Details van het Land.
 1. Klik de Show geavanceerde montagesoptie bij de bodem en de groep door [ gegevens:subregion ] van de Get module van de Details van het Land.
 
-   ![ Geavanceerde Beeld 7 van de Samenvoeging ](../12-exercises/assets/advanced-aggregation-walkthrough-7.png)
+   ![&#x200B; Geavanceerde Beeld 7 van de Samenvoeging &#x200B;](../12-exercises/assets/advanced-aggregation-walkthrough-7.png)
 
    **beëindigt met een tekstaggregator om samen te voegen wat u binnen de numerieke aggregator groepeerde.**
 
@@ -88,7 +88,7 @@ Bel een webservice om details over meerdere landen te retourneren en de totale b
 1. De bronmodule is de numerieke aggregator.
 1. In het gebied van de Tekst, neem &quot;de totale bevolking van [ SLEUTEL ] op is [ resultaat ].&quot;
 
-   ![ Geavanceerde Beeld 8 van de Samenvoeging ](../12-exercises/assets/advanced-aggregation-walkthrough-8.png)
+   ![&#x200B; Geavanceerde Beeld 8 van de Samenvoeging &#x200B;](../12-exercises/assets/advanced-aggregation-walkthrough-8.png)
 
 1. Sla het bestand op en voer het uit.
 

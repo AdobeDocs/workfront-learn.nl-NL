@@ -31,20 +31,20 @@ Nadat u de prioriteit van artikelen op de achtergrond hebt ingesteld, is het tij
 
 Naarmate vooruitgang wordt geboekt met artikelen, zal het team deze naar de juiste status op het storyboard verplaatsen. Teamleden kunnen de vlaggen van Kanban gebruiken om erop te wijzen of een verhaal op Spoor, Geblokkeerd, of Klaar is om te trekken. Dit deelt aan andere teamleden mee die de het werkpunten op spoor zijn en als zij klaar zijn om aan of niet te worden gewerkt.
 
-![ Kanban kaarten ](assets/kanban-01.png)
+![&#x200B; Kanban kaarten &#x200B;](assets/kanban-01.png)
 
 De leden van het team kunnen updates aan de kaarten op het storyboard ook maken om veranderingen in dingen zoals beschrijving, status, of prioriteit te weerspiegelen. Zij doen dit door het dropdown menu op een verhaalkaart te klikken en hun te maken uitgeeft aan het aangewezen gebied [ 1 ].
 
-![ Kanban kaartstatus ](assets/kanban-02.png)
+![&#x200B; Kanban kaartstatus &#x200B;](assets/kanban-02.png)
 
 ## Uitvoering van Kanban-verhalen
 
 U gebruikt een limiet van vijf artikelen voor Werk in uitvoering. Wanneer u naar uw board kijkt, ziet u dat wanneer u taken naar statuskolommen verplaatst, het aantal taken in elk pad rechtsboven in elke statuskolom wordt weergegeven.
 
-![ Kanban de grenzen van WIP ](assets/kanban-03.png)
+![&#x200B; Kanban de grenzen van WIP &#x200B;](assets/kanban-03.png)
 
 Als u de limiet overschrijdt in een statuskolom die overeenkomt met Nieuw of Bezig, wordt een foutbericht weergegeven waarin wordt aangegeven dat u de limiet van het werk in uitvoering hebt overschreden.
 
-![ overschrijden de grenzen van het WIP ](assets/kanban-04.png)
+![&#x200B; overschrijden de grenzen van het WIP &#x200B;](assets/kanban-04.png)
 
 Als uw team beslist dat zij meer of minder punten tegelijkertijd kunnen behandelen, kunt u (en andere teamleden met het uitgeven rechten) het Werk in Voortgang aantal van het storyboard veranderen door op het aantal van het WIP te klikken en het uit te geven om op uw nieuw besluit te wijzen.

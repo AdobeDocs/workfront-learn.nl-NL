@@ -20,7 +20,7 @@ ht-degree: 0%
 
 De projectpagina is gevuld met vele eigenschappen om u te helpen uw werk leiden. Werk met uw systeembeheerder als er een optie is u nodig hebt maar niet in uw geval van [!DNL Workfront] ziet. Hier volgen enkele van de hoofdfuncties voor projectpagina&#39;s.
 
-![ pagina van het Project ](assets/project-page-graphic-for-planner.png)
+![&#x200B; pagina van het Project &#x200B;](assets/project-page-graphic-for-planner.png)
 
 1. **spoor Breadcrumb:** navigeer door het programma en de portefeuillehiërarchie achter het project.
 2. **het type van Objecten:** het tonen van het objecten type op de het landen pagina helpt u identificeren wat u in [!DNL Workfront] bekijkt. De term &#39;project&#39; kan door de systeembeheerder van [!DNL Workfront] worden aangepast.

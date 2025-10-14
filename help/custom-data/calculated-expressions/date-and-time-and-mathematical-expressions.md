@@ -24,7 +24,7 @@ Met datum- en tijdexpressies kunt u belangrijke datums vooraan in uw rapporten p
 
 Wanneer u de beschikbare datum- en tijdexpressies bekijkt, zult u verschillende beschikbare opties zien.
 
-![ de datum en tijduitdrukkingen van de steekproef ](assets/datetimeexpressions01.png)
+![&#x200B; de datum en tijduitdrukkingen van de steekproef &#x200B;](assets/datetimeexpressions01.png)
 
 Er zijn twee datum- en tijdexpressiesets die het meest worden gebruikt door [!DNL Workfront] -klanten:
 
@@ -37,7 +37,7 @@ Met wiskundige expressies kan [!DNL Workfront] automatisch berekeningen uitvoere
 
 Wanneer u de beschikbare datum- en tijdexpressies bekijkt, zult u zien dat er verschillende opties beschikbaar zijn.
 
-![ Steekproef wiskundige uitdrukkingen ](assets/datetimeexpressions02.png)
+![&#x200B; Steekproef wiskundige uitdrukkingen &#x200B;](assets/datetimeexpressions02.png)
 
 Workfront-klanten gebruiken doorgaans deze twee wiskundige expressiesets:
 
@@ -46,5 +46,5 @@ Workfront-klanten gebruiken doorgaans deze twee wiskundige expressiesets:
 
 >[!NOTE]
 >
->Voor een volledige lijst van uitdrukkingen en meer informatie over elke, ga naar de [ Berekende gegevensuitdrukkingen ](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) documentatiepagina.
+>Voor een volledige lijst van uitdrukkingen en meer informatie over elke, ga naar de [&#x200B; Berekende gegevensuitdrukkingen &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions) documentatiepagina.
 

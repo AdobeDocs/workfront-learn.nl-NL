@@ -21,13 +21,13 @@ Een primaire toegewezen persoon bestaat wanneer twee of meer gebruikers aan een 
 
 Kom te weten wie de primaire ontvanger van de projectpagina is. Klik in het veld Toewijzingen en klik vervolgens op het pictogram Geavanceerde toewijzingen in de hoek.
 
-![ veelvoudige toegewezen personen ](assets/pa_01.png)
+![&#x200B; veelvoudige toegewezen personen &#x200B;](assets/pa_01.png)
 
 In het Geavanceerde venster van Toewijzingen, wordt de primaire ontvanger, of de taakeigenaar, aangewezen met een groen controleteken. Houd de muisaanwijzer boven een andere gebruiker en klik op de koppeling Primair maken om de eigenaar van de taak te wijzigen.
 
-![ primaire geselecteerde ontvanger ](assets/pa_02.png)
+![&#x200B; primaire geselecteerde ontvanger &#x200B;](assets/pa_02.png)
 
 U kunt de primaire toegewezen persoon ook aanpassen vanaf de taakpagina. Controleer de doos op de taak in de projectlijst, dan klik het Edit pictogram. Blader naar de sectie Toewijzingen en klik op de knop om de eigenaar van de taak aan te wijzen.
 
-![ knoop van de taakeigenaar ](assets/pa_03.png)
+![&#x200B; knoop van de taakeigenaar &#x200B;](assets/pa_03.png)
 

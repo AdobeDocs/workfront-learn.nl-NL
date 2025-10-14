@@ -23,11 +23,11 @@ ht-degree: 0%
 
 Als u toevallig aan een malplaatje werkt en een project moet tot stand brengen gebruikend dat malplaatje, klik het 3 punt menu naast de malplaatjenaam. Selecteer vervolgens Project maken.
 
-![ creeer projectoptie in menu ](assets/direct-template-01.png)
+![&#x200B; creeer projectoptie in menu &#x200B;](assets/direct-template-01.png)
 
 In het venster Details kunt u de instellingen van het nieuwe project wijzigen.
 
-![ de aanmaakpagina van het Project ](assets/direct-template-02.png)
+![&#x200B; de aanmaakpagina van het Project &#x200B;](assets/direct-template-02.png)
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ In het venster Details kunt u de instellingen van het nieuwe project wijzigen.
 >Als er een sjabloon is die u vaak gebruikt, maakt u deze een favoriet! U zult het malplaatje zien in het Nieuwe menu van het Project, naast het verschijnt onder het menu van Favorieten in de navigatiebar.
 
 
-![ Nieuwe project favoriete malplaatjes ](assets/direct-template-03.png)
+![&#x200B; Nieuwe project favoriete malplaatjes &#x200B;](assets/direct-template-03.png)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

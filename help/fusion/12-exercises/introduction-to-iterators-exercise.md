@@ -26,7 +26,7 @@ Leer hoe u apps van het type iteratie gebruikt en acties uitvoert op elke bundel
 
 Kijk naar een specifiek project in Workfront en bekijk dan alle taken binnen dat project. U zult de module van het verhogingshulpmiddel gebruiken om het aantal taken binnen het project te tellen. Tot slot zult u de Vastgestelde veranderlijke module gebruiken om het Aantal Kinderen van het Aantal Open Kwesties af te trekken om een numerieke waarde voor elk van de taakbundels te produceren.
 
-![ Inleiding aan iteratorBeeld 1 ](../12-exercises/assets/introduction-to-iterators-walkthrough-1.png)
+![&#x200B; Inleiding aan iteratorBeeld 1 &#x200B;](../12-exercises/assets/introduction-to-iterators-walkthrough-1.png)
 
 ## Te volgen stappen
 
@@ -60,7 +60,7 @@ Kijk naar een specifiek project in Workfront en bekijk dan alle taken binnen dat
 
    **het zou als dit moeten kijken:**
 
-   ![ Inleiding aan iteratorBeeld 2 ](../12-exercises/assets/introduction-to-iterators-walkthrough-2.png)
+   ![&#x200B; Inleiding aan iteratorBeeld 2 &#x200B;](../12-exercises/assets/introduction-to-iterators-walkthrough-2.png)
 
 1. Wijzig de naam van deze module Willekeurige wiskunde.
 1. Sla het scenario op en klik eenmaal op Uitvoeren.

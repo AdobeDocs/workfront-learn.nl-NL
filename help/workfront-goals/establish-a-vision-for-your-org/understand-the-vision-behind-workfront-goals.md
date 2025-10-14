@@ -19,4 +19,4 @@ ht-degree: 0%
 
 # Begrijp de visie achter Workfront-doelen
 
-Deze video is verwijderd. Gelieve te gaan [ begrijpen hoe de Doelen van Workfront ](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md) werken om te beginnen.
+Deze video is verwijderd. Gelieve te gaan [&#x200B; begrijpen hoe de Doelen van Workfront &#x200B;](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md) werken om te beginnen.

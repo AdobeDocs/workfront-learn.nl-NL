@@ -39,7 +39,7 @@ Wanneer u door deze pagina bladert, vindt u eerst een lijst op hoog niveau met a
 * Voeg een herinnering toe aan de kalender van de Adobe Workfront-systeembeheerder om de schema&#39;s elk jaar op een bepaald tijdstip bij te werken.
 
 
-Voor instructies op om schud te creëren en te beheren, zie [ programma&#39;s ](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) leerprogramma&#39;s creëren en beheren.
+Voor instructies op om schud te creëren en te beheren, zie [&#x200B; programma&#39;s &#x200B;](/help/administration-and-setup/configure-system-defaults/create-and-manage-schedules.md) leerprogramma&#39;s creëren en beheren.
 
 </br>
 </br>

@@ -47,7 +47,7 @@ Neem een andere kalendergroep op met de naam &quot;Onvolledige problemen&quot;, 
 
 1. Klik op Opslaan.
 
-   ![ een beeld van het scherm om punten aan een kalender toe te voegen ](assets/calendar-activity-1.png)
+   ![&#x200B; een beeld van het scherm om punten aan een kalender toe te voegen &#x200B;](assets/calendar-activity-1.png)
 
 1. Maak een tweede groep door op Toevoegen aan kalender te klikken en geavanceerde items toe te voegen.
 1. In Add punten aan het kalendervenster dat omhoog opduikt, noem de groep &quot;Onvolledige Kwesties.&quot;
@@ -64,6 +64,6 @@ Neem een andere kalendergroep op met de naam &quot;Onvolledige problemen&quot;, 
 
 1. Klik op Opslaan.
 
-   ![ een beeld van het scherm om punten aan een kalender toe te voegen ](assets/calendar-activity-2.png)
+   ![&#x200B; een beeld van het scherm om punten aan een kalender toe te voegen &#x200B;](assets/calendar-activity-2.png)
 
 Omdat u $$USER.ID in de filters gebruikte, kunt u deze kalender met anderen delen en zullen zij hun eigen onvolledige taken en kwesties zien.

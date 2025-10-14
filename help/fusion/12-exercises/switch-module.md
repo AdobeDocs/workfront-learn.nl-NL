@@ -26,7 +26,7 @@ Begrijp hoe te om de module van de Schakelaar te gebruiken wanneer u complexere 
 
 Zoek naar direct-mailprojecten in uw testaandrijving, dan verander de naam van elk project dat op een waarde wordt gebaseerd die op een douanegebied in bijlage aan het project wordt geselecteerd.
 
-![ Beeld van de module van de Schakelaar 1 ](../12-exercises/assets/switch-module-walkthrough-1.png)
+![&#x200B; Beeld van de module van de Schakelaar 1 &#x200B;](../12-exercises/assets/switch-module-walkthrough-1.png)
 
 ## Te volgen stappen
 
@@ -36,24 +36,24 @@ Zoek naar direct-mailprojecten in uw testaandrijving, dan verander de naam van e
 1. In de criteria van het Onderzoek, specificeer dat u slechts projecten wilt zien die een waarde op het de douaneveld van het Kanaal hebben.
 1. Voor output, uitgezochte identiteitskaart, Naam, het Aantal van de Verwijzing, en het de douaneveld van het Kanaal.
 
-   ![ Beeld 2 van de module van de Schakelaar ](../12-exercises/assets/switch-module-walkthrough-2.png)
+   ![&#x200B; Beeld 2 van de module van de Schakelaar &#x200B;](../12-exercises/assets/switch-module-walkthrough-2.png)
 
 1. Voeg de module van de Schakelaar van Hulpmiddelen toe.
 1. Wijs voor het veld Invoer het aangepaste kanaalveld toe vanuit de module Zoeken.
 
-   ![ Beeld van de module van de Schakelaar 3 ](../12-exercises/assets/switch-module-walkthrough-3.png)
+   ![&#x200B; Beeld van de module van de Schakelaar 3 &#x200B;](../12-exercises/assets/switch-module-walkthrough-3.png)
 
 1. Voeg vervolgens gevallen toe voor elke mogelijke waarde die afkomstig is uit het aangepaste veld Kanaal. De mogelijke waarde wordt weergegeven in het veld Patroon. U wilt dat het outputgebied een specifieke 3 lettercode omvat die door het aantal van de projectverwijzing wordt gevolgd, toen de projectnaam.
 
    **Uw toewijzingspaneel zou als dit moeten kijken:**
 
-   ![ Beeld van de module van de Schakelaar 4 ](../12-exercises/assets/switch-module-walkthrough-4.png)
+   ![&#x200B; Beeld van de module van de Schakelaar 4 &#x200B;](../12-exercises/assets/switch-module-walkthrough-4.png)
 
 1. U kunt zoveel extra gevallen toevoegen als u wilt. Let op het veld Anders onderaan. Dit wordt gebruikt als de invoerwaarde niet overeenkomt met een van de gevallen.
 
    **werk de projectnaam in Workfront bij.**
 
-   ![ Beeld 5 van de module van de Schakelaar ](../12-exercises/assets/switch-module-walkthrough-5.png)
+   ![&#x200B; Beeld 5 van de module van de Schakelaar &#x200B;](../12-exercises/assets/switch-module-walkthrough-5.png)
 
 1. Voeg een Workfront Update Record module toe.
 1. In het gebied van identiteitskaart, kaart aan identiteitskaart van de trekkermodule.

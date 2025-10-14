@@ -31,7 +31,7 @@ ht-degree: 0%
 1. Controleer de vakjes voor het type van kwestie deze status kan worden gebruikt met.
 1. Klik op **[!UICONTROL Save]**.
 
-![ Nieuw statusvenster op [!UICONTROL Statuses] pagina ](assets/admin-fund-create-issue-status.png)
+![&#x200B; Nieuw statusvenster op [!UICONTROL Statuses] pagina &#x200B;](assets/admin-fund-create-issue-status.png)
 
 ## Uitgiftestatus en groepsbeheerders
 
@@ -41,11 +41,11 @@ De beheerders van de groep kunnen bestaande statussen uitgeven als de systeembeh
 
 Systeembeheerders kunnen statussen voor groepen beheren door de groepsnaam in de rechterbovenhoek van het [!UICONTROL Statuses] -venster te selecteren.
 
-![ het lijstmenu van de Groep op [!UICONTROL Statuses] pagina ](assets/admin-fund-change-group-master-list.png)
+![&#x200B; het lijstmenu van de Groep op [!UICONTROL Statuses] pagina &#x200B;](assets/admin-fund-change-group-master-list.png)
 
 Groepbeheerders kunnen in de sectie [!UICONTROL Groups] in het [!UICONTROL Setup] -gebied klikken, hun groep openen door op de naam te klikken en vervolgens [!UICONTROL Statuses] in het menu van het linkerdeelvenster te selecteren. Selecteer het tabblad Problemen.
 
-![[!UICONTROL Statuses] sectie van [!UICONTROL Group] page ](assets/admin-fund-group-issue-statuses.png)
+![[!UICONTROL Statuses] sectie van [!UICONTROL Group] page &#x200B;](assets/admin-fund-group-issue-statuses.png)
 
 <!--
 For detailed information on how managing statuses can be done by group administrators, see these articles:

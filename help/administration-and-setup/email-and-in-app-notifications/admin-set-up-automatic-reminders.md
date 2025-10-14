@@ -42,4 +42,4 @@ Automatische herinneringen kunnen worden ingesteld in de sectie [!UICONTROL Emai
 
 Op dit moment zijn de automatische herinneringen toegepast en worden deze verzonden zodra aan de criteria is voldaan. Bovendien kunnen gebruikers automatische herinneringen in hun [!UICONTROL My Settings] venster niet onbruikbaar maken.
 
-![[!UICONTROL Automatic Reminder] email message ](assets/admin-fund-automatic-reminders-2.png)
+![[!UICONTROL Automatic Reminder] email message &#x200B;](assets/admin-fund-automatic-reminders-2.png)

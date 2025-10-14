@@ -30,7 +30,7 @@ Met de voorkeuren voor uitgaven kunnen systeembeheerders de opties bepalen wanne
 
 Met deze instellingen bepaalt u wat er gebeurt met een probleem wanneer het wordt omgezet in een taak of een project in [!DNL Workfront] .
 
-![[!UICONTROL Tasks & Issues] voorkeurenvenster met [!UICONTROL Issues] gemarkeerde sectie ](assets/admin-fund-issue-prefs-converting.png)
+![[!UICONTROL Tasks & Issues] voorkeurenvenster met [!UICONTROL Issues] gemarkeerde sectie &#x200B;](assets/admin-fund-issue-prefs-converting.png)
 
 1. Klik op **[!UICONTROL Setup]** in de **[!UICONTROL Main Menu]** .
 1. Vouw de sectie **[!UICONTROL Project Preferences]** in het linkermenu uit.
@@ -82,7 +82,7 @@ De tijdstempel van [!UICONTROL Actual Start Date] wordt gemaakt wanneer de statu
 
 Het is belangrijk om op te merken dat deze voorkeur de daadwerkelijke datummontages voor zowel taken als kwesties controleert.
 
-![[!UICONTROL Tasks & Issues] voorkeurenvenster met [!UICONTROL Actual Dates] gemarkeerde sectie ](assets/admin-fund-issue-prefs-actual-dates.png)
+![[!UICONTROL Tasks & Issues] voorkeurenvenster met [!UICONTROL Actual Dates] gemarkeerde sectie &#x200B;](assets/admin-fund-issue-prefs-actual-dates.png)
 
 1. Klik op **[!UICONTROL Setup]** in de **[!UICONTROL Main Menu]** .
 1. Vouw de sectie **[!UICONTROL Project Preferences]** in het linkermenu uit.
@@ -105,7 +105,7 @@ De [!UICONTROL Access] -instellingen voor uitgaven bepalen welke toegang een geb
 
 Voordat u deze instellingen wijzigt, moet u eventuele workflows of procesbehoeften bespreken met uw [!DNL Workfront] -consultants en uw interne governanceteam.
 
-![[!UICONTROL Tasks & Issues] voorkeurenvenster met [!UICONTROL When someone is assigned to an ISSUE] gemarkeerde sectie ](assets/admin-fund-issue-prefs-access-1.png)
+![[!UICONTROL Tasks & Issues] voorkeurenvenster met [!UICONTROL When someone is assigned to an ISSUE] gemarkeerde sectie &#x200B;](assets/admin-fund-issue-prefs-access-1.png)
 
 1. Klik op **[!UICONTROL Setup]** in de **[!UICONTROL Main Menu]** .
 1. Vouw de sectie **[!UICONTROL Project Preferences]** in het linkermenu uit.
@@ -116,7 +116,7 @@ Voordat u deze instellingen wijzigt, moet u eventuele workflows of procesbehoeft
 1. Selecteer vervolgens de gedeelde toegang voor het project — [!UICONTROL View], [!UICONTROL Contribute] of [!UICONTROL Manage] . Houd bij het instellen van de [!UICONTROL Advanced Options] rekening met de workflows en toegangsbehoeften van uw organisatie.
 1. Sla op als u klaar bent.
 
-![[!UICONTROL Access] venster met [!UICONTROL Contribute] opties ](assets/admin-fund-issue-prefs-access-2.png)
+![[!UICONTROL Access] venster met [!UICONTROL Contribute] opties &#x200B;](assets/admin-fund-issue-prefs-access-2.png)
 
 <!--
 learn more URLs

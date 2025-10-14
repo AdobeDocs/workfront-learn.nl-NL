@@ -25,11 +25,11 @@ Soms, in plaats van het gebruiken van een malplaatje om een project tot stand te
 
 Navigeer naar het project dat u wilt kopiëren en klik op het menu met drie punten naast de projectnaam. Selecteer vervolgens Kopiëren.
 
-![ het menuoptie van het het project van het Exemplaar ](assets/copy-existing-01.png)
+![&#x200B; het menuoptie van het het project van het Exemplaar &#x200B;](assets/copy-existing-01.png)
 
 In het venster Project kopiëren kunt u de titel en status wijzigen en een verscheidenheid aan gegevens wissen die aan het project zijn gekoppeld, zoals toewijzingen, documenten en aangepaste gegevens.
 
-![ het projectopties van het Exemplaar ](assets/copy-existing-02.png)
+![&#x200B; het projectopties van het Exemplaar &#x200B;](assets/copy-existing-02.png)
 
 Als u Toewijzingen wissen selecteert of de status instelt op Planning, voorkomt u dat het gekopieerde project de taaktoewijzingsmeldingen direct na het kopiëren verzendt.
 

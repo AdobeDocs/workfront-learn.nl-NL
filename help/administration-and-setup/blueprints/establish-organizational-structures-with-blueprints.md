@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Workfront-beheerders kunnen Blueprints gebruiken om organisatiestructuren op te bouwen. Met deze functie, die zich in het hoofdmenu bevindt, kunt u de oprichting van bedrijven, groepen, rollen en teams in uw omgeving stroomlijnen.
 
-![ Structuren met [!UICONTROL Blueprints]](assets/BP_orgstructure_01.png)
+![&#x200B; Structuren met [!UICONTROL Blueprints]](assets/BP_orgstructure_01.png)
 
 Als u een blauwdruk voor de organisatiestructuur wilt installeren in uw productie- of sandboxomgeving, selecteert u Vervagen in het hoofdmenu. Blader door de catalogus of gebruik de optie Filteren op type in het filtermenu rechts om de juiste blauwdruk te zoeken en te installeren.
 

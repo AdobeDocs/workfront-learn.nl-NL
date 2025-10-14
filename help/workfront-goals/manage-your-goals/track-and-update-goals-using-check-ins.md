@@ -24,7 +24,7 @@ Zodra u uw doelstellingen hebt geactiveerd, kunt u aan het werk krijgen om hen t
 
 Zodra u een doel activeert en een update over een activiteit of een resultaat plaatst, begint [!DNL Workfront Goals] de vooruitgang van dat doel te berekenen gebruikend het daadwerkelijke percentage voltooide, het verwachte percentage voltooide, of de vooruitgangsstatus. [!UICONTROL Check-ins] is een uitstekende manier om uw doelstellingen periodiek te evalueren en te evalueren of u op schema bent, achterloopt of moet aanpassen. Een inchecken is een tijdstip waarop u de voortgang van een doel weergeeft.
 
-![ Een schermafbeelding van het [!UICONTROL Check-ins] gebied in [!DNL Workfront Goals]](assets/09-workfront-goals-check-ins.png)
+![&#x200B; Een schermafbeelding van het [!UICONTROL Check-ins] gebied in [!DNL Workfront Goals]](assets/09-workfront-goals-check-ins.png)
 
 U kunt doelstellingen op het individuele niveau of in de [!UICONTROL Check-in] sectie inchecken, maar de doelstellingen moeten actief zijn.
 
@@ -47,7 +47,7 @@ Als u eenmaal naar een sectie bent genavigeerd met de lijst met doelen, klikt u 
 
 1. Klik [!UICONTROL **Controle binnen**]. De voortgang van resultaten en activiteiten kan worden bewerkt.
 
-   ![ Een schermafbeelding van de knop [!UICONTROL Check in] in [!DNL Workfront Goals]](assets/10-workfront-goals-check-in-goal-level.png)
+   ![&#x200B; Een schermafbeelding van de knop [!UICONTROL Check in] in [!DNL Workfront Goals]](assets/10-workfront-goals-check-in-goal-level.png)
 
 1. Werk de huidige voortgang bij voor elk van de resultaten. Afhankelijk van het geselecteerde type resultaat kunt u een van de volgende handelingen uitvoeren:
 
@@ -56,7 +56,7 @@ Als u eenmaal naar een sectie bent genavigeerd met de lijst met doelen, klikt u 
    * Percentage bijwerken voltooid
 
 1. Werk het percentage bij dat is voltooid op de Handmatige voortgangsbalkactiviteit.
-   ![ Een schermafbeelding van het deelvenster [!UICONTROL Goal Detials] in [!DNL Workfront Goals]](assets/11-workfront-goals-goal-level-update-result-and-activity.png)
+   ![&#x200B; Een schermafbeelding van het deelvenster [!UICONTROL Goal Detials] in [!DNL Workfront Goals]](assets/11-workfront-goals-goal-level-update-result-and-activity.png)
 
 1. Klik op [!UICONTROL Back to Summary] om terug te keren naar het deelvenster [!UICONTROL Goal Details] . De voortgang van uw doel wordt bijgewerkt terwijl u de resultaten en activiteiten van het doel bijwerkt.
 
@@ -73,7 +73,7 @@ U kunt de voortgang van alleen de resultaten en activiteiten bijwerken die aan u
 1. Klik [!UICONTROL **Controle-binnen**] in het linkerpaneel. Als u zich in de map [!UICONTROL Goal List] , [!UICONTROL Goal Alignment] of [!UICONTROL Pulse sections] bevindt, klikt u op de knop [!UICONTROL Check-in] rechtsboven in het venster. Hierdoor wordt de sectie [!UICONTROL Check-in] geopend.
    * De doelstellingen worden weergegeven in een lijst, met resultaten en activiteiten die onder elk doel worden vermeld.
 
-   ![ Een schermafbeelding van de knop [!UICONTROL Check-in] en de sectie in [!DNL Workfront Goals]](assets/12-workfront-goals-check-in-section-merged.jpeg)
+   ![&#x200B; Een schermafbeelding van de knop [!UICONTROL Check-in] en de sectie in [!DNL Workfront Goals]](assets/12-workfront-goals-check-in-section-merged.jpeg)
 
 1. Klik [!UICONTROL **tonen alle resultaten**], [!UICONTROL **tonen alle activiteiten**], of [!UICONTROL **tonen alle gerichte doelstellingen**] aan het uiterste recht van de doelnaam om alle resultaten, activiteiten, en gerichte doelstellingen van het doel te tonen waarvan vooruitgang u wilt bijwerken.
 

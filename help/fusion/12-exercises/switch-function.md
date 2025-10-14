@@ -26,7 +26,7 @@ Leer hoe te om de schakelaarfunctionaliteit te gebruiken die de functie van de S
 
 Voor eenvoudige gegevensveranderingen, gebruik de functie van de Schakelaar om één waarde in een modulegebied om te zetten in een andere. In deze oefening, verander de twee-letterige sleutel in de daadwerkelijke naam voor de status van de projectvooruitgang om in een e-mail te verzenden.
 
-![ functieBeeld 1 van de Schakelaar ](../12-exercises/assets/switch-function-walkthrough-1.png)
+![&#x200B; functieBeeld 1 van de Schakelaar &#x200B;](../12-exercises/assets/switch-function-walkthrough-1.png)
 
 ## Te volgen stappen
 
@@ -43,4 +43,4 @@ Voor eenvoudige gegevensveranderingen, gebruik de functie van de Schakelaar om �
    + Een sleutelwaarde wordt bepaald in de eerste positie na de Status van de Voortgang (&quot;LT&quot;) met de overeenkomstige output die in de tweede positie wordt bepaald (&quot;Late&quot;).
    + De volgende sleutelwaarde wordt gedefinieerd in de derde positie, waarbij de corresponderende uitvoer wordt gedefinieerd in de vierde positie, enz., voor zoveel toetsen als gewenst.
 
-     ![ functieBeeld 2 van de Schakelaar ](../12-exercises/assets/switch-function-walkthrough-2.png)
+     ![&#x200B; functieBeeld 2 van de Schakelaar &#x200B;](../12-exercises/assets/switch-function-walkthrough-2.png)

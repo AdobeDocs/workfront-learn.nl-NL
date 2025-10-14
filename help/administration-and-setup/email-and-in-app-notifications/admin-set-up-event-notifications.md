@@ -33,7 +33,7 @@ add URL link in the note at the top of the LP
 
 Systeembeheerders bepalen welke meldingen gebruikers moeten ontvangen via [!DNL Workfront] .
 
-![[!UICONTROL Email Notifications] in het [!UICONTROL Setup] gebied ](assets/admin-fund-notifications-1.png)
+![[!UICONTROL Email Notifications] in het [!UICONTROL Setup] gebied &#x200B;](assets/admin-fund-notifications-1.png)
 
 De lijst [!UICONTROL Event Notifications] wordt gegroepeerd op type. Voor elke vermelde gebeurtenismelding worden vijf gegevens weergegeven:
 
@@ -49,7 +49,7 @@ Als u meldingen op algemeen systeemniveau wilt beheren, moet u ervoor zorgen dat
 
 Schakel een specifiek bericht in om het beschikbaar te maken voor alle gebruikers door op de schakelknop te klikken, zodat het blauwe wordt weergegeven. Als het blauw verborgen is, is de melding uitgeschakeld.
 
-![[!UICONTROL Active] column on [!UICONTROL Email Notifications] page ](assets/admin-fund-notifications-2.png)
+![[!UICONTROL Active] column on [!UICONTROL Email Notifications] page &#x200B;](assets/admin-fund-notifications-2.png)
 
 Zodra een gebeurtenisbericht wordt aangezet, worden de berichten verzonden onmiddellijk wanneer de gebeurtenis voorkomt.
 
@@ -57,7 +57,7 @@ Zodra een gebeurtenisbericht wordt aangezet, worden de berichten verzonden onmid
 
 De beheerders van de groep kunnen toestemming, door systeembeheerders worden verleend, om de berichtlijst verder aan te passen die op hoe hun groepen en subgroups functioneren en wat hun werkschema&#39;s zijn.
 
-![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page ](assets/ganotifications_01.png)
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page &#x200B;](assets/ganotifications_01.png)
 
 Om groepsbeheerders de mogelijkheid te geven om meldingen voor hun groepen en subgroepen te beheren, moeten de meldingen op systeemniveau worden ontgrendeld.
 
@@ -69,11 +69,11 @@ Om groepsbeheerders de mogelijkheid te geven om meldingen voor hun groepen en su
 
 * U kunt meerdere meldingen tegelijk ontgrendelen door het selectievakje links van elke melding in te schakelen en op het pictogram Ontgrendelen op de werkbalk boven de lijst te klikken.
 
-![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page ](assets/ganotifications_02.png)
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page &#x200B;](assets/ganotifications_02.png)
 
 Vergrendel een ontgrendeld bericht door op de schakeloptie te klikken, zodat de grijstint wordt weergegeven. Meerdere meldingen vergrendelen door de selectievakjes in te schakelen en op het pictogram Ontgrendelen op de werkbalk te klikken.
 
-![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page ](assets/ganotifications_03.png)
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page &#x200B;](assets/ganotifications_03.png)
 
 Ontgrendelde berichten worden weergegeven voor groepsbeheerders op hoofdniveau om te bepalen of dat bericht nodig is voor hun groepen en subgroepen. Subgroepen erven de berichtconfiguraties van hun hoogste oudergroep. ﻿
 
@@ -82,11 +82,11 @@ Ontgrendelde berichten worden weergegeven voor groepsbeheerders op hoofdniveau o
 
 Zodra de systeembeheerder ontgrendelde meldingsopties heeft, kunnen de groepbeheerders de meldingen van een groep beheren vanaf de afzonderlijke pagina Groep door op Gebeurtenismeldingen in het menu van het linkerdeelvenster te klikken. Vervolgens kunt u meldingsopties activeren of deactiveren.
 
-![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page ](assets/managegroupnotifications_01.png)
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page &#x200B;](assets/managegroupnotifications_01.png)
 
 Systeembeheerders kunnen zo nodig de meldingen van een groep beheren via de pagina Meldingen door de groepsnaam in te voeren in de zoekbalk boven in het venster.
 
-![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page ](assets/managegroupnotifications_02.png)
+![[!UICONTROL Group Access] column on [!UICONTROL Email Notifications] page &#x200B;](assets/managegroupnotifications_02.png)
 
 ## Pro-tips
 

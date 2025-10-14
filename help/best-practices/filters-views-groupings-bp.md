@@ -53,9 +53,9 @@ Knip het aantal aangepaste rapporten dat u maakt af door filters, weergaven en g
 
 Het maken van eenmalige gebruiksrapporten voor elk gegevenssegment dat u wilt zien, is tijdrovend en werkt het Workfront-systeem in de war.
 
-Voor instructies op hoe te om rapporten met herinneringen tot stand te brengen zien het hoofdstuk geëtiketteerd &quot;hoe te opstelling en gebruiksrapportherinneringen&quot;in [ begrijpt rapportmontages ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=nl-NL) video.
+Voor instructies op hoe te om rapporten met herinneringen tot stand te brengen zien het hoofdstuk geëtiketteerd &quot;hoe te opstelling en gebruiksrapportherinneringen&quot;in [&#x200B; begrijpt rapportmontages &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=nl-NL) video.
 
-Voor instructies op hoe te om rapporten met douaneherinneringen tot stand te brengen zie [ douaneherinneringen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=nl-NL) creëren.
+Voor instructies op hoe te om rapporten met douaneherinneringen tot stand te brengen zie [&#x200B; douaneherinneringen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=nl-NL) creëren.
 
 </br>
 </br>
@@ -68,7 +68,7 @@ Gebruik de lijstcontroles in lay-outmalplaatjes om onnodige filters, meningen, e
 
 Minder is meer. Het verbergen van filter, mening, en het groeperen van lijstopties die niet relevant voor de dagelijkse werkschema&#39;s van uw gebruikers zijn vernauwt de lijsten, wat het voor gebruikers gemakkelijker maakt om te vinden wat zij sneller nodig hebben.
 
-Voor instructies op hoe te om filters, meningen, of groeperingen met lay-outmalplaatjes te verbergen zie [ rapportlijsten met lay-outmalplaatjes ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=nl-NL) aanpassen.
+Voor instructies op hoe te om filters, meningen, of groeperingen met lay-outmalplaatjes te verbergen zie [&#x200B; rapportlijsten met lay-outmalplaatjes &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=nl-NL) aanpassen.
 
 </br>
 </br>
@@ -83,7 +83,7 @@ Als u filters, meningen, en groeperingen hebt gecreeerd die informatie specifiek
 
 Het aanpassen van de informatie die u voor uw gebruikers zichtbaar door de lay-outmalplaatjes wilt is ook een tijd-redder voor systeem en groepsbeheerders omdat zij niet elke filter, mening, of groeperingsoptie individueel zullen moeten delen.
 
-Voor instructies op hoe te om filters, meningen, of groeperingen met lay-outmalplaatjes te delen zie [ rapporteringslijsten met lay-outmalplaatjes ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=nl-NL) aanpassen.
+Voor instructies op hoe te om filters, meningen, of groeperingen met lay-outmalplaatjes te delen zie [&#x200B; rapporteringslijsten met lay-outmalplaatjes &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=nl-NL) aanpassen.
 
 </br>
 </br>

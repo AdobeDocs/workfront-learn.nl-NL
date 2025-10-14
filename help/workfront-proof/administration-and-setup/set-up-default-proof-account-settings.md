@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Stel standaardaccountinstellingen in die wereldwijd van toepassing zijn op alle proefdrukken en proefdrukken van gebruikers: land, taal en tijdzone. Als u gebruikers in meerdere tijdzones of landen hebt, kunt u deze instellingen indien nodig aanpassen in het gebruikersprofiel van elk individu.
 
-![ venster van de montages van de Rekening voor het proef ](assets/proof-system-setups-default-account-settings.png)
+![&#x200B; venster van de montages van de Rekening voor het proef &#x200B;](assets/proof-system-setups-default-account-settings.png)
 
 1. Selecteer **[!UICONTROL Proofing]** in [!DNL Workfront's] [!UICONTROL Main Menu] .
 1. Selecteer **[!UICONTROL Account Settings]** in de bovenste navigatiebalk.

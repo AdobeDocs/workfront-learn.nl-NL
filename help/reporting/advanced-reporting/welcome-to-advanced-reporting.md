@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # Welkom bij geavanceerde rapportage
 
-Leer hoe te om [[!UICONTROL API Explorer] ](https://developer.adobe.com/workfront/api-explorer/) en tekstwijze te gebruiken om geavanceerde filters, meningen, en groepen tot stand te brengen die voorbij de mogelijkheden van [!UICONTROL Reporting UI] gaan.
+Leer hoe te om [[!UICONTROL API Explorer] &#x200B;](https://developer.adobe.com/workfront/api-explorer/) en tekstwijze te gebruiken om geavanceerde filters, meningen, en groepen tot stand te brengen die voorbij de mogelijkheden van [!UICONTROL Reporting UI] gaan.
 
 Drie zelfstudies vormen de Geavanceerde rapportering. Het zijn geavanceerde rapporteringsdelen 1, 2, en 3. Samen omvatten zij 5 uur en 33 minuten opleiding.
 
-Naast de video&#39;s zult u [ Geavanceerde het melden handboek ](/help/assets/advanced-reporting-manual.pdf) voor verwijzing en oefeningen willen downloaden.
+Naast de video&#39;s zult u [&#x200B; Geavanceerde het melden handboek &#x200B;](/help/assets/advanced-reporting-manual.pdf) voor verwijzing en oefeningen willen downloaden.
 
 **Geavanceerde rapporterend deel 1** bevat een overzicht van rapportverwezenlijking, een inleiding aan [!UICONTROL API explorer] en tekstwijze, en een diepgaande studie van de filters van de tekstwijze.
 

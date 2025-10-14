@@ -25,15 +25,15 @@ Wanneer u een voltooid bestand in [!DNL Workfront] hebt, kunt u het met een paar
 1. Selecteer het document in de lijst.
 1. Klik vervolgens op het pictogram **[!UICONTROL Send To]** en selecteer **[!UICONTROL Workfront DAM]** .
 
-   ![ Een afbeelding van het [!UICONTROL Share To] pictogram in [!DNL Workfront]](assets/04-send-to-wrkfront-dam.png)
+   ![&#x200B; Een afbeelding van het [!UICONTROL Share To] pictogram in [!DNL Workfront]](assets/04-send-to-wrkfront-dam.png)
 
 1. Er wordt een venster weergegeven met daarin de mappen waarvoor u machtigingen hebt in [!UICONTROL Workfront DAM] . Selecteer de map waarin het bestand moet worden geplaatst.
 
-   ![ Een beeld van het venster dat de omslagen toont u binnen toestemmingen [!UICONTROL Workfront DAM]](assets/05-workfront-dam-folders.png) hebt
+   ![&#x200B; Een beeld van het venster dat de omslagen toont u binnen toestemmingen [!UICONTROL Workfront DAM]](assets/05-workfront-dam-folders.png) hebt
 
 1. Klik op **[!UICONTROL Save]**.
 1. De pagina [!UICONTROL Documents] wordt opnieuw geladen en nu verschijnt het pictogram [!UICONTROL Workfront DAM] naast de bestandsnaam. Dit geeft aan dat het bestand is verzonden naar [!UICONTROL DAM] .
 
-   ![ een beeld van het [!UICONTROL Workfront DAM] pictogram dat naast filename ](assets/06-dam-logo.png) verschijnt
+   ![&#x200B; een beeld van het [!UICONTROL Workfront DAM] pictogram dat naast filename &#x200B;](assets/06-dam-logo.png) verschijnt
 
 1. Klik nu op de bestandsnaam om het item te openen in [!UICONTROL Workfront DAM] , zodat u de juiste metagegevens en trefwoorden kunt toevoegen.

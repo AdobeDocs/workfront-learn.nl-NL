@@ -46,10 +46,10 @@ Projectmanagers, managers en anderen kunnen kostenrapporten genereren — waarbi
 1. Voeg zo nodig een beschrijving toe.
 1. Klik op **[!UICONTROL Save]** .
 
-![ Een beeld van het creëren van een nieuw [!UICONTROL Expense Type]](assets/setting-up-finances-6.png)
+![&#x200B; Een beeld van het creëren van een nieuw [!UICONTROL Expense Type]](assets/setting-up-finances-6.png)
 
 ## uitgaventypen gebruiken
 
 De kostenopties worden weergegeven in het vervolgkeuzemenu **[!UICONTROL Expense Type]** wanneer gebruikers een uitgave maken voor een project of taak in [!DNL Workfront] .
 
-![ een beeld van het toevoegen van een nieuwe uitgave ](assets/setting-up-finances-7.png)
+![&#x200B; een beeld van het toevoegen van een nieuwe uitgave &#x200B;](assets/setting-up-finances-7.png)

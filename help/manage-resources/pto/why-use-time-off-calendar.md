@@ -22,7 +22,7 @@ Wanneer planners en projectmanagers taken in Workfront toewijzen, draagt het wet
 
 Nauwkeurige beschikbaarheidsgegevens spelen ook in huidige en toekomstige het werkplanning als heroverzicht van middelmanagers toewijzing in het middelplanning en beheersinstrumenten van Workfront.
 
-![ pto kalender ](assets/pto_01.png)
+![&#x200B; pto kalender &#x200B;](assets/pto_01.png)
 
 Gebruikers van Workfront Work and Plan-licenties kunnen de persoonlijke tijd van de kalender gebruiken om aan te geven wanneer ze niet beschikbaar zijn tijdens de normale werktijden. Zelfs een halve dag korting zou van invloed kunnen zijn op de uitvoering van de taken die aan hen zijn toegewezen.
 
@@ -33,7 +33,7 @@ Gebruikers van Workfront Work and Plan-licenties kunnen de persoonlijke tijd van
 
 Je persoonlijke tijd van de agenda staat op je gebruikerspagina in Workfront, die je kunt openen via het hoofdmenu. Klik in de linkerhoek op uw naam.
 
-![ gebruikersnaam in hoofdmenu ](assets/pto_02.png)
+![&#x200B; gebruikersnaam in hoofdmenu &#x200B;](assets/pto_02.png)
 
 * Klik op Tijd uit in het menu van het linkerdeelvenster op de gebruikerspagina in Workfront.
 
@@ -47,7 +47,7 @@ Je persoonlijke tijd van de agenda staat op je gebruikerspagina in Workfront, di
 
 * Als u de hele dag niet afhaalt, schakelt u het vakje Alle dag uit. Geef vervolgens de uren aan waarop u die dag zult werken (de uren die u beschikbaar hebt). Klik op Opslaan.
 
-![ markeertijd weg in persoonlijke kalender ](assets/pto_03.png)
+![&#x200B; markeertijd weg in persoonlijke kalender &#x200B;](assets/pto_03.png)
 
 De tijd uit wordt aangegeven met blauwe vakken op de kalender. Deze keer verschijnt ook op andere plaatsen in Workfront om te helpen met project en middelplanning.
 

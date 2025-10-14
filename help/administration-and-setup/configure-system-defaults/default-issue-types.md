@@ -49,7 +49,7 @@ need URL in paragraph below
 
 De status van een uitgave kan worden weergegeven en gewijzigd in de [!UICONTROL Issue Details] . U kunt ook de afgifte van een status wijzigen in de koptekst van de uitgavepagina helemaal rechts.
 
-![[!UICONTROL Status] in paginakoptekst en [!UICONTROL Issue Details] page ](assets/admin-fund-issue-details-status.png)
+![[!UICONTROL Status] in paginakoptekst en [!UICONTROL Issue Details] page &#x200B;](assets/admin-fund-issue-details-status.png)
 
 U kunt de kolom [!UICONTROL Status] aan een mening of een douanerapport toevoegen, makend het gemakkelijk zichtbaar en snel om te veranderen.
 

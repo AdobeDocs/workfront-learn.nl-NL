@@ -30,7 +30,7 @@ Wanneer een nieuwe werknemer wordt gehuurd, of iemand in een afdeling gebruikend
 1. Wijs de gebruiker aan een huisgroep toe om ervoor te zorgen zij toegang tot het juiste werk hebben.
 1. Selecteer **[!DNL Add this Person]** om het maken van de gebruiker te voltooien.
 
-![[!UICONTROL New Person] window ](assets/admin-fund-adding-users-1.png)
+![[!UICONTROL New Person] window &#x200B;](assets/admin-fund-adding-users-1.png)
 
 Met de koppeling [!UICONTROL Show Advanced Options] wordt het venster met alle gebruikersgegevens geopend. Dit staat de systeembeheerder toe om extra organisatie en middel planningsinformatie zoals teams en baanrollen te plaatsen, plus persoonlijke informatie over de gebruiker (telefoonaantal, baantitel, enz.) in te gaan.
 
@@ -42,7 +42,7 @@ Sommige van deze gegevens kunnen door de gebruiker worden gewijzigd, andere niet
 
 Gebruik een bestaande gebruiker in het systeem als basis voor het maken van een nieuwe aanmelding. Een deel van de bestaande gebruikersgegevens wordt gekopieerd, maar sommige gegevens moeten volledig worden ingevuld.
 
-![ Nieuwe Persoon drop-down menu ](assets/admin-fund-adding-users-3.png)
+![&#x200B; Nieuwe Persoon drop-down menu &#x200B;](assets/admin-fund-adding-users-3.png)
 
 1. Selecteer **[!UICONTROL Users]** in het menu **[!UICONTROL Main Menu]** .
 1. Selecteer de gebruiker u wilt kopiëren door de doos naast hun naam te controleren.
@@ -51,7 +51,7 @@ Gebruik een bestaande gebruiker in het systeem als basis voor het maken van een 
 1. Sommige velden worden van de oorspronkelijke gebruiker gekopieerd. Wijzig desgewenst de gegevens.
 1. Selecteer **[!UICONTROL Add This Person]** .
 
-![[!UICONTROL New Person] window ](assets/admin-fund-adding-users-4.png)
+![[!UICONTROL New Person] window &#x200B;](assets/admin-fund-adding-users-4.png)
 
 <!--
 Learn more URLs

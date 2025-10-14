@@ -22,7 +22,7 @@ De methode Scrum omvat het flexibiliteitsmodel maar verschilt van andere methode
 
 Wanneer u besluit of om al dan niet aan Scrum over te schakelen, zult u de structuur van uw teams moeten bekijken om te zien of kunnen zij aan de nieuwe methodologie gemakkelijk overbrengen. Een team van de Trommel heeft drie soorten leden: een producteigenaar, een rummeester, en teamleden.
 
-![ de teamleden van het Trommel ](assets/scrumteammembers-01.png)
+![&#x200B; de teamleden van het Trommel &#x200B;](assets/scrumteammembers-01.png)
 
 ### Eigenaars van producten
 
@@ -92,11 +92,11 @@ Aangezien een team de drie primaire vragen in hun standups beantwoordt, is het b
 
 Met behulp van een storyboard verplaatsen teams hun artikelen door statuskolommen om te tonen wanneer de werkitems Nieuw, Bezig of Voltooid zijn.
 
-![ Storyboard ](assets/storyboard-01.png)
+![&#x200B; Storyboard &#x200B;](assets/storyboard-01.png)
 
 
 ### Burndown-grafiek
 
 Een burndown grafiek kan worden gebruikt om te controleren als het team artikelen aan een snel genoeg tarief, of snelheid voltooit. In afzonderlijke iteraties of in de volledige productrelease kunt u Burndown-grafieken gebruiken.
 
-![ Grafiek Burndown ](assets/burndown-01.png)
+![&#x200B; Grafiek Burndown &#x200B;](assets/burndown-01.png)

@@ -24,18 +24,18 @@ ht-degree: 0%
 * **Verwachte percent volledig** - hoeveel van het doel, op dit punt in tijd zou moeten worden voltooid, opdat het doel op tijd wordt voltooid. Deze waarde wordt berekend door de duur van het doel (totaal aantal dagen) en het huidige tijdstip (totaal aantal dagen dat is verstreken sinds de begindatum van het doel).
 * **Voortgang** - de vooruitgang is een etiket dat erop wijst of het doel op tijd moet worden voltooid, of als het risico of in probleem van het niet voltooien is.
 
-![ Een schermafbeelding van de voortgang van het doel in [!DNL Workfront Goals]](assets/13-workfront-goals-percent-complete.png)
+![&#x200B; Een schermafbeelding van de voortgang van het doel in [!DNL Workfront Goals]](assets/13-workfront-goals-percent-complete.png)
 
 In het volgende diagram ziet u de relatie tussen de labels voor doelvoortgang en het voortgangspercentage:
 
-![ een grafiek die de verhouding tussen de etiketten van de doelvooruitgang en vooruitgangspercentage illustreert ](assets/14-workfront-goals-progress-statuses.jpeg)
+![&#x200B; een grafiek die de verhouding tussen de etiketten van de doelvooruitgang en vooruitgangspercentage illustreert &#x200B;](assets/14-workfront-goals-progress-statuses.jpeg)
 
 De vooruitgang van uw doel is een goede manier om een idee te krijgen van waar uw doel in termen van het bereiken van voltooiing is gebaseerd op updates u in het systeem plaatst. Daarom is het zo belangrijk om uw activiteiten en resultaten bij te werken in Doelstellingen. De etiketten van de vooruitgang helpen een gestandaardiseerde status aan de rest van de organisatie meedelen.
 
-![ Een afbeelding die de verschillende voortgangslabels bedekt in [!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
+![&#x200B; Een afbeelding die de verschillende voortgangslabels bedekt in [!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
 
 
 >[!TIP]
 >
->Voor meer informatie over de formules die worden gebruikt om doelvooruitgang te berekenen, verkend dit artikel: [ Overzicht van doelvooruitgang en voorwaarde in de Doelen van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=nl-NL#overview-of-goal-progress-and-threshold).
+>Voor meer informatie over de formules die worden gebruikt om doelvooruitgang te berekenen, verkend dit artikel: [&#x200B; Overzicht van doelvooruitgang en voorwaarde in de Doelen van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=nl-NL#overview-of-goal-progress-and-threshold).
 

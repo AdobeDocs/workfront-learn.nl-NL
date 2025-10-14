@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Nu u doelstellingen hebt gecreeerd, laten wij hen activeren! Wanneer u een doel maakt, wordt dit opgeslagen in de status [!UICONTROL Draft] . [!UICONTROL Draft] -doelen maken geen deel uit van doelbeheer totdat u ze activeert. Nadat de functie is geactiveerd, wordt overgeschakeld naar de status [!UICONTROL Active] en worden de vorderingen in het dashboard weergegeven en wordt aangegeven hoe deze worden uitgelijnd op de algemene strategie. De doelstellingen in [!UICONTROL Active] status worden geassocieerd met een vooruitgangsindicator-gewoonlijk een activiteit, een resultaat, een project of een gericht doel (kind-ouder doelverhouding).
 
-![ A screenshot van een doel in de Doelen van Workfront in een Status van het Ontwerp ](assets/04-workfront-goals-activate-goals.png)
+![&#x200B; A screenshot van een doel in de Doelen van Workfront in een Status van het Ontwerp &#x200B;](assets/04-workfront-goals-activate-goals.png)
 
 ## Voortgangsindicatoren zijn vereist om doelstellingen te activeren
 
@@ -28,7 +28,7 @@ Voordat u verdergaat, is het belangrijk dat u de voortgangsindicatoren begrijpt 
 
 Als u een voortgangsindicator wilt toevoegen, opent u het doel en selecteert u het tabblad Voortgangsindicatoren aan de linkerkant. Vervolgens wordt het vervolgkeuzemenu Nieuwe voortgangsindicator weergegeven.
 
-![ A het schermschot die resultaten, activiteiten, en projecten, en indicatoren van de doelvooruitgang tonen.](assets/05-workfront-goals-progress-indicators.png)
+![&#x200B; A het schermschot die resultaten, activiteiten, en projecten, en indicatoren van de doelvooruitgang tonen.](assets/05-workfront-goals-progress-indicators.png)
 
 In vergelijking met andere voortgangsindicatoren zijn projecten een beetje uniek, omdat ze als een soort activiteit worden beschouwd. De activiteiten kunnen in twee types-handvooruitgangsbar en Projecten worden onderscheiden. Dit heeft tot gevolg dat projecten ook de voortgang stimuleren. Hoewel alle soorten vooruitgangsindicatoren met een ouderdoel kunnen worden verbonden, is het belangrijk om in mening te zijn dat er verschillen in de manier zijn u hen beheert.
 
@@ -36,4 +36,4 @@ In vergelijking met andere voortgangsindicatoren zijn projecten een beetje uniek
 
 Als u minstens één voortgangsindicator op uw doel hebt, ziet u de optie Activeren wanneer u op het drie puntmenu naast de doelnaam klikt.
 
-![ A het schermschot die tonen hoe te om een doel te activeren.](assets/activate-a-goal-with-a-result.png)
+![&#x200B; A het schermschot die tonen hoe te om een doel te activeren.](assets/activate-a-goal-with-a-result.png)

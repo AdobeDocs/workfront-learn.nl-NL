@@ -57,7 +57,7 @@ Globale toegang tot financiële gegevens wordt eerst verleend door het type [!DN
 * [!UICONTROL View] — De gebruiker kan de informatie controleren en delen.
 * [!UICONTROL Edit] — De gebruiker kan de gegevens maken, bewerken, verwijderen en delen. (Alleen beschikbaar voor een abonnement.)
 
-![ een beeld dat de algemene opties van de Gegevens van de Financiële in een toegangsniveau toont ](assets/setting-up-finances-8.png)
+![&#x200B; een beeld dat de algemene opties van de Gegevens van de Financiële in een toegangsniveau toont &#x200B;](assets/setting-up-finances-8.png)
 
 Het is belangrijk om te weten dat de opties [!UICONTROL View] en [!UICONTROL Edit] aanvullende instellingen hebben voor een [!UICONTROL Plan] -licentie. Klik op de knop [!UICONTROL View] voor de volgende opties:
 
@@ -66,7 +66,7 @@ Het is belangrijk om te weten dat de opties [!UICONTROL View] en [!UICONTROL Edi
 * Rol- en kostenfacturering weergeven
 * Facturering van gebruikers en kostentarieven weergeven
 
-![ een beeld dat de de meningsopties van de Gegevens in een toegangsniveau toont ](assets/setting-up-finances-9.png)
+![&#x200B; een beeld dat de de meningsopties van de Gegevens in een toegangsniveau toont &#x200B;](assets/setting-up-finances-9.png)
 
 **[!UICONTROL Edit]**
 
@@ -75,7 +75,7 @@ Deze twee opties zijn beschikbaar onder de optie [!UICONTROL Edit] , samen met:
 * Rollenfacturering en kostentarieven bewerken
 * Facturering van gebruikers en kostentarieven bewerken
 
-![ een beeld dat Financiële Gegevens toont geeft opties in een toegangsniveau uit ](assets/setting-up-finances-10.png)
+![&#x200B; een beeld dat Financiële Gegevens toont geeft opties in een toegangsniveau uit &#x200B;](assets/setting-up-finances-10.png)
 
 >[!NOTE]
 >

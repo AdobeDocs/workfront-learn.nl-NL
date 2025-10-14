@@ -23,11 +23,11 @@ Wanneer u twee doelstellingen richt zal één het ouderdoel en andere een kinddo
 1. Open het onderliggende doel door op de naam ervan in de [!UICONTROL Goal List] te klikken. Standaard vindt u uzelf op het tabblad [!UICONTROL Goal Details] .
 1. Klik op de knop [!UICONTROL +Add] in het deelvenster [!UICONTROL Parent goal information] .
 
-   ![ het schermschot van A van het [!UICONTROL Goal Details] lusje ](assets/06-workfront-goals-align-goals.png)
+   ![&#x200B; het schermschot van A van het [!UICONTROL Goal Details] lusje &#x200B;](assets/06-workfront-goals-align-goals.png)
 
 1. Typ de naam van het gewenste bovenliggende doel in het veld [!UICONTROL Parent goal] en selecteer het doel wanneer het wordt weergegeven in de lijst. Alleen doelen uit dezelfde periode of een toekomstige periode worden in de lijst weergegeven.
 
-   ![ het schermschot van A van het [!UICONTROL Goal Details] paneel dat het [!UICONTROL Parent goal information] paneel ](assets/07-workfront-goals-align-to.png) toont
+   ![&#x200B; het schermschot van A van het [!UICONTROL Goal Details] paneel dat het [!UICONTROL Parent goal information] paneel &#x200B;](assets/07-workfront-goals-align-to.png) toont
 
 1. Klik op [!UICONTROL Save Changes].
 
@@ -37,5 +37,5 @@ Als u een doel uitlijnt op een ander doel, wordt een onderliggend doel gemaakt. 
 
 Nu u een kinddoel hebt gecreeerd wordt het een vooruitgangsindicator op uw ouderdoel. De optie Activeren wordt weergegeven wanneer u op het drie-puntenmenu naast de naam van het bovenliggende doel klikt.
 
-![ A het schermschot die hoe te om het ouderdoel te activeren tonen.](assets/activate-the-parent-goal.png)
+![&#x200B; A het schermschot die hoe te om het ouderdoel te activeren tonen.](assets/activate-the-parent-goal.png)
 

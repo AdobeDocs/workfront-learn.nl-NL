@@ -22,7 +22,7 @@ Managers of andere leiders kunnen de time-off kalenders van hun teamleden behere
 
 Workfront raadt aan dat uw organisatie een beleid of procedure heeft voor het geval dat een manager de persoonlijke tijd van een werknemer van kalender bijwerkt.
 
-![ gebruiker in hoofdmenu ](assets/mouto_01.png)
+![&#x200B; gebruiker in hoofdmenu &#x200B;](assets/mouto_01.png)
 
 De kalender van een andere gebruiker beheren:
 

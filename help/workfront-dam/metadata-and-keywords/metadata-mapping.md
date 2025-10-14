@@ -47,4 +47,4 @@ Als deze verbinding tot stand is gebracht, kunt u nu metagegevens toewijzen tuss
 1. U ziet de [!UICONTROL Workfront Field Source] en [!UICONTROL Workfront DAM Target Field] in het diagram onder in het venster.
 1. Herhaal deze bewerking voor alle gewenste metagegevensvelden.
 
-![ Een schermafbeelding van het [!UICONTROL Metadata Mapping] scherm in [!DNL Workfront]](assets/01-metadata-mapping.png)
+![&#x200B; Een schermafbeelding van het [!UICONTROL Metadata Mapping] scherm in [!DNL Workfront]](assets/01-metadata-mapping.png)

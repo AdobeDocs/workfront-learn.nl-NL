@@ -25,7 +25,7 @@ Als u nog niet zeker weet hoe u sjablonen in groepen wilt indelen, kunt u de gro
 
 U ziet deze groepen niet alleen in de proefinstellingen, maar ook bij het selecteren van een sjabloon tijdens het toepassen van een proefdrukworkflow. De vetgedrukte termen in de sjabloonlijst zijn de groepen.
 
-![ de groepen van het Malplaatje verschijnen in vette letters wanneer het selecteren van een malplaatje ](assets/proof-system-setups-template-group-show-on-upload.png)
+![&#x200B; de groepen van het Malplaatje verschijnen in vette letters wanneer het selecteren van een malplaatje &#x200B;](assets/proof-system-setups-template-group-show-on-upload.png)
 
 Sjabloongroepen zijn optioneel. Als uw organisatie slechts een paar malplaatjes heeft, zou u hen niet in groepen kunnen hoeven te organiseren.
 
@@ -40,7 +40,7 @@ Sjabloongroepen zijn optioneel. Als uw organisatie slechts een paar malplaatjes 
 
 De nieuwe groep staat nu in de lijst.
 
-![ Lijst van malplaatjegroepen in de montages van het proefwerkschema ](assets/proof-system-setups-template-group-groups-set-up.png)
+![&#x200B; Lijst van malplaatjegroepen in de montages van het proefwerkschema &#x200B;](assets/proof-system-setups-template-group-groups-set-up.png)
 
 ## Een groep verwijderen
 

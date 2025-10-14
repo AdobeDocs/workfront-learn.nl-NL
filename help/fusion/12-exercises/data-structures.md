@@ -26,9 +26,9 @@ Gegevens van een bronbestand omzetten in een doelbestand.
 
 Open een CSV-bestand dat een lijst met tijdgegevens bevat. Deze tijdgegevens worden gedurende minuten vastgelegd door meerdere gebruikers. Het doel is deze informatie te nemen en een nieuwe CSV te produceren die de totale tijd, in uren toont, die door elke gebruiker, elke dag wordt geregistreerd.
 
-![ Beeld van de structuren van Gegevens 1 ](../12-exercises/assets/data-structures-walkthrough-1.png)
+![&#x200B; Beeld van de structuren van Gegevens 1 &#x200B;](../12-exercises/assets/data-structures-walkthrough-1.png)
 
-![ Beeld van de structuren van Gegevens 2 ](../12-exercises/assets/data-structures-walkthrough-2.png)
+![&#x200B; Beeld van de structuren van Gegevens 2 &#x200B;](../12-exercises/assets/data-structures-walkthrough-2.png)
 
 
 In dit scenario opent u een bestand dat een lijst bevat met tijdgegevens voor gewerkte minuten, zoals de datum en tijd, het aantal minuten dat is ingevoerd en het e-mailadres van wie de gegevens heeft ingevoerd. Er zijn 100 inzendingen, waarvan sommige door dezelfde individuen zijn gemaakt en sommige op dezelfde dag als andere.
@@ -52,19 +52,19 @@ Als u een bestand wilt maken waarin de totale tijd, in uren, die elke dag door e
 1. Start met de module Download Document vanuit de Workfront-toepassing.
 1. Stel uw Workfront-verbinding in en neem de document-id op die u van de Workfront-URL hebt gekopieerd.
 
-   ![ Beeld van de structuren van Gegevens 3 ](../12-exercises/assets/data-structures-walkthrough-3.png)
+   ![&#x200B; Beeld van de structuren van Gegevens 3 &#x200B;](../12-exercises/assets/data-structures-walkthrough-3.png)
 
    **ontleed de gegevens van de tijdingang.**
 
 1. Voeg een andere module toe en selecteer CSV parseren.
 1. CSV-bestand parseren voor 7 kolommen. Controleer CSV bevat kopballen doos. Kies het scheidingsteken voor komma&#39;s en plaats Gegevens in het CSV-veld.
 
-   ![ Beeld van de structuren van Gegevens 4 ](../12-exercises/assets/data-structures-walkthrough-4.png)
+   ![&#x200B; Beeld van de structuren van Gegevens 4 &#x200B;](../12-exercises/assets/data-structures-walkthrough-4.png)
 
 1. Klik eenmaal op Uitvoeren om de uitvoer weer te geven.
 1. Open de uitvoeringscontrole om de input en de output van de Parse CSV module te zien. Er is één bundel (een CSV-bestand) als invoer en meerdere bundels als uitvoer (één bundel voor elke rij in het CSV-bestand). Het moet er ongeveer als volgt uitzien:
 
-   ![ Beeld van de structuren van Gegevens 5 ](../12-exercises/assets/data-structures-walkthrough-5.png)
+   ![&#x200B; Beeld van de structuren van Gegevens 5 &#x200B;](../12-exercises/assets/data-structures-walkthrough-5.png)
 
    **daarna, zet de gegevens in de gewenste outputvorm, met samengevoegde tijdtotalen die in uren in plaats van notulen worden uitgedrukt.**
 
@@ -78,13 +78,13 @@ Als u een bestand wilt maken waarin de totale tijd, in uren, die elke dag door e
 
    **Uw toewijzingspaneel zou als dit moeten kijken:**
 
-   ![ Beeld van de structuren van Gegevens 6 ](../12-exercises/assets/data-structures-walkthrough-6.png)
+   ![&#x200B; Beeld van de structuren van Gegevens 6 &#x200B;](../12-exercises/assets/data-structures-walkthrough-6.png)
 
 1. Klik eenmaal op Uitvoeren om de uitvoer van de aggregatie te controleren.
 
    **de outputbundels zouden als dit moeten kijken:**
 
-   ![ Beeld van de structuren van Gegevens 7 ](../12-exercises/assets/data-structures-walkthrough-7.png)
+   ![&#x200B; Beeld van de structuren van Gegevens 7 &#x200B;](../12-exercises/assets/data-structures-walkthrough-7.png)
 
    **zet nu de samengevoegde notulen in uren om.**
 
@@ -94,7 +94,7 @@ Als u een bestand wilt maken waarin de totale tijd, in uren, die elke dag door e
 
    **Uw toewijzingspaneel zou als dit moeten kijken:**
 
-   ![ Beeld van de structuren van Gegevens 8 ](../12-exercises/assets/data-structures-walkthrough-8.png)
+   ![&#x200B; Beeld van de structuren van Gegevens 8 &#x200B;](../12-exercises/assets/data-structures-walkthrough-8.png)
 
    **daarna, krijg de waarden opstelling voor het outputdossier. U wilt de userID en de datumwaarde die voor de groepen worden gebruikt. U wilt ook de uren die werden berekend.**
 
@@ -110,7 +110,7 @@ Als u een bestand wilt maken waarin de totale tijd, in uren, die elke dag door e
 
    **Uw gegevensstructuur zou als dit moeten kijken:**
 
-   ![ Beeld 9 van de structuren van Gegevens ](../12-exercises/assets/data-structures-walkthrough-9.png)
+   ![&#x200B; Beeld 9 van de structuren van Gegevens &#x200B;](../12-exercises/assets/data-structures-walkthrough-9.png)
 
 1. Klik op Opslaan om de gegevensstructuur Tijd geregistreerd voor dagelijkse som te voltooien.
 
@@ -122,11 +122,11 @@ Als u een bestand wilt maken waarin de totale tijd, in uren, die elke dag door e
 
    **Uw Csv- kaartpaneel zou als dit moeten kijken:**
 
-   ![ Beeld van de structuren van Gegevens 10 ](../12-exercises/assets/data-structures-walkthrough-10.png)
+   ![&#x200B; Beeld van de structuren van Gegevens 10 &#x200B;](../12-exercises/assets/data-structures-walkthrough-10.png)
 
    **als u het scenario nu in werking stelt, zou u deze output moeten zien:**
 
-   ![ Beeld van de structuren van Gegevens 11 ](../12-exercises/assets/data-structures-walkthrough-11.png)
+   ![&#x200B; Beeld van de structuren van Gegevens 11 &#x200B;](../12-exercises/assets/data-structures-walkthrough-11.png)
 
    **nu, voeg een module toe om deze output te nemen en het als document aan een bestaand project in Workfront te uploaden.**
 
@@ -140,11 +140,11 @@ Als u een bestand wilt maken waarin de totale tijd, in uren, die elke dag door e
 
    **Uw toewijzingspaneel zou als dit moeten kijken:**
 
-   ![ Beeld van de structuren van Gegevens 12 ](../12-exercises/assets/data-structures-walkthrough-12.png)
+   ![&#x200B; Beeld van de structuren van Gegevens 12 &#x200B;](../12-exercises/assets/data-structures-walkthrough-12.png)
 
 1. Klik op OK en sla het scenario op.
 1. Klik eenmaal op Uitvoeren om het scenario uit te voeren.
 
    **controleer de uitvoeringsinspecteur in de Upload module van het Document om het document te bevestigen werd geupload.**
 
-   ![ Beeld van de structuren van Gegevens 13 ](../12-exercises/assets/data-structures-walkthrough-13.png)
+   ![&#x200B; Beeld van de structuren van Gegevens 13 &#x200B;](../12-exercises/assets/data-structures-walkthrough-13.png)

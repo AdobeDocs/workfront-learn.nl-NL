@@ -29,7 +29,7 @@ Houd er rekening mee dat het langer duurt om grotere bestanden te uploaden. Cont
 
 Tot de ondersteunde videotypen behoren MOV, MP4 en H.264. <!-- Check the supported file types list to make sure the video type you use is compatible with Workfront’s proofing features.-->
 
-![ een beeld van prijsverhoging op een videoproefdruk dossier.](assets/upload-a-proof-of-a-video.png)
+![&#x200B; een beeld van prijsverhoging op een videoproefdruk dossier.](assets/upload-a-proof-of-a-video.png)
 
 Bij het uploaden van een video in [!DNL Workfront] worden dezelfde stappen uitgevoerd als bij het uploaden van een statisch bestand.
 

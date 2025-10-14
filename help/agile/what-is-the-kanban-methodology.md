@@ -33,17 +33,17 @@ U kunt uw Kanban-bord op verschillende manieren opmaken. Teams werken vanuit een
 
 In het meest simplistische bord zou de eerste kolom kunnen zijn &quot;te doen,&quot;de tweede &quot;lopend,&quot;en derde &quot;volledig.&quot;
 
-![ Blackboard en kleverige nota&#39;s ](assets/agile4-01.png)
+![&#x200B; Blackboard en kleverige nota&#39;s &#x200B;](assets/agile4-01.png)
 
 Vele bedrijven hebben hun eigen terminologie voor de kolomnamen, of zij kunnen zelfs elke stap in een proces vermelden, maar de bedoeling is het zelfde. De leden van het team bewegen hun verhalen van kolom aan kolom afhankelijk van welke staat het werk binnen is.
 
-![ Blackboard en kleverige nota&#39;s ](assets/agile4-02.png)
+![&#x200B; Blackboard en kleverige nota&#39;s &#x200B;](assets/agile4-02.png)
 
 ## Prioriteit
 
 De leden van het team werken met een productmanager of een projectmanager om ervoor te zorgen de verhalen in de backlog en andere statuskolommen voorrang krijgen en dat het werk zich naar voltooiing blijft voortbewegen. De productmanager is nog verantwoordelijk voor het verzekeren van de stem van de klant wordt gehoord en het product beweegt in de correcte richting.
 
-![ Kanban whiteboard ](assets/agile4-03.png)
+![&#x200B; Kanban whiteboard &#x200B;](assets/agile4-03.png)
 
 ## Werk in proces beperken
 

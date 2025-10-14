@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Een strengheid kan worden gebruikt om aan te geven hoe ernstig een probleem is of hoe het het werk dat wordt uitgevoerd kan beïnvloeden.
 
-![[!UICONTROL Severity] menu in het [!UICONTROL Issue Details] venster ](assets/admin-fund-severity-issue-details.png)
+![[!UICONTROL Severity] menu in het [!UICONTROL Issue Details] venster &#x200B;](assets/admin-fund-severity-issue-details.png)
 
 Het veld [!UICONTROL Severity] kan worden geopend in [!UICONTROL Issue Details] . Het kan ook in kolommeningen op lijsten en in douanerapporten worden omvat.
 
@@ -55,7 +55,7 @@ Als systeembeheerder, kunt u nieuwe controles tot stand brengen, indien nodig, o
 1. Voeg een beschrijving toe van de ernst, zoals de manier waarop het wordt gebruikt.
 1. Klik buiten de velden om op te slaan.
 
-![[!UICONTROL Severities] list ](assets/admin-fund-severity-new.png)
+![[!UICONTROL Severities] list &#x200B;](assets/admin-fund-severity-new.png)
 
 ### De ernst wijzigen
 
@@ -67,7 +67,7 @@ Als een ernst niet meer nodig is, raadt [!DNL Workfront] u aan de ernst te verbe
 
 [!DNL Workfront] adviseert dat u **niet** een strengheid schrapt die op vroegere kwesties is gebruikt. Wanneer u een ernst verwijdert, wordt u gevraagd een andere ernst te vervangen. Dit kan historische gegevens veranderen en rapportering beïnvloeden.
 
-![ schrap strengheidsvenster ](assets/admin-fund-severity-delete.png)
+![&#x200B; schrap strengheidsvenster &#x200B;](assets/admin-fund-severity-delete.png)
 
 <!--
 learn more URLs

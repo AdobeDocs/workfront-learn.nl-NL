@@ -36,6 +36,6 @@ De functie Bronnen wordt automatisch geopend met een standaardset filters. U wil
 * Portfolio/Program
 * Brongroepen, enz.
 
-![ filter van de middelplanner ](assets/TRP01.png)
+![&#x200B; filter van de middelplanner &#x200B;](assets/TRP01.png)
 
 Hierdoor kunt u zich concentreren op welke bronnen beschikbaar zijn en wanneer.

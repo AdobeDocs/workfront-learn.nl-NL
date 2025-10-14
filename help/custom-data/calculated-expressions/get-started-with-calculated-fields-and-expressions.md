@@ -32,13 +32,13 @@ Hoewel deze velden niet inherent in [!DNL Workfront] zijn ingebouwd, kunt u aang
 
 Dit leerpad richt zich op het berekende veld. U zult leren wat een berekend gebied is, de verschillende soorten informatie u in het berekende gebied door gegevensuitdrukkingen kunt trekken, en hoe te om die berekende gebieden te bouwen om uw gegevensinzameling en rapportering te verbeteren.
 
-![ de beheersmontages van het Middel één pager ](assets/GS01.png)
+![&#x200B; de beheersmontages van het Middel één pager &#x200B;](assets/GS01.png)
 
 ## Wat is een berekend veld?
 
 In een berekend veld worden aangepaste gegevens opgeslagen die zijn gemaakt met gegevensexpressies en bestaande Workfront-velden.
 
-![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/GS02.png)
+![&#x200B; Werklastverdelingsmechanisme met gebruiksrapport &#x200B;](assets/GS02.png)
 
 Bijvoorbeeld, heeft uw organisatie een specifiek project nummering, of het werkaantal, systeem dat omvat:
 
@@ -49,7 +49,7 @@ Bijvoorbeeld, heeft uw organisatie een specifiek project nummering, of het werka
 
 Gebruikend uitdrukkingen op een berekend gebied, kunt u elk deel van informatie nemen die reeds in [!DNL Workfront] wordt opgeslagen en die unieke project identiteitskaart, of het het werkaantal tot stand brengen, die dan aan een rapport als dit kan worden toegevoegd:
 
-![ Werklastverdelingsmechanisme met gebruiksrapport ](assets/GS03.png)
+![&#x200B; Werklastverdelingsmechanisme met gebruiksrapport &#x200B;](assets/GS03.png)
 
 Afhankelijk van de specifieke gegevens die nodig zijn, kunnen berekende velden eenvoudig zijn, waarbij een of twee expressies worden gebruikt of gecompliceerd, waarbij verschillende ingesloten expressies worden gebruikt. Houd er rekening mee dat Workfront alleen gegevens kan gebruiken die al zijn opgeslagen of die in het systeem zijn opgehaald voor berekende velden.
 
@@ -69,7 +69,7 @@ Tekstexpressies kunnen in een aangepast veld worden gebruikt voor deze typen zoe
 
 Wanneer u de mogelijke tekstexpressies bekijkt, ziet u verschillende opties.
 
-![ de beheersmontages van het Middel één pager ](assets/TE01.png)
+![&#x200B; de beheersmontages van het Middel één pager &#x200B;](assets/TE01.png)
 
 Er zijn zes tekstexpressies die het vaakst worden gebruikt:
 

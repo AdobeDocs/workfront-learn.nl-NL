@@ -38,7 +38,7 @@ Herinneringen zijn objectspecifiek en moeten handmatig aan het bijbehorende werk
 1. Vul de vereiste gegevens in.
 1. Klik op **[!UICONTROL Save]**.
 
-![[!UICONTROL New Reminder Notification] window ](assets/admin-fund-reminder-notification-1.png)
+![[!UICONTROL New Reminder Notification] window &#x200B;](assets/admin-fund-reminder-notification-1.png)
 
 Bij het instellen van de herinnering moet u rekening houden met een aantal zaken:
 
@@ -58,7 +58,7 @@ Herinneringsberichten gebruiken een standaard-e-mailindeling en -bericht. Als u 
 paragraph above needs a hyperlink to an article
 -->
 
-![ Nieuw venster van het Malplaatje E-mail ](assets/admin-fund-email-customization.png)
+![&#x200B; Nieuw venster van het Malplaatje E-mail &#x200B;](assets/admin-fund-email-customization.png)
 
 <!--
 learn more URLs

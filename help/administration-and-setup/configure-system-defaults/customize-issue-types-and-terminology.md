@@ -58,7 +58,7 @@ Customize default issue types
 Sommige organisaties gebruiken een term buiten &quot;kwestie&quot;om naar niet geplande het werkpunten te verwijzen. Het probleem is de standaardterm en wordt in de software weergegeven: menu&#39;s, rapporten, veldnamen, enzovoort.
 Workfront-beheerders kunnen de functionaliteit van de lay-outsjabloon gebruiken om de naam van het item te wijzigen zodat deze overeenkomt met de terminologie van hun organisatie. De nieuwe termijn verschijnt dan door [!DNL Workfront] voor degenen die aan het lay-outmalplaatje worden toegewezen.
 
-![[!UICONTROL Terminology] venster met [!UICONTROL Issue] gemarkeerd ](assets/admin-fund-issue-custom-terminology.png)
+![[!UICONTROL Terminology] venster met [!UICONTROL Issue] gemarkeerd &#x200B;](assets/admin-fund-issue-custom-terminology.png)
 
 <!--
 paragraph below needs a hyperlink

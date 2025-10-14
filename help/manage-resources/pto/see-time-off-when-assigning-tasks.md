@@ -22,8 +22,8 @@ Een klein pictogram geeft aan dat een gebruiker tijdens de duur van de taak tijd
 
 Wanneer u vanuit het projectplan een gebruiker een naam geeft, ziet u de naam grijs en een blauw waarschuwingspictogram naast de avatarafbeelding.
 
-![ grayed out gebruiker voor pto ](assets/toat_01.png)
+![&#x200B; grayed out gebruiker voor pto &#x200B;](assets/toat_01.png)
 
 Als u via de koptekst van de taakpagina toewijst, ziet u een klein blauw vliegtuigpictogram naast de avatar van de persoon om u te waarschuwen dat deze tijdens de duur van deze taak geen tijd meer heeft.
 
-![ taak van de gebruikerstaak ](assets/toat_02.png)
+![&#x200B; taak van de gebruikerstaak &#x200B;](assets/toat_02.png)

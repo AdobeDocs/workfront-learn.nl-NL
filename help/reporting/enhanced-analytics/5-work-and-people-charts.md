@@ -26,7 +26,7 @@ Selecteer het type analytische diagrammen dat u wilt weergeven (Werk of Personen
 
 ## Werkdiagrammen
 
-![ Een beeld van het vinden van de [!UICONTROL Analytics] eigenschap in [!DNL Workfront Classic]](assets/section-1-1.png)
+![&#x200B; Een beeld van het vinden van de [!UICONTROL Analytics] eigenschap in [!DNL Workfront Classic]](assets/section-1-1.png)
 
 Wanneer u naar de werkdiagrammen gaat, ziet u standaard:
 
@@ -42,7 +42,7 @@ De Burndown en de Taken in vluchtgrafieken verschijnen wanneer u neer in de gege
 
 ## Personengrafiek - Activiteit per team
 
-![ een beeld dat een activiteit door teamgrafiek met aantallen op gebieden toont die in hieronder kogels worden beschreven ](assets/section-3-1.png)
+![&#x200B; een beeld dat een activiteit door teamgrafiek met aantallen op gebieden toont die in hieronder kogels worden beschreven &#x200B;](assets/section-3-1.png)
 
 Op het diagram kunt u zien:
 

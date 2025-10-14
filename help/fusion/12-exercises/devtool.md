@@ -28,9 +28,9 @@ Installeer en gebruik de verschillende gebieden in Workfront Dev hulpmiddel om d
 
 >[!NOTE]
 >
->Het hulpmiddel van de Ontwikkelaar van de Fusie van Workfront is slechts beschikbaar in browser van Chrome wanneer het gebruiken van het [ hulpmiddel van de ontwikkelaar van Chrome ](https://developer.chrome.com/docs/devtools/).
+>Het hulpmiddel van de Ontwikkelaar van de Fusie van Workfront is slechts beschikbaar in browser van Chrome wanneer het gebruiken van het [&#x200B; hulpmiddel van de ontwikkelaar van Chrome &#x200B;](https://developer.chrome.com/docs/devtools/).
 
-![ Devtool Beeld 1 ](../12-exercises/assets/devtool-walkthrough-1.png)
+![&#x200B; Devtool Beeld 1 &#x200B;](../12-exercises/assets/devtool-walkthrough-1.png)
 
 ## Te volgen stappen
 
@@ -41,40 +41,40 @@ Installeer en gebruik de verschillende gebieden in Workfront Dev hulpmiddel om d
 1. Open een lusje in Chrome en ga **chrome://extensions** in.
 1. Schakel in de modus Ontwikkelaar met behulp van de schakelaar in de rechterbovenhoek in en klik vervolgens op de knop &quot;Niet-verpakt laden&quot; die linksboven wordt weergegeven. Selecteer de map met het gereedschap Dev (dit is waar u het hebt uitgepakt).
 
-   ![ Devtool Image 2 ](../12-exercises/assets/devtool-walkthrough-2.png)
+   ![&#x200B; Devtool Image 2 &#x200B;](../12-exercises/assets/devtool-walkthrough-2.png)
 
 1. Nadat u de verpakking hebt verwijderd, wordt het gereedschap Ontwikkelen bij de andere extensies weergegeven.
 
-   ![ Devtool Beeld 3 ](../12-exercises/assets/devtool-walkthrough-3.png)
+   ![&#x200B; Devtool Beeld 3 &#x200B;](../12-exercises/assets/devtool-walkthrough-3.png)
 
    **gebruik de Levende Stroom.**
 
 1. Begin door &quot;het Gebruiken van de Opslag van Gegevens aan synchronisatiegegevens&quot;scenario te openen.
 1. Open het gereedschap Dev door F12 of de functie F12 te typen. U kunt ook op het menu met drie punten in de adresbalk van Chrome klikken en naar Developer Tools navigeren.
 
-   ![ Devtool Beeld 4 ](../12-exercises/assets/navigate-to-devtools.png)
+   ![&#x200B; Devtool Beeld 4 &#x200B;](../12-exercises/assets/navigate-to-devtools.png)
 
 1. Klik op het tabblad Workfront Fusion en selecteer vervolgens Live Stream in de lijst aan de linkerkant.
 1. Klik eenmaal op Uitvoeren om gebeurtenissen weer te geven zoals deze plaatsvinden.
 1. Klik op een gebeurtenis om tabbladen aan de rechterkant weer te geven voor Request-headers, Request-body, Response Headers en Response Body.
 
-   ![ Devtool Beeld 4 ](../12-exercises/assets/devtool-walkthrough-4.png)
+   ![&#x200B; Devtool Beeld 4 &#x200B;](../12-exercises/assets/devtool-walkthrough-4.png)
 
    **gebruik Debugger van het Scenario**
 
 1. Selecteer Foutopsporing Scenario en klik een module om informatie over de verrichtingen van die module te zien.
 
-   ![ Devtool Beeld 5 ](../12-exercises/assets/devtool-walkthrough-5.png)
+   ![&#x200B; Devtool Beeld 5 &#x200B;](../12-exercises/assets/devtool-walkthrough-5.png)
 
 1. Navigeer naar het tabblad Historie. Klik Details op een uitvoering om de details van de moduleverrichting voor een specifieke uitvoering te onderzoeken.
 
-   ![ Devtool Beeld 6 ](../12-exercises/assets/devtool-walkthrough-6.png)
+   ![&#x200B; Devtool Beeld 6 &#x200B;](../12-exercises/assets/devtool-walkthrough-6.png)
 
    **Gebruik de Hulpmiddelen**
 
 1. Ga terug naar de scenarioontwerper en selecteer Hulpmiddelen in het Dev hulpmiddel. Hier worden de beschikbare gereedschappen weergegeven.
 
-   ![ Devtool Beeld 7 ](../12-exercises/assets/devtool-walkthrough-7.png)
+   ![&#x200B; Devtool Beeld 7 &#x200B;](../12-exercises/assets/devtool-walkthrough-7.png)
 
 + Focus op een Module - Zoek en open snel een module door de module identiteitskaart te gebruiken.
 + Module(s) zoeken door Toewijzing - zoek een scenario met een trefwoord om toegewezen waarden en/of sleutels in modules te zoeken.

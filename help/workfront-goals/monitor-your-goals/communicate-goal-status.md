@@ -33,7 +33,7 @@ U kunt een doel delen u creeerde of een doel dat door iemand anders wordt gecree
 
 1. Klik het 3 puntpictogram naast de doelnaam, dan klik [!UICONTROL **Aandeel**]. Het vak [!UICONTROL Goal Access] wordt weergegeven.
 
-   ![ Schermafbeelding van het delen van een doel ](assets/17-workfront-goals-share-a-goal.png)
+   ![&#x200B; Schermafbeelding van het delen van een doel &#x200B;](assets/17-workfront-goals-share-a-goal.png)
 
 1. Voer een van de volgende handelingen uit:
 
