@@ -1,24 +1,24 @@
 ---
-title: Een OR-filter gebruiken in een Canvasdashboardrapport
-description: Leer hoe u een OR-filter gebruikt in een Canvas-dashboardrapport.
+title: Een diagramrapport maken op een Canvasdashboard
+description: Leer hoe u een grafiekrapport maakt op een Canvas-dashboard.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-jira: KT-18770
-last-substantial-update: 2025-09-30T00:00:00Z
+jira: KT-18772
+last-substantial-update: 2025-10-15T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-# Een OR-filter gebruiken in een Canvasdashboardrapport
+# Een diagramrapport maken op een Canvasdashboard
 
 >[!PREREQUISITES]
 >
@@ -31,16 +31,16 @@ De eerste dingen u moet doen alvorens u een het rapport van het Dashboard van he
 
 [ Inleiding aan de Dashboards van het Canvas ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) toont u stap voor stap hoe te om beide van deze te doen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3475814/?quality=12&learn=on&enablevpops=1)
 
 **voor meer informatie zie de volgende hulpartikelen:**
 [ Overzicht van de Dashboards van het Canvas ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[ geef rapportfilters in een Dashboard van het Canvas uit ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
+[ Bouw een grafiekrapport in een Dashboard van het Canvas ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-chart-report)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
 * [ Inleiding aan de Dashboards van het Canvas ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [Een KPI-rapport maken op een Canvasdashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
-* [ creeer een grafiekrapport op een Dashboard van het Canvas ](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [Een tabelrapport maken op een canvasdashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [Voorwaardelijke opmaak toevoegen aan een Canvasdashboardrapport](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
+* [Een OR-filter gebruiken in een Canvasdashboardrapport](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

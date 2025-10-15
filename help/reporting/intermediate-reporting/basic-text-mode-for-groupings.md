@@ -12,7 +12,7 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -23,16 +23,16 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; Begrijp rapporteringselementen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=nl-NL)
->* [&#x200B; Begrijp het melden componenten &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=nl-NL)
->* [&#x200B; creeer een basisgroepering &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=nl-NL)
+>* [ Begrijp rapporteringselementen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [ Begrijp het melden componenten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [ creeer een basisgroepering ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
 
 
 >[!TIP]
 >
->* Om een diepgaander inzicht in tekstwijze te verkrijgen adviseren wij het letten op de geregistreerde webinar gebeurtenis [&#x200B; vragen de Deskundige - Inleiding aan de Wijze van de Tekst die &#x200B;](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting) meldt, die één uur in lengte is.
->* Om nog meer over tekstwijze te leren adviseren wij het letten op [&#x200B; Geavanceerde het melden &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=nl-NL) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
->* Klik hier voor toegang [[!UICONTROL API Explorer] &#x200B;](https://developer.adobe.com/workfront/api-explorer/)
+>* Om een diepgaander inzicht in tekstwijze te verkrijgen adviseren wij het letten op de geregistreerde webinar gebeurtenis [ vragen de Deskundige - Inleiding aan de Wijze van de Tekst die ](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting) meldt, die één uur in lengte is.
+>* Om nog meer over tekstwijze te leren adviseren wij het letten op [ Geavanceerde het melden ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
+>* Klik hier voor toegang [[!UICONTROL API Explorer] ](https://developer.adobe.com/workfront/api-explorer/)
 
 In deze video leert u:
 
@@ -40,7 +40,7 @@ In deze video leert u:
 * Wat kamelendoosje is
 * Sommige _blokken van de tekstwijze_ u kunt in uw rapportgroeperingen gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/3428982/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
 
 ## De activiteiten van de &quot;Begrijpen basistekstwijze voor groeperingen&quot;
 
@@ -58,7 +58,7 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![&#x200B; het schermbeeld dat van A projecttaken toont die door 4 ouders &#x200B;](assets/4-parents-grouping.png) worden gegroepeerd
+![ het schermbeeld dat van A projecttaken toont die door 4 ouders ](assets/4-parents-grouping.png) worden gegroepeerd
 
 
 ### Taak - Percentage volledige groepering
@@ -80,7 +80,7 @@ group.0.valueformat=doubleAsString
 textmode=true
 ```
 
-![&#x200B; het schermbeeld dat van A projecttaken toont die door percent volledig &#x200B;](assets/percent-complete-grouping.png) worden gegroepeerd
+![ het schermbeeld dat van A projecttaken toont die door percent volledig ](assets/percent-complete-grouping.png) worden gegroepeerd
 
 ### Taak - statusEquatesWith, dan status
 
@@ -104,7 +104,7 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![&#x200B; het schermbeeld dat van A projecttaken toont die door statusEquatesWith &#x200B;](assets/status-equates-with.png) worden gegroepeerd
+![ het schermbeeld dat van A projecttaken toont die door statusEquatesWith ](assets/status-equates-with.png) worden gegroepeerd
 
 
 ### Goedkeuring proef - groep per projectnaam
@@ -115,7 +115,7 @@ group.0.valuefield=documentVersion:document:project:name
 group.0.displayname=Project Name
 ```
 
-![&#x200B; het schermbeeld dat van A goedkeuringen van het Bewijs toont die door projectnaam &#x200B;](assets/proof-approvals-grouped-by-project-name.png) worden gegroepeerd
+![ het schermbeeld dat van A goedkeuringen van het Bewijs toont die door projectnaam ](assets/proof-approvals-grouped-by-project-name.png) worden gegroepeerd
 
 
 ### Goedkeuring proefdrukken - Groeperen op documentnaam
@@ -126,5 +126,5 @@ group.0.valuefield=documentVersion:document:name
 group.0.valueformat=HTML
 ```
 
-![&#x200B; het schermbeeld dat van A goedkeuringen van het Bewijs toont die door projectnaam &#x200B;](assets/proof-approvals-grouped-by-doc-name.png) worden gegroepeerd
+![ het schermbeeld dat van A goedkeuringen van het Bewijs toont die door projectnaam ](assets/proof-approvals-grouped-by-doc-name.png) worden gegroepeerd
 

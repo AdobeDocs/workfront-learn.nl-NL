@@ -12,7 +12,7 @@ jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 last-substantial-update: 2025-08-11T00:00:00Z
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -25,13 +25,13 @@ In de video wordt uitgelegd hoe u filters met meerdere regels maakt en gebruikt 
 U kunt ook de filterlogica wijzigen in &#39;&#39;OR&#39;&#39;, waarin items worden weergegeven die aan een van de voorwaarden voldoen.
 De video demonstreert ook het maken van filters voor taken met behulp van filtergroepen. &#x200B; U kunt bijvoorbeeld twee groepen maken: een voor onvolledige taken die zijn toegewezen aan het creatieve team en die te laat zijn, en een voor onvolledige taken die zijn toegewezen aan het creatieve team en die niet zijn toegewezen. &#x200B; Binnen elke groep is de logica &quot;AND&quot; van toepassing, wat betekent dat aan alle voorwaarden in de groep moet worden voldaan. &#x200B; De logica &quot;OF&quot;tussen groepen verzekert taken die aan de voorwaarden van één van beide groep voldoen worden getoond.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470699/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
 
 ## OR filteractiviteit
 
 U wilt onvolledige taken vinden die aan u worden toegewezen of die niet aan niemand worden toegewezen. U stelt een filter zo in dat het eronder lijkt. Geeft dit filter u de gewenste resultaten? Waarom of waarom niet?
 
-![&#x200B; Een afbeelding van een onjuist gemaakte OR-instructie in [!DNL Workfront]](assets/or-statement-your-turn-1.png)
+![ Een afbeelding van een onjuist gemaakte OR-instructie in [!DNL Workfront]](assets/or-statement-your-turn-1.png)
 
 ### Antwoorden
 
@@ -45,4 +45,4 @@ In plaats daarvan genereert dit filter een lijst met de volgende gegevens:
 
 Het filter moet er net zo uitzien als hieronder. Merk op dit filter de filterregel voor taakvolledigheid op beide kanten van OR heeft.
 
-![&#x200B; Een beeld van behoorlijk gecreeerd OF verklaring in [!DNL Workfront]](assets/or-statement-your-turn-2.png)
+![ Een beeld van behoorlijk gecreeerd OF verklaring in [!DNL Workfront]](assets/or-statement-your-turn-2.png)

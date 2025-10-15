@@ -12,7 +12,7 @@ jira: KT-8861
 last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 1%
@@ -26,7 +26,7 @@ In deze video leert u:
 * Wanneer een matrixrapport nuttig kan zijn
 * En hoe te om een matrixrapport te creëren
 
->[!VIDEO](https://video.tv.adobe.com/v/3448189/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
@@ -52,7 +52,7 @@ U wilt dat de aanvraagrijen op de rijgroepen verschijnen. De status wordt weerge
 1. Selecteer voor [!UICONTROL Row Groupings] **[!UICONTROL Project]** > **[!UICONTROL Name]** .
 1. Selecteer voor [!UICONTROL Column Grouping] **[!UICONTROL Issue]** > **[!UICONTROL Status]** .
 
-   ![&#x200B; een beeld van het scherm om een nieuw kwestie tot stand te brengen rapport groeperen &#x200B;](assets/matrix-report-groupings.png)
+   ![ een beeld van het scherm om een nieuw kwestie tot stand te brengen rapport groeperen ](assets/matrix-report-groupings.png)
 
 1. Ga naar het tabblad **[!UICONTROL Filters]**.
 1. Om ervoor te zorgen u slechts verzoeken in actieve verzoekrijen ziet, voeg de volgende filterregels toe:
@@ -62,4 +62,4 @@ U wilt dat de aanvraagrijen op de rijgroepen verschijnen. De status wordt weerge
 
 1. Klik op **[!UICONTROL Save + Close]** . Wanneer ertoe aangezet voor een rapportnaam, typ in &quot;Verzoeken door Status en de Rij van het Verzoek.&quot;
 
-   ![&#x200B; een beeld van het scherm om een nieuw filter van het uitgiftenrapport tot stand te brengen &#x200B;](assets/matrix-report-filters.png)
+   ![ een beeld van het scherm om een nieuw filter van het uitgiftenrapport tot stand te brengen ](assets/matrix-report-filters.png)

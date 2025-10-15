@@ -12,7 +12,7 @@ last-substantial-update: 2025-07-24T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Bekijk ingebouwde projectfilters om te zien hoe ze zijn gebouwd
 * Maak uw eigen projectfilter met wat u hebt geleerd
 
->[!VIDEO](https://video.tv.adobe.com/v/3469866/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0)
 
 ## &quot;Ingebouwde projectfilters begrijpen&quot;-activiteiten
 
@@ -39,6 +39,6 @@ U wilt alle actieve projecten zien u bezit, waar &quot;actief&quot;betekent de p
 
 Het filter moet er als volgt uitzien:
 
-![&#x200B; een beeld van het scherm om een projectfilter &#x200B;](assets/opening-built-in-project-filters-1.png) tot stand te brengen
+![ een beeld van het scherm om een projectfilter ](assets/opening-built-in-project-filters-1.png) tot stand te brengen
 
 U kunt extra filterregels opnemen, zoals het zoeken naar projecten in een bepaald programma of portfolio. Als u dat doet, raadt Workfront u aan de naam van het filter te wijzigen in een beschrijving, bijvoorbeeld &quot;Actieve projecten die ik in de Portfolio Marketing heb.&quot;

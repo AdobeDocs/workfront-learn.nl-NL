@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In deze video leert u hoe u:
 * Een aangepaste datum maken met jokertekens, kenmerken, operatoren en wijzigingstoetsen
 * Een aangepast datumbereik maken met jokertekens
 
->[!VIDEO](https://video.tv.adobe.com/v/3464544/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0)
 
 
 ## &quot;Filters maken met jokertekens op basis van datum&quot;-activiteiten
@@ -41,7 +41,7 @@ In deze video leert u hoe u:
 1. Hoe zou u de filterregel bouwen om projecten te vinden die vorige week werden verwacht?
 1. De volgende filterregels maken deel uit van een taakrapport u regelmatig gebruikt. Welk soort resultaten krijgt u uit dit verslag?
 
-![&#x200B; een beeld van het scherm om een taakfilter met een op datum-gebaseerde vervanging &#x200B;](assets/date-wildcard-answer-1.png) tot stand te brengen
+![ een beeld van het scherm om een taakfilter met een op datum-gebaseerde vervanging ](assets/date-wildcard-answer-1.png) tot stand te brengen
 
 ### Antwoorden
 

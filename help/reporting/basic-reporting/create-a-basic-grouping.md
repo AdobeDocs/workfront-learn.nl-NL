@@ -12,7 +12,7 @@ jira: KT-8853
 last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 In deze video wordt uitgelegd hoe u groepen in Workfront kunt maken en beheren om projectlijsten op effectieve wijze te ordenen. &#x200B; Groepen zijn een van de drie belangrijkste rapportelementen, naast filters en weergaven, en ze helpen resultaten te organiseren op basis van gedeelde informatie. &#x200B;
 Deze zelfstudie biedt praktische stappen voor het organiseren van projectlijsten om dagelijks werk en samenwerking te stroomlijnen. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3449821/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
@@ -49,7 +49,7 @@ Groepeer het probleemrapport op basis van:
 
 ### Antwoord 1
 
-![&#x200B; een beeld van het scherm om een nieuwe groepering &#x200B;](assets/grouping-exercise.png) te creëren
+![ een beeld van het scherm om een nieuwe groepering ](assets/grouping-exercise.png) te creëren
 
 1. Ga in een uitgiftenlijstrapport naar het menu **[!UICONTROL Grouping]** en selecteer **[!UICONTROL New Grouping]** .
 1. Geef uw groepering de naam &quot;Request Queue, Queue Topic, Priority.&quot;

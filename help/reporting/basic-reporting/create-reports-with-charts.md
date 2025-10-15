@@ -12,7 +12,7 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '538'
 ht-degree: 0%
@@ -38,7 +38,7 @@ De video legt uit hoe u grafieken kunt gebruiken om gegevens effectief te visual
 
 In de video wordt benadrukt hoe diagrammen als taart en gestapelde kolomgrafieken inzicht kunnen verschaffen in taakdistributie en projectprestaties, waardoor gebruikers projecten kunnen vergelijken en de taakvoortgang visueel kunnen begrijpen. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3450020/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
@@ -64,18 +64,18 @@ Het einde van het kwartaal nadert en u wilt zien hoe recent voltooide projecten 
 1. Klik nogmaals op **[!UICONTROL Add Column]** .
 1. Selecteer [!UICONTROL Project] > [!UICONTROL Actual Cost] en vat deze kolom samen met **[!UICONTROL Sum]** .
 
-   ![&#x200B; een beeld van het scherm om kolommen aan een rapport toe te voegen &#x200B;](assets/chart-report-columns.png)
+   ![ een beeld van het scherm om kolommen aan een rapport toe te voegen ](assets/chart-report-columns.png)
 
 1. Stel op het tabblad **[!UICONTROL Groupings]** het rapport in op groeperen met [!UICONTROL Project] > [!UICONTROL Name] .
 
-   ![&#x200B; een beeld van het scherm om groeperingen aan een rapport toe te voegen &#x200B;](assets/chart-report-groupings.png)
+   ![ een beeld van het scherm om groeperingen aan een rapport toe te voegen ](assets/chart-report-groupings.png)
 
 1. Voeg op het tabblad **[!UICONTROL Filters]** twee filterregels toe:
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Complete]
-   * [!UICONTROL Project] >[!UICONTROL &#x200B; Actual Completion Date] > [!UICONTROL Last Quarter]
+   * [!UICONTROL Project] >[!UICONTROL  Actual Completion Date] > [!UICONTROL Last Quarter]
 
-   ![&#x200B; een beeld van het scherm om filters aan een rapport toe te voegen &#x200B;](assets/chart-report-filters.png)
+   ![ een beeld van het scherm om filters aan een rapport toe te voegen ](assets/chart-report-filters.png)
 
 1. Kies op het tabblad **[!UICONTROL Chart]** de optie **[!UICONTROL Column]** voor het diagramtype.
 1. Kies [!UICONTROL Left (Y) Axis] bij [!UICONTROL Planned Cost] .
@@ -85,4 +85,4 @@ Het einde van het kwartaal nadert en u wilt zien hoe recent voltooide projecten 
 1. Klik op het kleurvak om de [!UICONTROL Actual Cost] -kleur te wijzigen. Selecteer een kleur.
 1. Klik op **[!UICONTROL Save + Close]** . Wanneer ertoe aangezet voor een rapportnaam, noem het &quot;Gepland vs Ware Kosten door Project Voltooid Laatste Kwartaal.&quot;
 
-   ![&#x200B; een beeld van het scherm om een grafiek aan een rapport toe te voegen &#x200B;](assets/chart-report-chart.png)
+   ![ een beeld van het scherm om een grafiek aan een rapport toe te voegen ](assets/chart-report-chart.png)

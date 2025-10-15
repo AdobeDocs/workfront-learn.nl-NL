@@ -12,9 +12,9 @@ last-substantial-update: 2025-09-09T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,14 @@ ht-degree: 0%
 
 De functie Canvasdashboards is een andere manier om dashboards te maken in Workfront. Het is momenteel in General Beta, wat betekent dat alle klanten van Workfront de eigenschap kunnen gebruiken, als zij in bèta worden ingeschreven. Een systeembeheerder moet de inschrijving doen. In deze video ziet u hoe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3474026/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-Voor meer informatie zie het [&#x200B; overzicht &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) artikel van de Dashboards van het Canvas.
+Voor meer informatie zie het [ overzicht ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) artikel van de Dashboards van het Canvas.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [&#x200B; creeer een KPI- rapport op een Dashboard van het Canvas &#x200B;](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+* [Een KPI-rapport maken op een Canvasdashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+* [ creeer een grafiekrapport op een Dashboard van het Canvas ](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [Een tabelrapport maken op een canvasdashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [Voorwaardelijke opmaak toevoegen aan een Canvasdashboardrapport](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 * [Een OR-filter gebruiken in een Canvasdashboardrapport](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

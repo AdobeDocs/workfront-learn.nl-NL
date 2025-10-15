@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In deze video leert u:
 * Wat voorwaardelijke opmaak is in een weergave
 * Voorwaardelijke opmaak maken en wijzigen
 
->[!VIDEO](https://video.tv.adobe.com/v/3445447/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
 
 
 ## Overzicht van voorwaardelijke opmaak
@@ -56,7 +56,7 @@ Dit zal u vlekken problemen taken zonder de kolom voor vooruitgangsstatus als de
 
 ### Antwoord 1
 
-![&#x200B; een beeld van het scherm om een nieuwe kolomregel &#x200B;](assets/conditional-formatting-exercise.png) tot stand te brengen
+![ een beeld van het scherm om een nieuwe kolomregel ](assets/conditional-formatting-exercise.png) tot stand te brengen
 
 1. Ga in een takenlijstrapport naar de vervolgkeuzelijst **[!UICONTROL View]** en selecteer **[!UICONTROL New View]** .
 1. Geef de weergave de naam Standaard + Voortgang.

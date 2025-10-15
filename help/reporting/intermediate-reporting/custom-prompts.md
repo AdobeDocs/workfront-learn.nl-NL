@@ -12,7 +12,7 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In deze video leert u:
 * Een aangepaste vraag maken met de tekstmodus
 * Enkele voorbeelden die u in uw rapportage kunt gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/3470512/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
 
 ## Activiteiten voor aangepaste vragen maken
 
@@ -45,13 +45,13 @@ In deze video leert u:
 
 1. Uw aangepaste aanwijzingen moeten er ongeveer als volgt uitzien en de volgende tekstmodus hebben:
 
-   ![&#x200B; een beeld van het scherm om een nieuw filter op tekstwijze &#x200B;](assets/cp-01.png) tot stand te brengen
+   ![ een beeld van het scherm om een nieuw filter op tekstwijze ](assets/cp-01.png) tot stand te brengen
 
    Zodra u sparen de douaneherinnering, zou het snelle drop-down menu als dit moeten kijken:
 
 1. De tekstmodus in de aangepaste prompt moet er als volgt uitzien:
 
-![&#x200B; een beeld van het scherm om een nieuw filter op tekstwijze &#x200B;](assets/cp-02.png) tot stand te brengen
+![ een beeld van het scherm om een nieuw filter op tekstwijze ](assets/cp-02.png) tot stand te brengen
 
 ```
    status=CUR&plannedCompletionDate=$$TODAYbm&plannedCompletionDate_Mod=between&plannedCompletionDate_Range=$$TODAYem 
@@ -59,4 +59,4 @@ In deze video leert u:
 
 En het drop-down etiket voor actieve herinneringen zou moeten worden bijgewerkt om op de verandering in de code als dit te wijzen:
 
-![&#x200B; een beeld van het scherm om een nieuw filter op tekstwijze &#x200B;](assets/cp-02a.png) tot stand te brengen
+![ een beeld van het scherm om een nieuw filter op tekstwijze ](assets/cp-02a.png) tot stand te brengen

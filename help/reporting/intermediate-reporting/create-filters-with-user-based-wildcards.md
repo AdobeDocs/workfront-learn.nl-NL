@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Begrijp waarom om vervangingen te gebruiken
 * Een filter maken met een op gebruikers gebaseerd jokerteken
 
->[!VIDEO](https://video.tv.adobe.com/v/3464483/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0)
 
 >[!TIP]
 >
@@ -56,6 +56,6 @@ Je bent geweldig om je teamgenoten te helpen! Als het filter is ingesteld zoals 
 * die aan iemand in uw huisteam worden toegewezen, zoals die door de teammontages van Workfront wordt bepaald;
 * En die een voltooiingsdatum van enige tijd deze week hebben (deze regel gebruikte het vooraf gebouwde datumfilter om &quot;deze week&quot;te bepalen).
 
-![&#x200B; een beeld van het scherm om een taakfilter met een op gebruiker-gebaseerde vervanging &#x200B;](assets/user-wildcard-exercise-answer.png) tot stand te brengen
+![ een beeld van het scherm om een taakfilter met een op gebruiker-gebaseerde vervanging ](assets/user-wildcard-exercise-answer.png) tot stand te brengen
 
 Mogelijk moet u extra filters toevoegen als u de lijst een beetje meer wilt beperken. U kunt bijvoorbeeld een filterregel toevoegen die een specifiek programma of portfolio bekijkt waarvan uw team werkt.

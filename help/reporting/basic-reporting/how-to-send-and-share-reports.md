@@ -12,7 +12,7 @@ jira: KT-8863
 last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -27,7 +27,7 @@ In deze video leert u:
 * Hoe te om rapporten met iedereen te delen
 * Wat de ontvangers kunnen zien en doen met een Workfront-rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/3447818/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
@@ -46,7 +46,7 @@ Verzend elke maandag om 5.00 uur een rapport als spreadsheet van Excel. Dit is e
 
 ### Antwoord 1
 
-![&#x200B; een beeld van het scherm aan opstelling die rapportleveringen herhalen &#x200B;](assets/send-a-report.png)
+![ een beeld van het scherm aan opstelling die rapportleveringen herhalen ](assets/send-a-report.png)
 
 1. Geef een rapport weer dat u hebt gemaakt en kies **[!UICONTROL Send Report]** in het menu **[!UICONTROL Report Actions]** .
 1. Klik op de tab **[!UICONTROL Repeating Deliveries]** .

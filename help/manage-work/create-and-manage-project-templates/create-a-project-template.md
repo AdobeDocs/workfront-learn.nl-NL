@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '625'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Leer een geheel nieuw projectmalplaatje en van een bestaand project tot stand te
 * Zodra het malplaatje wordt gecreeerd, kan het worden gebruikt om nieuwe projecten te produceren. De video toont aan hoe te om een nieuw project van het malplaatje tot stand te brengen, noodzakelijke aanpassingen te maken, en taken toe te voegen of duur zonodig te wijzigen. &#x200B; Het toont ook hoe te om baanrollen aan taken toe te wijzen gebruikend middel het plannen en planningsfunctionaliteit. &#x200B;
 * In de video wordt uitgelegd hoe u een bestaand project opslaat als een nieuwe sjabloon, zodat updates en verbeteringen mogelijk zijn in de workflow. &#x200B; Het benadrukt het belang van het beheren van malplaatjes om verwarring te vermijden en gestroomlijnde projectuitvoering te verzekeren. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
@@ -46,21 +46,21 @@ Leer een geheel nieuw projectmalplaatje en van een bestaand project tot stand te
 
 Workfront-gebruikers kunnen [!UICONTROL Blueprints] gebruiken om projectsjablonen samen te stellen. Met deze functie in het hoofdmenu hebt u toegang tot vooraf gebouwde gebruiksklare sjablonen die zijn gericht op een afdeling en een specifiek ontwikkelingsniveau. Deze malplaatjes geven gebruikers een hoofdbegin aan herhaalbare projectverwezenlijking en de hulp handhaaft consistentie over projecten gelijkend in werkingsgebied.
 
-![&#x200B; Blauwdrukken in Hoofdmenu &#x200B;](assets/pt-blueprints-01.png)
+![ Blauwdrukken in Hoofdmenu ](assets/pt-blueprints-01.png)
 
 Elke gebruiker met licentie kan bladeren in de lijst met blauwdrukken die beschikbaar is in Workfront. U kunt een blauwdruk niet direct toepassen wanneer het creëren van een nieuw project (zoals het omzetten van een taak of een verzoek in een project). Een zeer belangrijk verschil tussen een blauwdruk en een projectmalplaatje is dat een blauwdruk wordt gebruikt om een malplaatje te maken, terwijl een malplaatje wordt gebruikt om een project tot stand te brengen. **de blauwdruk moet door een systeembeheerder voor het overeenkomstige malplaatje worden geïnstalleerd om worden gecreeerd.**
 
 Als u een interessante blauwdruk vindt, kunt u op **[!UICONTROL Details]** klikken voor meer informatie.
 
-![&#x200B; Lijst van blauwdrukken &#x200B;](assets/pt-blueprints-02.png)
+![ Lijst van blauwdrukken ](assets/pt-blueprints-02.png)
 
 In het scherm [!UICONTROL Details] wordt meer uitleg gegeven over de blauwdruk, inclusief de installatiegeschiedenis als de blauwdruk is geïnstalleerd.
 
-![&#x200B; Details over het gebruik van een blauwdruk &#x200B;](assets/pt-blueprints-03.png)
+![ Details over het gebruik van een blauwdruk ](assets/pt-blueprints-03.png)
 
 Als de blauwdruk is geïnstalleerd, kunt u op **[!UICONTROL See details]** klikken om koppelingen te maken naar de sjabloon die is gemaakt en naar andere objecten die zijn gemaakt ter ondersteuning van de sjabloon.
 
-![&#x200B; Details over de installatie van een blauwdruk &#x200B;](assets/pt-blueprints-04.png)
+![ Details over de installatie van een blauwdruk ](assets/pt-blueprints-04.png)
 
 Als de blauwdruk nog niet is geïnstalleerd, kunt u deze aanvragen bij de systeembeheerder.
 

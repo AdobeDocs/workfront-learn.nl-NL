@@ -12,7 +12,7 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '649'
 ht-degree: 0%
@@ -24,16 +24,16 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; Begrijp rapporteringselementen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=nl-NL)
->* [&#x200B; Begrijp het melden componenten &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=nl-NL)
->* [&#x200B; creeer een basismening &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=nl-NL)
+>* [ Begrijp rapporteringselementen ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [ Begrijp het melden componenten ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [ creeer een basismening ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 
 >[!TIP]
 >
->* Om een diepgaander inzicht in tekstwijze te verkrijgen adviseren wij het letten op de geregistreerde webinar gebeurtenis [&#x200B; vragen de Deskundige - Inleiding aan de Wijze van de Tekst die &#x200B;](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting) meldt, die één uur in lengte is.
->* Om nog meer over tekstwijze te leren adviseren wij het letten op [&#x200B; Geavanceerde het melden &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=nl-NL) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
->* Klik hier voor toegang [[!UICONTROL API Explorer] &#x200B;](https://developer.adobe.com/workfront/api-explorer/)
+>* Om een diepgaander inzicht in tekstwijze te verkrijgen adviseren wij het letten op de geregistreerde webinar gebeurtenis [ vragen de Deskundige - Inleiding aan de Wijze van de Tekst die ](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting) meldt, die één uur in lengte is.
+>* Om nog meer over tekstwijze te leren adviseren wij het letten op [ Geavanceerde het melden ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
+>* Klik hier voor toegang [[!UICONTROL API Explorer] ](https://developer.adobe.com/workfront/api-explorer/)
 
 In deze video leert u:
 
@@ -41,7 +41,7 @@ In deze video leert u:
 * Wat kamelendoosje is
 * Sommige _blokken van de tekstwijze_ u in uw rapportmeningen kunt gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/3432376/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops=0)
 
 ## De activiteiten van de &quot;Begrijpen basistekstwijze voor meningen&quot;
 
@@ -91,7 +91,7 @@ valuefield=parent:parent:parent:parent:name
 valueformat=HTML
 ```
 
-![&#x200B; het schermbeeld dat van A de 4 oudermening &#x200B;](assets/4-parents-view.png) toont
+![ het schermbeeld dat van A de 4 oudermening ](assets/4-parents-view.png) toont
 
 ### Gebruiker - Herhalingen die lijsten in gebruikersmeningen tonen
 
@@ -187,7 +187,7 @@ valueformat=HTML
 width=150
 ```
 
-![&#x200B; het schermbeeld dat van A de het lijstmening van de Gebruiker toont &#x200B;](assets/user-lists-view-large.png)
+![ het schermbeeld dat van A de het lijstmening van de Gebruiker toont ](assets/user-lists-view-large.png)
 
 ### Taak - hoe te om taaktaken te tonen en aan status te werken
 
@@ -203,7 +203,7 @@ valueformat=HTML
 width=150
 ```
 
-![&#x200B; het schermbeeld dat van A de de taken en mening van de Status &#x200B;](assets/assignments-and-status-view.png) toont
+![ het schermbeeld dat van A de de taken en mening van de Status ](assets/assignments-and-status-view.png) toont
 
 
 ### Taak - hoe te om rol en toewijzing op veelvoudige taaktaken te tonen
@@ -232,7 +232,7 @@ textmode=true
 type=iterate
 ```
 
-![&#x200B; het schermbeeld dat van A de het schermmening van Toewijzingen en van Rollen &#x200B;](assets/assignments-roles-and-percent-view.png) toont
+![ het schermbeeld dat van A de het schermmening van Toewijzingen en van Rollen ](assets/assignments-roles-and-percent-view.png) toont
 
 ### Taak - Voorgangers en opvolgers voor meerdere projecten
 
@@ -325,7 +325,7 @@ valueformat=HTML
 width=150
 ```
 
-![&#x200B; het schermbeeld dat van A het dwars-project predecessors en opvolgermening toont &#x200B;](assets/cross-project-predecessors-and-successors.png)
+![ het schermbeeld dat van A het dwars-project predecessors en opvolgermening toont ](assets/cross-project-predecessors-and-successors.png)
 
 
 ### Taak - Herhaling die alle toegewezen personen toont en wie elk toewees
@@ -340,7 +340,7 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-![&#x200B; het schermbeeld dat van A alle toegewezen mensen toont en die elk &#x200B;](assets/all-assignees-and-requesters.png) toewezen
+![ het schermbeeld dat van A alle toegewezen mensen toont en die elk ](assets/all-assignees-and-requesters.png) toewezen
 
 ### Taak/project - Herhaling die alle douaneformulieren op een project of een taak toont
 
@@ -354,7 +354,7 @@ valuefield=category:name
 valueformat=HTML
 ```
 
-![&#x200B; het schermbeeld dat van A alle douanevormen op een project toont &#x200B;](assets/all-custom-forms-on-a-project.png)
+![ het schermbeeld dat van A alle douanevormen op een project toont ](assets/all-custom-forms-on-a-project.png)
 
 
 ### Project - Herhaling die alle primaire contacten voor oplosbare middelen in projectweergave toont
@@ -371,7 +371,7 @@ valueformat=HTML
 width=150
 ```
 
-![&#x200B; het schermbeeld dat van A primaire contacten voor oplosbare voorwerpen toont &#x200B;](assets/primary-contacts-for-resolvables.png)
+![ het schermbeeld dat van A primaire contacten voor oplosbare voorwerpen toont ](assets/primary-contacts-for-resolvables.png)
 
 ### Project - Herhaling die alle leden van het projectteam toont
 
@@ -386,7 +386,7 @@ valuefield=user:name
 valueformat=HTML
 ```
 
-![&#x200B; het schermbeeld dat van A alle leden van het projectteam &#x200B;](assets/all-project-team-members.png) toont
+![ het schermbeeld dat van A alle leden van het projectteam ](assets/all-project-team-members.png) toont
 
 ### Project - herhaling met vermelding van de entryDate voor alle oplosbare problemen voor een project
 
@@ -404,7 +404,7 @@ valuefield=entryDate
 valueformat=HTML
 ```
 
-![&#x200B; het schermbeeld dat van A entryDate van alle oplosbare kwesties voor een project toont &#x200B;](assets/resolvables-entry-date.png)
+![ het schermbeeld dat van A entryDate van alle oplosbare kwesties voor een project toont ](assets/resolvables-entry-date.png)
 
 ### Project - Toon de huisgroep van de oorspronkelijke projectaanvrager
 
@@ -418,7 +418,7 @@ valuefield=convertedOpTaskOriginator:homeGroup:name
 valueformat=HTML
 ```
 
-![&#x200B; het schermbeeld dat van A het project aantoont de groep van het huishuis &#x200B;](assets/requestor-home-group.png)
+![ het schermbeeld dat van A het project aantoont de groep van het huishuis ](assets/requestor-home-group.png)
 
 ### Project - toon als het project een verzoekrij is
 
@@ -436,7 +436,7 @@ enumclass=com.attask.common.constants.ProjectStatusEnum
 displayname=Public Selection
 ```
 
-![&#x200B; het schermbeeld dat van A als het project een verzoekrij &#x200B;](assets/project-is-a-request-queue.png) toont
+![ het schermbeeld dat van A als het project een verzoekrij ](assets/project-is-a-request-queue.png) toont
 
 ### Probleem - herhaling met alle leden van het projectteam voor het oplossen van problemen
 
@@ -452,7 +452,7 @@ valueformat=HTML
 width=150
 ```
 
-![&#x200B; het schermbeeld dat van A alle leden van het projectteam toont oplossen &#x200B;](assets/all-resolve-project-team-members.png)
+![ het schermbeeld dat van A alle leden van het projectteam toont oplossen ](assets/all-resolve-project-team-members.png)
 
 ### Probleem - herhaling met alle teams van de primaire contactpersoon van de uitgave
 
@@ -468,7 +468,7 @@ valueformat=HTML
 width=150
 ```
 
-![&#x200B; het schermbeeld dat van A alle primaire contactteams &#x200B;](assets/all-primary-contact-teams.png) toont
+![ het schermbeeld dat van A alle primaire contactteams ](assets/all-primary-contact-teams.png) toont
 
 ### Document - herhaling van map in een documentrapport
 
@@ -482,7 +482,7 @@ valuefield=name
 valueformat=HTML
 ```
 
-![&#x200B; het schermbeeld dat van A omslag in een documentrapport toont &#x200B;](assets/folder-in-a-document-report.png)
+![ het schermbeeld dat van A omslag in een documentrapport toont ](assets/folder-in-a-document-report.png)
 
 ### Document - herhaling met bovenliggende map in een documentrapport
 
@@ -496,7 +496,7 @@ valuefield=parent:name
 valueformat=HTML
 ```
 
-![&#x200B; het schermbeeld dat van A ouderomslag in een documentrapport toont &#x200B;](assets/parent-folder-in-a-document-report.png)
+![ het schermbeeld dat van A ouderomslag in een documentrapport toont ](assets/parent-folder-in-a-document-report.png)
 
 ### Document - Datum goedkeuring document
 
@@ -514,7 +514,7 @@ shortview=false
 section=0
 ```
 
-![&#x200B; het schermbeeld dat van A de de datummening van de documentgoedkeuring toont &#x200B;](assets/document-approval-dates.png)
+![ het schermbeeld dat van A de de datummening van de documentgoedkeuring toont ](assets/document-approval-dates.png)
 
 ### Goedkeuringen proefdrukken
 
@@ -536,4 +536,4 @@ valuefield=documentVersion:document:task:name
 valueformat=HTML
 ```
 
-![&#x200B; het schermbeeld dat van A het project en de taak van een proefgoedkeuring &#x200B;](assets/proof-approval-project-and-task.png) toont
+![ het schermbeeld dat van A het project en de taak van een proefgoedkeuring ](assets/proof-approval-project-and-task.png) toont

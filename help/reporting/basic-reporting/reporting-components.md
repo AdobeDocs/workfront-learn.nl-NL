@@ -12,7 +12,7 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -29,7 +29,7 @@ In de video wordt uitgelegd wat het concept is van het rapporteren van component
 * **Kwalifier van de Filter:** bepaalt welke waarden om in een rapport te omvatten of uit te sluiten, zoals het tonen van taken met een prioriteit van &quot;hoog.&quot;&#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447027/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
@@ -41,7 +41,7 @@ In de video wordt uitgelegd wat het concept is van het rapporteren van component
 
 ## Snelle verwijzing naar componenten rapporteren
 
-![&#x200B; een beeld van het scherm om een filter &#x200B;](assets/reporting-components-1.png) tot stand te brengen
+![ een beeld van het scherm om een filter ](assets/reporting-components-1.png) tot stand te brengen
 
 **A - de bron van het Gebied**
 
@@ -80,5 +80,5 @@ Voorbeelden: Nieuw, Huidig, $$TODAYbw, Beschrijving
 
 >[!TIP]
 >
->Voor hulp die specifieke gebiedsnamen in Workfront begrijpen, kijk in de [&#x200B; Verklarende woordenlijst van de terminologie van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=nl-NL).
+>Voor hulp die specifieke gebiedsnamen in Workfront begrijpen, kijk in de [ Verklarende woordenlijst van de terminologie van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
 
