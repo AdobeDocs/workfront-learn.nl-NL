@@ -23,15 +23,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; Begrijp rapporteringselementen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
->* [&#x200B; Begrijp het melden componenten &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
->* [&#x200B; creeer een basisgroepering &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=en)
+>* [&#x200B; Begrijp rapporteringselementen &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=nl-NL)
+>* [&#x200B; Begrijp het melden componenten &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=nl-NL)
+>* [&#x200B; creeer een basisgroepering &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-grouping.html?lang=nl-NL)
 
 
 >[!TIP]
 >
 >* Om een diepgaander inzicht in tekstwijze te verkrijgen adviseren wij het letten op de geregistreerde webinar gebeurtenis [&#x200B; vragen de Deskundige - Inleiding aan de Wijze van de Tekst die &#x200B;](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting) meldt, die één uur in lengte is.
->* Om nog meer over tekstwijze te leren adviseren wij het letten op [&#x200B; Geavanceerde het melden &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
+>* Om nog meer over tekstwijze te leren adviseren wij het letten op [&#x200B; Geavanceerde het melden &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=nl-NL) leerprogramma&#39;s, die samen vijf en een half uur in lengte zijn.
 >* Klik hier voor toegang [[!UICONTROL API Explorer] &#x200B;](https://developer.adobe.com/workfront/api-explorer/)
 
 In deze video leert u:

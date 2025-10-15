@@ -119,9 +119,9 @@ Neem vragen op voor het volgende:
 
 ### Activiteit 2: Een feedbackrapport voor een beheerder maken
 
-Dit is een uitgifterapport waarin alle problemen worden weergegeven uit een wachtrij voor feedbackverzoeken die voor systeembeheerders is gemaakt. U kunt zien hoe te om deze verzoekrij in te creëren [&#x200B; creeer een systeem admin terugkoppelt verzoekrij &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) leerprogramma.
+Dit is een uitgifterapport waarin alle problemen worden weergegeven uit een wachtrij voor feedbackverzoeken die voor systeembeheerders is gemaakt. U kunt zien hoe te om deze verzoekrij in te creëren [&#x200B; creeer een systeem admin terugkoppelt verzoekrij &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=nl-NL) leerprogramma.
 
-Dit rapport gebruikt ook een aangepast formulier. Leren hoe te om een douanevorm tot stand te brengen, zie [&#x200B; creeer en deel een douanevorm &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) leerprogramma.
+Dit rapport gebruikt ook een aangepast formulier. Leren hoe te om een douanevorm tot stand te brengen, zie [&#x200B; creeer en deel een douanevorm &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=nl-NL) leerprogramma.
 
 Dit aangepaste formulier moet de objecttypen Project en Issue gebruiken en moet als volgt worden gemaakt:
 
