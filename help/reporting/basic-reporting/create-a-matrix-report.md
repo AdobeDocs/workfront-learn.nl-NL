@@ -52,7 +52,7 @@ U wilt dat de aanvraagrijen op de rijgroepen verschijnen. De status wordt weerge
 1. Selecteer voor [!UICONTROL Row Groupings] **[!UICONTROL Project]** > **[!UICONTROL Name]** .
 1. Selecteer voor [!UICONTROL Column Grouping] **[!UICONTROL Issue]** > **[!UICONTROL Status]** .
 
-   ![ een beeld van het scherm om een nieuw kwestie tot stand te brengen rapport groeperen ](assets/matrix-report-groupings.png)
+   ![&#x200B; een beeld van het scherm om een nieuw kwestie tot stand te brengen rapport groeperen &#x200B;](assets/matrix-report-groupings.png)
 
 1. Ga naar het tabblad **[!UICONTROL Filters]**.
 1. Om ervoor te zorgen u slechts verzoeken in actieve verzoekrijen ziet, voeg de volgende filterregels toe:
@@ -62,4 +62,4 @@ U wilt dat de aanvraagrijen op de rijgroepen verschijnen. De status wordt weerge
 
 1. Klik op **[!UICONTROL Save + Close]** . Wanneer ertoe aangezet voor een rapportnaam, typ in &quot;Verzoeken door Status en de Rij van het Verzoek.&quot;
 
-   ![ een beeld van het scherm om een nieuw filter van het uitgiftenrapport tot stand te brengen ](assets/matrix-report-filters.png)
+   ![&#x200B; een beeld van het scherm om een nieuw filter van het uitgiftenrapport tot stand te brengen &#x200B;](assets/matrix-report-filters.png)

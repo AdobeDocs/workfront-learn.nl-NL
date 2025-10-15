@@ -64,18 +64,18 @@ Het einde van het kwartaal nadert en u wilt zien hoe recent voltooide projecten 
 1. Klik nogmaals op **[!UICONTROL Add Column]** .
 1. Selecteer [!UICONTROL Project] > [!UICONTROL Actual Cost] en vat deze kolom samen met **[!UICONTROL Sum]** .
 
-   ![ een beeld van het scherm om kolommen aan een rapport toe te voegen ](assets/chart-report-columns.png)
+   ![&#x200B; een beeld van het scherm om kolommen aan een rapport toe te voegen &#x200B;](assets/chart-report-columns.png)
 
 1. Stel op het tabblad **[!UICONTROL Groupings]** het rapport in op groeperen met [!UICONTROL Project] > [!UICONTROL Name] .
 
-   ![ een beeld van het scherm om groeperingen aan een rapport toe te voegen ](assets/chart-report-groupings.png)
+   ![&#x200B; een beeld van het scherm om groeperingen aan een rapport toe te voegen &#x200B;](assets/chart-report-groupings.png)
 
 1. Voeg op het tabblad **[!UICONTROL Filters]** twee filterregels toe:
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Complete]
-   * [!UICONTROL Project] >[!UICONTROL  Actual Completion Date] > [!UICONTROL Last Quarter]
+   * [!UICONTROL Project] >[!UICONTROL &#x200B; Actual Completion Date] > [!UICONTROL Last Quarter]
 
-   ![ een beeld van het scherm om filters aan een rapport toe te voegen ](assets/chart-report-filters.png)
+   ![&#x200B; een beeld van het scherm om filters aan een rapport toe te voegen &#x200B;](assets/chart-report-filters.png)
 
 1. Kies op het tabblad **[!UICONTROL Chart]** de optie **[!UICONTROL Column]** voor het diagramtype.
 1. Kies [!UICONTROL Left (Y) Axis] bij [!UICONTROL Planned Cost] .
@@ -85,4 +85,4 @@ Het einde van het kwartaal nadert en u wilt zien hoe recent voltooide projecten 
 1. Klik op het kleurvak om de [!UICONTROL Actual Cost] -kleur te wijzigen. Selecteer een kleur.
 1. Klik op **[!UICONTROL Save + Close]** . Wanneer ertoe aangezet voor een rapportnaam, noem het &quot;Gepland vs Ware Kosten door Project Voltooid Laatste Kwartaal.&quot;
 
-   ![ een beeld van het scherm om een grafiek aan een rapport toe te voegen ](assets/chart-report-chart.png)
+   ![&#x200B; een beeld van het scherm om een grafiek aan een rapport toe te voegen &#x200B;](assets/chart-report-chart.png)

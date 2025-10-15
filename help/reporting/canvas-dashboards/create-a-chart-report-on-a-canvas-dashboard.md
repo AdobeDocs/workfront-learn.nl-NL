@@ -22,24 +22,24 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ Inleiding aan de Dashboards van het Canvas ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+>* [&#x200B; Inleiding aan de Dashboards van het Canvas &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
-De eerste dingen u moet doen alvorens u een het rapport van het Dashboard van het Canvas **** kunt creëren zijn:
+De eerste dingen u moet doen alvorens u een het rapport van het Dashboard van het Canvas **&#x200B;**&#x200B;kunt creëren zijn:
 
 * Inschrijven in de bètaversie van het dashboard van het canvas, en
 * Een canvasdashboard maken
 
-[ Inleiding aan de Dashboards van het Canvas ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) toont u stap voor stap hoe te om beide van deze te doen.
+[&#x200B; Inleiding aan de Dashboards van het Canvas &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md) toont u stap voor stap hoe te om beide van deze te doen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475814/?quality=12&learn=on&enablevpops=1)
 
 **voor meer informatie zie de volgende hulpartikelen:**
-[ Overzicht van de Dashboards van het Canvas ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[ Bouw een grafiekrapport in een Dashboard van het Canvas ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-chart-report)
+[&#x200B; Overzicht van de Dashboards van het Canvas &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[&#x200B; Bouw een grafiekrapport in een Dashboard van het Canvas &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-chart-report)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
-* [ Inleiding aan de Dashboards van het Canvas ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [&#x200B; Inleiding aan de Dashboards van het Canvas &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [Een KPI-rapport maken op een Canvasdashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [Een tabelrapport maken op een canvasdashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [Voorwaardelijke opmaak toevoegen aan een Canvasdashboardrapport](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)

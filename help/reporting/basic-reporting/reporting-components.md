@@ -41,7 +41,7 @@ In de video wordt uitgelegd wat het concept is van het rapporteren van component
 
 ## Snelle verwijzing naar componenten rapporteren
 
-![ een beeld van het scherm om een filter ](assets/reporting-components-1.png) tot stand te brengen
+![&#x200B; een beeld van het scherm om een filter &#x200B;](assets/reporting-components-1.png) tot stand te brengen
 
 **A - de bron van het Gebied**
 
@@ -80,5 +80,5 @@ Voorbeelden: Nieuw, Huidig, $$TODAYbw, Beschrijving
 
 >[!TIP]
 >
->Voor hulp die specifieke gebiedsnamen in Workfront begrijpen, kijk in de [ Verklarende woordenlijst van de terminologie van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
+>Voor hulp die specifieke gebiedsnamen in Workfront begrijpen, kijk in de [&#x200B; Verklarende woordenlijst van de terminologie van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
 

@@ -49,7 +49,7 @@ Groepeer het probleemrapport op basis van:
 
 ### Antwoord 1
 
-![ een beeld van het scherm om een nieuwe groepering ](assets/grouping-exercise.png) te creëren
+![&#x200B; een beeld van het scherm om een nieuwe groepering &#x200B;](assets/grouping-exercise.png) te creëren
 
 1. Ga in een uitgiftenlijstrapport naar het menu **[!UICONTROL Grouping]** en selecteer **[!UICONTROL New Grouping]** .
 1. Geef uw groepering de naam &quot;Request Queue, Queue Topic, Priority.&quot;

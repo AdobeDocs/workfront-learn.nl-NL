@@ -25,12 +25,12 @@ De functie Canvasdashboards is een andere manier om dashboards te maken in Workf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-Voor meer informatie zie het [ overzicht ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) artikel van de Dashboards van het Canvas.
+Voor meer informatie zie het [&#x200B; overzicht &#x200B;](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview) artikel van de Dashboards van het Canvas.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 
 * [Een KPI-rapport maken op een Canvasdashboard](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
-* [ creeer een grafiekrapport op een Dashboard van het Canvas ](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
+* [&#x200B; creeer een grafiekrapport op een Dashboard van het Canvas &#x200B;](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [Een tabelrapport maken op een canvasdashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [Voorwaardelijke opmaak toevoegen aan een Canvasdashboardrapport](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
 * [Een OR-filter gebruiken in een Canvasdashboardrapport](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

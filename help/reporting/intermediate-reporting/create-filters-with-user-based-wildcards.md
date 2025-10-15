@@ -56,6 +56,6 @@ Je bent geweldig om je teamgenoten te helpen! Als het filter is ingesteld zoals 
 * die aan iemand in uw huisteam worden toegewezen, zoals die door de teammontages van Workfront wordt bepaald;
 * En die een voltooiingsdatum van enige tijd deze week hebben (deze regel gebruikte het vooraf gebouwde datumfilter om &quot;deze week&quot;te bepalen).
 
-![ een beeld van het scherm om een taakfilter met een op gebruiker-gebaseerde vervanging ](assets/user-wildcard-exercise-answer.png) tot stand te brengen
+![&#x200B; een beeld van het scherm om een taakfilter met een op gebruiker-gebaseerde vervanging &#x200B;](assets/user-wildcard-exercise-answer.png) tot stand te brengen
 
 Mogelijk moet u extra filters toevoegen als u de lijst een beetje meer wilt beperken. U kunt bijvoorbeeld een filterregel toevoegen die een specifiek programma of portfolio bekijkt waarvan uw team werkt.

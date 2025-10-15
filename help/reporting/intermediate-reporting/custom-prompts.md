@@ -45,13 +45,13 @@ In deze video leert u:
 
 1. Uw aangepaste aanwijzingen moeten er ongeveer als volgt uitzien en de volgende tekstmodus hebben:
 
-   ![ een beeld van het scherm om een nieuw filter op tekstwijze ](assets/cp-01.png) tot stand te brengen
+   ![&#x200B; een beeld van het scherm om een nieuw filter op tekstwijze &#x200B;](assets/cp-01.png) tot stand te brengen
 
    Zodra u sparen de douaneherinnering, zou het snelle drop-down menu als dit moeten kijken:
 
 1. De tekstmodus in de aangepaste prompt moet er als volgt uitzien:
 
-![ een beeld van het scherm om een nieuw filter op tekstwijze ](assets/cp-02.png) tot stand te brengen
+![&#x200B; een beeld van het scherm om een nieuw filter op tekstwijze &#x200B;](assets/cp-02.png) tot stand te brengen
 
 ```
    status=CUR&plannedCompletionDate=$$TODAYbm&plannedCompletionDate_Mod=between&plannedCompletionDate_Range=$$TODAYem 
@@ -59,4 +59,4 @@ In deze video leert u:
 
 En het drop-down etiket voor actieve herinneringen zou moeten worden bijgewerkt om op de verandering in de code als dit te wijzen:
 
-![ een beeld van het scherm om een nieuw filter op tekstwijze ](assets/cp-02a.png) tot stand te brengen
+![&#x200B; een beeld van het scherm om een nieuw filter op tekstwijze &#x200B;](assets/cp-02a.png) tot stand te brengen
