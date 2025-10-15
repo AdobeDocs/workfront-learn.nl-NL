@@ -24,7 +24,7 @@ ht-degree: 5%
 De video biedt een uitgebreide gids voor het begrijpen en gebruiken van dashboards in Workfront.
 &#x200B;Hierin wordt uitgelegd dat een dashboard een verzameling rapporten is waarmee gebruikers gerelateerde gegevens op één locatie kunnen ordenen en weergeven.
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449128/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 

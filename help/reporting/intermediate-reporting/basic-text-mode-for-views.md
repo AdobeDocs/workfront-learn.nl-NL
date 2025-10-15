@@ -41,7 +41,7 @@ In deze video leert u:
 * Wat kamelendoosje is
 * Sommige _blokken van de tekstwijze_ u in uw rapportmeningen kunt gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3432376/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## De activiteiten van de &quot;Begrijpen basistekstwijze voor meningen&quot;
 

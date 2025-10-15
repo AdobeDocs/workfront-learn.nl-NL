@@ -24,7 +24,7 @@ ht-degree: 0%
 In deze video wordt uitgelegd hoe u groepen in Workfront kunt maken en beheren om projectlijsten op effectieve wijze te ordenen. &#x200B; Groepen zijn een van de drie belangrijkste rapportelementen, naast filters en weergaven, en ze helpen resultaten te organiseren op basis van gedeelde informatie. &#x200B;
 Deze zelfstudie biedt praktische stappen voor het organiseren van projectlijsten om dagelijks werk en samenwerking te stroomlijnen. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449821/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 

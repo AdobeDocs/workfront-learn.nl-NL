@@ -26,7 +26,7 @@ In deze video leert u hoe u:
 * Begrijp waarom om vervangingen te gebruiken
 * Een filter maken met een op gebruikers gebaseerd jokerteken
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3464483/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 >[!TIP]
 >

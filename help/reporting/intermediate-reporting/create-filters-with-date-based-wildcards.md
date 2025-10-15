@@ -29,7 +29,7 @@ In deze video leert u hoe u:
 * Een aangepaste datum maken met jokertekens, kenmerken, operatoren en wijzigingstoetsen
 * Een aangepast datumbereik maken met jokertekens
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3464544/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 
 ## &quot;Filters maken met jokertekens op basis van datum&quot;-activiteiten

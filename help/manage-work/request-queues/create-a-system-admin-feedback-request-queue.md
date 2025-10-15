@@ -34,7 +34,7 @@ In de video wordt het belang benadrukt van participatie van gebruikers en transp
 &#x200B;Voor meer informatie vindt u koppelingen naar zelfstudies voor het maken van rapporten en aangepaste formulieren.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450503/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 

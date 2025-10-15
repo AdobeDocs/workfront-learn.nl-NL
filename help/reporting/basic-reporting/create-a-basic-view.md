@@ -25,7 +25,7 @@ In de video wordt uitgelegd hoe u in Workfront weergaven kunt maken en aanpassen
 
 De video benadrukt de flexibiliteit van weergaven in Workfront en biedt stapsgewijze instructies voor het maken, aanpassen en beheren van deze weergaven.
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3450244/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 

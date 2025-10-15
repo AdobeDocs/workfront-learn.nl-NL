@@ -25,7 +25,7 @@ De video verstrekt een geleidelijke gids bij het creëren van een douanerapport 
 
 Het resulterende rapport helpt gebruikers zich op late taken concentreren, verstrekt inzicht in gebiedsdelen, en vereenvoudigt navigatie aan de gastheerprojecten. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3448348/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 

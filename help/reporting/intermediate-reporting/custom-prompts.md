@@ -27,7 +27,7 @@ In deze video leert u:
 * Een aangepaste vraag maken met de tekstmodus
 * Enkele voorbeelden die u in uw rapportage kunt gebruiken
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470512/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## Activiteiten voor aangepaste vragen maken
 

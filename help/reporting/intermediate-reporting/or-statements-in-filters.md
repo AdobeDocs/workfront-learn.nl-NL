@@ -25,7 +25,7 @@ In de video wordt uitgelegd hoe u filters met meerdere regels maakt en gebruikt 
 U kunt ook de filterlogica wijzigen in &#39;&#39;OR&#39;&#39;, waarin items worden weergegeven die aan een van de voorwaarden voldoen.
 De video demonstreert ook het maken van filters voor taken met behulp van filtergroepen. &#x200B; U kunt bijvoorbeeld twee groepen maken: een voor onvolledige taken die zijn toegewezen aan het creatieve team en die te laat zijn, en een voor onvolledige taken die zijn toegewezen aan het creatieve team en die niet zijn toegewezen. &#x200B; Binnen elke groep is de logica &quot;AND&quot; van toepassing, wat betekent dat aan alle voorwaarden in de groep moet worden voldaan. &#x200B; De logica &quot;OF&quot;tussen groepen verzekert taken die aan de voorwaarden van één van beide groep voldoen worden getoond.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470699/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## OR filteractiviteit
 
