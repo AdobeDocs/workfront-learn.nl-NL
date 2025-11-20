@@ -24,7 +24,7 @@ ht-degree: 5%
 De video biedt een uitgebreide gids voor het begrijpen en gebruiken van dashboards in Workfront.
 &#x200B;Hierin wordt uitgelegd dat een dashboard een verzameling rapporten is waarmee gebruikers gerelateerde gegevens op één locatie kunnen ordenen en weergeven.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449128/?captions=dut&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
@@ -41,7 +41,7 @@ De video biedt een uitgebreide gids voor het begrijpen en gebruiken van dashboar
 
 Maak een [!UICONTROL dashboard] met slechts één rapport erin: &quot;Zoeknotities in dit project&quot;. Dit is nuttig om snel om het even welke update te vinden die op een project wordt gemaakt, zelfs als er duizenden updates zijn door te zoeken. Hiermee zoekt u naar updateverbindingen om snel updates te extraheren die voldoen aan de criteria die u opgeeft in de aanwijzingen.
 
-Maak dit rapport door een kopie te maken van het rapport &#39;Zoeknotities&#39; dat u hebt gemaakt in de activiteit &#39;Een notitierapport maken&#39;. Hebt u het nog niet gemaakt? Klik hier om de activiteit in [&#x200B; te zien creeer een 1&rbrace; leerprogramma van het taakrapport &lbrace;.](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)
+Maak dit rapport door een kopie te maken van het rapport &#39;Zoeknotities&#39; dat u hebt gemaakt in de activiteit &#39;Een notitierapport maken&#39;. Hebt u het nog niet gemaakt? Klik hier om de activiteit in [ te zien creeer een 1} leerprogramma van het taakrapport {.](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)
 
 * Verwijder de herinnering van de Naam van het Project uit het exemplaar en noem het rapport &quot;Nota&#39;s van het Onderzoek in Dit Project.&quot;anders
 * Geef de naam [!UICONTROL Dashboard] &quot;Zoeknotities&quot;.
@@ -50,12 +50,12 @@ Maak dit rapport door een kopie te maken van het rapport &#39;Zoeknotities&#39; 
 
 ### Antwoord 1
 
-1. Voer het rapport uit dat u hebt gemaakt in de activiteit Een notitierapport maken. Hebt u het nog niet gemaakt? Klik hier om de activiteit in [&#x200B; te zien creeer een 1&rbrace; leerprogramma van het taakrapport &lbrace;.](https://experienceleague.adobe.com/nl/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)
+1. Voer het rapport uit dat u hebt gemaakt in de activiteit Een notitierapport maken. Hebt u het nog niet gemaakt? Klik hier om de activiteit in [ te zien creeer een 1} leerprogramma van het taakrapport {.](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)
 1. Klik op **[!UICONTROL Report Actions]** en selecteer **[!UICONTROL Copy]** . [!DNL Workfront] maakt een nieuw rapport met de naam &quot;Notitie zoeken (kopiëren)&quot;.
 1. Ga naar **[!UICONTROL Report Actions]** en selecteer **[!UICONTROL Edit]** . Klik op **[!UICONTROL Report Settings]** en wijzig de naam in &quot;Notities zoeken in dit project&quot;.
 1. Klik op [!UICONTROL Report Prompts] en verwijder de aanwijzing [!UICONTROL Project] > [!UICONTROL Name] uit de lijst.
 
-   ![&#x200B; een beeld van het scherm om een nieuw dashboard &#x200B;](assets/edit-report-prompts.png) te creëren
+   ![ een beeld van het scherm om een nieuw dashboard ](assets/edit-report-prompts.png) te creëren
 
 1. Schakel het selectievakje **[!UICONTROL Show Prompts in Dashboard]** in.
 1. Klik op **[!UICONTROL Done]** en vervolgens op **[!UICONTROL Save + Close]** . U bekijkt nu het [!UICONTROL Prompts] scherm van het rapport.
@@ -66,13 +66,13 @@ Maak dit rapport door een kopie te maken van het rapport &#39;Zoeknotities&#39; 
 1. Sleep het rapport &#39;Zoeknotities in dit project&#39; naar het deelvenster **[!UICONTROL Layout]** .
 1. U ziet dat de naam van het rapport de naam van het dashboard wordt. Bewerk de naam alleen in &quot;Notities zoeken&quot;.
 
-   ![&#x200B; een beeld van het scherm om een nieuw dashboard &#x200B;](assets/create-dashboard.png) te creëren
+   ![ een beeld van het scherm om een nieuw dashboard ](assets/create-dashboard.png) te creëren
 
 1. Klik op **[!UICONTROL Save + Close]**.
 
    Voeg nu het dashboard aan een projectpagina toe.
 
-   ![&#x200B; een beeld van het scherm om een nieuw dashboard &#x200B;](assets/add-custom-section.png) te creëren
+   ![ een beeld van het scherm om een nieuw dashboard ](assets/add-custom-section.png) te creëren
 
 1. Ga naar elk project. Klik in het menu van het linkerdeelvenster op de knop **[!UICONTROL Add a Dashboard]** .
 1. Typ in het veld **[!UICONTROL Choose a dashboard]** de optie &#39;Notities zoeken&#39; en selecteer de optie [!UICONTROL dashboard] in de lijst.

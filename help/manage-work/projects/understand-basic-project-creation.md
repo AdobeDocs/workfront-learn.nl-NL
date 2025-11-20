@@ -25,7 +25,7 @@ ht-degree: 12%
 In deze video wordt uitgelegd hoe u een geheel nieuw project kunt maken en beheren. &#x200B; Het begint door een nieuw project te creëren, het anders te noemen, en een doel met een beschrijving, begindatum, en doelvoltooiingsdatum te plaatsen. Projecten kunnen worden opgesplitst in taken die geplande werkzaamheden met een geschatte duur en taken zijn. &#x200B; De taken kunnen worden geordend gebruikend predecessors, en de projectstatus kan aan &quot;Huidige&quot;worden geplaatst om het team op de hoogte te brengen en het te omvatten in rapporten. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432340/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

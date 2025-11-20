@@ -36,7 +36,7 @@ In sommige zelfstudies maakt u een geheel nieuw scenario. In andere zelfstudies 
 
 Als u de oefeningen in de Workfront Fusion-leerpaden wilt voltooien, hebt u een Workfront-teststation nodig. Als u al een testaandrijving hebt, adviseren wij nieuwe voor deze opleiding.
 
-Vraag een testaandrijving door [&#x200B; deze vorm &#x200B;](https://forms.office.com/r/f1J8HRGrNY) te vullen. Als u geen toegang hebt tot het formulier, stuurt u uw naam, e-mailadres en bedrijfsnaam naar wfttstdr@adobe.com.
+Vraag een testaandrijving door [ deze vorm ](https://forms.office.com/r/f1J8HRGrNY) te vullen. Als u geen toegang hebt tot het formulier, stuurt u uw naam, e-mailadres en bedrijfsnaam naar wfttstdr@adobe.com.
 
 ### Toegang tot Workfront Fusion for Pracsion
 
@@ -60,6 +60,6 @@ De uitdagingen zijn voor degenen die iets willen proberen dat andere concepten i
 
 De geleidelijke instructies worden verstrekt om u door de walkthrough oefeningen te helpen krijgen.
 
-[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-Er is ook de gemeenschap van de Fusie 2.0 van de a [&#x200B; Workfront &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) waar u vragen kunt posten.
+Er is ook de gemeenschap van de Fusie 2.0 van de a [ Workfront ](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) waar u vragen kunt posten.
