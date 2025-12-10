@@ -4,33 +4,19 @@ description: Leer hoe u een aangepast formulier exporteert als een PDF om de geg
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
-level: Beginner, Intermediate
+level: Beginner
 activity: use
 team: Technical Marketing
-thumbnail: exportform.png
 jira: KT-10059
 exl-id: aeef197e-1d8c-43a9-8580-0c83d8027a3f
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: a4cd345e7dfbca6e6d4120b631c37ef87dbb0a36
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '31'
 ht-degree: 0%
 
 ---
 
 # Een aangepast formulier exporteren als een PDF
 
-Het vastleggen van unieke gegevens van een organisatie is een essentieel onderdeel van het werkbeheer. Aangepaste formulieren worden hiervoor doorgaans gebruikt. Als u aangepaste formulieren kunt exporteren, kunt u ze gemakkelijk verspreiden en delen. U kunt aangepaste formulieren exporteren uit projecten, taken of problemen wanneer u het formulier opent in de sectie [!UICONTROL Details] van de objecten.
+>[!VIDEO](https://video.tv.adobe.com/v/3477594/?quality=12&learn=on&enablevpops=1)
 
-U kunt ook het gebied [!UICONTROL Overview] in de geëxporteerde PDF opnemen.
-
-Als u bijvoorbeeld een aangepast formulier met de naam Video Marketing Information wilt exporteren dat is gekoppeld aan een project:
-
-1. Klik op het pictogram **[!UICONTROL Export]** . Alle aangepaste formulieren die aan het project zijn gekoppeld, worden weergegeven in de vervolgkeuzelijst, inclusief de sectie [!UICONTROL Overview] .
-1. Selecteer in de lijst Informatie over videomarmering.
-1. Klik op **[!UICONTROL Export]** onder aan de lijst.
-
-![&#x200B; de opties van de vormuitvoer van de Douane &#x200B;](assets/custom-forms-export-1.png)
-
-Er wordt een opgemaakt PDF-bestand gedownload.
-
-![&#x200B; Steekproef van uitgevoerde douanevorm &#x200B;](assets/custom-forms-export-2.png)
