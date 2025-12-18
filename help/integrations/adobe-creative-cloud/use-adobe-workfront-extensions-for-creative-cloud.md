@@ -33,8 +33,8 @@ Integreer Workfront met Creative Cloud om het werk te vinden en bij te werken da
 
 U moet de juiste insteekmodule installeren voor de Adobe Creative Cloud-toepassing die u gebruikt:
 
-* Voor Photoshop, zie [ Adobe Workfront voor Photoshop installeren en openen ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
-* Voor InDesign, Illustrator, Premiere Pro, en After Effects, zie [ Adobe Workfront voor ontwerp en video installeren en openen ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* Voor Photoshop, zie [&#x200B; Adobe Workfront voor Photoshop installeren en openen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
+* Voor InDesign, Illustrator, Premiere Pro, en After Effects, zie [&#x200B; Adobe Workfront voor ontwerp en video installeren en openen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
 
 
 In deze video leert u het volgende doen vanuit uw Creative Cloud-app:
