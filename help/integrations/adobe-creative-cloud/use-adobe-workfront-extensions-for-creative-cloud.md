@@ -9,13 +9,14 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8811
 doc-type: video
+last-substantial-update: 2025-12-18T00:00:00Z
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="Integratie" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 67237825d4d14091c1664993a65b2658c4f700dd
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -25,7 +26,6 @@ ht-degree: 0%
 Integreer Workfront met Creative Cloud om het werk te vinden en bij te werken dat aan u in Adobe Workfront wordt toegewezen zonder de volgende Adobe Creative Cloud-toepassingen te verlaten:
 
 * Photoshop
-* XD
 * InDesign
 * Illustrator
 * Premiere Pro
@@ -33,13 +33,8 @@ Integreer Workfront met Creative Cloud om het werk te vinden en bij te werken da
 
 U moet de juiste insteekmodule installeren voor de Adobe Creative Cloud-toepassing die u gebruikt:
 
-* Voor Photoshop, zie [&#x200B; Adobe Workfront voor Photoshop installeren en openen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=nl-NL&)
-* Voor XD, zie [&#x200B; Adobe Workfront voor XD installeren en openen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=nl-NL&)
-* Voor InDesign, Illustrator, Premiere Pro, en After Effects, zie [&#x200B; Adobe Workfront voor ontwerp en video installeren en openen &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=nl-NL&)
-
->[!NOTE]
->
->**Premiere Pro** en **After Effects** video uploadt, en overzicht en goedkeuring in Workfront, zijn niet beschikbaar op dit ogenblik door de stop.
+* Voor Photoshop, zie [ Adobe Workfront voor Photoshop installeren en openen ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
+* Voor InDesign, Illustrator, Premiere Pro, en After Effects, zie [ Adobe Workfront voor ontwerp en video installeren en openen ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
 
 
 In deze video leert u het volgende doen vanuit uw Creative Cloud-app:
@@ -52,4 +47,4 @@ In deze video leert u het volgende doen vanuit uw Creative Cloud-app:
 * Logtijd
 * Uw werk markeren voltooid
 
->[!VIDEO](https://video.tv.adobe.com/v/3431667/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
