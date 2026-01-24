@@ -62,4 +62,4 @@ De geleidelijke instructies worden verstrekt om u door de walkthrough oefeningen
 
 [&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-Er is ook de gemeenschap van de Fusie 2.0 van de a [&#x200B; Workfront &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) waar u vragen kunt posten.
+Er is ook de gemeenschap van de Fusie 2.0 van de a [&#x200B; Workfront &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=nl) waar u vragen kunt posten.

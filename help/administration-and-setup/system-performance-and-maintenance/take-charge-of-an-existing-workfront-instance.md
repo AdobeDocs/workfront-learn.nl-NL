@@ -98,7 +98,7 @@ Door door elke fase, en met de hulp van de Geërfde checklist van de Instantie t
 </br>
 
 Hieronder vindt u aanvullende informatie:
-* [&#x200B; Webinar: Uiteinden voor het overnemen van een Overgenomen Ingeërfde Instantie &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
+* [&#x200B; Webinar: Uiteinden voor het overnemen van een Overgenomen Ingeërfde Instantie &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=nl)
 * [&#x200B; het bepalen van doelstellingen voor uw implementatie van Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=nl-NL)
-* [&#x200B; Blogpost: Uitvoerend Sponsorship en Waarde aan Leiding &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [&#x200B; Blog Post: Inleiding aan Adobe Workfront KPIs &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [&#x200B; Blogpost: Uitvoerend Sponsorship en Waarde aan Leiding &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=nl)
+* [&#x200B; Blog Post: Inleiding aan Adobe Workfront KPIs &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001?profile.language=nl)
