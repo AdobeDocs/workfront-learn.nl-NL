@@ -1,5 +1,5 @@
 ---
-title: Een bestaand project kopiëren
+title: Bestaande projecten efficiënt kopiëren
 description: U kunt projecten eenvoudig dupliceren met de optie "Kopiëren" in het menu met drie puntjes, de naam van de status wijzigen en de status instellen op "Planning", aangepaste gegevens en formulieren kopiëren en problemen afzonderlijk via het tabblad Uitgaven overbrengen voor op maat gemaakte projectinstellingen.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
-# Een bestaand project kopiëren
+# Bestaande projecten efficiënt kopiëren
 
 De video legt uit hoe u een project kopieert in plaats van een sjabloon te gebruiken. &#x200B; Als u een project wilt kopiëren, opent u het gewenste project, klikt u op het menu met drie punten naast de projectnaam en selecteert u &quot;Kopiëren&quot; &#x200B; In het venster van het Project van het Exemplaar, kunt u het project anders noemen en zijn status veranderen, typisch in &quot;Planning&quot;vermijden verzendend berichten naar toegewezen gebruikers. &#x200B; U kunt kiezen of u toewijzingen, voortgang, aangepaste gegevens, enz. wilt kopiëren &#x200B;
 Klik op Project kopiëren om de laatste hand te leggen &#x200B;
 Problemen kunnen tijdens dit proces niet rechtstreeks worden gekopieerd, omdat ze niet als gepland werk worden beschouwd. &#x200B; Als u uitgaven wilt kopiëren, gaat u naar het tabblad Problemen, selecteert u de gewenste problemen en gebruikt u de optie &#39;Kopiëren naar&#39; om deze over te brengen naar het nieuwe project. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456044/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

@@ -1,5 +1,5 @@
 ---
-title: Bovenliggende taken begrijpen
+title: Leer bovenliggende en onderliggende taakrelaties
 description: Optimaliseer projectbeheer met taken als stichting, gebruikend ouder-kind structuren, automatische oudertaakvoltooiing, flexibele organisatiehulpmiddelen, en op maat gemaakte taak structurerend voor efficiency.
 activity: use
 feature: Work Management
@@ -12,19 +12,19 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-# Bovenliggende taken begrijpen
+# Leer bovenliggende en onderliggende taakrelaties
 
 In deze video wordt de taakstructuur in Workfront uitgelegd. Taken zijn essentiële onderdelen van een project en vertegenwoordigen de benodigde werkonderdelen voor voltooiing. &#x200B; In de video wordt het belang benadrukt van een nauwkeurige organisatie van taken als een belangrijke stap in de planning en het beheer van projecten. Het toont aan hoe te beginnen met het werken met taken en verklaart de ouder-kind taakverhoudingen.
 &#x200B;Bovenliggende taken fungeren als organisatoren, waarbij het project in fasen, fasen of mijlpalen wordt gegroepeerd en niet aan personen wordt toegewezen. De taken van het kind, of subtasks, vertegenwoordigen actionable werk dat aan teamleden wordt toegewezen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445602/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

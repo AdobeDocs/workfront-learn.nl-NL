@@ -1,5 +1,5 @@
 ---
-title: Begrijpen [!UICONTROL Work Effort]
+title: De taakuren schatten met de Werkinspanning
 description: Stroomlijn de taakplanning in Workfront met de functie Werkinspanning, die klantgerichte geplande uurramingen, inline en bulkbewerking, en douanemeningen voor efficiënt projectbeheer toestaat.
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
-# Begrijpen [!UICONTROL Work Effort]
+# De taakuren schatten met de Werkinspanning
 
 In de video wordt uitgelegd hoe u de functie Werkinspanning in Workfront kunt gebruiken om geplande uren voor taken te ramen wanneer nauwkeurige schattingen moeilijk zijn te bepalen.
 Het toont hoe te om een mening van de Inspanning van het douanewerk tot stand te brengen om taakbeheer te stroomlijnen door relevante kolommen zoals de Inspanning van het Werk, Geplande Uren Type van Duur toe te voegen
 
->[!VIDEO](https://video.tv.adobe.com/v/3447405/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 
@@ -35,7 +35,7 @@ Het toont hoe te om een mening van de Inspanning van het douanewerk tot stand te
 * **Creërend een Mening van de Inspanning van het Werk van de Douane:** De gebruikers kunnen een mening van de Inspanning van het Werk van de douane tot stand brengen om de montages van de Inspanning van het Werk gemakkelijk te beheren en uit te geven. &#x200B; Dit betekent dat u kolommen toevoegt voor Werkinspanning en andere relevante velden, zoals Geplande uren of Duur. &#x200B;
 
 
-Voor meer informatie over [!UICONTROL Work Effort], zie het [&#x200B; het overzicht van de Werkinspanning van het Werk &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=nl-NL) artikel.
+Voor meer informatie over [!UICONTROL Work Effort], zie het [ het overzicht van de Werkinspanning van het Werk ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
 
 
 ## Aanbevolen zelfstudies over dit onderwerp

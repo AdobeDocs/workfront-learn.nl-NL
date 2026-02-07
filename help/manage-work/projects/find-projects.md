@@ -1,5 +1,5 @@
 ---
-title: Projecten zoeken
+title: Projecten efficiënt zoeken
 description: Vereenvoudig projectbeheer met filters, zoekgereedschappen, lijsten met verlopen, favorieten, vastgezette projecten en aangepaste rapporten of dashboards voor snelle en georganiseerde toegang tot projecten.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
 
-# Projecten zoeken
+# Projecten efficiënt zoeken
 
 In deze video leert u hoe u snel en eenvoudig projecten kunt zoeken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439554/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

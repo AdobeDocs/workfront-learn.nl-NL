@@ -1,5 +1,5 @@
 ---
-title: Verslag over problemen
+title: Aangepaste rapporten maken voor probleembeheer
 description: Leer hoe te om douanerapporten voor kwestie en projectbeheer, met inbegrip van te creëren om open kwesties te centraliseren en te volgen, kolommen en filters aan te passen, en project en probleembeheer te optimaliseren.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-# Verslag over kwesties
+# Aangepaste rapporten maken voor probleembeheer
 
 De video verstrekt een geleidelijke gids bij het creëren van twee soorten rapporten om kwesties en projecten te beheren en te volgen. &#x200B;
 

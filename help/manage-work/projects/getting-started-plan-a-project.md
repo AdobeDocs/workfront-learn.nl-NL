@@ -1,5 +1,5 @@
 ---
-title: Aan de slag met het plannen van een project
+title: Een effectief project plannen in Workfront
 description: Projectplanning stroomlijnen door de focus op de belangrijkste velden te richten, de status in te stellen op "Planning" met de juiste weergaven, realistische begindatums te selecteren en planningsmodi te gebruiken voor nauwkeurige tijdlijnen.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -12,20 +12,20 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
-# Aan de slag met het plannen van een project
+# Een effectief project plannen in Workfront
 
 De video biedt aanwijzingen voor het effectief plannen van een project in Workfront. &#x200B; Het benadrukt het belang van het leggen van een solide basis om ervoor te zorgen dat het project op tijd wordt afgerond en succesvol is. &#x200B; De belangrijkste stappen omvatten het begrip van vijf kritieke gebieden: Taken, Toewijzingen, Duur, Geplande Uren, Predecessors. &#x200B; Deze gebieden laten snelle en nauwkeurige aanpassingen aan het projectplan toe. &#x200B;
 
 De video benadrukt het belang van realistische tijdlijnen, teambeschikbaarheid, en nauwkeurige planning om een sterke basis voor projectsucces te creëren. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448573/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

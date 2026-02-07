@@ -1,5 +1,5 @@
 ---
-title: Een verzoek bijwerken
+title: Een aanvraag bijwerken in Workfront
 description: Vereenvoudig aanvraagbeheer in Workfront door filters te gebruiken om verzoeken te zoeken, status en details efficiënt bij te werken, volledige informatie te openen en gecentraliseerde samenwerking voor gestroomlijnde workflows te bevorderen.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
 
-# Een verzoek bijwerken
+# Een aanvraag bijwerken in Workfront
 
 In de video wordt uitgelegd hoe u aanvragen kunt vinden en bijwerken in Adobe Workfront. &#x200B; Nadat u een verzoek hebt ingediend, kunt u informatie toevoegen of vragen stellen om ervoor te zorgen dat de meest recente gegevens beschikbaar zijn voor degenen die eraan werken. &#x200B; &#x200B;
 

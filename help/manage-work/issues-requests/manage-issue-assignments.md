@@ -1,5 +1,5 @@
 ---
-title: Uitgiftetoewijzingen beheren
+title: Uitgiftetoewijzingen effectief beheren
 description: Problemen in Workfront effectief beheren door inline bewerken en het taakverdelingsmechanisme te gebruiken voor toewijzingen, voortgangsgegevens te volgen en bij te werken, de status van problemen te wijzigen en zich aan teamspecifieke workflows te houden voor een naadloze projectuitvoering.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
-# Uitgiftetoewijzingen beheren
+# Uitgiftetoewijzingen effectief beheren
 
 Het beheer van problemen is een belangrijke verantwoordelijkheid van de projectbeheerder en degenen die verantwoordelijk zijn voor het werk aan de problemen.
 
@@ -30,7 +30,7 @@ In deze video leert u hoe u:
 * Voortgang van problemen bijwerken
 * De status van het probleem bijwerken
 
->[!VIDEO](https://video.tv.adobe.com/v/3446961/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

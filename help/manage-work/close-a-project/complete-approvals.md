@@ -1,5 +1,5 @@
 ---
-title: Goedkeuring voltooien
+title: Taak oplossen en goedkeuringen afgeven
 description: Leer hoe u onvolledige goedkeuringen kunt identificeren en oplossen zodat u uw project kunt sluiten.
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Goedkeuring voltooien
+# Taak oplossen en goedkeuringen afgeven
 
 In deze video leert u:
 
 * Hoe te om onopgeloste taakgoedkeuringen te vinden en hen te behandelen
 * Hoe te om onopgeloste probleemgoedkeuringen te vinden en hen te behandelen
 
->[!VIDEO](https://video.tv.adobe.com/v/3439430/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

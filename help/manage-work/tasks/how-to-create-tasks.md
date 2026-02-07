@@ -1,5 +1,5 @@
 ---
-title: Taken maken
+title: Taken efficiënt maken in Workfront
 description: Vereenvoudig het maken van taken met opties voor gedetailleerde of inline bewerking, flexibele herplaatsing, aangepaste weergaven voor extra velden en specifieke plaatsing, zoals het gebruik van "Taak invoegen onder" in Workfront.
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
@@ -10,19 +10,19 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
 
-# Taken maken
+# Taken efficiënt maken in Workfront
 
 De video biedt een zelfstudie over het maken van taken in een Workfront-project, waarin zowel de lange methode als handmatige sneltoetsen worden besproken. Het benadrukt flexibiliteit in het creëren van taken en verstrekt uiteinden voor efficiënt taakbeheer.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428972/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

@@ -1,5 +1,5 @@
 ---
-title: De status van het probleem bijwerken
+title: Uitgiftestatussen effectief bijwerken
 description: Meer informatie over de status van uitgaven en tips en trucs voor het gebruik ervan.
 feature: Work Management
 type: Tutorial
@@ -9,18 +9,18 @@ last-substantial-update: 2025-09-03T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-18800
 exl-id: 61602f6f-900e-402b-b1fb-88da53fc81b9
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
-# De status van het probleem bijwerken
+# Uitgiftestatussen effectief bijwerken
 
 In deze video leert u meer over de status van uitgaven en de aanbevolen procedures voor het gebruik ervan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472971/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

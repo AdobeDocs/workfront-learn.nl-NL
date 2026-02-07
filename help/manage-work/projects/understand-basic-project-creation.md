@@ -1,5 +1,5 @@
 ---
-title: Inzicht in maken van basisprojecten
+title: Een geheel nieuw project maken en beheren
 description: Leer hoe u efficiënt projecten kunt maken, beheren en voltooien, onverwachte problemen kunt verhelpen en beginnersvriendelijke tips kunt verkennen om essentiële functies voor projectbeheer onder de knie te krijgen. ​
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,19 +13,19 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 12%
+source-wordcount: '249'
+ht-degree: 9%
 
 ---
 
-# Inzicht in maken van basisprojecten
+# Een geheel nieuw project maken en beheren
 
 In deze video wordt uitgelegd hoe u een geheel nieuw project kunt maken en beheren. &#x200B; Het begint door een nieuw project te creëren, het anders te noemen, en een doel met een beschrijving, begindatum, en doelvoltooiingsdatum te plaatsen. Projecten kunnen worden opgesplitst in taken die geplande werkzaamheden met een geschatte duur en taken zijn. &#x200B; De taken kunnen worden geordend gebruikend predecessors, en de projectstatus kan aan &quot;Huidige&quot;worden geplaatst om het team op de hoogte te brengen en het te omvatten in rapporten. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3432340/?captions=dut&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

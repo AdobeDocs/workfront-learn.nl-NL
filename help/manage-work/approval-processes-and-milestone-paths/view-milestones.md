@@ -1,5 +1,5 @@
 ---
-title: Mijlpalen weergeven
+title: Mijlpalen weergeven in uw projecten
 description: Leer hoe u mijlpalen in een project kunt weergeven en de mijlpaalweergave in het gebied [!UICONTROL Project] kunt gebruiken.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-# Mijlpalen weergeven
+# Mijlpalen weergeven in uw projecten
 
 In deze video leert u hoe u:
 
@@ -31,7 +31,7 @@ In deze video leert u hoe u:
 
 >[!TIP]
 >
->Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [&#x200B; een basismening &#x200B;](/help/reporting/basic-reporting/create-a-basic-view.md) creëren.
+>Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [ een basismening ](/help/reporting/basic-reporting/create-a-basic-view.md) creëren.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

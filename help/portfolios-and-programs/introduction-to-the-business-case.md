@@ -1,5 +1,5 @@
 ---
-title: Begrijp [!UICONTROL Business Case]
+title: Een uitgebreide business case maken
 description: Creëer uitvoerige bedrijfsgevallen in Workfront om projecten voorrang te geven door gedetailleerde projectinformatie, uitgaven, arbeids en risicoanalyse, scorecards, en douaneformulieren voor geïnformeerd portefeuillebeheer te omvatten.
 activity: use
 team: Technical Marketing
@@ -12,18 +12,18 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
-# Begrijp [!UICONTROL Business Case]
+# Een uitgebreide business case maken
 
 In de video wordt het belang van een bedrijfscase in projectbeheer uitgelegd. Het benadrukt dat het volledig invullen van de bedrijfscase managers grondig helpt om projecten te analyseren en voorrang te geven die voor de zelfde middelen concurreren. &#x200B; Als de bedrijfscase eenmaal is voltooid, verandert de projectstatus in &quot;Gevraagd&quot; en wordt de algemene score berekend voor vergelijking in het Portfolio Optimization Tool. &#x200B; Hoewel geen van de velden verplicht is, wordt de besluitvorming verbeterd door meer gedetailleerde informatie. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442850/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

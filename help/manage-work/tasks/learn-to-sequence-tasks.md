@@ -1,5 +1,5 @@
 ---
-title: Leren om taken uit te voeren
+title: Sequentietaken effectief in Workfront
 description: Het projectbeheer stroomlijnen door taakorde met predecessors te bepalen, chronologie door duur te plaatsen, opeenvolgingen te vereenvoudigen die malplaatjes gebruiken, handbeperkingen te vermijden, en vaardigheden te verfijnen met praktijk.
 activity: use
 feature: Work Management
@@ -13,21 +13,21 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
 
-# Leren om taken uit te voeren
+# Sequentietaken effectief in Workfront
 
 In de video wordt uitgelegd hoe u taken in Workfront kunt sequencen met behulp van voorgangers en tijdsduur om projecttijdlijnen effectief te beheren.
 In de video ziet u hoe u voorgangers voor nieuwe taken instelt, zodat de volgorde opeenvolgend is en de begindatums nauwkeurig zijn.
 &#x200B;Het benadrukt het belang om met voorgangers te werken om hun impact op de projecttijdlijnen te begrijpen en beveelt aan om voor een efficiënte projectplanning gebruik te maken van tijdsduur en voorgangers.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447326/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

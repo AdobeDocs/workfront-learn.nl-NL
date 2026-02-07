@@ -1,5 +1,5 @@
 ---
-title: De projectdetails invullen
+title: Belangrijke projectgegevens invullen
 description: Optimaliseer de efficiency van het projectbeheer door beschrijvende namen te gebruiken, aangewezen statussen te plaatsen, de juiste planningswijze te kiezen, leveraging malplaatjes en douaneformulieren, en het beheren van middelen met middelpools en programma's.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 1%
 
 ---
 
-# De projectdetails invullen
+# Belangrijke projectgegevens invullen
 
 In deze video leert u meer over de meest gebruikte projectinstellingen die u nodig hebt bij het maken van een project.
 
@@ -41,4 +41,4 @@ In deze video leert u meer over de meest gebruikte projectinstellingen die u nod
 * [Navigeren door de projectpagina](/help/manage-work/projects/navigate-the-project-page.md)
 * [Leer vier manieren om een project te maken](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [Aan de slag met het plannen van een project](/help/manage-work/projects/getting-started-plan-a-project.md)
-* [&#x200B; geeft projecten &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/manage-work/projects/manage-projects/edit-projects) uit
+* [ geeft projecten ](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects) uit

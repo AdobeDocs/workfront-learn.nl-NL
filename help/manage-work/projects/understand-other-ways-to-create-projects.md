@@ -1,5 +1,5 @@
 ---
-title: Leer vier manieren om een project te maken
+title: Vier methoden verkennen om een project te maken
 description: Onderzoek hoe te om projecten in Workfront efficiënt tot stand te brengen gebruikend malplaatjes, beginnend van kras, het kopiëren van bestaande projecten, of het invoeren van de dossiers van het Project van Microsoft, die aan diverse gebruikersbehoeften worden aangepast.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 0%
 
 ---
 
-# Leer vier manieren om een project te maken
+# Vier methoden verkennen om een project te maken
 
 De video biedt een uitgebreide gids over het maken van projecten in Workfront met behulp van verschillende methoden:
 
@@ -55,7 +55,7 @@ De video biedt een uitgebreide gids over het maken van projecten in Workfront me
 
 In de video wordt de nadruk gelegd op de flexibiliteit van Workfront bij het maken van projecten via sjablonen, krassen, kopiëren of importeren, catering naar andere gebruikersbehoeften. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3432168/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

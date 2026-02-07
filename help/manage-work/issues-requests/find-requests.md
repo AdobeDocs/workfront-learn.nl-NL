@@ -1,5 +1,5 @@
 ---
-title: Verzoeken en verzoeken beheren
+title: Verzoeken efficiënt zoeken en beheren
 description: Leer hoe u filters kunt gebruiken, teamtoewijzingen kunt beheren, aangepaste rapporten en dashboards kunt maken en de betekenis van "my" in verschillende contexten voor effectief aanvraagbeheer kunt verduidelijken.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# Verzoeken zoeken en beheren
+# Verzoeken efficiënt zoeken en beheren
 
 In deze video wordt uitgelegd hoe u aanvragen kunt vinden en beheren in Workfront. &#x200B; Het bestrijkt vier hoofdgebieden:
 
@@ -30,7 +30,7 @@ In deze video wordt uitgelegd hoe u aanvragen kunt vinden en beheren in Workfron
 * Aangepaste rapporten en dashboards
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441660/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

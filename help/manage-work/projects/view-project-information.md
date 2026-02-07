@@ -1,5 +1,5 @@
 ---
-title: Projectinformatie weergeven
+title: Onderzoek filters, meningen, en groeperingen voor projectbeheer
 description: Stroomlijn projectworkflows met aanpasbare filters, gedetailleerde weergaven, efficiënte groeperingen, tools voor taakbeheer en functies voor het bijhouden van problemen voor een betere organisatie en duidelijkheid.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
 
-# Projectinformatie weergeven
+# Onderzoek filters, meningen, en groeperingen voor projectbeheer
 
 Deze video biedt een overzicht van filters, weergaven en groeperingen in Workfront om gebruikers te helpen projecten, taken en problemen efficiënt te beheren en te analyseren. &#x200B; De belangrijkste punten zijn:
 
@@ -33,7 +33,7 @@ Deze video biedt een overzicht van filters, weergaven en groeperingen in Workfro
 
 In de video wordt de nadruk gelegd op aanpassing en worden koppelingen weergegeven naar zelfstudies voor verder leren. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3453072/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

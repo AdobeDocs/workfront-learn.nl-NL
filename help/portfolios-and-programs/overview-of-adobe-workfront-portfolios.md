@@ -1,5 +1,5 @@
 ---
-title: Portefeuilles begrijpen
+title: Ontdek het portfoliobeheer en optimalisatie
 description: Optimaliseer projectselectie in Workfront door Portfolio Optimizer te gebruiken, portefeuilles met beheerde toegang tot stand te brengen, projecten en programma's te organiseren, en bedrijfsgevallen voor geïnformeerde besluitvorming voor te bereiden.
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
-# Portefeuilles begrijpen
+# Ontdek het portfoliobeheer en optimalisatie
 
 In de video wordt het portfoliobeheer uitgelegd, waarbij de nadruk ligt op de manier waarop beheerders de selectie van projecten kunnen optimaliseren om deze af te stemmen op de bedrijfsdoelstellingen. &#x200B; Het introduceert het concept portefeuilles als inzamelingen van projecten die voor gedeelde middelen, begrotingen, en programma&#39;s concurreren. &#x200B; Managers kunnen hulpprogramma&#39;s zoals Portfolio Optimizer gebruiken om projecten te vergelijken op basis van criteria zoals arbeid, uitgaven, risico, investeringsrendement en afstemming op portfoliodoelstellingen. &#x200B; Wanneer u projecten voorbereidt voor een vergelijking, maakt u voor elke project een bedrijfscase. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442834/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

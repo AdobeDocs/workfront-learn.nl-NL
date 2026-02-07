@@ -1,5 +1,5 @@
 ---
-title: Niet-gepland werk verwerken
+title: Niet-gepland werk effectief afhandelen
 description: Verbeter projectbeheer in Workfront door problemen effectief te volgen en op te lossen, registratiegereedschappen te gebruiken, beste praktijken uit te voeren, communicatie te bevorderen en kwesties naadloos om te zetten in taken voor gestroomlijnde uitvoering.
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ last-substantial-update: 2024-06-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-# Niet-gepland werk afhandelen
+# Niet-gepland werk effectief afhandelen
 
 De video benadrukt het belang van communicatie in projectbeheer en benadrukt de rol van kwesties als een belangrijk instrument om communicatie te vergemakkelijken. &#x200B; Het verklaart het verschil tussen updates en kwesties, opmerkend dat de kwesties geschikter voor het werk zijn dat moet worden toegewezen, worden gevolgd, en worden opgelost alvorens een project kan worden voltooid. &#x200B; De video verstrekt een geleidelijke gids over hoe te om kwesties te registreren. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446572/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

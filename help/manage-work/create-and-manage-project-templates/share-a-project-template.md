@@ -1,5 +1,5 @@
 ---
-title: Een projectsjabloon delen
+title: Een projectsjabloon effectief delen
 description: Leer hoe te om een projectmalplaatje te delen en hoe te om projecten te delen die van een malplaatje worden gecreeerd.
 activity: use
 feature: Work Management
@@ -12,14 +12,14 @@ recommendations: noDisplay,catalog
 jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Een projectsjabloon delen
+# Een projectsjabloon effectief delen
 
 U leert hoe te:
 

@@ -1,5 +1,5 @@
 ---
-title: Voortgang bijhouden vanaf de projecttijdlijn
+title: Voortgang bijhouden met percentage voltooid en vorderingsstatus
 description: Leer hoe u de voortgang van het werk vanaf de projecttijdlijn kunt bijhouden in het gebruik van de status 'percent complete' en 'progress'.
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Voortgang bijhouden vanaf de projecttijdlijn
+# Voortgang bijhouden met percentage voltooid en vorderingsstatus
 
 Zorg ervoor dat de taken vooruitgang boeken op de manier waarop ze projectdeadlines moeten halen.
 
@@ -29,7 +29,7 @@ In deze video leert u meer over:
 * Percentage voltooid
 * Voortgangsstatus
 
->[!VIDEO](https://video.tv.adobe.com/v/3438214/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
 
 
 ## Aanbevolen zelfstudies over dit onderwerp
