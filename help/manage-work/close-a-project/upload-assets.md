@@ -29,7 +29,7 @@ In deze video leert u hoe u:
 * Een document uploaden
 * Training zoeken over het uploaden van proefdrukken
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440376/?captions=dut&quality=12&learn=on&enablevpops=1)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

@@ -45,7 +45,7 @@ In de video wordt uitgelegd hoe u projecten effectief kunt delen in Workfront, z
 
 De video benadrukt het gebruik van teams en sjablonen voor efficiënt gedeeld beheer en benadrukt de rol van beheerders bij het aanpassen van voorkeuren voor delen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428970/?captions=dut&quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

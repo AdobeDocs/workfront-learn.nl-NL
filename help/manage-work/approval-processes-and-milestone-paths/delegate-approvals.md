@@ -27,7 +27,7 @@ Voor goedkeuringen kunnen gebruikers deze delegeren via de widget &quot;Wachtend
 Gedelegeerde goedkeuringen worden in het systeem gemarkeerd, waaruit blijkt wie ze heeft gedelegeerd en aan wie. &#x200B; De updates met betrekking tot goedkeuringen verschijnen op het lusje van de Update, en de systeemactiviteit kan op het lusje van de Activiteit van het Systeem worden bekeken. &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446382/?captions=dut&quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

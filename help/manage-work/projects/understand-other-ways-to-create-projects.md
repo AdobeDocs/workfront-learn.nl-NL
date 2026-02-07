@@ -55,7 +55,7 @@ De video biedt een uitgebreide gids over het maken van projecten in Workfront me
 
 In de video wordt de nadruk gelegd op de flexibiliteit van Workfront bij het maken van projecten via sjablonen, krassen, kopiëren of importeren, catering naar andere gebruikersbehoeften. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432168/?captions=dut&quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 
