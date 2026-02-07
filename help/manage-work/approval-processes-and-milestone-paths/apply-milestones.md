@@ -32,7 +32,7 @@ In deze video leert u hoe u:
 
 >[!TIP]
 >
->Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [ een basismening ](/help/reporting/basic-reporting/create-a-basic-view.md) creëren.
+>Voor informatie over hoe te om een mening van de Mijlpaal tot stand te brengen, zie de de meningsactiviteit van de Mijlpaal in [&#x200B; een basismening &#x200B;](/help/reporting/basic-reporting/create-a-basic-view.md) creëren.
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

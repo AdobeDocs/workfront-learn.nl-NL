@@ -37,9 +37,9 @@ In de video wordt benadrukt hoe Workfront communicatie, taakbeheer en rapportage
 
 >[!TIP]
 >
->Om het rapport van het Onderzoek van de Nota tot stand te brengen dat in de video wordt getoond, zie de activiteit in [ een leerprogramma van het taakrapport ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) creëren.
+>Om het rapport van het Onderzoek van de Nota tot stand te brengen dat in de video wordt getoond, zie de activiteit in [&#x200B; een leerprogramma van het taakrapport &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts) creëren.
 >
->Om het rapport van het Onderzoek van de Nota aan uw projectpaneel toe te voegen, zie de activiteit in [ dashboards ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard) leerprogramma creëren.
+>Om het rapport van het Onderzoek van de Nota aan uw projectpaneel toe te voegen, zie de activiteit in [&#x200B; dashboards &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard) leerprogramma creëren.
 
 ## Toetsen
 
