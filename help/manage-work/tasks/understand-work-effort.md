@@ -35,7 +35,7 @@ Het toont hoe te om een mening van de Inspanning van het douanewerk tot stand te
 * **Creërend een Mening van de Inspanning van het Werk van de Douane:** De gebruikers kunnen een mening van de Inspanning van het Werk van de douane tot stand brengen om de montages van de Inspanning van het Werk gemakkelijk te beheren en uit te geven. &#x200B; Dit betekent dat u kolommen toevoegt voor Werkinspanning en andere relevante velden, zoals Geplande uren of Duur. &#x200B;
 
 
-Voor meer informatie over [!UICONTROL Work Effort], zie het [&#x200B; het overzicht van de Werkinspanning van het Werk &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=en) artikel.
+Voor meer informatie over [!UICONTROL Work Effort], zie het [&#x200B; het overzicht van de Werkinspanning van het Werk &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=nl-NL) artikel.
 
 
 ## Aanbevolen zelfstudies over dit onderwerp
