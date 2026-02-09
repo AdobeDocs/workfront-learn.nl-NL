@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Leer hoe u snel een nieuw rapport kunt maken door een vergelijkbaar rapport te kopiëren en te bewerken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437051/?captions=dut&quality=12&learn=on&enablevpops=1)

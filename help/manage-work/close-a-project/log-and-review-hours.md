@@ -27,7 +27,7 @@ In deze video leert u hoe u:
 * De uren die van het overzicht aan een project worden geregistreerd
 * Projecturen goedkeuren indien nodig
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441075/?captions=dut&quality=12&learn=on&enablevpops=1)
 
 ## Aanbevolen zelfstudies over dit onderwerp
 

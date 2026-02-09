@@ -27,7 +27,7 @@ In deze video zult u:
 * Meer informatie over enkele handige taakrapportelementen
 * Leer hoe u uw eigen taakfilter maakt
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3469594/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## Activiteiten van ingebouwde taakfilters begrijpen
 

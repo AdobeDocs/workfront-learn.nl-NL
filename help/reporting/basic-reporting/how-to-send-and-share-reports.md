@@ -27,7 +27,7 @@ In deze video leert u:
 * Hoe te om rapporten met iedereen te delen
 * Wat de ontvangers kunnen zien en doen met een Workfront-rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447818/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 

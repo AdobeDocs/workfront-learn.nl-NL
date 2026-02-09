@@ -36,7 +36,7 @@ In deze video leert u meer over:
 * Fouten in afhankelijkheidslus
 * Korte bezuinigingen en beste praktijken
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3454534/?captions=dut&quality=12&learn=on&enablevpops=1)
 
 Voor meer informatie over het gebruiken van predecessors zie [&#x200B; de taakpredecessors van het Gebruik &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=nl-NL).
 

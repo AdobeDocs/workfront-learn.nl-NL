@@ -31,7 +31,7 @@ In deze video leert u de volgende dingen over type duur en taakbeperkingen:
 * Aanbevolen procedures voor het gebruik ervan
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3428947/?captions=dut&quality=12&learn=on&enablevpops=1)
 
 
 Voor informatie over hoe te om een types van Duur en de mening van taakbeperkingen tot stand te brengen, zie de **types van Duur en de activiteit van de taakbeperkingen** in [&#x200B; een basismening &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=nl-NL) creëren.

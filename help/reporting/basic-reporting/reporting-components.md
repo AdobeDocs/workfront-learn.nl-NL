@@ -29,7 +29,7 @@ In de video wordt uitgelegd wat het concept is van het rapporteren van component
 * **Kwalifier van de Filter:** bepaalt welke waarden om in een rapport te omvatten of uit te sluiten, zoals het tonen van taken met een prioriteit van &quot;hoog.&quot;&#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447027/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
