@@ -1,5 +1,5 @@
 ---
-title: Instellingen voor een aanvraagstroom begrijpen
+title: De stroominstellingen van uw verzoek ordenen
 description: Optimaliseer Workfront verzoekbeheer door rijonderwerpen te bepalen, onderwerpgroepen te gebruiken, die het verpletteren van regels plaatsen, vooruit plannen, en ervoor zorgen dat de voorlegging niet over het hoofd wordt gezien voor betere efficiency.
 activity: delpoy
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
 
-# Instellingen voor een aanvraagstroom begrijpen
+# De stroominstellingen van uw verzoek ordenen
 
 De video verklaart het proces van de verzoekstroom in Workfront, dat op rijbeheer, het verpletteren van regels, onderwerpgroepen, en rijonderwerpen concentreert. &#x200B; Het benadrukt het belang om de verzoekrij te organiseren door drie zeer belangrijke vragen te beantwoorden:
 
@@ -30,7 +30,7 @@ De video verklaart het proces van de verzoekstroom in Workfront, dat op rijbehee
 
 Door deze vragen te richten, kunnen de gebruikers hun verzoekrij in Workfront effectief plannen en vormen. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3441911/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

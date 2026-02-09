@@ -1,5 +1,5 @@
 ---
-title: Een taakrapport maken
+title: Een taakrapport maken voor te late toewijzingen
 description: Meer informatie over hoe u een taakrapport met een complex filter maakt en de rapporten vindt die u in Workfront maakt.
 activity: use
 feature: Reports and Dashboards
@@ -12,20 +12,20 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '1004'
-ht-degree: 2%
+source-wordcount: '1010'
+ht-degree: 1%
 
 ---
 
-# Een taakrapport maken
+# Een taakrapport maken voor te late toewijzingen
 
 De video verstrekt een geleidelijke gids bij het creëren van een douanerapport om laat die taken te volgen aan de het programma geopende gebruiker worden toegewezen. Het begint door de behoefte aan douanerapporten uit te leggen wanneer de bestaande filters, de meningen, of de ingebouwde rapporten niet aan specifieke vereisten voldoen. &#x200B; Het rapport krijgt de naam &quot;Te laat toegewezen Taken aan mij,&quot;met een beschrijving die voor duidelijkheid wordt toegevoegd. &#x200B;
 
 Het resulterende rapport helpt gebruikers zich op late taken concentreren, verstrekt inzicht in gebiedsdelen, en vereenvoudigt navigatie aan de gastheerprojecten. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3448348/?captions=dut&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
@@ -40,7 +40,7 @@ Het resulterende rapport helpt gebruikers zich op late taken concentreren, verst
 
 >[!TIP]
 >
->Breek uit uw spatulas en het mengen bakken en ben bereid om &quot;recepten&quot;in onze [&#x200B; Klant van Adobe Workfront te proberen die Cookbook &#x200B;](/help/assets/workfront-customer-reporting-cookbook.pdf) meldt. Binnen zult u geleidelijke instructies voor 10 rapporten vinden, klaar voor u om in uw milieu vandaag te slaan.
+>Breek uit uw spatulas en het mengen bakken en ben bereid om &quot;recepten&quot;in onze [ Klant van Adobe Workfront te proberen die Cookbook ](/help/assets/workfront-customer-reporting-cookbook.pdf) meldt. Binnen zult u geleidelijke instructies voor 10 rapporten vinden, klaar voor u om in uw milieu vandaag te slaan.
 >We hebben favoriete rapporten verzameld van klanten en ze samengebracht in een hanteerbaar, gemakkelijk verteerbaar, kookboek dat je kunt meenemen en uittesten in je eigen Workfront-keuken.
 >Deze 10 rapporten komen van klanten die enkel zoals u zijn. Wij zijn de ongelooflijke klanten die een van hun favoriete rapporten hebben gedeeld, enorm dankbaar dat ze zich over verschillende sectoren, afdelingen, teams, posities en allemaal in verschillende bedrijven hebben verspreid. Sommige rapporten zijn eenvoudig (maar ongelooflijk nuttig), en sommige zijn complexer om uw rapportering naar het volgende niveau te brengen.
 
@@ -80,7 +80,7 @@ Neem vragen op voor het volgende:
 1. Klik op het menu **[!UICONTROL New Report]** en selecteer **[!UICONTROL Note]** .
 1. In **[!UICONTROL Columns (View)]** stelt u de kolommen zo in dat deze het volgende bevatten:
 
-   ![&#x200B; een beeld van het scherm om tot kolommen van het notitierapport &#x200B;](assets/note-report-columns.png) te leiden
+   ![ een beeld van het scherm om tot kolommen van het notitierapport ](assets/note-report-columns.png) te leiden
 
    * [!UICONTROL Note] > [!UICONTROL Note Text]
    * [!UICONTROL Note] > [!UICONTROL Audit Text]
@@ -93,19 +93,19 @@ Neem vragen op voor het volgende:
 1. Selecteer de kolom **[!UICONTROL Entry Date]** en wijzig **[!UICONTROL Sort to Descending]** .
 1. Stel op het tabblad **[!UICONTROL Groupings]** het rapport in op groeperen met [!UICONTROL Project] > [!UICONTROL Name] .
 
-   ![&#x200B; een beeld van het scherm om de groeperingen van het notitierapport &#x200B;](assets/note-report-groupings.png) tot stand te brengen
+   ![ een beeld van het scherm om de groeperingen van het notitierapport ](assets/note-report-groupings.png) tot stand te brengen
 
 1. Laat [!UICONTROL Filters] leeg.
 1. Open **[!UICONTROL Report Settings]** en noem het rapport &quot;Notitie zoeken&quot;.
 1. Plaats in het veld [!UICONTROL Description] iets als &#39;&#39;Zoeken naar systeem- of gebruikersnotities op basis van het geselecteerde audittype en andere aanwijzingen. De nota&#39;s van het systeem verschijnen in de kolom van de Tekst van de Controle en de nota&#39;s van de Gebruiker verschijnen in de kolom van de Tekst van de Nota.&quot;
 
-   ![&#x200B; een beeld van het scherm om de montages van het notitierapport tot stand te brengen &#x200B;](assets/note-report-report-options.png)
+   ![ een beeld van het scherm om de montages van het notitierapport tot stand te brengen ](assets/note-report-report-options.png)
 
 1. Selecteer **[!UICONTROL Details Tab]** zodat deze wordt weergegeven wanneer het rapport wordt geladen.
 1. Plaats het rapport om 200 punten te tonen wanneer het rapport op een dashboard wordt omvat.
 1. Klik op **[!UICONTROL Report Prompts]** en voeg het volgende toe:
 
-   ![&#x200B; een beeld van het scherm om de herinneringen van het notitierapport tot stand te brengen &#x200B;](assets/note-report-report-prompts.png)
+   ![ een beeld van het scherm om de herinneringen van het notitierapport tot stand te brengen ](assets/note-report-report-prompts.png)
 
    * [!UICONTROL Note] > [!UICONTROL Audit Text]
    * [!UICONTROL Note] > [!UICONTROL Note Text]
@@ -119,9 +119,9 @@ Neem vragen op voor het volgende:
 
 ### Activiteit 2: Een feedbackrapport voor een beheerder maken
 
-Dit is een uitgifterapport waarin alle problemen worden weergegeven uit een wachtrij voor feedbackverzoeken die voor systeembeheerders is gemaakt. U kunt zien hoe te om deze verzoekrij in te creëren [&#x200B; creeer een systeem admin terugkoppelt verzoekrij &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=nl-NL) leerprogramma.
+Dit is een uitgifterapport waarin alle problemen worden weergegeven uit een wachtrij voor feedbackverzoeken die voor systeembeheerders is gemaakt. U kunt zien hoe te om deze verzoekrij in te creëren [ creeer een systeem admin terugkoppelt verzoekrij ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) leerprogramma.
 
-Dit rapport gebruikt ook een aangepast formulier. Leren hoe te om een douanevorm tot stand te brengen, zie [&#x200B; creeer en deel een douanevorm &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=nl-NL) leerprogramma.
+Dit rapport gebruikt ook een aangepast formulier. Leren hoe te om een douanevorm tot stand te brengen, zie [ creeer en deel een douanevorm ](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) leerprogramma.
 
 Dit aangepaste formulier moet de objecttypen Project en Issue gebruiken en moet als volgt worden gemaakt:
 
@@ -164,7 +164,7 @@ Groeperen op procestype.
 Filter op identiteitskaart van het project van de verzoekrij waar terugkoppelt kwesties verblijven.
 
 
-![&#x200B; het schermschot van Admin team koppelt rapport &#x200B;](assets/create-a-system-admin-feedback-request-queue.png) terug
+![ het schermschot van Admin team koppelt rapport ](assets/create-a-system-admin-feedback-request-queue.png) terug
 
 
 
@@ -174,11 +174,11 @@ Filter op identiteitskaart van het project van de verzoekrij waar terugkoppelt k
 1. Klik op het menu **[!UICONTROL New Report]** en selecteer **[!UICONTROL Issue]** .
 1. In **[!UICONTROL Columns (View)]** stelt u de kolommen zo in dat deze het volgende bevatten:
 
-   ![&#x200B; een beeld van het scherm om tot kolommen van het uitgevende rapport &#x200B;](assets/task-report-activity-2-1.png) te leiden
+   ![ een beeld van het scherm om tot kolommen van het uitgevende rapport ](assets/task-report-activity-2-1.png) te leiden
 
    * [!UICONTROL Issue] > [!UICONTROL Name]
    * [!UICONTROL Primary Contact] > [!UICONTROL Name]
-      * Opmerking: dit wordt weergegeven met &quot;Eigenaar :Name&quot; als kolomlabel. U kunt dit in &quot;Gerapporteerd door&quot;veranderen door op Geavanceerde Opties te klikken en &quot;Gerapporteerd door&quot;in het **gebied van het Etiket van de Kolom van de 0&rbrace; Douane te typen.**
+      * Opmerking: dit wordt weergegeven met &quot;Eigenaar :Name&quot; als kolomlabel. U kunt dit in &quot;Gerapporteerd door&quot;veranderen door op Geavanceerde Opties te klikken en &quot;Gerapporteerd door&quot;in het **gebied van het Etiket van de Kolom van de 0} Douane te typen.**
    * [!UICONTROL Issue] > [!UICONTROL Process type]
    * [!UICONTROL Issue] > [!UICONTROL Process name]
    * [!UICONTROL Issue] > [!UICONTROL Process grade]
@@ -191,10 +191,10 @@ Filter op identiteitskaart van het project van de verzoekrij waar terugkoppelt k
 1. Selecteer de kolom **[!UICONTROL Entry Date]** en wijzig **[!UICONTROL Sort to Descending]** .
 1. Stel op het tabblad **[!UICONTROL Groupings]** het rapport in op groeperen met **[!UICONTROL Issue]>[!UICONTROL Process type]** .
 
-   ![&#x200B; een beeld van het scherm om tot groeperingen van het de puntrapport te leiden &#x200B;](assets/task-report-activity-2-2.png)
+   ![ een beeld van het scherm om tot groeperingen van het de puntrapport te leiden ](assets/task-report-activity-2-2.png)
 
 1. Voeg op het tabblad **[!UICONTROL Filters]** een filter voor **[!UICONTROL Issue]>[!UICONTROL Project ID]** toe om het gelijk te maken met het project voor de aanvraagwachtrij waar de feedbackproblemen zich bevinden.
 
-   ![&#x200B; een beeld van het scherm om tot de filters van het uitgiftenrapport te leiden &#x200B;](assets/task-report-activity-2-3.png)
+   ![ een beeld van het scherm om tot de filters van het uitgiftenrapport te leiden ](assets/task-report-activity-2-3.png)
 
 1. Sla uw rapport op en sluit het.

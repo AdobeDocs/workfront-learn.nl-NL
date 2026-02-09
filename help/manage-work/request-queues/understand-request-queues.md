@@ -1,5 +1,5 @@
 ---
-title: Vragenrijen begrijpen
+title: Aanvraagwachtrijen verkennen in Workfront
 description: De verrichtingen in Workfront stroomlijnen met gecentraliseerde verzoekrijen voor inzendingen, efficiënt rijbeheer, en gemakkelijke toegang tot voorgelegde verzoeken om betere projectwerkschema's.
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# Vragenrijen begrijpen
+# Aanvraagwachtrijen verkennen in Workfront
 
 In deze video wordt het concept &#39;Request Queues&#39; in Workfront uitgelegd, evenals het doel en de manier waarop verzoeken moeten worden verzonden en beheerd. &#x200B; De Queues van het verzoek dienen als gecentraliseerde plaats voor het voorleggen van diverse soorten verzoeken. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3447016/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

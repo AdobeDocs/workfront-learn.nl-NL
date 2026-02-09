@@ -1,5 +1,5 @@
 ---
-title: De nieuwe filterervaring begrijpen
+title: Ontdek de nieuwe filterervaring
 description: Leer de nieuwe filterervaring in- en uitschakelen, filters maken en bewerken en stapelfilters stapelen.
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: kt-13080
 doc-type: video
 exl-id: a2c1c2eb-a872-4718-a5ec-7a4532d1510f
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-# De nieuwe filterervaring begrijpen
+# Ontdek de nieuwe filterervaring
 
 In deze video leert u hoe u:
 
@@ -26,4 +26,4 @@ In deze video leert u hoe u:
 * Filters maken en bewerken
 * Stapelfilters
 
->[!VIDEO](https://video.tv.adobe.com/v/3428945/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops=1)

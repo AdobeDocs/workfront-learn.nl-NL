@@ -1,5 +1,5 @@
 ---
-title: Een aanvraagstroom maken
+title: Een aanvraagstroom maken in Workfront
 description: Optimaliseer verzoekbeheer door het verpletteren van regels voor efficiënte taken te creëren, verzoeken met genestelde onderwerpgroepen te organiseren, rijonderwerpen met werkschema's te verbinden, de functionaliteit van de verzoekstroom te testen, en flexibele aanpassingen te maken om nauwkeurigheid en efficiency te verzekeren.
 activity: deploy
 feature: Work Management
@@ -13,25 +13,25 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Een aanvraagstroom maken
+# Een aanvraagstroom maken in Workfront
 
 >[!PREREQUISITES]
 >
->* [&#x200B; creeer een verzoekrij &#x200B;](/help/manage-work/request-queues/create-a-request-queue.md)
->* [&#x200B; begrijp montages voor een verzoekstroom &#x200B;](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+>* [ creeer een verzoekrij ](/help/manage-work/request-queues/create-a-request-queue.md)
+>* [ begrijp montages voor een verzoekstroom ](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
 Deze video verstrekt een geleidelijke gids bij het creëren van een verzoekstroom door rijonderwerpen, onderwerpgroepen, en het verpletteren van regels te vormen. &#x200B; Het proces begint met het creëren van het verpletteren van regels, die bepalen hoe de verzoeken worden toegewezen. &#x200B; Daarna, worden de onderwerpgroepen gecreeerd om verzoeken te organiseren. &#x200B; Deze groepen kunnen aan rijen worden toegevoegd, en er is geen grens aan het aantal onderwerpgroepen die kunnen worden gecreeerd.
 De video toont dan aan hoe te om rijonderwerpen tot stand te brengen, die met het verpletteren van regels, onderwerpgroepen, douanevormen, goedkeuringsprocessen, en standaardduur verbonden zijn.
 Tot slot toont de video hoe te om de opstelling te testen door een verzoek voor te leggen om het correct wordt verpletterd. &#x200B; Als er problemen optreden, kunt u de wachtrij aanpassen. &#x200B; De video benadrukt het belang om de structuur en de functionaliteit van de verzoekstroom te verifiëren om behoorlijk het verpletteren en organisatie te verzekeren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433828/?captions=dut&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 

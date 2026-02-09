@@ -1,6 +1,6 @@
 ---
-title: De weergave [!UICONTROL Board] begrijpen
-description: 'Stroomlijnd taakbeheer in Workfront met de [!UICONTROL Board] interface van 0&rbrace; mening &lbrace;, die taaksortering, verwezenlijking, aanpassing, en naadloze integratie met de mening van de taaklijst voor efficiënte projectorganisatie aanbieden. [!DNL Kanban] '
+title: Ontdek de mening van de Raad voor taakbeheer
+description: 'Stroomlijnd taakbeheer in Workfront met de [!UICONTROL Board] interface van 0} mening {, die taaksortering, verwezenlijking, aanpassing, en naadloze integratie met de mening van de taaklijst voor efficiënte projectorganisatie aanbieden. [!DNL Kanban] '
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,18 +12,18 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
 
-# De weergave [!UICONTROL Board] begrijpen
+# Ontdek de mening van de Raad voor taakbeheer
 
 In de video wordt uitgelegd hoe u de functie voor de weergave van raden in Workfront kunt gebruiken als alternatief voor het weergeven en beheren van projecttaken. &#x200B; In de mening van de Raad, worden de taken getoond als kaarten op een Kanban-Stijl raad, toestaand gebruikers om, taken binnen of tussen kolommen te sorteren te groeperen en te bewegen. &#x200B; Als u een taak verplaatst, wordt de status automatisch bijgewerkt. Dit wordt weerspiegeld in de weergave met taaklijsten. &#x200B; Gebruikers kunnen nieuwe kaarten maken, die nieuwe taken in het project genereren en deze rechtstreeks in de overzichtsweergave bewerken of toewijzen. &#x200B; De kolommen en de kaarten kunnen worden gevormd, en de taken kunnen worden gerangschikt gebruikend predecessors in de mening van de taaklijst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432420/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

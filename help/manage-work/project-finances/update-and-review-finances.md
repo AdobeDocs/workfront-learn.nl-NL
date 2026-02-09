@@ -1,5 +1,5 @@
 ---
-title: Financiën bijwerken
+title: Financiën bijwerken voor clientprojecten
 description: Stroomlijn kosten het volgen en het factureren door tarieven te bepalen, kosten en opbrengsttypes aan taken toe te wijzen, uitgaven te beheren, en het creëren van factureringsverslagen. Workfront doet de feitelijke facturering niet.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
 
 
-# Financiën bijwerken
+# Financiën bijwerken voor clientprojecten
 
 Deze video verstrekt een gedetailleerde gids bij het volgen van tijd, uitgaven, en het creëren van het facturerings verslagen voor cliëntprojecten. &#x200B; De belangrijkste punten zijn:
 
@@ -62,6 +62,6 @@ In deze video wordt het belang benadrukt van correcte installatie en tracering o
 ## Aanbevolen zelfstudies over dit onderwerp
 
 * [Zoeken naar financiële informatie](/help/manage-work/project-finances/find-financial-information.md)
-* [&#x200B; Begrijp veelvoudige het factureren tarieven &#x200B;](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [ Begrijp veelvoudige het factureren tarieven ](/help/manage-work/project-finances/multiple-billing-rates.md)
   <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

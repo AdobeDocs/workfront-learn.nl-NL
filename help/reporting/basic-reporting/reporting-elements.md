@@ -1,5 +1,5 @@
 ---
-title: Informatie over rapporteringselementen
+title: Workfront-rapporteringselementen verkennen
 description: Verbeter projectrapportering met klantgerichte filters, meningen, en groepen die lijstrapporten verfijnen, gegevens efficiënt organiseren, en naadloze samenwerking toelaten.
 activity: use
 feature: Reports and Dashboards
@@ -11,20 +11,20 @@ team: Technical Marketing
 jira: KT-8849
 exl-id: 50e2fab3-f548-4c21-9f11-1ebc449822e1
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
-# Informatie over rapporteringselementen
+# Workfront-rapporteringselementen verkennen
 
 De video verklaart hoe te om Workfront te gebruiken rapporteert elementen-filters, meningen, en groepering-om tot waardevolle informatie in lijstrapporten voor projecten, taken, en andere voorwerpen toegang te hebben en te raffineren. &#x200B; De filters helpen versmallen onderaan lijsten die op specifieke criteria worden gebaseerd, zoals het tonen van slechts actieve projecten of taken die aan u worden toegewezen. &#x200B; Weergaven bepalen de informatie die in kolommen wordt weergegeven en markeren specifieke velden zoals inkomsten of uitgaven. &#x200B; Groepen organiseren lijsten op basis van criteria zoals geplande voltooiingsdatum of voortgangsstatus.
 
 De video laat ook zien hoe u rapportelementen kunt aanpassen en delen met anderen. &#x200B; Met deze gereedschappen kunnen gebruikers hun lijst met rapporten aanpassen aan hun behoeften voor een betere zichtbaarheid en een beter beheer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447794/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

@@ -1,5 +1,5 @@
 ---
-title: Ingebouwde taakfilters begrijpen
+title: Ingebouwde taakfilters verkennen
 description: Leer hoe u ingebouwde taakfilters kunt bekijken om te zien hoe ze zijn gemaakt en uw eigen taakfilter kunt maken in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-# Ingebouwde taakfilters begrijpen
+# Ingebouwde taakfilters verkennen
 
 In deze video zult u:
 
@@ -27,7 +27,7 @@ In deze video zult u:
 * Meer informatie over enkele handige taakrapportelementen
 * Leer hoe u uw eigen taakfilter maakt
 
->[!VIDEO](https://video.tv.adobe.com/v/3469594/?captions=dut&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on&enablevpops=0)
 
 ## Activiteiten van ingebouwde taakfilters begrijpen
 
@@ -40,7 +40,7 @@ U wilt ervoor zorgen dat u zich bewust bent van taken die aan een van uw teams z
 
 Zo ziet het filter eruit:
 
-![&#x200B; een beeld van het scherm om een taakfilter &#x200B;](assets/opening-built-in-task-filters-1.png) tot stand te brengen
+![ een beeld van het scherm om een taakfilter ](assets/opening-built-in-task-filters-1.png) tot stand te brengen
 
 Stel de kolomweergave in om de velden op te nemen waarin u geïnteresseerd bent of waarin u online wilt kunnen bewerken. Bijvoorbeeld, kon u een kolom van Toewijzingen omvatten zodat kon u een teamlid aan een taak direct van het rapport toewijzen.
 
@@ -48,4 +48,4 @@ U zou de lijst kunnen willen groeperen die op de naam van het team wordt gebasee
 
 Zo ziet het verslag eruit:
 
-![&#x200B; een beeld van een taakrapport &#x200B;](assets/opening-built-in-task-filters-2.png)
+![ een beeld van een taakrapport ](assets/opening-built-in-task-filters-2.png)

@@ -1,5 +1,5 @@
 ---
-title: Rapportonderdelen begrijpen
+title: Rapportonderdelen verkennen in Workfront
 description: Workfront-rapportagecomponenten verfijnen de gegevensvisualisatie met op objecten gebaseerde filters, dynamische weergaven, gestructureerde groeperingen en jokertekenfunctionaliteit voor op maat gemaakte inzichten.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
 
-# Rapportonderdelen begrijpen
+# Rapportonderdelen verkennen in Workfront
 
 In de video wordt uitgelegd wat het concept is van het rapporteren van componenten in Workfront. Deze zijn essentieel voor het maken van filters, weergaven en groepen. De belangrijkste componenten zijn:
 
@@ -29,7 +29,7 @@ In de video wordt uitgelegd wat het concept is van het rapporteren van component
 * **Kwalifier van de Filter:** bepaalt welke waarden om in een rapport te omvatten of uit te sluiten, zoals het tonen van taken met een prioriteit van &quot;hoog.&quot;&#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447027/?captions=dut&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
@@ -41,7 +41,7 @@ In de video wordt uitgelegd wat het concept is van het rapporteren van component
 
 ## Snelle verwijzing naar componenten rapporteren
 
-![&#x200B; een beeld van het scherm om een filter &#x200B;](assets/reporting-components-1.png) tot stand te brengen
+![ een beeld van het scherm om een filter ](assets/reporting-components-1.png) tot stand te brengen
 
 **A - de bron van het Gebied**
 
@@ -80,5 +80,5 @@ Voorbeelden: Nieuw, Huidig, $$TODAYbw, Beschrijving
 
 >[!TIP]
 >
->Voor hulp die specifieke gebiedsnamen in Workfront begrijpen, kijk in de [&#x200B; Verklarende woordenlijst van de terminologie van Adobe Workfront &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=nl-NL).
+>Voor hulp die specifieke gebiedsnamen in Workfront begrijpen, kijk in de [ Verklarende woordenlijst van de terminologie van Adobe Workfront ](https://experienceleague.adobe.com/docs/workfront/using/basics/workfront-terminology-glossary.html?lang=en).
 

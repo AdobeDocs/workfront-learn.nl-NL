@@ -1,5 +1,5 @@
 ---
-title: Een uitgave/verzoek omzetten in een project
+title: Een uitgave of verzoek omzetten in een project
 description: Stroomlijn het projectbeheer in Workfront door kwesties in projecten met malplaatjes om te zetten, projectdetails aan te passen, de opties van de probleemresolutie te beheren, en ervoor te zorgen dat de zichtbaarheid en toegang voor naadloze werkschema's worden gewaarborgd.
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ jira: KT-9723
 recommendations: noDisplay,catalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-# Een uitgave/verzoek omzetten in een project
+# Een uitgave of verzoek omzetten in een project
 
 In de video ziet u hoe u een uitgave of aanvraag omzet in een project.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446628/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 

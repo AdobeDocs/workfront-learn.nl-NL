@@ -1,5 +1,5 @@
 ---
-title: Zoeken naar financiële informatie
+title: Toegang tot en beheer van financiële informatie voor projecten en taken
 description: Ontdek hoe u op efficiënte wijze toegang kunt krijgen tot financiële gegevens voor projecten en taken, en hoe u deze kunt analyseren en beheren, met inbegrip van budgetten, inkomsten, kosten en prestatiewaarden op zowel project- als taakniveau.
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Zoeken naar financiële informatie
+# Toegang tot en beheer van financiële informatie voor projecten en taken
 
 In de video wordt uitgelegd hoe u toegang krijgt tot financiële informatie voor projecten en taken en deze beheert. &#x200B;Het biedt een uitgebreid overzicht van navigatie en begrip van financiële gegevens op zowel project- als taakniveau. &#x200B;
 

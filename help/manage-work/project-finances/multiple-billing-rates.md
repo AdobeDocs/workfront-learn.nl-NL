@@ -1,5 +1,5 @@
 ---
-title: Meerdere factureringssnelheden begrijpen
+title: Factureringssnelheden aanpassen voor functies
 description: Pas en beheer factureringstarieven voor baanrollen op het projectniveau aan.
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 
-# Meerdere factureringssnelheden begrijpen
+# Factureringssnelheden aanpassen voor functies
 
 In de video wordt uitgelegd hoe u factureringssnelheden voor taakrollen in een project beheert en aanpast. &#x200B;Het benadrukt flexibiliteit bij het vaststellen van meerdere factureringspercentages voor dezelfde functie en het waarborgen van nauwkeurige op tijd gebaseerde aanpassingen. &#x200B;
 
@@ -39,6 +39,6 @@ In de video wordt uitgelegd hoe u factureringssnelheden voor taakrollen in een p
 ## Aanbevolen zelfstudies over dit onderwerp
 
 * [Zoeken naar financiële informatie](/help/manage-work/project-finances/find-financial-information.md)
-* [&#x200B; de financiën van de Update &#x200B;](/help/manage-work/project-finances/update-and-review-finances.md)
+* [ de financiën van de Update ](/help/manage-work/project-finances/update-and-review-finances.md)
   <!--* [Understand multiple billing rates](/help/manage-work/project-finances/multiple-billing-rates.md)-->
 

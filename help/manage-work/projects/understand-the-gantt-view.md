@@ -1,5 +1,5 @@
 ---
-title: De weergave [!UICONTROL Gantt] begrijpen
+title: Bekijk de [!UICONTROL Gantt] -weergave voor projectbeheer
 description: Optimaliseer de efficiëntie van projecten met Gantt-grafieken, met een totaalbeeld, voortgangscontrole, mijlpaalbeheer, voorgangerinzichten en aanpasbare opties om taken- en resourcebeheer te stroomlijnen.
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
 
-# De weergave [!UICONTROL Gantt] begrijpen
+# Bekijk de [!UICONTROL Gantt] -weergave voor projectbeheer
 
 De video verklaart hoe te om de Grafiek van Gantt van het Project en de Grafiek van Gantt van de Taak te gebruiken om taken en projecten effectief te visualiseren en te beheren. &#x200B; Gantt-grafieken bieden een totaalbeeld van taken, sjablonen en projecten en worden vaak gebruikt binnen portfolio&#39;s om de relaties tussen projecten te begrijpen, met name projecten die bronnen delen. &#x200B;
 
@@ -42,7 +42,7 @@ In de video wordt de nadruk gelegd op de flexibiliteit van Gantt-diagrammen, zod
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops=1)
 
-U kunt meer online met het artikel leren, [&#x200B; worden begonnen met de grafiek van Gantt &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=nl-NL).
+U kunt meer online met het artikel leren, [ worden begonnen met de grafiek van Gantt ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=en).
 
 ## Toetsen
 

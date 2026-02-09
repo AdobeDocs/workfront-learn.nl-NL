@@ -1,5 +1,5 @@
 ---
-title: Ingebouwde uitgiftefilters begrijpen
+title: Ingebouwde uitgiftefilters verkennen
 description: Leer hoe u ingebouwde uitgave-filters kunt bekijken om te zien hoe ze zijn gemaakt en uw eigen uitgave-filter kunt maken in Workfront.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
-# Ingebouwde uitgiftefilters begrijpen
+# Ingebouwde uitgiftefilters verkennen
 
 In deze video zult u:
 
@@ -27,7 +27,7 @@ In deze video zult u:
 * Meer informatie over enkele handige rapportelementen voor problemen
 * Leer hoe u uw eigen filter voor uitgaven maakt
 
->[!VIDEO](https://video.tv.adobe.com/v/3469991/?captions=dut&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
 
 
 ## Activiteiten van ingebouwde uitgiftefilters
@@ -41,7 +41,7 @@ U wilt alle problemen zien die nog moeten worden opgelost voor alle actieve proj
 
 Zo ziet het filter eruit:
 
-![&#x200B; een beeld van het scherm om een uitgevende filter &#x200B;](assets/opening-built-in-issue-filters-1.png) tot stand te brengen
+![ een beeld van het scherm om een uitgevende filter ](assets/opening-built-in-issue-filters-1.png) tot stand te brengen
 
 In het ingebouwde filter &quot;Mijn open kwesties&quot; sluit een van de filterregels problemen uit waarbij een object is opgelost. De redenering achter dit is dat je je geen zorgen hoeft te maken over die kwesties. Iemand heeft al een project, taak of probleem gemaakt dat ze zal oplossen. Wat is er dan aan te merken? Maar ze zijn nog niet opgelost, en in ons voorbeeld nemen we ze op om ze gemakkelijk te identificeren en te controleren hoe ze het doen.
 
@@ -51,4 +51,4 @@ U zou de lijst kunnen willen groeperen die op de naam van het project wordt geba
 
 Zo ziet het verslag eruit:
 
-![&#x200B; een beeld van een probleemrapport &#x200B;](assets/opening-built-in-issue-filters-2.png)
+![ een beeld van een probleemrapport ](assets/opening-built-in-issue-filters-2.png)

@@ -1,5 +1,5 @@
 ---
-title: BESTAANDE filters begrijpen
+title: Bestaande filters maken voor complexe rapportage
 description: Leer wat een filter EXISTS is, wat het voor u kan doen, en hoe u één van kras kunt bouwen. Zie ook veel nuttige voorbeelden van EXISTS-filters.
 activity: use
 team: Technical Marketing
@@ -11,22 +11,22 @@ jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '688'
 ht-degree: 0%
 
 ---
 
-# BESTAANDE filters begrijpen
+# Bestaande filters maken voor complexe rapportage
 
 BESTAANDE filters zijn geavanceerd, de filters van de tekstwijze, die ons toestaan om rond de 2 lijst/gebied sprongbeperking in een standaard rapportbouwer te werken. Of ze kunnen worden gebruikt om objecten in het systeem te identificeren waarvoor geen specifieke relatievoorwaarde bestaat via NOTEXISTS.
 
 In deze video leert u hoe u een EXISTS-filter kunt maken om &quot;Goedkeuring proef voor huidige projecten&quot; te zien in een rapport met proefdrukgoedkeuringen.
 
-Voor een meer diepgaande analyse op hoe BESTAAT de functie, gelieve [&#x200B; te zien de complexe filters van de Wijze van de Tekst gebruikend EXISTS verklaringen &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) documentatie creëren.
+Voor een meer diepgaande analyse op hoe BESTAAT de functie, gelieve [ te zien de complexe filters van de Wijze van de Tekst gebruikend EXISTS verklaringen ](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements) documentatie creëren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471209/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## Voorbeelden van bestaande filters
 

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront-tutorials
 user-guide-description: Een bibliotheek met trainingsvideo's en artikelen die zijn ontworpen om u te helpen de functies en instellingen van Workfront beter te begrijpen.
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '2388'
-ht-degree: 1%
+source-wordcount: '2445'
+ht-degree: 0%
 
 ---
 
@@ -116,11 +116,11 @@ ht-degree: 1%
       + [Projecten effectief delen in Workfront](/help/manage-work/projects/share-a-project.md)
       + [Begrijp het projectteam](/help/manage-work/projects/understand-the-project-team.md)
       + [Projectsucces verbeteren via effectieve communicatie](/help/manage-work/projects/understand-project-communication.md)
-      + [&#x200B; onderzoek filters, meningen, en groeperingen voor projectbeheer &#x200B;](/help/manage-work/projects/view-project-information.md)
+      + [ onderzoek filters, meningen, en groeperingen voor projectbeheer ](/help/manage-work/projects/view-project-information.md)
       + [De voortgang van het project bijhouden](/help/manage-work/projects/track-overall-project-progress.md)
       + [Voortgang van het werk bijhouden met projectmetriek](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-      + [De weergave [!UICONTROL Gantt] begrijpen](/help/manage-work/projects/understand-the-gantt-view.md)
-      + [De weergave [!UICONTROL Board] begrijpen](/help/manage-work/projects/understand-the-board-view.md)
+      + [De Gantt-weergave voor projectbeheer bekijken](/help/manage-work/projects/understand-the-gantt-view.md)
+      + [Ontdek de mening van de Raad voor taakbeheer](/help/manage-work/projects/understand-the-board-view.md)
 
    + Taken {#tasks}
       + [Taken efficiënt maken in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
@@ -140,15 +140,15 @@ ht-degree: 1%
       + [Uitgiftetoewijzingen effectief beheren](/help/manage-work/issues-requests/manage-issue-assignments.md)
       + [Uitgiftestatussen effectief bijwerken](/help/manage-work/tasks/update-the-issue-status.md)
       + [Een aanvraag bijwerken in Workfront](/help/manage-work/issues-requests/update-a-request.md)
-      + [Een uitgave/verzoek omzetten in een project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [Een uitgave/verzoek omzetten in een taak](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [Een uitgave of verzoek omzetten in een project](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [Een uitgave of verzoek omzetten in een taak](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [Aangepaste rapporten maken voor probleembeheer](/help/manage-work/issues-requests/report-on-issues.md)
 
    + Wachtrijen aanvragen {#request-queues}
-      + [Vragenrijen begrijpen](/help/manage-work/request-queues/understand-request-queues.md)
-      + [Een aanvraagwachtrij maken](/help/manage-work/request-queues/create-a-request-queue.md)
-      + [Instellingen voor een aanvraagstroom begrijpen](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-      + [Een aanvraagstroom maken](/help/manage-work/request-queues/create-a-request-flow.md)
+      + [Aanvraagwachtrijen verkennen in Workfront](/help/manage-work/request-queues/understand-request-queues.md)
+      + [Een aanvraagwachtrij in Workfront maken](/help/manage-work/request-queues/create-a-request-queue.md)
+      + [De stroominstellingen van uw verzoek ordenen](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [Een aanvraagstroom maken in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
       + [Een wachtrij voor feedback van systeembeheerders maken](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [Antwoorden op veelgestelde vragen over aanvraagwachtrijen](/help/manage-work/request-queues/request-queue-faq.md)
 
@@ -183,50 +183,50 @@ ht-degree: 1%
       + [Taak oplossen en goedkeuringen afgeven](/help/manage-work/close-a-project/complete-approvals.md)
       + [Projectelementen uploaden en beheren](/help/manage-work/close-a-project/upload-assets.md)
       + [Lessen vastleggen die zijn geleerd voor toekomstige projecten](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-      + [Logboek- en controleuren](/help/manage-work/close-a-project/log-and-review-hours.md)
+      + [De projecturen van het logboek en van het overzicht](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + Projectfinanciën voor gebruikers {#project-finances-users}
-      + [Zoeken naar financiële informatie](/help/manage-work/project-finances/find-financial-information.md)
-      + [Financiën bijwerken](/help/manage-work/project-finances/update-and-review-finances.md)
-      + [Meerdere factureringssnelheden begrijpen](/help/manage-work/project-finances/multiple-billing-rates.md)
+      + [Toegang tot en beheer van financiële informatie voor projecten en taken](/help/manage-work/project-finances/find-financial-information.md)
+      + [Financiën bijwerken voor clientprojecten](/help/manage-work/project-finances/update-and-review-finances.md)
+      + [Factureringssnelheden aanpassen voor functies](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + Tussentijdse projecten {#intermediate-projects}
-      + [Werken en beheren van de soorten duur en taakbeperkingen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-      + [Voorgangers voor meerdere projecten begrijpen](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-      + [Geavanceerde voordecessors](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+      + [Typen stramienduur en taakbeperkingen](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [Vestig gebiedsdelen met dwars-project predecessors](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [Hoofd geavanceerde taakafhankelijkheden](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + Rapportage {#reporting}
    + Basisrapportage {#basic-reporting}
-      + [Informatie over rapporteringselementen](/help/reporting/basic-reporting/reporting-elements.md)
-      + [Rapportonderdelen begrijpen](/help/reporting/basic-reporting/reporting-components.md)
+      + [Workfront-rapporteringselementen verkennen](/help/reporting/basic-reporting/reporting-elements.md)
+      + [Rapportonderdelen verkennen in Workfront](/help/reporting/basic-reporting/reporting-components.md)
       + [Een basisgroep maken](/help/reporting/basic-reporting/create-a-basic-grouping.md)
       + [Een basisweergave maken](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [Voorwaardelijke basisopmaak toevoegen aan een weergave](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [Een basisfilter maken](/help/reporting/basic-reporting/create-a-basic-filter.md)
-      + [De nieuwe filterervaring begrijpen](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
+      + [Ontdek de nieuwe filterervaring](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [Basisfilteractiviteiten maken](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [Een eenvoudig rapport maken](/help/reporting/basic-reporting/create-a-simple-report.md)
-      + [Een taakrapport maken](/help/reporting/basic-reporting/create-a-task-report.md)
-      + [Een rapport kopiëren](/help/reporting/basic-reporting/copy-a-report.md)
-      + [Rapporten maken met grafieken](/help/reporting/basic-reporting/create-reports-with-charts.md)
+      + [Een taakrapport maken voor te late toewijzingen](/help/reporting/basic-reporting/create-a-task-report.md)
+      + [Een rapport kopiëren en bewerken](/help/reporting/basic-reporting/copy-a-report.md)
+      + [Gegevens visualiseren met grafieken in rapporten](/help/reporting/basic-reporting/create-reports-with-charts.md)
       + [Een matrixrapport maken](/help/reporting/basic-reporting/create-a-matrix-report.md)
-      + [Dashboards maken](/help/reporting/basic-reporting/create-dashboards.md)
-      + [Rapporten verzenden en delen](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
-      + [Rapportinstellingen begrijpen](/help/reporting/basic-reporting/report-settings.md)
+      + [Dashboards maken in Workfront](/help/reporting/basic-reporting/create-dashboards.md)
+      + [Rapporten effectief verzenden en delen](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
+      + [Rapportinstellingen en vragen verkennen](/help/reporting/basic-reporting/report-settings.md)
 
    + Tussentijdse rapportage {#intermediate-reporting}
       + [Filters maken met jokertekens op basis van gebruiker](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [Filters maken met jokertekens op basis van datum](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [OR-instructies maken in filters](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
-      + [Ingebouwde projectfilters begrijpen](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
-      + [&#x200B; Begrijp ingebouwde taakfilters &#x200B;](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
-      + [Ingebouwde uitgiftefilters begrijpen](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
-      + [Basismodus voor filters begrijpen](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
-      + [De standaardtekstmodus voor weergaven begrijpen](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
-      + [Basistekstmodus voor groepen begrijpen](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
-      + [Aangepaste vragen maken](/help/reporting/intermediate-reporting/custom-prompts.md)
-      + [BESTAANDE filters begrijpen](/help/reporting/intermediate-reporting/understand-exists-filters.md)
+      + [Ingebouwde projectfilters verkennen](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
+      + [ verken ingebouwde taakfilters ](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
+      + [Ingebouwde uitgiftefilters verkennen](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
+      + [De standaardtekstmodus voor filters in Workfront verkennen](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [De standaardtekstmodus voor weergaven in Workfront verkennen](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [Basismodus voor tekstgroepen in Workfront verkennen](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+      + [Aangepaste aanwijzingen maken met de tekstmodus](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [Bestaande filters maken voor complexe rapportage](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + Geavanceerde rapportage {#advanced-reporting}
       + [Welkom bij geavanceerde rapportage](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -235,18 +235,18 @@ ht-degree: 1%
       + [Geavanceerd rapporteringsdeel 3](/help/reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + Kalenderrapporten {#calendar-reports}
-      + [Begrijp de interface van het kalenderrapport](/help/reporting/basic-reporting/tour-of-the-interface.md)
+      + [De interface van het kalenderrapport verkennen](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [Een aangepast kalenderrapport maken](/help/reporting/basic-reporting/creating-custom-calendars.md)
-      + [Extra opties voor kalenderrapporten begrijpen](/help/reporting/basic-reporting/additional-calendar-options.md)
+      + [Geavanceerde functionaliteit van kalenderrapporten verkennen](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [Activiteit - Een kalenderrapport maken](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Canvasdashboards {#canvas-dashboards}
-      + [&#x200B; Inleiding aan de Dashboards van het Canvas &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
-      + [&#x200B; creeer een KPI- rapport op een Dashboard van het Canvas &#x200B;](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+      + [ Onderzoek de Dashboards van het Canvas in Workfront ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [ creeer een KPI- rapport op een Dashboard van het Canvas ](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [Een diagramrapport maken op een Canvasdashboard](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
       + [Een tabelrapport maken op een canvasdashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
       + [Voorwaardelijke opmaak toevoegen aan een Canvasdashboardrapport](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-      + [Een OR-filter gebruiken in een Canvasdashboardrapport](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+      + [Een OR-filter toepassen in een Canvasdashboardrapport](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
 
 + Bronnen beheren {#manage-resources}
    + Resourcebeheer {#resource-management}
@@ -335,10 +335,10 @@ ht-degree: 1%
       + [Adobe Workfront-plug-ins gebruiken om te integreren met Creative Cloud](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Grondbeginselen van Adobe Experience Manager {#adobe-assets-essentials}
-      + [&#x200B; Vormend de integratie &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=nl-NL)
-      + [&#x200B; Metagegevens van de Toewijzing &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=nl-NL)
-      + [&#x200B; Verzendende documenten en het verbinden activa &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=nl-NL)
-      + [&#x200B; Handelend versiegeschiedenis &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=nl-NL)
+      + [ Vormend de integratie ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [ Metagegevens van de Toewijzing ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [ Verzendende documenten en het verbinden activa ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [ Handelend versiegeschiedenis ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Verbeter uw werkschema met de Integratie van de Reeks](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -350,13 +350,13 @@ ht-degree: 1%
       + [De invoegtoepassing Microsoft Outlook installeren](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [&#x200B; Adobe Workfront voor het Overzicht van Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=nl-NL)
-      + [&#x200B; installeer Adobe Workfront voor Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=nl-NL)
-      + [&#x200B; Toegang Adobe Workfront van Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=nl-NL)
-      + [&#x200B; Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=nl-NL)
-      + [&#x200B; creeer de taken van Adobe Workfront van Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=nl-NL)
-      + [&#x200B; legt Adobe Workfront verzoeken van Microsoft Teams  voor](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=nl-NL)
-      + [&#x200B; beheer Adobe Workfront berichten in Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=nl-NL)
+      + [ Adobe Workfront voor het Overzicht van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [ installeer Adobe Workfront voor Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [ Toegang Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [ Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [ creeer de taken van Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [ legt Adobe Workfront verzoeken van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html) voor
+      + [ beheer Adobe Workfront berichten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [Workfront for [!UICONTROL Slack] begrijpen](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -528,7 +528,7 @@ ht-degree: 1%
       + [Aanpassen  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + Metagegevens en trefwoorden {#metadata-and-keywords}
-      + [&#x200B; begrijp meta-gegevens &#x200B;](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
+      + [ begrijp meta-gegevens ](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
       + [Trefwoordtaxonomie inschakelen en afdwingen](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
       + [De metagegevensterminologie controleren](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
       + [Middelen zoeken met behulp van metagegevens en trefwoorden](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)

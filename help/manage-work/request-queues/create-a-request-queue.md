@@ -1,5 +1,5 @@
 ---
-title: Een aanvraagwachtrij maken
+title: Een aanvraagwachtrij in Workfront maken
 description: Maak efficiënte Workfront-aanvraagwachtrijen door toegangsmachtigingen te definiëren, aanvraagtypen en velden aan te passen, de wachtrij te activeren en de functionaliteit ervan te testen voor naadloos beheer van projectverzending.
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
-# Een aanvraagwachtrij maken
+# Een aanvraagwachtrij in Workfront maken
 
 De video biedt een stapsgewijze handleiding voor het maken van een aanvraagwachtrij in Workfont. &#x200B; De video eindigt door aan te tonen hoe te om een verzoek te verzenden gebruikend de pas gecreëerde rij, die het proces toont om details in te gaan en de voorlegging te verifiëren op het &quot;voorgelegde verzoeken&quot;lusje. &#x200B;
 

@@ -1,5 +1,5 @@
 ---
-title: Rapporten verzenden en delen
+title: Rapporten effectief verzenden en delen
 description: Leer hoe u rapporten naar gebruikers, teams of elk ander e-mailadres verzendt en hoe u rapporten met iedereen in Workfront kunt delen.
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8863
 last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
 
-# Rapporten verzenden en delen
+# Rapporten effectief verzenden en delen
 
 In deze video leert u:
 
@@ -27,7 +27,7 @@ In deze video leert u:
 * Hoe te om rapporten met iedereen te delen
 * Wat de ontvangers kunnen zien en doen met een Workfront-rapport
 
->[!VIDEO](https://video.tv.adobe.com/v/3447818/?captions=dut&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
@@ -46,7 +46,7 @@ Verzend elke maandag om 5.00 uur een rapport als spreadsheet van Excel. Dit is e
 
 ### Antwoord 1
 
-![&#x200B; een beeld van het scherm aan opstelling die rapportleveringen herhalen &#x200B;](assets/send-a-report.png)
+![ een beeld van het scherm aan opstelling die rapportleveringen herhalen ](assets/send-a-report.png)
 
 1. Geef een rapport weer dat u hebt gemaakt en kies **[!UICONTROL Send Report]** in het menu **[!UICONTROL Report Actions]** .
 1. Klik op de tab **[!UICONTROL Repeating Deliveries]** .
