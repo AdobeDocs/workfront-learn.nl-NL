@@ -1,6 +1,6 @@
 ---
 title: Ontdek de mening van de Raad voor taakbeheer
-description: 'Stroomlijnd taakbeheer in Workfront met de [!UICONTROL Board] interface van 0} mening {, die taaksortering, verwezenlijking, aanpassing, en naadloze integratie met de mening van de taaklijst voor efficiënte projectorganisatie aanbieden. [!DNL Kanban] '
+description: 'Stroomlijnd taakbeheer in Workfront met de [!UICONTROL Board] interface van 0&rbrace; mening &lbrace;, die taaksortering, verwezenlijking, aanpassing, en naadloze integratie met de mening van de taaklijst voor efficiënte projectorganisatie aanbieden. [!DNL Kanban] '
 activity: use
 team: Technical Marketing
 feature: Work Management

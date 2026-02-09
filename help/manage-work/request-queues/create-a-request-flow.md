@@ -24,8 +24,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [ creeer een verzoekrij ](/help/manage-work/request-queues/create-a-request-queue.md)
->* [ begrijp montages voor een verzoekstroom ](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+>* [&#x200B; creeer een verzoekrij &#x200B;](/help/manage-work/request-queues/create-a-request-queue.md)
+>* [&#x200B; begrijp montages voor een verzoekstroom &#x200B;](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
 Deze video verstrekt een geleidelijke gids bij het creëren van een verzoekstroom door rijonderwerpen, onderwerpgroepen, en het verpletteren van regels te vormen. &#x200B; Het proces begint met het creëren van het verpletteren van regels, die bepalen hoe de verzoeken worden toegewezen. &#x200B; Daarna, worden de onderwerpgroepen gecreeerd om verzoeken te organiseren. &#x200B; Deze groepen kunnen aan rijen worden toegevoegd, en er is geen grens aan het aantal onderwerpgroepen die kunnen worden gecreeerd.
 De video toont dan aan hoe te om rijonderwerpen tot stand te brengen, die met het verpletteren van regels, onderwerpgroepen, douanevormen, goedkeuringsprocessen, en standaardduur verbonden zijn.

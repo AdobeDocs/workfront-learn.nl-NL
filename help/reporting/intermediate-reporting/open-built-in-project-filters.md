@@ -39,6 +39,6 @@ U wilt alle actieve projecten zien u bezit, waar &quot;actief&quot;betekent de p
 
 Het filter moet er als volgt uitzien:
 
-![ een beeld van het scherm om een projectfilter ](assets/opening-built-in-project-filters-1.png) tot stand te brengen
+![&#x200B; een beeld van het scherm om een projectfilter &#x200B;](assets/opening-built-in-project-filters-1.png) tot stand te brengen
 
 U kunt extra filterregels opnemen, zoals het zoeken naar projecten in een bepaald programma of portfolio. Als u dat doet, raadt Workfront u aan de naam van het filter te wijzigen in een beschrijving, bijvoorbeeld &quot;Actieve projecten die ik in de Portfolio Marketing heb.&quot;

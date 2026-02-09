@@ -62,6 +62,6 @@ In deze video wordt het belang benadrukt van correcte installatie en tracering o
 ## Aanbevolen zelfstudies over dit onderwerp
 
 * [Zoeken naar financiële informatie](/help/manage-work/project-finances/find-financial-information.md)
-* [ Begrijp veelvoudige het factureren tarieven ](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [&#x200B; Begrijp veelvoudige het factureren tarieven &#x200B;](/help/manage-work/project-finances/multiple-billing-rates.md)
   <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

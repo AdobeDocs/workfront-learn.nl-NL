@@ -41,7 +41,7 @@ U wilt alle problemen zien die nog moeten worden opgelost voor alle actieve proj
 
 Zo ziet het filter eruit:
 
-![ een beeld van het scherm om een uitgevende filter ](assets/opening-built-in-issue-filters-1.png) tot stand te brengen
+![&#x200B; een beeld van het scherm om een uitgevende filter &#x200B;](assets/opening-built-in-issue-filters-1.png) tot stand te brengen
 
 In het ingebouwde filter &quot;Mijn open kwesties&quot; sluit een van de filterregels problemen uit waarbij een object is opgelost. De redenering achter dit is dat je je geen zorgen hoeft te maken over die kwesties. Iemand heeft al een project, taak of probleem gemaakt dat ze zal oplossen. Wat is er dan aan te merken? Maar ze zijn nog niet opgelost, en in ons voorbeeld nemen we ze op om ze gemakkelijk te identificeren en te controleren hoe ze het doen.
 
@@ -51,4 +51,4 @@ U zou de lijst kunnen willen groeperen die op de naam van het project wordt geba
 
 Zo ziet het verslag eruit:
 
-![ een beeld van een probleemrapport ](assets/opening-built-in-issue-filters-2.png)
+![&#x200B; een beeld van een probleemrapport &#x200B;](assets/opening-built-in-issue-filters-2.png)
