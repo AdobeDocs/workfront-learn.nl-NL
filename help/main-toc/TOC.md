@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront-tutorials
 user-guide-description: Een bibliotheek met trainingsvideo's en artikelen die zijn ontworpen om u te helpen de functies en instellingen van Workfront beter te begrijpen.
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+source-git-commit: bb1f0cb236ff68aaa89a6d6f11b5e3f4bba06dcc
 workflow-type: tm+mt
-source-wordcount: '2445'
+source-wordcount: '2450'
 ht-degree: 0%
 
 ---
@@ -116,7 +116,7 @@ ht-degree: 0%
       + [Projecten effectief delen in Workfront](/help/manage-work/projects/share-a-project.md)
       + [Begrijp het projectteam](/help/manage-work/projects/understand-the-project-team.md)
       + [Projectsucces verbeteren via effectieve communicatie](/help/manage-work/projects/understand-project-communication.md)
-      + [&#x200B; onderzoek filters, meningen, en groeperingen voor projectbeheer &#x200B;](/help/manage-work/projects/view-project-information.md)
+      + [ onderzoek filters, meningen, en groeperingen voor projectbeheer ](/help/manage-work/projects/view-project-information.md)
       + [De voortgang van het project bijhouden](/help/manage-work/projects/track-overall-project-progress.md)
       + [Voortgang van het werk bijhouden met projectmetriek](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [De Gantt-weergave voor projectbeheer bekijken](/help/manage-work/projects/understand-the-gantt-view.md)
@@ -167,6 +167,7 @@ ht-degree: 0%
 
    + Projectsjablonen maken en beheren {#create-and-manage-project-templates}
       + [Een projectsjabloon maken en verkennen](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [Een blauwdruk installeren en gebruiken](/help/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint.md)
       + [Een project rechtstreeks vanuit een sjabloon maken](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [Een projectsjabloon effectief delen](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [Bestaande projecten efficiënt kopiëren](/help/manage-work/manage-projects/copy-an-existing-project.md)
@@ -220,7 +221,7 @@ ht-degree: 0%
       + [Filters maken met jokertekens op basis van datum](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [OR-instructies maken in filters](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
       + [Ingebouwde projectfilters verkennen](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
-      + [&#x200B; verken ingebouwde taakfilters &#x200B;](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
+      + [ verken ingebouwde taakfilters ](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
       + [Ingebouwde uitgiftefilters verkennen](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
       + [De standaardtekstmodus voor filters in Workfront verkennen](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
       + [De standaardtekstmodus voor weergaven in Workfront verkennen](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
@@ -241,8 +242,8 @@ ht-degree: 0%
       + [Activiteit - Een kalenderrapport maken](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + Canvasdashboards {#canvas-dashboards}
-      + [&#x200B; Onderzoek de Dashboards van het Canvas in Workfront &#x200B;](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
-      + [&#x200B; creeer een KPI- rapport op een Dashboard van het Canvas &#x200B;](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
+      + [ Onderzoek de Dashboards van het Canvas in Workfront ](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [ creeer een KPI- rapport op een Dashboard van het Canvas ](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [Een diagramrapport maken op een Canvasdashboard](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
       + [Een tabelrapport maken op een canvasdashboard](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
       + [Voorwaardelijke opmaak toevoegen aan een Canvasdashboardrapport](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
@@ -335,10 +336,10 @@ ht-degree: 0%
       + [Adobe Workfront-plug-ins gebruiken om te integreren met Creative Cloud](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Grondbeginselen van Adobe Experience Manager {#adobe-assets-essentials}
-      + [&#x200B; Vormend de integratie &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=nl-NL)
-      + [&#x200B; Metagegevens van de Toewijzing &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=nl-NL)
-      + [&#x200B; Verzendende documenten en het verbinden activa &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=nl-NL)
-      + [&#x200B; Handelend versiegeschiedenis &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=nl-NL)
+      + [ Vormend de integratie ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [ Metagegevens van de Toewijzing ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [ Verzendende documenten en het verbinden activa ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [ Handelend versiegeschiedenis ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [Verbeter uw werkschema met de Integratie van de Reeks](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -350,13 +351,13 @@ ht-degree: 0%
       + [De invoegtoepassing Microsoft Outlook installeren](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [&#x200B; Adobe Workfront voor het Overzicht van Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=nl-NL)
-      + [&#x200B; installeer Adobe Workfront voor Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=nl-NL)
-      + [&#x200B; Toegang Adobe Workfront van Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=nl-NL)
-      + [&#x200B; Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=nl-NL)
-      + [&#x200B; creeer de taken van Adobe Workfront van Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=nl-NL)
-      + [&#x200B; legt Adobe Workfront verzoeken van Microsoft Teams  voor](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=nl-NL)
-      + [&#x200B; beheer Adobe Workfront berichten in Microsoft Teams &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=nl-NL)
+      + [ Adobe Workfront voor het Overzicht van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [ installeer Adobe Workfront voor Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [ Toegang Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [ Onderzoek naar en deel Adobe Workfront punten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [ creeer de taken van Adobe Workfront van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [ legt Adobe Workfront verzoeken van Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html) voor
+      + [ beheer Adobe Workfront berichten in Microsoft Teams ](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [Workfront for [!UICONTROL Slack] begrijpen](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -528,7 +529,7 @@ ht-degree: 0%
       + [Aanpassen  [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
    + Metagegevens en trefwoorden {#metadata-and-keywords}
-      + [&#x200B; begrijp meta-gegevens &#x200B;](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
+      + [ begrijp meta-gegevens ](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
       + [Trefwoordtaxonomie inschakelen en afdwingen](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
       + [De metagegevensterminologie controleren](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
       + [Middelen zoeken met behulp van metagegevens en trefwoorden](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)
