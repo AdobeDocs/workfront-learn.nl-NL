@@ -23,7 +23,7 @@ ht-degree: 0%
 Leer hoe een Beheerder een blauwdruk installeert en hoe een gebruiker het aan gebruik zet. In dit voorbeeld installeren we de blauwdruk &quot;Workfront Training for New Users&quot; en gebruiken we de sjablonen en weergaven die deze pagina maakt als checklist voor training om gebruikers in Workfront in te schakelen.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479841/?captions=dut&quality=12&learn=on&enablevpops=0)
 
 ## Toetsen
 
