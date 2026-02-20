@@ -26,7 +26,7 @@ Leer enkele basistips voor navigatie voor wanneer u zich voor het eerst aanmeldt
 ## Vereisten
 
 1. Voor deze oefening is een Workfront-teststation vereist. U kunt om één verzoeken door [&#x200B; deze vorm &#x200B;](https://forms.office.com/r/f1J8HRGrNY) in te vullen. Als u geen toegang hebt tot het formulier, stuurt u uw naam, e-mailadres en bedrijfsnaam naar wfttstdr@adobe.com.
-1. De oefeningen van de fusie veronderstellen u de walkthrough video hebt bekeken die aan de oefening beantwoordt. In dit geval is het [&#x200B; Aanvankelijke analyse van het scenario ontwerp &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en).
+1. De oefeningen van de fusie veronderstellen u de walkthrough video hebt bekeken die aan de oefening beantwoordt. In dit geval is het [&#x200B; Aanvankelijke analyse van het scenario ontwerp &#x200B;](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=nl-NL).
 
 
 ## Overzicht van oefening
