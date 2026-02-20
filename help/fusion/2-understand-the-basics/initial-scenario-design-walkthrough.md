@@ -34,7 +34,7 @@ In deze video leert u hoe u:
 * Gebruik de scenarioontwerper
 * Een basisscenario maken
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3480094/?captions=dut&quality=12&learn=on&enablevpops=1)
 
 **hier is URL in het &quot;Redirect URLs&quot;gebied te kleven wanneer het creëren van een OAuth app integratie in uw instantie van de testaandrijving**
 
