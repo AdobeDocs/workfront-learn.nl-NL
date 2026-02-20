@@ -24,7 +24,7 @@ ht-degree: 8%
 
 Maak een nieuw project in Workfront voor elke rij in het CSV-bestand van de projectlijst.
 
-![ een beeld van het scenario van de Fusie ](assets/understand-the-basics-1.png)
+![&#x200B; een beeld van het scenario van de Fusie &#x200B;](assets/understand-the-basics-1.png)
 
 Workfront raadt u aan om de video met een doorlichting te bekijken voordat u probeert de oefening opnieuw te maken in uw eigen omgeving.
 
@@ -44,4 +44,4 @@ https://app.workfrontfusion.com/oauth/cb/workfront-workfront
 
 ## Meer informatie? We raden het volgende aan:
 
-[ de documentatie van de Fusie van Workfront ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
