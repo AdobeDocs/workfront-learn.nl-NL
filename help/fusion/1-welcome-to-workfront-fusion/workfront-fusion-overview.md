@@ -1,5 +1,5 @@
 ---
-title: Overzicht van Workfront Fusion-training
+title: Workfront Fusion training overview
 description: Meer informatie over het activiteitenboek van Adobe Workfront Fusion en hoe u een Workfront-testaccount kunt krijgen.
 short-description: Elke sectie van Workfront Fusion bevat meerdere tutorials, waarbij elke tutorial begrippen presenteert die u moet kennen voordat u doorgaat naar de volgende tutorial.
 activity: use
@@ -9,57 +9,58 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+last-substantial-update: 2026-03-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 9%
+source-wordcount: '449'
+ht-degree: 8%
 
 ---
 
-# Overzicht van Workfront Fusion-training
+# Workfront Fusion training overview
 
-Elke sectie van de Fusie van Workfront bevat veelvoudige leerprogramma&#39;s, met elke zelfstudie die concepten presenteert u zult moeten begrijpen alvorens aan de volgende leerprogramma&#39;s over te gaan. Een analyse oefening helpt u de meeste concepten beheersen.
+Each Workfront Fusion section contains multiple tutorials, with each tutorial presenting concepts you&#39;ll need to understand before progressing to the next tutorial. A walkthrough exercise helps you master most concepts.
 
-De video&#39;s tonen u hoe te om elke analyse te voltooien oefening, die gewoonlijk in het creëren van een nieuw scenario van de Fusie van Workfront resulteert. Dan kunt u de oefening in uw eigen milieu van de Fusie van Workfront voltooien, toevoegend aan uw eigen inzameling van scenario&#39;s.
+The videos show you how to complete each walkthrough exercise, which usually results in creating a new Workfront Fusion scenario. Then you can complete the exercise in your own Workfront Fusion environment, adding to your own collection of scenarios.
 
-In sommige zelfstudies maakt u een geheel nieuw scenario. In andere zelfstudies begint u met het maken van een kopie van een scenario dat u eerder hebt gemaakt.
+In some tutorials, you&#39;ll create a new scenario from scratch. In other tutorials, you will start by making a copy of a scenario you created previously.
 
 >[!IMPORTANT]
 >
->Ben zeker om elk leerprogramma in opeenvolging te voltooien zodat hebt u de juiste beschikbare scenario&#39;s wanneer u een exemplaar moet maken.
+>Be sure to complete each tutorial in sequence so you have the right scenarios available when you need to make a copy.
 
-## Trainingsbronnen en toegang tot Workfront Fusion
+## Training resources and accessing Workfront Fusion
 
-### Een Workfront-teststation aanvragen
+### Request a Workfront test drive
 
-Als u de oefeningen in de Workfront Fusion-leerpaden wilt voltooien, hebt u een Workfront-teststation nodig. Als u al een testaandrijving hebt, adviseren wij nieuwe voor deze opleiding.
+To complete the exercises in the Workfront Fusion training tutorials, you will need a Workfront enablement environment, also referred to as a &quot;**Workfront Test Drive**&quot; throughout this training. If you already have a test drive, we recommend a new one for this training.
 
-Vraag een testaandrijving door [&#x200B; deze vorm &#x200B;](https://forms.office.com/r/f1J8HRGrNY) te vullen. Als u geen toegang hebt tot het formulier, stuurt u uw naam, e-mailadres en bedrijfsnaam naar wfttstdr@adobe.com.
+Request a test drive by filling out [this form](https://survey.adobe.com/jfe/form/SV_71xcV8UByyVwgBg). When you fill out the form it will ask you to provide your **Adobe Certification profile email**. If you don&#39;t already have one, go to the [Adobe Certification site](https://certification.adobe.com/#) and create a user profile.
 
-### Toegang tot Workfront Fusion for Pracsion
+### Access Workfront Fusion for practice
 
-Workfront biedt geen Workfront Fusion-teststations. Als u de zelfstudies wilt uitvoeren, vraagt u de Workfront Fusion-beheerder van uw organisatie om toegang tot Workfront Fusion.
+Workfront does not offer Workfront Fusion test drives. To practice as you complete the tutorials, request access to Workfront Fusion from your organization&#39;s Workfront Fusion administrator.
 
-### Stapsgewijze instructies voor het voltooien van de doorloopoefeningen
+### Step-by-step instructions on completing the walkthrough exercises
 
-Er zijn geleidelijke instructies bij de voltooiing van de meeste walkthrough oefeningen. U kunt deze in de linkernavigatiebar onmiddellijk na het analyseleerprogramma vinden.
+There are step-by-step instructions on completing most walkthrough exercises. You can find these in the left navigation bar immediately following the walkthrough tutorial.
 
-### Optionele oefeningen
+### Optional practice exercises
 
-Er worden oefeningen en uitdagingen in de praktijk aangeboden na enkele doorlichtingsoefeningen.
+Practice exercises and challenges are provided following some of the walkthrough exercises.
 
-Er zijn verschillende manieren om de oefeningen op te lossen. De bedoeling is om u uit te dagen om een scenario te proberen te verwezenlijken doelstelling zonder het hebben van stappen te volgen of het &quot;juiste antwoord&quot;omdat dit is wat u wanneer het bouwen van een scenario bij uw bedrijf zult moeten doen.
+There are a number of different ways to solve the practice exercises. The intent is to challenge you to try to accomplish a scenario objective without having steps to follow or the &quot;right answer&quot; because this is what you will need to do when building a scenario at your company.
 
-De oefening van de praktijk houdt verband met de doorloopactiviteit.
+The practice exercise is related to the walkthrough activity.
 
-De uitdagingen zijn voor degenen die iets willen proberen dat andere concepten impliceert die zij hebben geleerd.
+The challenges are for those who want to try something that involves other concepts they&#39;ve learned.
 
-### Hoe krijg je hulp?
+### How to get help
 
-De geleidelijke instructies worden verstrekt om u door de walkthrough oefeningen te helpen krijgen.
+The step-by-step instructions are provided to help you get through the walkthrough exercises.
 
-[&#x200B; de documentatie van de Fusie van Workfront &#x200B;](https://experienceleague.adobe.com/nl/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion documentation](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-Er is ook de gemeenschap van de Fusie 2.0 van de a [&#x200B; Workfront &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=nl) waar u vragen kunt posten.
+There is also a [Workfront Fusion 2.0 community](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) where you can post questions.

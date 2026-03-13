@@ -1,5 +1,5 @@
 ---
-title: Een algemeen goedkeuringsproces en een goedkeuringsproces voor één gebruik maken
+title: Goedkeuringsprocessen maken en beheren
 description: Verbeteren van goedkeuringswerkstromen door zowel globale als enig-gebruiks goedkeuringsprocessen voor taken, projecten, of kwesties, het uitvoeren van multi-level gefaseerde goedkeuringen, en het bevorderen van efficiency door herbruikbaarheid in projectmalplaatjes te gebruiken.
 activity: use
 feature: Approvals
@@ -13,20 +13,20 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
 
-# Een algemeen goedkeuringsproces en een goedkeuringsproces voor één gebruik maken
+# Goedkeuringsprocessen maken en beheren
 
 In de video wordt uitgelegd hoe u goedkeuringsprocessen voor projecten, taken of problemen kunt maken en beheren, waarbij onderscheid wordt gemaakt tussen algemene goedkeuringsprocessen en goedkeuringsprocessen voor één gebruik.
 De video demonstreert het maken van goedkeuringsprocessen, het instellen van fiatteurs, het configureren van statussen en het gebruik van fasen voor goedkeuringen op meerdere niveaus.
 &#x200B;Het benadrukt de flexibiliteit van zowel globale als enig-gebruiksprocessen om taakgoedkeuringen effectief te beheren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434693/?quality=12&learn=on&enablevpops=1&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 ## Toetsen
 
