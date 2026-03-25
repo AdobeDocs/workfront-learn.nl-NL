@@ -11,9 +11,9 @@ last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-13492
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 1f9d3155-9aa6-422f-a8ac-0f421199df65
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -32,6 +32,6 @@ Adobe Workfront is niet bedoeld als vervanging van software voor financiële tra
 >* Standaardlicentietype met bewerkingsrechten voor financiële gegevens
 
 
-* [&#x200B; Update en herzie financiert &#x200B;](update-and-review-finances.md) - leer hoe te om de financiële informatie te herzien verbonden aan een project.
-* [&#x200B; vind financiële informatie &#x200B;](find-financial-information.md) - leer hoe te om financiële informatie over een project te vinden en te begrijpen waar het uit kwam.
-* [&#x200B; Begrijp veelvoudige het factureren tarieven &#x200B;](multiple-billing-rates.md) - leer hoe te om systeem het facturerings tarieven binnen een specifiek project met voeten te treden.
+* [ Update en herzie financiert ](update-and-review-finances.md) - leer hoe te om de financiële informatie te herzien verbonden aan een project.
+* [ vind financiële informatie ](find-financial-information.md) - leer hoe te om financiële informatie over een project te vinden en te begrijpen waar het uit kwam.
+* [ Begrijp veelvoudige het factureren tarieven ](multiple-billing-rates.md) - leer hoe te om systeem het facturerings tarieven binnen een specifiek project met voeten te treden.

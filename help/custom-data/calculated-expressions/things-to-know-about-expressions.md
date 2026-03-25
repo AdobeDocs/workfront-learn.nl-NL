@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: to-know-expressions.png
 exl-id: 512a3071-f47f-4fd4-bf5f-9b18bef8ba59
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '959'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Hier volgt een lijst met concepten die u goed kunt kennen wanneer u werkt met aa
 
 Als het gaat om expressienamen, is het belangrijk om te trainen. Bij het schrijven van een expressienaam kunt u hoofdletters, kleine letters of een combinatie van beide gebruiken.
 
-![&#x200B; het bericht van de Fout zonder kapitalisatie in uitdrukkingsnaam &#x200B;](assets/T2K01.png)
+![ het bericht van de Fout zonder kapitalisatie in uitdrukkingsnaam ](assets/T2K01.png)
 
 De expressie moet echter als hoofdletters worden geschreven, anders herkent het systeem de expressie en slaat het veld op.
 
@@ -40,23 +40,23 @@ De aanbevolen manier om expressies te schrijven is met weinig tot geen spatiëri
 
 * IF (ISBLANK ({description}), &quot;Geen Beschrijving&quot;, &quot;heeft Beschrijving&quot;)
 
-![&#x200B; Uitdrukkingen zonder het uit elkaar plaatsen tussen gebieden &#x200B;](assets/T2K02.png)
+![ Uitdrukkingen zonder het uit elkaar plaatsen tussen gebieden ](assets/T2K02.png)
 
 Als u echter met spatiëring kunt zien wat er gebeurt, kunt u wat afstand aan de expressies toevoegen. De extra spaties mogen niet verhinderen dat de expressie een waarde in [!DNL Workfront] verzamelt of berekent.
 
 * IF (ISBLANK ({description}), &quot;No Description&quot;, &quot;Has Description&quot;)
 
-![&#x200B; Uitdrukkingen met het uit elkaar plaatsen tussen gebieden &#x200B;](assets/T2K03.png)
+![ Uitdrukkingen met het uit elkaar plaatsen tussen gebieden ](assets/T2K03.png)
 
 De enige dingen die geen spaties tussen hen kunnen hebben zijn de gebieden en de krullende steunen. Anders ontvangt u een foutbericht en kunt u het veld of het aangepaste formulier niet opslaan.
 
-![&#x200B; Fout met het uit elkaar plaatsen tussen gebiedsnaam en krullende steun &#x200B;](assets/T2K04.png)
+![ Fout met het uit elkaar plaatsen tussen gebiedsnaam en krullende steun ](assets/T2K04.png)
 
 ## Aanhalingstekens moeten recht zijn
 
 Wanneer u aanhalingstekens gebruikt in een expressie, moet u ervoor zorgen dat de aanhalingstekens recht (&quot;) zijn. Als de aanhalingstekens gebogen zijn (&quot;), blijft het [!DNL Workfront] -systeem het bericht &#39;Aangepaste uitdrukking ongeldig&#39; weergeven.
 
-![&#x200B; Fout met gebogen aanhalingstekens &#x200B;](assets/T2K05.png)
+![ Fout met gebogen aanhalingstekens ](assets/T2K05.png)
 
 ## Berekeningen worden bijgewerkt bij het opslaan en bewerken van formulieren
 
@@ -83,7 +83,7 @@ Een veld bijwerken met de optie Expressies opnieuw berekenen:
 * Klik op het menu Meer.
 * Selecteer Expressies opnieuw berekenen in de lijst.
 
-![&#x200B; herberekenen uitdrukkingsoptie in voorwerp &#x200B;](assets/T2K06.png)
+![ herberekenen uitdrukkingsoptie in voorwerp ](assets/T2K06.png)
 
 U kunt ook meerdere expressies tegelijkertijd opnieuw berekenen met de functie &quot;bulkbewerking&quot; in een lijst of rapport. Stel dat u een rapport hebt gemaakt met een lijst met problemen in een kolom met de berekening Openen van dagen. Als u alle problemen in één keer opnieuw wilt berekenen:
 
@@ -93,7 +93,7 @@ U kunt ook meerdere expressies tegelijkertijd opnieuw berekenen met de functie &
 * Schakel het vak Aangepaste expressies opnieuw berekenen onder aan de sectie Aangepaste Forms in.
 * Klik op Wijzigingen opslaan.
 
-![&#x200B; herberekenen uitdrukkingsoptie voor veelvoudige voorwerpen &#x200B;](assets/T2K07.png)
+![ herberekenen uitdrukkingsoptie voor veelvoudige voorwerpen ](assets/T2K07.png)
 
 Het scherm vernieuwt om bijgewerkte informatie in het berekende gebied te tonen.
 
@@ -117,8 +117,10 @@ Je wilt hetzelfde doen voor een herhaling. U kunt dezelfde expressie gebruiken, 
 
 Afhankelijk van de behoefte, kunnen de berekende gebieden in douaneformulieren vrij eenvoudig of zeer complex zijn. Expressies kunnen andere expressies en waarden insluiten of nesten om het detailniveau te bieden dat nodig is om een beter beeld te krijgen van wat er gebeurt met het werk dat binnen uw organisatie wordt uitgevoerd.
 
-<!--Depending on the need, calculated fields in custom forms can be quite simple or very complex. Expressions can embed, or nest, other expressions and values to provide the level of detail needed to get a better picture of what is going on with the work being done at your organization. 
+<!--
+Depending on the need, calculated fields in custom forms can be quite simple or very complex. Expressions can embed, or nest, other expressions and values to provide the level of detail needed to get a better picture of what is going on with the work being done at your organization. 
 
 Most of the examples and exercises in this course have been relatively simple to provide a base understanding of the expressions most commonly used and how to build those expressions in a custom calculated field. 
 
-Now you're ready to start building your own calculated custom fields.-->
+Now you're ready to start building your own calculated custom fields.
+-->

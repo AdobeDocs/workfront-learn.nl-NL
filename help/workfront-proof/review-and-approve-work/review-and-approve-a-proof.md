@@ -11,7 +11,7 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
 workflow-type: tm+mt
 source-wordcount: '701'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Zodra u weet wat wordt verwacht, kunt u beginnen met het herzien van een proef.
 
 Als een element gereed is voor revisie en goedkeuring, ontvangt u een e-mailbericht.
 
-![&#x200B; een beeld van een nieuwe proefe-mail die om de overzicht en goedkeuring van twee proefdrukken in [!DNL &#x200B; Workfront] verzoekt.](assets/new-proof-emails.png)
+![ een beeld van een nieuwe proefe-mail die om de overzicht en goedkeuring van twee proefdrukken in [!DNL  Workfront] verzoekt.](assets/new-proof-emails.png)
 
 Deze proefkoppeling is uniek voor u. Als u de koppeling deelt met iemand anders, worden eventuele opmerkingen en markeringen die deze persoon heeft, van uw naam voorzien.
 
@@ -49,7 +49,7 @@ Als u klaar bent om de revisie te starten, hoeft u alleen maar op de blauwe knop
 
 Als u in [!DNL Workfront] werkt en u bent gevraagd een proefdruk goed te keuren, vindt u een toewijzing in de [!UICONTROL My Approvals] widget van [!DNL Workfront] [!UICONTROL Home] .
 
-![&#x200B; een beeld van [!UICONTROL My Approvals] widget in [!DNL Workfront] [!UICONTROL Home].](assets/open-proof-from-home.png)
+![ een beeld van [!UICONTROL My Approvals] widget in [!DNL Workfront] [!UICONTROL Home].](assets/open-proof-from-home.png)
 
 Het is belangrijk om op te merken dat de proefdrukken in [!DNL Workfront] [!UICONTROL Home] slechts verschijnen als u wordt toegewezen om het goed te keuren. Als u alleen de proefdruk wilt controleren, wordt deze niet weergegeven in [!DNL Workfront] [!UICONTROL Home] .
 
@@ -63,7 +63,7 @@ U kunt ook proefdrukken vinden om op een [!DNL Workfront] dashboard te herzien d
 
 Als u normaal met projecten, taken of problemen werkt in [!DNL Workfront] , opent u de proefdruk liever rechtstreeks vanuit de sectie [!DNL Documents] van dat item.
 
-![&#x200B; een beeld van de [!UICONTROL Documents] sectie die in een [!DNL &#x200B; Workfront] taak wordt gevonden met de [!UICONTROL Open Proof] benadrukte verbinding.](assets/open-proof-from-documents.png)
+![ een beeld van de [!UICONTROL Documents] sectie die in een [!DNL  Workfront] taak wordt gevonden met de [!UICONTROL Open Proof] benadrukte verbinding.](assets/open-proof-from-documents.png)
 
 1. Klik op de naam van het project, de taak of de uitgave.
 2. Klik op [!UICONTROL Documents] in het menu van het linkerdeelvenster van de pagina van het item.
@@ -74,11 +74,11 @@ Als u normaal met projecten, taken of problemen werkt in [!DNL Workfront] , open
 
 Nadat u een bewijs hebt geopend zult u a **besluit van het Merk** knoop bij de bovenkant zien, naast **toevoegen commentaar**. Als u geen fiatteur bent voor deze proef zult u deze knoop niet zien.
 
-![&#x200B; een beeld van de eerste de besluitvormingsknoop van het Merk.](assets/make-decision-1.png)
+![ een beeld van de eerste de besluitvormingsknoop van het Merk.](assets/make-decision-1.png)
 
 Wanneer u bereid bent om een besluit te nemen klik de **besluit** knoop van het Merk om uw besluitvormingsopties te zien. Selecteer uw keus, dan klik de andere **besluit** hieronder knoop van het Merk.
 
-![&#x200B; een beeld van de tweede de besluitvormingsknoop van het Merk.](assets/make-decision-2.png)
+![ een beeld van de tweede de besluitvormingsknoop van het Merk.](assets/make-decision-2.png)
 
 ## Een bewijs controleren en goedkeuren
 
@@ -104,4 +104,5 @@ In deze video leert u hoe u:
 <!--
 #### Guides
 * Reviewing proofs in [!DNL Workfront]
-* -->
+* 
+-->

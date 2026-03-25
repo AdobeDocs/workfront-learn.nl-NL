@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: Werk beheren - aan de slag
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 + [Werk beheren - aan de slag](overview.md)
 + Werk beheren - aan de slag {#manage-work-getting-started}
    + Een project maken {#create-a-project}
-      + [Basisproject maken](understand-basic-project-creation.md)
+      + [Inzicht in maken van basisprojecten](understand-basic-project-creation.md)
       + [Een uitgave/verzoek omzetten in een project](create-a-project-from-a-request.md)
       + [Leer vier manieren om een project te maken](understand-other-ways-to-create-projects.md)
       + [De projectdetails invullen](fill-in-the-project-details.md)
@@ -35,7 +35,7 @@ ht-degree: 0%
       + [Leren om taken uit te voeren](learn-to-sequence-tasks.md)
       + [Begrijp geplande uren](understand-planned-hours.md)
       + [Projecttijdlijnen begrijpen](understand-project-timelines.md)
-      + [&#x200B; begrijp datatypen en vooruitgangsstatus &#x200B;](understand-task-dates-and-progress-status.md)
+      + [ begrijp datatypen en vooruitgangsstatus ](understand-task-dates-and-progress-status.md)
       + [Begrijpen [!UICONTROL Work Effort]](understand-work-effort.md)
       + [Een project live laten gaan](take-a-project-live.md)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
       + [Een project delen](share-a-project.md)
       + [Begrijp het projectteam](understand-the-project-team.md)
       + [Projectcommunicatie begrijpen](understand-project-communication.md)
-      + [&#x200B; het projectinformatie van de Mening &#x200B;](view-project-information.md)
+      + [ het projectinformatie van de Mening ](view-project-information.md)
       + [De voortgang van het project bijhouden](track-overall-project-progress.md)
       + [Voortgang van het werk bijhouden met projectmetriek](track-work-progress-with-project-metrics.md)
       + [Voortgang bijhouden vanaf de projecttijdlijn](track-work-progress-from-the-project-timeline.md)
