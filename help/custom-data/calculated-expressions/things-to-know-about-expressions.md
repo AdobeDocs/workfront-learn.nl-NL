@@ -24,7 +24,7 @@ Hier volgt een lijst met concepten die u goed kunt kennen wanneer u werkt met aa
 
 Als het gaat om expressienamen, is het belangrijk om te trainen. Bij het schrijven van een expressienaam kunt u hoofdletters, kleine letters of een combinatie van beide gebruiken.
 
-![ het bericht van de Fout zonder kapitalisatie in uitdrukkingsnaam ](assets/T2K01.png)
+![&#x200B; het bericht van de Fout zonder kapitalisatie in uitdrukkingsnaam &#x200B;](assets/T2K01.png)
 
 De expressie moet echter als hoofdletters worden geschreven, anders herkent het systeem de expressie en slaat het veld op.
 
@@ -40,23 +40,23 @@ De aanbevolen manier om expressies te schrijven is met weinig tot geen spatiëri
 
 * IF (ISBLANK ({description}), &quot;Geen Beschrijving&quot;, &quot;heeft Beschrijving&quot;)
 
-![ Uitdrukkingen zonder het uit elkaar plaatsen tussen gebieden ](assets/T2K02.png)
+![&#x200B; Uitdrukkingen zonder het uit elkaar plaatsen tussen gebieden &#x200B;](assets/T2K02.png)
 
 Als u echter met spatiëring kunt zien wat er gebeurt, kunt u wat afstand aan de expressies toevoegen. De extra spaties mogen niet verhinderen dat de expressie een waarde in [!DNL Workfront] verzamelt of berekent.
 
 * IF (ISBLANK ({description}), &quot;No Description&quot;, &quot;Has Description&quot;)
 
-![ Uitdrukkingen met het uit elkaar plaatsen tussen gebieden ](assets/T2K03.png)
+![&#x200B; Uitdrukkingen met het uit elkaar plaatsen tussen gebieden &#x200B;](assets/T2K03.png)
 
 De enige dingen die geen spaties tussen hen kunnen hebben zijn de gebieden en de krullende steunen. Anders ontvangt u een foutbericht en kunt u het veld of het aangepaste formulier niet opslaan.
 
-![ Fout met het uit elkaar plaatsen tussen gebiedsnaam en krullende steun ](assets/T2K04.png)
+![&#x200B; Fout met het uit elkaar plaatsen tussen gebiedsnaam en krullende steun &#x200B;](assets/T2K04.png)
 
 ## Aanhalingstekens moeten recht zijn
 
 Wanneer u aanhalingstekens gebruikt in een expressie, moet u ervoor zorgen dat de aanhalingstekens recht (&quot;) zijn. Als de aanhalingstekens gebogen zijn (&quot;), blijft het [!DNL Workfront] -systeem het bericht &#39;Aangepaste uitdrukking ongeldig&#39; weergeven.
 
-![ Fout met gebogen aanhalingstekens ](assets/T2K05.png)
+![&#x200B; Fout met gebogen aanhalingstekens &#x200B;](assets/T2K05.png)
 
 ## Berekeningen worden bijgewerkt bij het opslaan en bewerken van formulieren
 
@@ -83,7 +83,7 @@ Een veld bijwerken met de optie Expressies opnieuw berekenen:
 * Klik op het menu Meer.
 * Selecteer Expressies opnieuw berekenen in de lijst.
 
-![ herberekenen uitdrukkingsoptie in voorwerp ](assets/T2K06.png)
+![&#x200B; herberekenen uitdrukkingsoptie in voorwerp &#x200B;](assets/T2K06.png)
 
 U kunt ook meerdere expressies tegelijkertijd opnieuw berekenen met de functie &quot;bulkbewerking&quot; in een lijst of rapport. Stel dat u een rapport hebt gemaakt met een lijst met problemen in een kolom met de berekening Openen van dagen. Als u alle problemen in één keer opnieuw wilt berekenen:
 
@@ -93,7 +93,7 @@ U kunt ook meerdere expressies tegelijkertijd opnieuw berekenen met de functie &
 * Schakel het vak Aangepaste expressies opnieuw berekenen onder aan de sectie Aangepaste Forms in.
 * Klik op Wijzigingen opslaan.
 
-![ herberekenen uitdrukkingsoptie voor veelvoudige voorwerpen ](assets/T2K07.png)
+![&#x200B; herberekenen uitdrukkingsoptie voor veelvoudige voorwerpen &#x200B;](assets/T2K07.png)
 
 Het scherm vernieuwt om bijgewerkte informatie in het berekende gebied te tonen.
 

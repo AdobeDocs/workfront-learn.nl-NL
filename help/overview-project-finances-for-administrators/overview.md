@@ -30,8 +30,8 @@ Leer hoe u voor het hele systeem financiële instellingen kunt instellen voor co
 >* Basiskennis van het gebruik van Workfront
 >* Standaardtype licentie ingesteld als systeem- of groepsbeheerder
 
-* [ Begrijp prestatiesmetriek ](understand-performance-metrics.md) - leer over de twee prestatiesmetriek: De Methode van de Index van prestaties (PIM) en Schatting bij Voltooiing (EAC).
-* [ de opbrengsten van de opstellingstaak &amp; kostengebreken ](set-up-task-revenue-and-cost-defaults.md) - Leer hoe het opbrengsttype en het kostentype worden gebruikt om de geplande en daadwerkelijke financiële informatie voor een taak te berekenen.
-* [ de Wisselkoersen van de Opstelling ](set-up-exchange-rates.md) - Leer hoe de wisselkoersen op projecten en rapporten kunnen worden gebruikt om financiële informatie in verschillende valuta&#39;s van rond de wereld te weerspiegelen.
-* [ de uitgaventypes van de Opstelling ](set-up-expense-types.md) - leer hoe te om pre-gebouwde uitgaventypes te gebruiken en nieuwe degenen te creëren.
-* [ Begrijp financiële toegang ](understand-financial-access.md) - leer hoe de financiële toegangsrechten beheerders toestaan om te controleren wie de financiële informatie kan zien en uitgeven die in Workfront wordt gevolgd.
+* [&#x200B; Begrijp prestatiesmetriek &#x200B;](understand-performance-metrics.md) - leer over de twee prestatiesmetriek: De Methode van de Index van prestaties (PIM) en Schatting bij Voltooiing (EAC).
+* [&#x200B; de opbrengsten van de opstellingstaak &amp; kostengebreken &#x200B;](set-up-task-revenue-and-cost-defaults.md) - Leer hoe het opbrengsttype en het kostentype worden gebruikt om de geplande en daadwerkelijke financiële informatie voor een taak te berekenen.
+* [&#x200B; de Wisselkoersen van de Opstelling &#x200B;](set-up-exchange-rates.md) - Leer hoe de wisselkoersen op projecten en rapporten kunnen worden gebruikt om financiële informatie in verschillende valuta&#39;s van rond de wereld te weerspiegelen.
+* [&#x200B; de uitgaventypes van de Opstelling &#x200B;](set-up-expense-types.md) - leer hoe te om pre-gebouwde uitgaventypes te gebruiken en nieuwe degenen te creëren.
+* [&#x200B; Begrijp financiële toegang &#x200B;](understand-financial-access.md) - leer hoe de financiële toegangsrechten beheerders toestaan om te controleren wie de financiële informatie kan zien en uitgeven die in Workfront wordt gevolgd.
